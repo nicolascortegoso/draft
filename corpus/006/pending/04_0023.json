@@ -1,0 +1,44 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 246,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица туран",
+      "section": 23,
+      "notes": "Слово туран является деепричастием на -ан, от глагола тур стоять. Оно часто употребляется как частица, выражающая выделение, подчеркивание иногда с оттенком противопоставления.",
+      "sah": "Онуоха баара оҕолорум туран Уолуйбуттуу ойдулар, Ыксаабыттыы сырыстылар.",
+      "ru": "А тогда дети-то мои в растерянности поскакали, в спешке побежали.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Онуоха", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 2, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 2, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "оҕолорум", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+ADVZ#7", "+POSS.1SG"]},
+         {"pos": 3, "text": "оҕолорум", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+PL", "+POSS.1SG"]},
+         {"pos": 4, "text": "туран", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "Уолуйбуттуу", "type": "title", "fst": "fst", "root": "уолуй", "affixes": ["+V", "+PART_PAST", "+ADVZ#3"]},
+         {"pos": 5, "text": "Уолуйбуттуу", "type": "title", "fst": "fst", "root": "уол", "affixes": ["+N", "+VRBLZ#2", "+PART_PAST", "+ADVZ#3"]},
+         {"pos": 6, "text": "ойдулар", "type": "lowercase", "fst": "fst", "root": "ой", "affixes": ["+V", "+PST.3PL"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "Ыксаабыттыы", "type": "title", "fst": "fst", "root": "ыксаа", "affixes": ["+V", "+PART_PAST", "+ADVZ#3"]},
+         {"pos": 9, "text": "сырыстылар", "type": "lowercase", "fst": "fst", "root": "сырыы", "affixes": ["+N", "+VRBLZ#2", "+RECP", "+PST.3PL"]},
+         {"pos": 9, "text": "сырыстылар", "type": "lowercase", "fst": "fst", "root": "сырыс", "affixes": ["+V", "+PST.3PL"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 246,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица туран",
+      "section": 23,
+      "notes": "Частица туран часто выделяет значение модальных и союзных слов.",
+      "sah": "бастатан туран",
+      "ru": "ҕҥ— в первую же очередь",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "бастатан", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+VRBLZ#1", "+CAUS", "+CONV#1"]},
+         {"pos": 2, "text": "туран", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+CONV#1"]}
+      ]
+   }
+]

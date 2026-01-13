@@ -1,0 +1,63 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 210,
+      "chapter": "Местоимения",
+      "topic": "Обобщительные-отрицательные местоимения",
+      "section": 362,
+      "notes": "При субстантивации местоимения этого типа склоняются, в предложении выступают в качестве подлежащего и дополнения, употребляются преимущественно во множественном числе.",
+      "sah": "Ини ити ааттарыттан хайаларын да ордороро, сирэрэ биллибэт.",
+      "ru": "Неизвестно, какое из этих имен нравится, какое не нравится.",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Ини", "type": "title", "fst": "fst", "root": "ини", "affixes": ["+N"]},
+         {"pos": 1, "text": "Ини", "type": "title", "fst": "fst", "root": "ини", "affixes": ["+Part"]},
+         {"pos": 2, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "ааттарыттан", "type": "lowercase", "fst": "fst", "root": "аат", "affixes": ["+N", "+ADVZ#7", "+ABL"]},
+         {"pos": 3, "text": "ааттарыттан", "type": "lowercase", "fst": "fst", "root": "аат", "affixes": ["+N", "+POSS.3PL", "+ABL"]},
+         {"pos": 3, "text": "ааттарыттан", "type": "lowercase", "fst": "fst", "root": "аат", "affixes": ["+N", "+PL", "+POSS.3SG", "+ABL"]},
+         {"pos": 3, "text": "ааттарыттан", "type": "lowercase", "fst": "fst", "root": "ыа", "affixes": ["+V", "+CONV#6", "+PL", "+POSS.3SG", "+ABL"]},
+         {"pos": 4, "text": "хайаларын", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+POSS.3PL", "+ACC"]},
+         {"pos": 4, "text": "хайаларын", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "хайаларын", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+POSS.3PL", "+ACC"]},
+         {"pos": 4, "text": "хайаларын", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "хайаларын", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 5, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 5, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 6, "text": "ордороро", "type": "lowercase", "fst": "fst", "root": "орт", "affixes": ["+V", "+CSTV", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 6, "text": "ордороро", "type": "lowercase", "fst": "fst", "root": "ордор", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "сирэрэ", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 9, "text": "биллибэт", "type": "lowercase", "fst": "fst", "root": "билин", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 210,
+      "chapter": "Местоимения",
+      "topic": "Обобщительные-отрицательные местоимения",
+      "section": 362,
+      "notes": "При субстантивации местоимения этого типа склоняются, в предложении выступают в качестве подлежащего и дополнения, употребляются преимущественно во множественном числе.",
+      "sah": "Өстөөх буолуо диэн өй хайаларыгар да киирбэккэ хаалла.",
+      "ru": "Никому из них в голову не пришла мысль, что он, может быть, враг.",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Өстөөх", "type": "title", "fst": "fst", "root": "өс", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 2, "text": "буолуо", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 4, "text": "өй", "type": "lowercase", "fst": "fst", "root": "өй", "affixes": ["+N"]},
+         {"pos": 5, "text": "хайаларыгар", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+POSS.3PL", "+DAT"]},
+         {"pos": 5, "text": "хайаларыгар", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+PL", "+POSS.3SG", "+DAT"]},
+         {"pos": 5, "text": "хайаларыгар", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+POSS.3PL", "+DAT"]},
+         {"pos": 5, "text": "хайаларыгар", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+PL", "+POSS.3SG", "+DAT"]},
+         {"pos": 5, "text": "хайаларыгар", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron", "+PL", "+POSS.3SG", "+DAT"]},
+         {"pos": 6, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 6, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 7, "text": "киирбэккэ", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+NEG", "+CONV#4"]},
+         {"pos": 7, "text": "киирбэккэ", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+NEG", "+PART_PRES", "+DAT"]},
+         {"pos": 8, "text": "хаалла", "type": "lowercase", "fst": "fst", "root": "хаал", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

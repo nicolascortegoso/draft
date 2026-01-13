@@ -1,0 +1,56 @@
+[
+   {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 39,
+      "chapter": "Совместно-взаимные глаголы",
+      "topic": "Малопродуктивные и непродуктивные значения аффикса -с (-ыс)",
+      "section": 61,
+      "notes": "Глаголы совместно-взаимного действия нередко могут одновре менно выражать также некоторую разновидность возвратного значения, близкую к значению взаимности действия. Например, глагол тутус-, выражающий в основном значение совместности (помогать держать, держать вместе) и взаимности (держать друг друга), может означать также 'держаться рукамию'.",
+      "sah": "Ытыы-ытыы ыҥыырын сирэйиттэн тутуһан истэ.",
+      "ru": "Плача, он ехал, держась за переднюю луку седла.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Ытыы", "type": "title", "fst": "ymv", "root": "ытаа", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 1, "text": "Ытыы", "type": "title", "fst": "ymv", "root": "ыт", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2"]},
+         {"pos": 1, "text": "Ытыы", "type": "title", "fst": "ymv", "root": "ыт", "affixes": ["+N", "+VRBLZ#3", "+CONV#2"]},
+         {"pos": 1, "text": "Ытыы", "type": "title", "fst": "ymv", "root": "ыт", "affixes": ["+V", "+NMLZ#2"]},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 3, "text": "ытыы", "type": "lowercase", "fst": "ymv", "root": "ытаа", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "ытыы", "type": "lowercase", "fst": "ymv", "root": "ыт", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2"]},
+         {"pos": 3, "text": "ытыы", "type": "lowercase", "fst": "ymv", "root": "ыт", "affixes": ["+N", "+VRBLZ#3", "+CONV#2"]},
+         {"pos": 3, "text": "ытыы", "type": "lowercase", "fst": "ymv", "root": "ыт", "affixes": ["+V", "+NMLZ#2"]},
+         {"pos": 4, "text": "ыҥыырын", "type": "lowercase", "fst": "ymv", "root": "ыҥыыр", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 5, "text": "сирэйиттэн", "type": "lowercase", "fst": "ymv", "root": "сирэй", "affixes": ["+N", "+POSS.3SG", "+ABL"]},
+         {"pos": 6, "text": "тутуһан", "type": "lowercase", "fst": "yma", "root": "тутуй", "affixes": ["+V", "+RECP", "+CONV#1"]},
+         {"pos": 7, "text": "истэ", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+N", "+PRTV"]},
+         {"pos": 7, "text": "истэ", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 7, "text": "истэ", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+REFL", "+CONV#2"]},
+         {"pos": 7, "text": "истэ", "type": "lowercase", "fst": "ymv", "root": "иһит", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 40,
+      "chapter": "Совместно-взаимные глаголы",
+      "topic": "Малопродуктивные и непродуктивные значения аффикса -с (-ыс)",
+      "section": 61,
+      "notes": "Подобное же явление наблюдается в отношении многих других глаголов совместно-взаимного действия: (кыдыс-, кыдыйыс- 'сразиться', от кыдый 'резать, истреблять').",
+      "sah": "Доруобунан куобахтары кытта кыдыйсар санаалааҕа.",
+      "ru": "Была у него мысль сразиться с зайцами из дробовика.",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "Доруобунан", "type": "title", "fst": "ymv", "root": "доруоп", "affixes": ["+N", "+INST"]},
+         {"pos": 1, "text": "Доруобунан", "type": "title", "fst": "ymv", "root": "доруоп", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 2, "text": "куобахтары", "type": "lowercase", "fst": "ymv", "root": "куобах", "affixes": ["+N", "+ADVZ#7"]},
+         {"pos": 2, "text": "куобахтары", "type": "lowercase", "fst": "ymv", "root": "куобах", "affixes": ["+N", "+PL", "+ACC"]},
+         {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "кыдыйсар", "type": "lowercase", "fst": "yma", "root": "кыдыы", "affixes": ["+N", "+VRBLZ#2", "+SUDD#2", "+PART_PRES"]},
+         {"pos": 4, "text": "кыдыйсар", "type": "lowercase", "fst": "yma", "root": "кыдыйса", "affixes": ["+N", "+VRBLZ#4"]},
+         {"pos": 4, "text": "кыдыйсар", "type": "lowercase", "fst": "yma", "root": "кыды", "affixes": ["+Adv", "+VRBLZ#2", "+SUDD#2", "+PART_PRES"]},
+         {"pos": 4, "text": "кыдыйсар", "type": "lowercase", "fst": "yma", "root": "кыды", "affixes": ["+N", "+VRBLZ#2", "+SUDD#2", "+PART_PRES"]},
+         {"pos": 5, "text": "санаалааҕа", "type": "lowercase", "fst": "ymv", "root": "санаа", "affixes": ["+N", "+ADJZ#1", "+POSS.3SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,57 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 217,
+      "chapter": "Глава IV. Долженствовательное наклонение",
+      "topic": "2. Будущее время долженствовательного наклонения",
+      "section": 11,
+      "notes": "Форма будущего времени долженствовательного наклонения на -ыахтаах от глагола буол- (т. е. буолуох- таах) ныне в языке употребляется в качестве модально-вводного слова со значением надо полагать, наверное, видимо, должно быть.",
+      "sah": "Кинилэргэ Адычча уола сылдьыһар буолуохтаах.",
+      "ru": "У них, наверное, бывает сын Адыччи.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кинилэргэ", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+PL", "+DAT"]},
+         {"pos": 2, "text": "Адычча", "type": "title", "fst": "fst"},
+         {"pos": 3, "text": "уола", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "уола", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "сылдьыһар", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+RECP", "+PART_PRES"]},
+         {"pos": 5, "text": "буолуохтаах", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+DEB"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 217,
+      "chapter": "Глава IV. Долженствовательное наклонение",
+      "topic": "2. Будущее время долженствовательного наклонения",
+      "section": 11,
+      "notes": "Форма будущего времени долженствовательного наклонения на -ыахтаах от глагола буол- (т. е. буолуох- таах) ныне в языке употребляется в качестве модально-вводного слова со значением надо полагать, наверное, видимо, должно быть.",
+      "sah": "Толкуйдаан-дуумайдаан көрдөхпүнэ, эн иккис өлөн тиллиигин тилиннэҕин буолуохтаах.",
+      "ru": "Как я понимаю, тебя, видимо, следует считать вторично воскресшим из мертвых.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Толкуйдаан", "type": "title", "fst": "fst", "root": "толкуй", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 3, "text": "дуумайдаан", "type": "lowercase", "fst": "fst", "root": "дуумай", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 4, "text": "көрдөхпүнэ", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+ADJZ#16", "+POSS.1SG", "+PRTV"]},
+         {"pos": 4, "text": "көрдөхпүнэ", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+NMLZ#6", "+POSS.1SG", "+PRTV"]},
+         {"pos": 4, "text": "көрдөхпүнэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+CONV_COND#2", "+POSS.1SG", "+PRTV"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 6, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PASS"]},
+         {"pos": 6, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+REFL"]},
+         {"pos": 7, "text": "иккис", "type": "lowercase", "fst": "fst", "root": "икки", "affixes": ["+Num", "+ORD"]},
+         {"pos": 8, "text": "өлөн", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+N", "+VRBLZ#3", "+PASS"]},
+         {"pos": 8, "text": "өлөн", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 8, "text": "өлөн", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": "тиллиигин", "type": "lowercase", "fst": "fst", "root": "тилин", "affixes": ["+V", "+ADJZ#13", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "тиллиигин", "type": "lowercase", "fst": "fst", "root": "тилин", "affixes": ["+V", "+NMLZ#2", "+POSS.2SG", "+ACC"]},
+         {"pos": 9, "text": "тиллиигин", "type": "lowercase", "fst": "fst", "root": "тилин", "affixes": ["+V", "+NMLZ#2", "+2SG"]},
+         {"pos": 10, "text": "тилиннэҕин", "type": "lowercase", "fst": "fst", "root": "тилин", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG", "+ACC"]},
+         {"pos": 10, "text": "тилиннэҕин", "type": "lowercase", "fst": "fst", "root": "тилий", "affixes": ["+V", "+REFL", "+CONV_COND#2", "+POSS.3SG", "+ACC"]},
+         {"pos": 11, "text": "буолуохтаах", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+DEB"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

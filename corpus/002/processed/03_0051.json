@@ -1,0 +1,76 @@
+[
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 115,
+        "chapter": "Глава III. Прошедшее время",
+        "topic": "6. Прошедшее незаконченное время (имперфект)",
+        "section": 51,
+        "notes": "Прошедшее незаконченное время.",
+        "sah": "Миэхэ биэс миинэр табаны биэрэн көрдүүллэрэ, мин уон да иһин биэрбэтим.",
+        "ru": "Мне за нее давали пять ездовых оленей, а я за девять не давал.",
+        "id": 1,
+        "parses": [
+           {"pos": 1, "text": "Миэхэ", "type": "title", "fst": "fst", "root": "мин", "affixes": ["+Pron", "+DAT"]},
+           {"pos": 2, "text": "биэс", "type": "lowercase", "fst": "fst", "root": "биэс", "affixes": ["+Num"]},
+           {"pos": 3, "text": "миинэр", "type": "lowercase", "fst": "fst", "root": "миин", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 4, "text": "табаны", "type": "lowercase", "fst": "fst", "root": "таба", "affixes": ["+N", "+ACC"]},
+           {"pos": 5, "text": "биэрэн", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 6, "text": "көрдүүллэрэ", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+PART_PRES", "+PL", "+POSS.3SG"]},
+           {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 8, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+           {"pos": 9, "text": "уон", "type": "lowercase", "fst": "fst", "root": "уон", "affixes": ["+Num"]},
+           {"pos": 10, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 11, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "иһин", "affixes": ["+POST"]},
+           {"pos": 12, "text": "биэрбэтим", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.1SG"]},
+           {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 115,
+        "chapter": "Глава III. Прошедшее время",
+        "topic": "6. Прошедшее незаконченное время (имперфект)",
+        "section": 51,
+        "notes": "Прошедшее незаконченное время.",
+        "sah": "Бу дьолугар олорон кини киһи эрэйин биир да харчыга уурбата.",
+        "ru": "Живя в таком счастье, он ни во что не ценил труд человека.",
+        "id": 2,
+        "parses": [
+           {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "дьолугар", "type": "lowercase", "fst": "fst", "root": "дьол", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+           {"pos": 3, "text": "олорон", "type": "lowercase", "fst": "fst", "root": "олор", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+           {"pos": 5, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+           {"pos": 6, "text": "эрэйин", "type": "lowercase", "fst": "fst", "root": "эрэй", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+           {"pos": 7, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+           {"pos": 8, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 9, "text": "харчыга", "type": "lowercase", "fst": "fst", "root": "харчы", "affixes": ["+N", "+DAT"]},
+           {"pos": 10, "text": "уурбата", "type": "lowercase", "fst": "fst", "root": "уур", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.3SG"]},
+           {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 115,
+        "chapter": "Глава III. Прошедшее время",
+        "topic": "6. Прошедшее незаконченное время (имперфект)",
+        "section": 51,
+        "notes": "Прошедшее незаконченное время.",
+        "sah": "Бу культура тыла санскрит этэ, ону норуот маассата билбэтэ.",
+        "ru": "Языком этой культуры был санскрит, его народные массы не знали.",
+        "id": 4,
+        "parses": [
+           {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "культура", "type": "lowercase", "fst": "fst", "root": "культура", "affixes": ["+N"]},
+           {"pos": 3, "text": "тыла", "type": "lowercase", "fst": "fst", "root": "тыл", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 4, "text": "санскрит", "type": "lowercase", "fst": "fst", "root": "санскрит", "affixes": ["+N"]},
+           {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+           {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 7, "text": "ону", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 8, "text": "норуот", "type": "lowercase", "fst": "fst", "root": "норуот", "affixes": ["+N"]},
+           {"pos": 9, "text": "маассата", "type": "lowercase", "fst": "fst", "root": "маасса", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 10, "text": "билбэтэ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.3SG"]},
+           {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }
+]

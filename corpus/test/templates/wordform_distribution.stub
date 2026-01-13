@@ -1,0 +1,9 @@
+# Word Form Distribution
+
+[To main README](README.md)
+
+Total roots: {TOTAL_WORDFORMS}
+
+Total unique word forms: {TOTAL_UNIQUE_WORDFORMS}
+
+{TABLE}

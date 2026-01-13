@@ -1,0 +1,27 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 183,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "Ситээри (деепр. на -аары от глагола сит 'зреть, догнать') редко употребляется как модальное слово и выражает укоризну, презрение, осуждение говорящим кого-нибудь.",
+      "sah": "Оо, муҥнаах, ситээри саатар кыбыстыгаҥҥын ньии!",
+      "ru": "Ох ты, горемыка, какой же ты ко всему еще и стыдливый!",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Оо", "type": "title", "fst": "fst", "root": "оо", "affixes": ["+INJ"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "муҥнаах", "type": "lowercase", "fst": "fst", "root": "муҥ", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "ситээри", "type": "lowercase", "fst": "fst", "root": "сит", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 6, "text": "саатар", "type": "lowercase", "fst": "fst", "root": "саатар", "affixes": ["+MOD"]},
+         {"pos": 6, "text": "саатар", "type": "lowercase", "fst": "fst", "root": "саат", "affixes": ["+V", "+CSTV"]},
+         {"pos": 6, "text": "саатар", "type": "lowercase", "fst": "fst", "root": "саат", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 6, "text": "саатар", "type": "lowercase", "fst": "fst", "root": "саа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+PART_PRES"]},
+         {"pos": 7, "text": "кыбыстыгаҥҥын", "type": "lowercase", "fst": "fst"},
+         {"pos": 8, "text": "ньии", "type": "lowercase", "fst": "fst", "root": "ньии", "affixes": ["+Part"]},
+         {"pos": 9, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   }
+]

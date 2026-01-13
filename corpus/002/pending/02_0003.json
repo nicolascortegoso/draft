@@ -1,0 +1,83 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 58,
+      "chapter": "Глава II. Будущее время",
+      "topic": "2. Значение будущего времени",
+      "section": 3,
+      "notes": "Это основное значение формы. Но в некоторых контекстах данная форма времени может приобретать дополнительные оттенки значения. Например, оттенок категоричности, побуждения к совершению действий после момента речи, в будущем; в этих случаях она соответственно сопровождается повелительной интонацией.",
+      "sah": "Оттон бу хаһыаттан балары бэчээттиэҥ.",
+      "ru": "Затем из газеты напечатаешь вот эти места.",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "отун", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "оттоо", "affixes": ["+V", "+PASS"]},
+         {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "оттоо", "affixes": ["+V", "+REFL"]},
+         {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "оттон", "affixes": ["+CONJ"]},
+         {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "от", "affixes": ["+N", "+ABL"]},
+         {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "от", "affixes": ["+N", "+VRBLZ#1", "+REFL/PASS"]},
+         {"pos": 2, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хас", "affixes": ["+V", "+PART_FUT", "+ABL"]},
+         {"pos": 3, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+ABL"]},
+         {"pos": 3, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+VRBLZ#1", "+PASS"]},
+         {"pos": 3, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+VRBLZ#1", "+REFL"]},
+         {"pos": 3, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хай", "affixes": ["+V", "+RECP", "+PART_FUT", "+ABL"]},
+         {"pos": 4, "text": "балары", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+PL", "+ACC"]},
+         {"pos": 5, "text": "бэчээттиэҥ", "type": "lowercase", "fst": "fst", "root": "бэчээт", "affixes": ["+N", "+VRBLZ#1", "+PART_FUT", "+POSS.2SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 58,
+      "chapter": "Глава II. Будущее время",
+      "topic": "2. Значение будущего времени",
+      "section": 3,
+      "notes": "Это основное значение формы. Но в некоторых контекстах данная форма времени может приобретать дополнительные оттенки значения. Например, оттенок категоричности, побуждения к совершению действий после момента речи, в будущем; в этих случаях она соответственно сопровождается повелительной интонацией.",
+      "sah": "Онтон туран бу хаһыаттан бу бэлиэтэммит абзацтары маныаха диэри түһэриэҥ.",
+      "ru": "После этого из газеты переведешь вот эти помеченные места до сих пор.",
+      "id": 10,
+      "parses": [
+         {"pos": 1, "text": "Онтон", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ABL"]},
+         {"pos": 2, "text": "туран", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хас", "affixes": ["+V", "+PART_FUT", "+ABL"]},
+         {"pos": 4, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+ABL"]},
+         {"pos": 4, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+VRBLZ#1", "+PASS"]},
+         {"pos": 4, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+VRBLZ#1", "+REFL"]},
+         {"pos": 4, "text": "хаһыаттан", "type": "lowercase", "fst": "fst", "root": "хай", "affixes": ["+V", "+RECP", "+PART_FUT", "+ABL"]},
+         {"pos": 5, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 6, "text": "бэлиэтэммит", "type": "lowercase", "fst": "fst", "root": "бэлиэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#1", "+PART_PAST"]},
+         {"pos": 6, "text": "бэлиэтэммит", "type": "lowercase", "fst": "fst", "root": "бэлиэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#1", "+1PL"]},
+         {"pos": 7, "text": "абзацтары", "type": "lowercase", "fst": "fst", "root": "абзац", "affixes": ["+N", "+ADVZ#7"]},
+         {"pos": 7, "text": "абзацтары", "type": "lowercase", "fst": "fst", "root": "абзац", "affixes": ["+N", "+PL", "+ACC"]},
+         {"pos": 8, "text": "маныаха", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 9, "text": "диэри", "type": "lowercase", "fst": "fst", "root": "диэри", "affixes": ["+POST"]},
+         {"pos": 9, "text": "диэри", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 10, "text": "түһэриэҥ", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+CSTV", "+PART_FUT", "+POSS.2SG"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 58,
+      "chapter": "Глава II. Будущее время",
+      "topic": "2. Значение будущего времени",
+      "section": 3,
+      "notes": "Это основное значение формы. Но в некоторых контекстах данная форма времени может приобретать дополнительные оттенки значения. Например, оттенок категоричности, побуждения к совершению действий после момента речи, в будущем; в этих случаях она соответственно сопровождается повелительной интонацией.",
+      "sah": "Талба комсомолун Микиитэ Лэглээрини илдьэ барыаҥ.",
+      "ru": "Талбинского комсомольца Никиту Ляглярина поведешь с собой.",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "Талба", "type": "title", "fst": "fst", "root": "талба", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "комсомолун", "type": "lowercase", "fst": "fst", "root": "комсомол", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 3, "text": "Микиитэ", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": "Лэглээрини", "type": "title", "fst": "fst", "root": "лэглээр", "affixes": ["+V", "+ADVZ#1", "+ACC"]},
+         {"pos": 5, "text": "илдьэ", "type": "lowercase", "fst": "fst", "root": "илт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "илдьэ", "type": "lowercase", "fst": "fst", "root": "илдьэ", "affixes": ["+Adv"]},
+         {"pos": 6, "text": "барыаҥ", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+PART_FUT", "+POSS.2SG"]},
+         {"pos": 6, "text": "барыаҥ", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_FUT", "+POSS.2SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,32 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 95,
+      "chapter": "Глава II. Синтаксические функции деепричастий якутского языка",
+      "topic": "4. Деепричастий на -бытынан",
+      "section": 90,
+      "notes": "Идиоматизированное сочетание форм прошедшего категорического и прошедшего повествовательного времени изъявительного наклонения с деепричастием на -бытынан также усиливает обстоятельственную характеристику действия, делает ее более образной.",
+      "sah": "Кеша дьонун ахтыбыта-ахтыбытынан, ууну тумна-тумна, ханна эрэ тиэтэйэн харбыалаһан иһэр.",
+      "ru": "Кеша, по-прежнему скучая по своим, обходя лужи, шагает куда-то очень спеша.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша", "affixes": ["+N"]},
+         {"pos": 2, "text": "дьонун", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 3, "text": "ахтыбыта", "type": "lowercase", "fst": "ymv", "root": "аҕын", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 4, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 5, "text": "ахтыбытынан", "type": "lowercase", "fst": "ymv", "root": "аҕын", "affixes": ["+V", "+PART_PAST", "+INST"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 7, "text": "ууну", "type": "lowercase", "fst": "ymv", "root": "уу", "affixes": ["+N", "+ACC"]},
+         {"pos": 8, "text": "тумна", "type": "lowercase", "fst": "ymv", "root": "тумун", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 9, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 10, "text": "тумна", "type": "lowercase", "fst": "ymv", "root": "тумун", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 12, "text": "ханна", "type": "lowercase", "fst": "ymv", "root": "ханна", "affixes": ["+Pron"]},
+         {"pos": 13, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 14, "text": "тиэтэйэн", "type": "lowercase", "fst": "ymv", "root": "тиэтэй", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 15, "text": "харбыалаһан", "type": "lowercase", "fst": "ymv", "root": "харбаа", "affixes": ["+V", "+FREC#1", "+RECP", "+CONV#1"]},
+         {"pos": 16, "text": "иһэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 17, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }    
+]

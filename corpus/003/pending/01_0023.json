@@ -1,0 +1,32 @@
+[
+
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 32,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 23,
+      "notes": "Могут сочетаться и антонимичные основы; в этом случае передается чередование, следование действий друг за другом.",
+      "sah": "Эһэ кулгааҕар элбэх баҕайы кымырдаҕастар киирэ-тахса сылдьаллар.",
+      "ru": "В ухо медведя входит выходит множество муравьев.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Эһэ", "type": "title", "fst": "ymv", "root": "эһэ", "affixes": ["+N"]},
+         {"pos": 2, "text": "кулгааҕар", "type": "lowercase", "fst": "yma", "root": "кулгааҕар", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "кулгааҕар", "type": "lowercase", "fst": "yma", "root": "кулгааҕар", "affixes": ["+N"]},
+         {"pos": 2, "text": "кулгааҕар", "type": "lowercase", "fst": "yma", "root": "кулгааҕа", "affixes": ["+N", "+VRBLZ#4"]},
+         {"pos": 3, "text": "элбэх", "type": "lowercase", "fst": "ymv", "root": "элбээ", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 3, "text": "элбэх", "type": "lowercase", "fst": "ymv", "root": "элбээ", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 4, "text": "баҕайы", "type": "lowercase", "fst": "ymv", "root": "баҕайы", "affixes": ["+N"]},
+         {"pos": 4, "text": "баҕайы", "type": "lowercase", "fst": "ymv", "root": "баҕайы", "affixes": ["+Part"]},
+         {"pos": 4, "text": "баҕайы", "type": "lowercase", "fst": "ymv", "root": "бай", "affixes": ["+V", "+ADJZ#10", "+ACC"]},
+         {"pos": 5, "text": "кымырдаҕастар", "type": "lowercase", "fst": "ymv", "root": "кымырдаҕас", "affixes": ["+N", "+PL"]},
+         {"pos": 6, "text": "киирэ", "type": "lowercase", "fst": "ymv", "root": "киир", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 8, "text": "тахса", "type": "lowercase", "fst": "ymv", "root": "таҕыс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 9, "text": "сылдьаллар", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES", "+PL"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

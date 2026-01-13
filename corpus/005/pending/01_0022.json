@@ -1,0 +1,21 @@
+[
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 54,
+      "chapter": "Глава V. Адвербиальные функции различных частей речи",
+      "topic": "3. Адвербиальные функции словосочетаний. в) Прочие случаи.",
+      "section": 2,
+      "notes": "",
+      "sah": "халлаан сырдыыта",
+      "ru": "к рассвету",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "халлаан", "type": "lowercase", "fst": "fst", "root": "халлаан", "affixes": ["+N"]},
+         {"pos": 1, "text": "халлаан", "type": "lowercase", "fst": "fst", "root": "хал", "affixes": ["+Adj", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 2, "text": "сырдыыта", "type": "lowercase", "fst": "fst", "root": "сырдаа", "affixes": ["+V", "+CONV#2", "+ADVZ#8"]},
+         {"pos": 2, "text": "сырдыыта", "type": "lowercase", "fst": "fst", "root": "сыр", "affixes": ["+IMIT", "+VRBLZ#1", "+NMLZ#2", "+POSS.3SG"]},
+         {"pos": 2, "text": "сырдыыта", "type": "lowercase", "fst": "fst", "root": "сыр", "affixes": ["+IMIT", "+VRBLZ#1", "+NMLZ#2", "+PRTV"]},
+         {"pos": 2, "text": "сырдыыта", "type": "lowercase", "fst": "fst", "root": "сыр", "affixes": ["+IMIT", "+VRBLZ#1", "+CONV#2", "+ADVZ#8"]}
+      ]
+   }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 227,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частицы баара дуо, кэлиэ дуо, баара дуу",
+        "section": 1,
+        "notes": "Сочетание баара дуо состоит из имени баар с аффиксом прошедшего незаконченного времени (баар +этэ ->баара) и частицы дуо? и в прямом смысле обозначает «был ли?». В служебном значении оно является составной частицей и, как свой синоним кэлиэ дуо?, выражает модальное отрицание. Как видно из примеров, баара дуо, а также кэлиэ дуо часто имеют оттенок огорчения, обиды и т. п.",
+        "sah": "Кини дэлэҕэ иннинэн буолан миигин кытта куоракка киириэ баара дуо?!",
+        "ru": "Да разве он согласится и поедет со мной в город?!",
+        "id": 2,
+        "parses": [
+           {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "дэлэҕэ", "type": "lowercase", "fst": "fst", "root": "дэлэ", "affixes": ["+Adj", "+DAT"]},
+           {"pos": 3, "text": "иннинэн", "type": "lowercase", "fst": "fst", "root": "илин", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+           {"pos": 4, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 5, "text": "миигин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 6, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 7, "text": "куоракка", "type": "lowercase", "fst": "fst", "root": "куорат", "affixes": ["+N", "+DAT"]},
+           {"pos": 8, "text": "киириэ", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+PART_FUT"]},
+           {"pos": 9, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 10, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо", "affixes": ["+Part"]},
+           {"pos": 11, "text": "?", "type": "question", "fst": "fst"},
+           {"pos": 12, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },    
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 227,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частицы баара дуо, кэлиэ дуо, баара дуу",
+        "section": 1,
+        "notes": "Сочетание баара дуо состоит из имени баар с аффиксом прошедшего незаконченного времени (баар +этэ ->баара) и частицы дуо? и в прямом смысле обозначает «был ли?». В служебном значении оно является составной частицей и, как свой синоним кэлиэ дуо?, выражает модальное отрицание. Как видно из примеров, баара дуо, а также кэлиэ дуо часто имеют оттенок огорчения, обиды и т. п.",
+        "sah": "Наадыйар буолбутун кэннэ, барсыбатым кэлиэ дуо.",
+        "ru": "Разве я не пойду с ним, если ему нужно.",
+        "id": 4,
+        "parses": [
+           {"pos": 1, "text": "Наадыйар", "type": "title", "fst": "fst", "root": "наадый", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 2, "text": "буолбутун", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_PAST", "+POSS.3SG", "+ACC"]},
+           {"pos": 3, "text": "кэннэ", "type": "lowercase", "fst": "fst", "root": "кэлин", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 5, "text": "барсыбатым", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+RECP", "+NEG", "+PART_PRES", "+POSS.1SG"]},
+           {"pos": 6, "text": "кэлиэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_FUT"]},
+           {"pos": 7, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо", "affixes": ["+Part"]},
+           {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 227,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частицы баара дуо, кэлиэ дуо, баара дуу",
+        "section": 1,
+        "notes": "Эта частица с глаголами первого лица приобретает оттенок желания.",
+        "sah": "Саманан ыйанан баран өлөн тураргын көрүөм баара дуо.",
+        "ru": "О увижу ли я, как ты будешь висеть мертвой, перехваченная вот здесь веревкой.",
+        "id": 5,
+        "parses": [
+           {"pos": 1, "text": "Саманан", "type": "title", "fst": "fst", "root": "субу", "affixes": ["+Pron", "+INST"]},
+           {"pos": 2, "text": "ыйанан", "type": "lowercase", "fst": "fst", "root": "ыйаа", "affixes": ["+V", "+REFL/PASS", "+CONV#1"]},
+           {"pos": 3, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": "өлөн", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 5, "text": "тураргын", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+PART_PRES", "+POSS.2SG", "+ACC"]},
+           {"pos": 6, "text": "көрүөм", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+PART_FUT", "+POSS.1SG"]},
+           {"pos": 7, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 8, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо", "affixes": ["+Part"]},
+           {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 227,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частицы баара дуо, кэлиэ дуо, баара дуу",
+        "section": 1,
+        "notes": "Частица баара дуо имеет синоним баара дуу, который отличается от нее своим ярко выраженным оттенком негодования, сетования и т. п.",
+        "sah": "Кэргэннээх буолан, кэргэним сүтүктүө баара дуу, оҕолордоох буолан, оҕолорум күүтүөхтэрэ баара дуу...",
+        "ru": "Разве меня, как тех, кто имеет жену, жена потеряет, разве меня, как тех, кто имеет детей, дети будут ждать...",
+        "id": 7,
+        "parses": [
+           {"pos": 1, "text": "Кэргэннээх", "type": "title", "fst": "fst", "root": "кэргэн", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 4, "text": "кэргэним", "type": "lowercase", "fst": "fst", "root": "кэргэн", "affixes": ["+N", "+POSS.1SG"]},
+           {"pos": 5, "text": "сүтүктүө", "type": "lowercase", "fst": "fst", "root": "сүт", "affixes": ["+V", "+NMLZ#5", "+VRBLZ#1", "+PART_FUT"]},
+           {"pos": 6, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 7, "text": "дуу", "type": "lowercase", "fst": "fst", "root": "дуу", "affixes": ["+Part"]},
+           {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 9, "text": "оҕолордоох", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+PL", "+ADJZ#1"]},
+           {"pos": 10, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 11, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 12, "text": "оҕолорум", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+PL", "+POSS.1SG"]},
+           {"pos": 13, "text": "күүтүөхтэрэ", "type": "lowercase", "fst": "fst", "root": "күүт", "affixes": ["+V", "+PART_FUT", "+PL", "+POSS.3SG"]},
+           {"pos": 14, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 15, "text": "дуу", "type": "lowercase", "fst": "fst", "root": "дуу", "affixes": ["+Part"]},
+           {"pos": 16, "text": "...", "type": "ellipsis", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 227,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частицы баара дуо, кэлиэ дуо, баара дуу",
+        "section": 1,
+        "notes": "В определенном контексте баара дуу, как баара дуо, может иметь оттенок желания.",
+        "sah": "Оннук тыл чөмчүүгүн талан, ойуулаан көрүөм баара дуу!",
+        "ru": "О, сумею ли воспеть, выбирая жемчужину таких слов!",
+        "id": 8,
+        "parses": [
+           {"pos": 1, "text": "Оннук", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DEF"]},
+           {"pos": 2, "text": "тыл", "type": "lowercase", "fst": "fst", "root": "тыл", "affixes": ["+N"]},
+           {"pos": 3, "text": "чөмчүүгүн", "type": "lowercase", "fst": "fst", "root": "чөмчүүк", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+           {"pos": 4, "text": "талан", "type": "lowercase", "fst": "fst", "root": "тал", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 6, "text": "ойуулаан", "type": "lowercase", "fst": "fst", "root": "ойуу", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+           {"pos": 7, "text": "көрүөм", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+PART_FUT", "+POSS.1SG"]},
+           {"pos": 8, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 9, "text": "дуу", "type": "lowercase", "fst": "fst", "root": "дуу", "affixes": ["+Part"]},
+           {"pos": 10, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    }
+]

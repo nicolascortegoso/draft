@@ -1,0 +1,92 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 117,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Туома.",
+      "section": 37,
+      "notes": "Модальное слово туома имеет весьма ограниченное употребление. Оно показывает, что высказываемая мысль является обоснованием, подкреплением других мыслей, предшествовавших или последующих.",
+      "sah": "Туома урут онно бэйэҥ сылдьыбыт, билэр-көрөр сириҥ эбит.",
+      "ru": "Тем более раньше туда ты сам ходил, места тебе знакомые, оказывается.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Туома", "type": "title", "fst": "fst", "root": "туома", "affixes": ["+MOD"]},
+         {"pos": 2, "text": "урут", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "онно", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 4, "text": "бэйэҥ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Pron", "+POSS.2SG"]},
+         {"pos": 5, "text": "сылдьыбыт", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "билэр", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 8, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 9, "text": "көрөр", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 10, "text": "сириҥ", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["+N", "+POSS.2SG"]},
+         {"pos": 11, "text": "эбит", "type": "lowercase", "fst": "fst", "root": "эбит", "affixes": ["+Part"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },    
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 117,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Туома.",
+      "section": 37,
+      "notes": "При этом оно, во-первых, может иметь оттенок противопоставления.",
+      "sah": "Тоҕо аҕалбатыҥ, туома этэн турабын.",
+      "ru": "Почему не принес, а ведь я сказал.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "fst", "root": "тоҕо", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "аҕалбатыҥ", "type": "lowercase", "fst": "fst", "root": "аҕал", "affixes": ["+V", "+NEG", "+PST.2SG"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "туома", "type": "lowercase", "fst": "fst", "root": "туома", "affixes": ["+MOD"]},
+         {"pos": 5, "text": "этэн", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "турабын", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+PART_PRES", "+1SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 117,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Туома.",
+      "section": 37,
+      "notes": "При этом оно, во-первых, может иметь оттенок противопоставления.",
+      "sah": "Туома, бэйэтэ эмис оҕус.",
+      "ru": "А ведь сам он жирный бык.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Туома", "type": "title", "fst": "fst", "root": "туома", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Pron", "+POSS.3SG"]},
+         {"pos": 4, "text": "эмис", "type": "lowercase", "fst": "fst", "root": "эмис", "affixes": ["+Adj"]},
+         {"pos": 5, "text": "оҕус", "type": "lowercase", "fst": "fst", "root": "оҕус", "affixes": ["+N"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 117,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Туома.",
+      "section": 37,
+      "notes": "Во-вторых, туома может иметь уступительный оттенок.",
+      "sah": "Туома, билэрим да буоллар, син-биир этиэ суох этим.",
+      "ru": "Да, ведь хоть и знал бы, то все равно не сказал бы.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Туома", "type": "title", "fst": "fst", "root": "туома", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "билэрим", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+PART_PRES", "+POSS.1SG"]},
+         {"pos": 4, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 5, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "син", "type": "lowercase", "fst": "fst", "root": "син", "affixes": ["+Adv"]},
+         {"pos": 8, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 9, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+         {"pos": 10, "text": "этиэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 11, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+         {"pos": 12, "text": "этим", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.1SG"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,28 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 207,
+      "chapter": "Местоимения",
+      "topic": "Обобщительные местоимения",
+      "section": 357,
+      "notes": "Обобщительные наречные местоимения указывают на самые разные обстоятельственные, временные, пространственные признаки действия.",
+      "sah": "Хаһан баҕарар дьахтар дьахтар эрэ буолуоҕа.",
+      "ru": "Женщина всегда будет только женщиной.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Хаһан", "type": "title", "fst": "fst", "root": "хас", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 1, "text": "Хаһан", "type": "title", "fst": "fst", "root": "хаһан", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Хаһан", "type": "title", "fst": "fst", "root": "хай", "affixes": ["+V", "+RECP", "+CONV#1"]},
+         {"pos": 2, "text": "баҕарар", "type": "lowercase", "fst": "fst", "root": "баҕа", "affixes": ["+N", "+VRBLZ#4", "+PART_PRES"]},
+         {"pos": 2, "text": "баҕарар", "type": "lowercase", "fst": "fst", "root": "бай", "affixes": ["+V", "+ADJZ#8", "+VRBLZ#4a"]},
+         {"pos": 3, "text": "дьахтар", "type": "lowercase", "fst": "fst", "root": "дьахтар", "affixes": ["+N"]},
+         {"pos": 4, "text": "дьахтар", "type": "lowercase", "fst": "fst", "root": "дьахтар", "affixes": ["+N"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 6, "text": "буолуоҕа", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+DAT"]},
+         {"pos": 6, "text": "буолуоҕа", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+POSS.3SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

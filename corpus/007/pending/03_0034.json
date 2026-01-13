@@ -1,0 +1,34 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 162,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 7. Кырата.",
+      "section": 7,
+      "notes": "Притяж. форма имени кыра 'маленький') в модальном употреблении выражает такую субъективную количественно-определительную оценку, которая соответствует значению русского дального сочетания по меньшей мере.",
+      "sah": "Кынатым тыаһа олуһун, Кырата, холорук силлиэбин.",
+      "ru": "Как шумят мои крылья, по меньшей мере, я вихрь, ураган.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кынатым", "type": "title", "fst": "fst", "root": "кынат", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 1, "text": "Кынатым", "type": "title", "fst": "fst", "root": "кынай", "affixes": ["+V", "+CSTV", "+ADVZ#1", "+POSS.1SG"]},
+         {"pos": 2, "text": "тыаһа", "type": "lowercase", "fst": "fst", "root": "тыас", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "олуһун", "type": "lowercase", "fst": "fst", "root": "олус", "affixes": ["+Adv", "+AUG#3"]},
+         {"pos": 3, "text": "олуһун", "type": "lowercase", "fst": "fst", "root": "олус", "affixes": ["+Adv", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "Кырата", "type": "title", "fst": "fst", "root": "кыраа", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 5, "text": "Кырата", "type": "title", "fst": "fst", "root": "кыра", "affixes": ["+Adj", "+ADVZ#8"]},
+         {"pos": 5, "text": "Кырата", "type": "title", "fst": "fst", "root": "кыра", "affixes": ["+Adj", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 5, "text": "Кырата", "type": "title", "fst": "fst", "root": "кыра", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 5, "text": "Кырата", "type": "title", "fst": "fst", "root": "кыра", "affixes": ["+Adj", "+PRTV"]},
+         {"pos": 5, "text": "Кырата", "type": "title", "fst": "fst", "root": "кыр", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+CONV#2"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "холорук", "type": "lowercase", "fst": "fst", "root": "холорук", "affixes": ["+N"]},
+         {"pos": 8, "text": "силлиэбин", "type": "lowercase", "fst": "fst", "root": "силин", "affixes": ["+V", "+PART_FUT", "+POSS.1SG", "+ACC"]},
+         {"pos": 8, "text": "силлиэбин", "type": "lowercase", "fst": "fst", "root": "силлиэ", "affixes": ["+N", "+POSS.1SG", "+ACC"]},
+         {"pos": 8, "text": "силлиэбин", "type": "lowercase", "fst": "fst", "root": "силлиэ", "affixes": ["+N", "+1SG"]},
+         {"pos": 8, "text": "силлиэбин", "type": "lowercase", "fst": "fst", "root": "сил", "affixes": ["+N", "+VRBLZ#1", "+PART_FUT", "+POSS.1SG", "+ACC"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

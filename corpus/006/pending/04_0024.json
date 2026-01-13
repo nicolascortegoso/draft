@@ -1,0 +1,77 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 246,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица кэлэн",
+      "section": 24,
+      "notes": "Частица кэлэн, во-первых, выражает никчемность, бесполезность, бессмысленность высказываемой мысли.",
+      "sah": "Билигин кэлэн саҥалааххын баҕастааххын.",
+      "ru": "А сейчас-то (когда уже поздно) еще говоришь.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Билигин", "type": "title", "fst": "fst", "root": "билигин", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "Билигин", "type": "title", "fst": "fst", "root": "бил", "affixes": ["+V", "+NMLZ#5", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "саҥалааххын", "type": "lowercase", "fst": "fst", "root": "саҥа", "affixes": ["+Adj", "+ADJZ#1", "+POSS.2SG", "+ACC"]},
+         {"pos": 3, "text": "саҥалааххын", "type": "lowercase", "fst": "fst", "root": "саҥа", "affixes": ["+Adj", "+ADJZ#1", "+2SG"]},
+         {"pos": 3, "text": "саҥалааххын", "type": "lowercase", "fst": "fst", "root": "саҥа", "affixes": ["+N", "+ADJZ#1", "+POSS.2SG", "+ACC"]},
+         {"pos": 3, "text": "саҥалааххын", "type": "lowercase", "fst": "fst", "root": "саҥа", "affixes": ["+N", "+ADJZ#1", "+2SG"]},
+         {"pos": 4, "text": "баҕастааххын", "type": "lowercase", "fst": "fst", "root": "баҕас", "affixes": ["+Part", "+ADJZ#1", "+POSS.2SG", "+ACC"]},
+         {"pos": 4, "text": "баҕастааххын", "type": "lowercase", "fst": "fst", "root": "баҕас", "affixes": ["+Part", "+ADJZ#1", "+2SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 247,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица кэлэн",
+      "section": 24,
+      "notes": "Частица кэлэн, во-первых, выражает никчемность, бесполезность, бессмысленность высказываемой мысли.",
+      "sah": "Ону кэлэн бүгүн тоҕо наадыйан сураҕаластыҥ?",
+      "ru": "Об этом-то зачем тебе сегодня понадобилось справляться? (какой же смысл?).",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Ону", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 2, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "fst", "root": "бүк", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "fst", "root": "бүк", "affixes": ["+V", "+REFL"]},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "fst", "root": "бүгүн", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "тох", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "тоҕо", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "той", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG"]},
+         {"pos": 5, "text": "наадыйан", "type": "lowercase", "fst": "fst", "root": "наадый", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "сураҕаластыҥ", "type": "lowercase", "fst": "fst", "root": "сурах", "affixes": ["+V", "+FREC#4", "+RECP", "+PST.2SG"]},
+         {"pos": 7, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 247,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица кэлэн",
+      "section": 24,
+      "notes": "Во-вторых, имеет выделительно-усилительное значение.",
+      "sah": "Хантан кэлэн английскайдыы билбит үһүө кини баҕас.",
+      "ru": "Откуда же он-то может знать по-английски.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Хантан", "type": "title", "fst": "fst", "root": "ханыы", "affixes": ["+Adj", "+VRBLZ#2", "+CSTV", "+CONV#1"]},
+         {"pos": 1, "text": "Хантан", "type": "title", "fst": "fst", "root": "ханна", "affixes": ["+Pron", "+ABL"]},
+         {"pos": 2, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "английскайдыы", "type": "lowercase", "fst": "fst", "root": "английскай", "affixes": ["+Adj", "+ADVZ#6"]},
+         {"pos": 3, "text": "английскайдыы", "type": "lowercase", "fst": "fst", "root": "английскай", "affixes": ["+Adj", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 3, "text": "английскайдыы", "type": "lowercase", "fst": "fst", "root": "английскай", "affixes": ["+Adj", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 4, "text": "билбит", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+N", "+POSS.1PL"]},
+         {"pos": 4, "text": "билбит", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+N", "+1PL"]},
+         {"pos": 4, "text": "билбит", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 5, "text": "үһүө", "type": "lowercase", "fst": "fst", "root": "үс", "affixes": ["+Num", "+COLL"]},
+         {"pos": 5, "text": "үһүө", "type": "lowercase", "fst": "fst", "root": "үһүө", "affixes": ["+Part"]},
+         {"pos": 6, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+         {"pos": 7, "text": "баҕас", "type": "lowercase", "fst": "fst", "root": "баҕас", "affixes": ["+Part"]},
+         {"pos": 7, "text": "баҕас", "type": "lowercase", "fst": "fst", "root": "баҕа", "affixes": ["+N", "+VRBLZ#2", "+RECP"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

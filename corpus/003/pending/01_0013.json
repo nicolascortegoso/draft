@@ -1,0 +1,81 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 26,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 1. Деепричастие на -ан.",
+      "section": 13,
+      "notes": "В сочетании с частицей беҕе деепричастием на -ан выражается значение большой интенсивности действия.",
+      "sah": "Ой, Сергей, эн манна үлэлиир эбиккин дии.",
+      "ru": "Ой, Сергей, ты, оказывается, работаешь здесь.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ой", "type": "title", "fst": "ymv", "root": "ой", "affixes": ["+INJ"]},
+         {"pos": 1, "text": "Ой", "type": "title", "fst": "ymv", "root": "ой", "affixes": ["+N"]},
+         {"pos": 1, "text": "Ой", "type": "title", "fst": "ymv", "root": "ой", "affixes": ["+V"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 3, "text": "Сергей", "type": "title", "fst": "ymv", "root": "сергей", "affixes": ["+N"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 5, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 5, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+REFL"]},
+         {"pos": 6, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 7, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эп", "affixes": ["+V", "+ADJZ#16", "+POSS.2SG", "+ACC"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эп", "affixes": ["+V", "+ADJZ#16", "+2SG"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эп", "affixes": ["+V", "+NMLZ#5", "+POSS.2SG", "+ACC"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эп", "affixes": ["+V", "+NMLZ#5", "+2SG"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эбит", "affixes": ["+Part", "+POSS.2SG", "+ACC"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эбит", "affixes": ["+Part", "+2SG"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PART_PAST", "+POSS.2SG", "+ACC"]},
+         {"pos": 8, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PART_PAST", "+2SG"]},
+         {"pos": 9, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 9, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии", "affixes": ["+Part"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 26,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 1. Деепричастие на -ан.",
+      "section": 13,
+      "notes": "В сочетании с частицей беҕе деепричастием на -ан выражается значение большой интенсивности действия.",
+      "sah": "Бу дьон, тукаам, миигин тыыхаранньылаан бөҕө.",
+      "ru": "Дружочек мой, эти люди так меня растравляли.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 4, "text": "тукаам", "type": "lowercase", "fst": "ymv", "root": "тукаам", "affixes": ["+MOD"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 6, "text": "миигин", "type": "lowercase", "fst": "ymv", "root": "мин", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 7, "text": "тыыхаранньылаан", "type": "lowercase", "fst": "yma", "root": "тыыхаранньылаан", "affixes": ["+N"]},
+         {"pos": 7, "text": "тыыхаранньылаан", "type": "lowercase", "fst": "yma", "root": "тыыхаранньылаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 8, "text": "бөҕө", "type": "lowercase", "fst": "ymv", "root": "бөх", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 8, "text": "бөҕө", "type": "lowercase", "fst": "ymv", "root": "бөҕө", "affixes": ["+Adj"]},
+         {"pos": 8, "text": "бөҕө", "type": "lowercase", "fst": "ymv", "root": "бөҕө", "affixes": ["+Part"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 26,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 1. Деепричастие на -ан.",
+      "section": 13,
+      "notes": "С другой стороны, в этом случае передается значение большого удовлетворения и осознанного согласия, с которым совершается субьектом действие.",
+      "sah": "Сынньана түс эбээт.",
+      "ru": "Отдохни немного.",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "Сынньана", "type": "title", "fst": "ymv", "root": "сынньан", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "түс", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+N"]},
+         {"pos": 2, "text": "түс", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+V"]},
+         {"pos": 3, "text": "эбээт", "type": "lowercase", "fst": "ymv", "root": "эп", "affixes": ["+V", "+CONV#6"]},
+         {"pos": 3, "text": "эбээт", "type": "lowercase", "fst": "ymv", "root": "эбээт", "affixes": ["+Part"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

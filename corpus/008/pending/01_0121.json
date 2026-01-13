@@ -1,0 +1,27 @@
+[
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 176,
+      "chapter": "Глагол",
+      "topic": "Глаголы побудительного залоги",
+      "section": 121,
+      "notes": "У побудительных глаголов нередко встречается двойная форма побуждения, т. е. два аффикса побудительного залога. Такие глаголы выражают действие, выполняемое через посредство третьего действующего лица: көн- выпрямляться, исправляться.",
+      "sah": "Тэтэрээккин бэйэҥ көннөр.",
+      "ru": "Тетрадь свою сам исправь.",
+      "id": 10,
+      "parses": [
+         {"pos": 1, "text": "Тэтэрээккин", "type": "title", "fst": "fst", "root": "тэтэрээт", "affixes": ["^N", "+POSS.2SG", "+ACC"]},
+         {"pos": 1, "text": "Тэтэрээккин", "type": "title", "fst": "fst", "root": "тэтэрээт", "affixes": ["^N", "+2SG"]},
+         {"pos": 1, "text": "Тэтэрээккин", "type": "title", "fst": "fst", "root": "тэтэр", "affixes": ["^V", "+CONV#6", "+2SG"]},
+         {"pos": 2, "text": "бэйэҥ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^N", "+POSS.2SG"]},
+         {"pos": 2, "text": "бэйэҥ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^Part", "+POSS.2SG"]},
+         {"pos": 3, "text": "көннөр", "type": "lowercase", "fst": "fst", "root": "көн", "affixes": ["^V", "+CONV_COND#1"]},
+         {"pos": 3, "text": "көннөр", "type": "lowercase", "fst": "fst", "root": "көн", "affixes": ["^V", "+CSTV"]},
+         {"pos": 3, "text": "көннөр", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["^V", "+REFL", "+CAUS"]},
+         {"pos": 3, "text": "көннөр", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["^V", "+REFL", "+CONV_COND#1"]},
+         {"pos": 3, "text": "көннөр", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["^V", "+REFL", "+PL"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

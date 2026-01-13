@@ -1,0 +1,254 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 97,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "3",
+      "notes": "The possessor in a Sakha possessive noun phrase is always unmarked, even in specific possessive constructions, while the possessum carries a possessive suffix agreeing with the person and number of the possessor.",
+      "sah": "учуутал дьиэтэ",
+      "en": "the teacher’s house [teacher house–POSS.3SG]",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "учуутал", "type": "lowercase", "fst": "ymv", "root": "учуутал", "affixes": ["+N"]},
+         {"pos": 2, "text": "дьиэтэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ", "affixes": ["+N", "+POSS.3SG"]}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 97,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "3",
+      "notes": "The possessor in a Sakha possessive noun phrase is always unmarked, even in specific possessive constructions, while the possessum carries a possessive suffix agreeing with the person and number of the possessor.",
+      "sah": "мин дьиэм",
+      "en": "my house [1SG house–POSS.1SG]",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "дьиэм", "type": "lowercase", "fst": "ymv", "root": "дьиэ", "affixes": ["+N", "+POSS.1SG"]}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 97,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "3",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation.",
+      "sah": "сүөһү сыта",
+      "en": "he smell of livestock [livestock smell–POSS.3SG]",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "сүөһү", "type": "lowercase", "fst": "ymv", "root": "сүөһү", "affixes": ["+N"]},
+         {"pos": 2, "text": "сыта", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+N", "+POSS.3SG"]}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 97,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "3",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation.",
+      "sah": "саха дьоно",
+      "en": "he smell of livestock [Sakha people–POSS.3SG]",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "саха", "type": "lowercase", "fst": "ymv", "root": "саха", "affixes": ["+N"]},
+         {"pos": 2, "text": "дьоно", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+POSS.3SG"]}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 97,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "3",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation.",
+      "sah": "мин төбөм",
+      "en": "my head [1SG head–POSS.1SG]",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "төбөм", "type": "lowercase", "fst": "ymv", "root": "төбө", "affixes": ["+N", "+POSS.1SG"]}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 97,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "4",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation. However, when the modifying noun expresses the material out of which the head noun is made, then the two nouns are simply juxtaposed, without possessive suffixes on the head noun.",
+      "sah": "Эн таас дьиэҕэ сандааран олороҥҥун.",
+      "en": "You live like a prince in a brick house. [2SG stone house–DAT glow–PF.CVB sit–PF.CVB–PRED.2SG]",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "таас", "type": "lowercase", "fst": "ymv", "root": "таас", "affixes": ["+N"]},
+         {"pos": 3, "text": "дьиэҕэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ", "affixes": ["+N", "+DAT"]},
+         {"pos": 4, "text": "сандааран", "type": "lowercase", "fst": "ymv", "root": "сандаар", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "олороҥҥун", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+CONV#1", "+2SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 98,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "5a",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation. However, when the modifying noun expresses the material out of which the head noun is made, then the two nouns are simply juxtaposed, without possessive suffixes on the head noun.",
+      "sah": "Чэ таптыыр таптыыр дьонноругар биэрэн биэрэн кэбистэ, эмиэ без копейки.",
+      "en": "Well, he gave and gave to the people that he liked, also for nothing. [well love–PRSPT love–PRSPT people–PL–DAT.3SG give–PF.CVB give–PF.CVB PFV–PST.3SG also without kopeck.GEN]",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Чэ", "type": "title", "fst": "ymv", "root": "чэ", "affixes": ["+MOD"]},
+         {"pos": 2, "text": "таптыыр", "type": "lowercase", "fst": "ymv", "root": "таптаа", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 3, "text": "таптыыр", "type": "lowercase", "fst": "ymv", "root": "таптаа", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 4, "text": "дьонноругар", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+PL", "+POSS.3SG", "+DAT"]},
+         {"pos": 5, "text": "биэрэн", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "биэрэн", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 7, "text": "кэбистэ", "type": "lowercase", "fst": "ymv", "root": "кэбис", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 9, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ", "affixes": ["+Adv"]},
+         {"pos": 10, "text": "без", "type": "lowercase", "fst": "yma", "root": "без", "affixes": ["+N"]},
+         {"pos": 11, "text": "копейки", "type": "lowercase", "fst": "yma", "root": "копейки", "affixes": ["+N"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 98,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "5b",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation. However, when the modifying noun expresses the material out of which the head noun is made, then the two nouns are simply juxtaposed, without possessive suffixes on the head noun.",
+      "sah": "Хас уон чаанҥык чэйи өрөрбүн айбыт бэйэтэ билэр күҥҥэ.",
+      "en": "How many dozens of teapots I put to boil each day the Lord alone knows. [how.many ten teapot tea–ACC put.to.boil–PRSPT–ACC.1SG creator–1PL self–POSS.3SG know–PRSPT day–DAT].",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Хас", "type": "title", "fst": "ymv", "root": "хас", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон", "affixes": ["+Num"]},
+         {"pos": 3, "text": "чаанҥык", "type": "lowercase", "fst": "yma", "root": "чаанҥык", "affixes": ["+N"]},
+         {"pos": 4, "text": "чэйи", "type": "lowercase", "fst": "ymv", "root": "чэй", "affixes": ["+N", "+ACC"]},
+         {"pos": 5, "text": "өрөрбүн", "type": "lowercase", "fst": "ymv", "root": "өр", "affixes": ["+V", "+PART_PRES", "+POSS.1SG", "+ACC"]},
+         {"pos": 6, "text": "айбыт", "type": "lowercase", "fst": "ymv", "root": "ай", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 7, "text": "бэйэтэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ", "affixes": ["+Pron", "+POSS.3SG"]},
+         {"pos": 8, "text": "билэр", "type": "lowercase", "fst": "ymv", "root": "бил", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 9, "text": "күҥҥэ", "type": "lowercase", "fst": "ymv", "root": "күн", "affixes": ["+N", "+DAT"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 98,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "5c",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation. However, when the modifying noun expresses the material out of which the head noun is made, then the two nouns are simply juxtaposed, without possessive suffixes on the head noun.",
+      "sah": "Эн Ивановтар саҥа туттубут дьиэлэрин көрбүтүҥ дуо?",
+      "en": "Have you seen the new house that the Ivanovs built for themselves? [2SG I.–PL new hold–REFL–PSTPT house–ACC.3PL see–PSTPT–POSS.2SG Q]",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "Ивановтар", "type": "title", "fst": "yma", "root": "иванов", "affixes": ["+N", "+PL"]},
+         {"pos": 3, "text": "саҥа", "type": "lowercase", "fst": "ymv", "root": "саҥа", "affixes": ["+Adj"]},
+         {"pos": 4, "text": "туттубут", "type": "lowercase", "fst": "ymv", "root": "тут", "affixes": ["+V", "+REFL", "+PART_PAST"]},
+         {"pos": 5, "text": "дьиэлэрин", "type": "lowercase", "fst": "ymv", "root": "дьиэ", "affixes": ["+N", "+POSS.3PL", "+ACC"]},
+         {"pos": 6, "text": "көрбүтүҥ", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+V", "+PART_PAST", "+POSS.2SG"]},
+         {"pos": 7, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо", "affixes": ["+Part"]},
+         {"pos": 8, "text": "?", "type": "question", "fst": "ymv"}
+      ]
+   },    
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 98,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "5d",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation. However, when the modifying noun expresses the material out of which the head noun is made, then the two nouns are simply juxtaposed, without possessive suffixes on the head noun.",
+      "sah": "Мин саха тылын, саха олоҕун, майгытын билэрбин истэн бу тойон миигин көрдүөн ылбыта.",
+      "en": "Hearing that I knew the Sakha language and the Sakha ways of life, this lord took me to assist him. [1SG Sakha tongue–ACC.3SG Sakha life–ACC.3SG similarity–ACC.3SG know–PRSPT–ACC.1SG hear–PF.CVB this chief 1SG.ACC request–PF.CVB take–PSTPT–POSS.3SG]",
+      "id": 10,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "саха", "type": "lowercase", "fst": "ymv", "root": "саха", "affixes": ["+N"]},
+         {"pos": 3, "text": "тылын", "type": "lowercase", "fst": "ymv", "root": "тыл", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 5, "text": "саха", "type": "lowercase", "fst": "ymv", "root": "саха", "affixes": ["+N"]},
+         {"pos": 6, "text": "олоҕун", "type": "lowercase", "fst": "ymv", "root": "олох", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 8, "text": "майгытын", "type": "lowercase", "fst": "ymv", "root": "майгы", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "билэрбин", "type": "lowercase", "fst": "ymv", "root": "бил", "affixes": ["+V", "+PART_PRES", "+POSS.1SG", "+ACC"]},
+         {"pos": 10, "text": "истэн", "type": "lowercase", "fst": "ymv", "root": "иһит", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 11, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 12, "text": "тойон", "type": "lowercase", "fst": "ymv", "root": "тойон", "affixes": ["+N"]},
+         {"pos": 13, "text": "миигин", "type": "lowercase", "fst": "ymv", "root": "мин", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 14, "text": "көрдүөн", "type": "lowercase", "fst": "ymv", "root": "көрдөө", "affixes": ["+V", "+PART_FUT", "+CONV#1"]},
+         {"pos": 15, "text": "ылбыта", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 99,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "5e",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation. However, when the modifying noun expresses the material out of which the head noun is made, then the two nouns are simply juxtaposed, without possessive suffixes on the head noun.",
+      "sah": "Бэҕэһэ кулууп кирилиэһигэр итирик олорбут киһини бүгүн хонтуораҕа көрдүм.",
+      "en": "I saw the man who had been sitting drunk on the porch of the club at the (administration) offices today. [yesterday club porch–DAT.3SG drunk sit–PSTPT person–ACC today office–DAT see–PST–POSS.1SG]",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "Бэҕэһэ", "type": "title", "fst": "yma", "root": "бэҕэһэ", "affixes": ["+N"]},
+         {"pos": 2, "text": "кулууп", "type": "lowercase", "fst": "ymv", "root": "кулууп", "affixes": ["+N"]},
+         {"pos": 3, "text": "кирилиэһигэр", "type": "lowercase", "fst": "ymv", "root": "кирилиэс", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 4, "text": "итирик", "type": "lowercase", "fst": "ymv", "root": "итир", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 5, "text": "олорбут", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 6, "text": "киһини", "type": "lowercase", "fst": "ymv", "root": "киһи", "affixes": ["+N", "+ACC"]},
+         {"pos": 7, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн", "affixes": ["+Adv"]},
+         {"pos": 8, "text": "хонтуораҕа", "type": "lowercase", "fst": "ymv", "root": "хонтуора", "affixes": ["+N", "+DAT"]},
+         {"pos": 9, "text": "көрдүм", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+V", "+PST.1SG"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 99,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "5f",
+      "notes": "The word order in possessive constructions is fixed, with the possessor preceding the head noun. This construction is used not only for actual possession, but for all kinds of adnominal relation. However, when the modifying noun expresses the material out of which the head noun is made, then the two nouns are simply juxtaposed, without possessive suffixes on the head noun.",
+      "sah": "Настяны ытырбыт ыт онно сытар.",
+      "en": "There lies the dog that bit Nastya. [N.–ACC bite–PSTPT dog there lie–PRSPT]",
+      "id": 12,
+      "parses": [
+         {"pos": 1, "text": "Настяны", "type": "title", "fst": "yma", "root": "настя", "affixes": ["+N", "+ACC"]},
+         {"pos": 2, "text": "ытырбыт", "type": "lowercase", "fst": "ymv", "root": "ытыр", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 3, "text": "ыт", "type": "lowercase", "fst": "ymv", "root": "ыт", "affixes": ["+N"]},
+         {"pos": 4, "text": "онно", "type": "lowercase", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 5, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 99,
+      "chapter": "3.2.1 The loss of the Genitive in Sakha",
+      "topic": "3.2.1.1 The genitive case in Turkic languages",
+      "section": "6",
+      "notes": "Some vestiges of the old Turkic Genitive are still found in Sakha. Thus, in a sequence of possessive noun phrases with a third person possessor, the intermediate noun phrase carries the old Genitive suffix, which is formally identical to the third person Accusative suffix in the possessive declension.",
+      "sah": "Кэргэним нуучча тылын учуутала.",
+      "en": "My husband (was) a teacher of Russian. [spouse–POSS.1SG Russian word–GEN teacher–POSS.3SG]",
+      "id": 13,
+      "parses": [
+         {"pos": 1, "text": "Кэргэним", "type": "title", "fst": "ymv", "root": "кэргэн", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 2, "text": "нуучча", "type": "lowercase", "fst": "ymv", "root": "нуучча", "affixes": ["+N"]},
+         {"pos": 3, "text": "тылын", "type": "lowercase", "fst": "ymv", "root": "тыл", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "учуутала", "type": "lowercase", "fst": "ymv", "root": "учуутал", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

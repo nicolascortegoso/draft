@@ -1,0 +1,103 @@
+[
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 273,
+        "chapter": "3.5 Person-marked converbs in Sakha",
+        "topic": "3.5.1 Converbs in Sakha",
+        "section": "110c",
+        "notes": "Like other Turkic languages, Sakha makes extensive use of converbs in coordination (110a), clause chaining (110b), adverbial modification (110c) and, in conjunction with auxiliaries, in the formation of aspectual meanings (cf. the third converbal form ölön in example 110a, where the Perfective Converb –An in conjunction with the auxiliary xаал (lit. ‘stay’) provides a resultative meaning). Some of these converbs, such as the Perfective Converb and the Imperfective Converb, are unanalyzable, while others, most importantly the Privative Converb –BAkkA, are historically derived from a case-marked participle 1 . As seen from examples (110a-c), the converbal subjects are most often coreferential with the subject of the main verb; however, occasionally converbs can occur in DS constructions as well (110d).",
+        "sah": "Манна суолга өлө сытар.",
+        "en": "Here they lay dying in the road. [this.OBL–LOC road–DAT die–IPF.CVB lie–PRSPT]",
+        "id": 3,
+        "parses": [
+            {"pos": 1, "text": "Манна", "type": "title", "fst": "ymv", "root": "бу", "affixes": ["+Pron", "+LOC"]},
+            {"pos": 2, "text": "суолга", "type": "lowercase", "fst": "ymv", "root": "суол", "affixes": ["+N", "+DAT"]},
+            {"pos": 3, "text": "өлө", "type": "lowercase", "fst": "ymv", "root": "өл", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 4, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },    
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 273,
+        "chapter": "3.5 Person-marked converbs in Sakha",
+        "topic": "3.5.1 Converbs in Sakha",
+        "section": "110d",
+        "notes": "Like other Turkic languages, Sakha makes extensive use of converbs in coordination (110a), clause chaining (110b), adverbial modification (110c) and, in conjunction with auxiliaries, in the formation of aspectual meanings (cf. the third converbal form ölön in example 110a, where the Perfective Converb –An in conjunction with the auxiliary xаал (lit. ‘stay’) provides a resultative meaning). Some of these converbs, such as the Perfective Converb and the Imperfective Converb, are unanalyzable, while others, most importantly the Privative Converb –BAkkA, are historically derived from a case-marked participle 1 . As seen from examples (110a-c), the converbal subjects are most often coreferential with the subject of the main verb; however, occasionally converbs can occur in DS constructions as well (110d).",
+        "sah": "Эбээ айанныы сылдьан эмчиттэргэ эмчиттэр билэллэр диэбитиҥ дуо эбээ.",
+        "en": "Grandmother, when you journeyed to the healers, the healers knew, you said, right? [grandmother[VOC] journey–VR–IPF.CVB IPFV–PF.CVB medicine–AGNR–PL–DAT medicine–AGNR–PL know–PRSPT–PL say–PSTPT–POSS.2SG Q grandmother[VOC]]",
+        "id": 4,
+        "parses": [
+            {"pos": 1, "text": "Эбээ", "type": "title", "fst": "ymv", "root": "эбээ", "affixes": ["+INJ"]},
+            {"pos": 2, "text": "айанныы", "type": "lowercase", "fst": "ymv", "root": "айан", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+            {"pos": 3, "text": "сылдьан", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 4, "text": "эмчиттэргэ", "type": "lowercase", "fst": "ymv", "root": "эмп", "affixes": ["+N", "+NMLZ#1", "+PL", "+DAT"]},
+            {"pos": 5, "text": "эмчиттэр", "type": "lowercase", "fst": "ymv", "root": "эмп", "affixes": ["+N", "+NMLZ#1", "+PL"]},
+            {"pos": 6, "text": "билэллэр", "type": "lowercase", "fst": "ymv", "root": "бил", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 7, "text": "диэбитиҥ", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+PART_PAST", "+POSS.2SG"]},
+            {"pos": 8, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо", "affixes": ["+Part"]},
+            {"pos": 9, "text": "эбээ", "type": "lowercase", "fst": "ymv", "root": "эбээ", "affixes": ["+INJ"]},
+            {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 274,
+        "chapter": "3.5 Person-marked converbs in Sakha",
+        "topic": "3.5.1 Converbs in Sakha",
+        "section": "111с",
+        "notes": "The Imperfective Converb is used very rarely with subject agreement suffixes: of the approximately 400 instances of this converb in my corpus (once again excluding use with auxiliaries), only five instances are with person markers: twice with a 1SG predicative suffix and three times with the plural suffix. The Immediate Precedence Converb occurs only once in my corpus of texts, but it is easily obtained in elicitation, both with and without person marking. With the exception of the Immediate-Precedence Converb –A:t, which takes possessive suffixes, the subject agreement markers found on converbs belong to the set of predicative person markers (cf. Table 3.11 in section 3.3.1.1, and Table 3.19). Since the 3SG predicative person suffix is zero, 3SG subject agreement cannot be marked on converbs with the exception of the Immediate Precedence Converb. Person-marked converbs in Sakha are most often coreferential with the subject of the main clause; the additional subject agreement marking is therefore redundant (111a-c).",
+        "sah": "Тыл этэн туран биэрээрибин харчыбын эҥин ыла кэлэн олоробун.",
+        "en": "I came in order to say a speech and to receive my money etc. [word say–PF.CVB stand–PF.CVB BEN–PURP–PRED.1SG money–ACC.1SG etc. take–IPF.CVB come–PF.CVB sit–IPF.CVB–PRED.1SG]",
+        "id": 7,
+        "parses": [
+            {"pos": 1, "text": "Тыл", "type": "title", "fst": "ymv", "root": "тыл", "affixes": ["+N"]},
+            {"pos": 2, "text": "этэн", "type": "lowercase", "fst": "ymv", "root": "эт", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 3, "text": "туран", "type": "lowercase", "fst": "ymv", "root": "тур", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 4, "text": "биэрээрибин", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+CONV#5", "+1SG"]},
+            {"pos": 5, "text": "харчыбын", "type": "lowercase", "fst": "ymv", "root": "харчы", "affixes": ["+N", "+POSS.1SG", "+ACC"]},
+            {"pos": 6, "text": "эҥин", "type": "lowercase", "fst": "ymv", "root": "эҥин", "affixes": ["+Adj"]},
+            {"pos": 7, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 8, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 9, "text": "олоробун", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+PART_PRES", "+1SG"]},
+            {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 275,
+        "chapter": "3.5 Person-marked converbs in Sakha",
+        "topic": "3.5.1 Converbs in Sakha",
+        "section": "112b",
+        "notes": "The Imperfective Converb can be reduplicated to give a meaning of duration, iterativity, or distribution; and it is only in this reduplicated use that it takes subject agreement markers (112a). This restriction in person-marking is probably due to the fact that in conjunction with predicative first and second person suffixes the Imperfective Converb expresses present tense for the first and second person (112b).",
+        "sah": "Нэһиилэ хаамабын.",
+        "en": "I walk with great difficulty. [barely walk–IPF.CVB–PRED.1SG]",
+        "id": 9,
+        "parses": [
+            {"pos": 1, "text": "Нэһиилэ", "type": "title", "fst": "ymv", "root": "нэһиилэ", "affixes": ["+Adv"]},
+            {"pos": 2, "text": "хаамабын", "type": "lowercase", "fst": "ymv", "root": "хаамп", "affixes": ["+V", "+PART_PRES", "+1SG"]},
+            {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 276,
+        "chapter": "3.5 Person-marked converbs in Sakha",
+        "topic": "3.5.1 Converbs in Sakha",
+        "section": "113b",
+        "notes": "The only Sakha converb that has a function of tracking referents in complex clauses is the Immediate-Precedence Converb –A:t, which takes no subject agreement markers when its subject is coreferential with the subject of the main verb (113a), and Possessive-Accusative suffixes plus optionally the postposition кытта ‘with’ when its subject is non-coreferential with the subject of the main clause (113b).",
+        "sah": "Дьиэбэр кэлээппин кытта ийэм эбиэти бэлэмнээбитинэн барар.",
+        "en": "As soon as I come home, my mother starts cooking lunch. [house–DAT.1SG come–IMM.CVB–ACC.1SG join–IPF.CVB mother–POSS.1SG lunch–ACC ready–VR–PSTPT–INS.3SG INCP–PRSPT]",
+        "id": 11,
+        "parses": [
+            {"pos": 1, "text": "Дьиэбэр", "type": "title", "fst": "ymv", "root": "дьиэ", "affixes": ["+N", "+POSS.1SG", "+DAT"]},
+            {"pos": 2, "text": "кэлээппин", "type": "lowercase", "fst": "ymv", "root": "кэл", "affixes": ["+V", "+CONV#6", "+1SG"]},
+            {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 4, "text": "ийэм", "type": "lowercase", "fst": "ymv", "root": "ийэ", "affixes": ["+N", "+POSS.1SG"]},
+            {"pos": 5, "text": "эбиэти", "type": "lowercase", "fst": "ymv", "root": "эбиэт", "affixes": ["+N", "+ACC"]},
+            {"pos": 6, "text": "бэлэмнээбитинэн", "type": "lowercase", "fst": "ymv", "root": "бэлэм", "affixes": ["+Adj", "+VRBLZ#1", "+PART_PAST", "+POSS.3SG", "+INST"]},
+            {"pos": 7, "text": "барар", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }
+]

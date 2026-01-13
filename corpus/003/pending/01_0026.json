@@ -1,0 +1,360 @@
+[
+
+
+
+
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 38,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Вместо деепричастия тура в аналитических образованиях подобного рода может употребляться деепричастие түһэ (от основы түс- 'падать, сваливаться, спускаться, сходить'): түһэ эккирээ-. В этом случае аналитической формой будет передаваться то же самое видовое значение моментальности, внезапности действия, но только имеющее направленность сверху вниз.",
+      "sah": "Сулбу хаамтаран сургулдьутан кэлэн табыллан эрэр сонуок саҕатыгар түһэ эккирээтэ.",
+      "ru": "Быстрым шагом подъехав на ней к пашне, которую начали распахивать, он быстро соскочил с нее.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Сулбу", "type": "title", "fst": "ymv", "root": "сулбу", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "хаамтаран", "type": "lowercase", "fst": "ymv", "root": "хаамп", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+         {"pos": 3, "text": "сургулдьутан", "type": "lowercase", "fst": "yma", "root": "сургулдьутаа", "affixes": ["+V", "+REFL"]},
+         {"pos": 3, "text": "сургулдьутан", "type": "lowercase", "fst": "yma", "root": "сургулдьутан", "affixes": ["+N"]},
+         {"pos": 4, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "табыллан", "type": "lowercase", "fst": "ymv", "root": "тап", "affixes": ["+V", "+PASS", "+CONV#1"]},
+         {"pos": 6, "text": "эрэр", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": "сонуок", "type": "lowercase", "fst": "ymv", "root": "сонуок", "affixes": ["+N"]},
+         {"pos": 8, "text": "саҕатыгар", "type": "lowercase", "fst": "ymv", "root": "сах", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 8, "text": "саҕатыгар", "type": "lowercase", "fst": "ymv", "root": "саҕа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 8, "text": "саҕатыгар", "type": "lowercase", "fst": "ymv", "root": "саҕа", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 8, "text": "саҕатыгар", "type": "lowercase", "fst": "ymv", "root": "саҕа", "affixes": ["+POST", "+POSS.3SG", "+DAT"]},
+         {"pos": 9, "text": "түһэ", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "эккирээтэ", "type": "lowercase", "fst": "ymv", "root": "эккирээ", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 38,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Вместо деепричастия тура в аналитических образованиях подобного рода может употребляться деепричастие түһэ (от основы түс- 'падать, сваливаться, спускаться, сходить'): түһэ эккирээ-. В этом случае аналитической формой будет передаваться то же самое видовое значение моментальности, внезапности действия, но только имеющее направленность сверху вниз.",
+      "sah": "Контролер киирээтин кытта үөһэ сытааччы пассажирдар түһэ эккирээтилэр.",
+      "ru": "Как только зашел контролер, верхние пассажиры быстро спустились вниз. ",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Контролер", "type": "title", "fst": "ymv", "root": "контролер", "affixes": ["+N"]},
+         {"pos": 2, "text": "киирээтин", "type": "lowercase", "fst": "yma", "root": "киирээтин", "affixes": ["+V"]},
+         {"pos": 2, "text": "киирээтин", "type": "lowercase", "fst": "yma", "root": "киирээтий", "affixes": ["+V", "+REFL"]},
+         {"pos": 2, "text": "киирээтин", "type": "lowercase", "fst": "yma", "root": "киирээт", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "киирээтин", "type": "lowercase", "fst": "yma", "root": "киирээ", "affixes": ["+V", "+IMP#1.3SG"]},
+         {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "үөһэ", "type": "lowercase", "fst": "ymv", "root": "үөс", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 4, "text": "үөһэ", "type": "lowercase", "fst": "ymv", "root": "үөһэ", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "үөһэ", "type": "lowercase", "fst": "ymv", "root": "үөһэ", "affixes": ["+N"]},
+         {"pos": 5, "text": "сытааччы", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+N", "+VRBLZ#3", "+SUDD#1", "+ADVZ#2"]},
+         {"pos": 5, "text": "сытааччы", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+N", "+VRBLZ#3", "+HAB#1"]},
+         {"pos": 5, "text": "сытааччы", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+V", "+HAB#1"]},
+         {"pos": 6, "text": "пассажирдар", "type": "lowercase", "fst": "ymv", "root": "пассажир", "affixes": ["+N", "+PL"]},
+         {"pos": 7, "text": "түһэ", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 8, "text": "эккирээтилэр", "type": "lowercase", "fst": "ymv", "root": "эккирээ", "affixes": ["+V", "+PST.3PL"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 38,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Куота көт, тахса кет- с формой деепричастия на -а от глаго- лов куот- убегать, сбегать, и таҕыс- выходить со спрятаемым глаголом кет- взлетать, улетать со значением быстроты совершения действия.",
+      "sah": "Оччоҕуна Надежда Алексеевна, дорооболоһо охсоот, хаамыытын түргэтэтэн куота көтөрө.",
+      "ru": "В таких случаях Надежда Алексеевна, наскоро поздоровавшись, ускорив шаг, убегала (прочь).",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Оччоҕуна", "type": "title", "fst": "yma", "root": "оччоҕуна", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "Оччоҕуна", "type": "title", "fst": "yma", "root": "оччоҕуна", "affixes": ["+N"]},
+         {"pos": 1, "text": "Оччоҕуна", "type": "title", "fst": "yma", "root": "оччо", "affixes": ["+N", "+POSS.2SG", "+PRTV"]},
+         {"pos": 2, "text": "Надежда", "type": "title", "fst": "yma", "root": "надежда", "affixes": ["+N"]},
+         {"pos": 2, "text": "Надежда", "type": "title", "fst": "yma", "root": "надежд", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "Алексеевна", "type": "title", "fst": "yma", "root": "алексеевна", "affixes": ["+N"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 5, "text": "дорооболоһо", "type": "lowercase", "fst": "ymv", "root": "дорообо", "affixes": ["+INJ", "+VRBLZ#1", "+ADJZ#14", "+POSS.3SG"]},
+         {"pos": 5, "text": "дорооболоһо", "type": "lowercase", "fst": "ymv", "root": "дорообо", "affixes": ["+INJ", "+VRBLZ#1", "+RECP", "+CONV#2"]},
+         {"pos": 6, "text": "охсоот", "type": "lowercase", "fst": "ymv", "root": "оҕус", "affixes": ["+V", "+CONV#6"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 8, "text": "хаамыытын", "type": "lowercase", "fst": "ymv", "root": "хаамп", "affixes": ["+V", "+NMLZ#2", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "түргэтэтэн", "type": "lowercase", "fst": "ymv", "root": "түргэтээ", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+         {"pos": 10, "text": "куота", "type": "lowercase", "fst": "ymv", "root": "куот", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 11, "text": "көтөрө", "type": "lowercase", "fst": "ymv", "root": "көтөр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 11, "text": "көтөрө", "type": "lowercase", "fst": "ymv", "root": "көт", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 11, "text": "көтөрө", "type": "lowercase", "fst": "ymv", "root": "көт", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+
+
+
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 38,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Тахса ой- с формой деепричастия на -а от глагола таҕыс- выходить и спрягаемой формой глагола ой- прыгнуть, выскочить также передает значение резкости, моментальности действия.",
+      "sah": "Ньырбачаан тахса ойбута.",
+      "ru": "Нирбачан мгновенно выбежала.",
+      "id": 14,
+      "parses": [
+         {"pos": 1, "text": "Ньырбачаан", "type": "title", "fst": "yma", "root": "ньырба", "affixes": ["+Adj", "+DIM#2"]},
+         {"pos": 1, "text": "Ньырбачаан", "type": "title", "fst": "yma", "root": "ньырба", "affixes": ["+Adv", "+DIM#2"]},
+         {"pos": 1, "text": "Ньырбачаан", "type": "title", "fst": "yma", "root": "ньырба", "affixes": ["+N", "+DIM#2"]},
+         {"pos": 2, "text": "тахса", "type": "lowercase", "fst": "ymv", "root": "таҕыс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "ойбута", "type": "lowercase", "fst": "ymv", "root": "ой", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+
+
+
+
+
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 39,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Вместо глагола ас- в данном случае может употребляться и глагол арый- с тем же значением открывать, раскрывать.",
+      "sah": "Чэчиирэп альбому арыйа баттаата.",
+      "ru": "Чечиров внезапно раскрыл альбом.",
+      "id": 21,
+      "parses": [
+         {"pos": 1, "text": "Чэчиирэп", "type": "title", "fst": "yma", "root": "чэчиирэп", "affixes": ["+N"]},
+         {"pos": 2, "text": "альбому", "type": "lowercase", "fst": "yma", "root": "альбому", "affixes": ["+N"]},
+         {"pos": 3, "text": "арыйа", "type": "lowercase", "fst": "ymv", "root": "арыы", "affixes": ["+N", "+VRBLZ#2", "+CONV#2"]},
+         {"pos": 3, "text": "арыйа", "type": "lowercase", "fst": "ymv", "root": "арый", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "баттаата", "type": "lowercase", "fst": "ymv", "root": "баттаа", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 39,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Вместо глагола ас- в данном случае может употребляться и глагол арый- с тем же значением открывать, раскрывать.",
+      "sah": "Баһаалыста, диэт Валерий Иванович олорор дьиэтин аанын Охонооһой иннигэр арыйа баттаата.",
+      "ru": "Сказав 'Пожалуйста'!, Валерий Иванович настежь раскрыл перед Афанасием дверь своей комнаты.",
+      "id": 22,
+      "parses": [
+         {"pos": 1, "text": "Баһаалыста", "type": "title", "fst": "ymv", "root": "баһаалыста", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 3, "text": "диэт", "type": "lowercase", "fst": "yma", "root": "диэт", "affixes": ["+N"]},
+         {"pos": 4, "text": "Валерий", "type": "title", "fst": "yma", "root": "валери", "affixes": ["+N", "+VRBLZ#2"]},
+         {"pos": 5, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович", "affixes": ["+N"]},
+         {"pos": 6, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 6, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олой", "affixes": ["+V", "+ADJZ#17", "+VRBLZ#4a"]},
+         {"pos": 7, "text": "дьиэтин", "type": "lowercase", "fst": "ymv", "root": "дьиэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL"]},
+         {"pos": 7, "text": "дьиэтин", "type": "lowercase", "fst": "ymv", "root": "дьиэ", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 8, "text": "аанын", "type": "lowercase", "fst": "ymv", "root": "аан", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "Охонооһой", "type": "title", "fst": "yma", "root": "охоноозд", "affixes": ["+N", "+POSS.3SG", "+INT"]},
+         {"pos": 9, "text": "Охонооһой", "type": "title", "fst": "yma", "root": "охонооз", "affixes": ["+N", "+POSS.3SG", "+INT"]},
+         {"pos": 9, "text": "Охонооһой", "type": "title", "fst": "yma", "root": "охоноост", "affixes": ["+N", "+POSS.3SG", "+INT"]},
+         {"pos": 9, "text": "Охонооһой", "type": "title", "fst": "yma", "root": "охоноос", "affixes": ["+N", "+POSS.3SG", "+INT"]},
+         {"pos": 9, "text": "Охонооһой", "type": "title", "fst": "yma", "root": "охонооһой", "affixes": ["+Adj"]},
+         {"pos": 9, "text": "Охонооһой", "type": "title", "fst": "yma", "root": "охонооһо", "affixes": ["+N", "+VRBLZ#2"]},
+         {"pos": 9, "text": "Охонооһой", "type": "title", "fst": "yma", "root": "охонооч", "affixes": ["+N", "+POSS.3SG", "+INT"]},
+         {"pos": 10, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "инни", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 10, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "илин", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 10, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "илин", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 11, "text": "арыйа", "type": "lowercase", "fst": "ymv", "root": "арыы", "affixes": ["+N", "+VRBLZ#2", "+CONV#2"]},
+         {"pos": 11, "text": "арыйа", "type": "lowercase", "fst": "ymv", "root": "арый", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 12, "text": "баттаата", "type": "lowercase", "fst": "ymv", "root": "баттаа", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 39,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Сита баттаа-, сочетание деепричастия от глагола сит- нять с глаголом баттаа- дает сложную глагольную форму с видовым значением ускоренного действия догнать, настичь быстро.",
+      "sah": "Госпитальга эмтэнэ түһэн баран биһигини ситэ баттыан.",
+      "ru": "ҥҕ— Подлечившись в госпитале, ты быстро догонишь нас.",
+      "id": 24,
+      "parses": [
+         {"pos": 1, "text": "Госпитальга", "type": "title", "fst": "yma", "root": "госпитальга", "affixes": ["+N"]},
+         {"pos": 2, "text": "эмтэнэ", "type": "lowercase", "fst": "ymv", "root": "эмп", "affixes": ["+N", "+VRBLZ#1", "+REFL", "+CONV#2"]},
+         {"pos": 3, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 3, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түһээ", "affixes": ["+V", "+REFL"]},
+         {"pos": 4, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "биһигини", "type": "lowercase", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 6, "text": "ситэ", "type": "lowercase", "fst": "ymv", "root": "сит", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "баттыан", "type": "lowercase", "fst": "ymv", "root": "баттаа", "affixes": ["+V", "+PART_FUT", "+CONV#1"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 39,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Сита баттаа-, сочетание деепричастия от глагола сит- нять с глаголом баттаа- дает сложную глагольную форму с видовым значением ускоренного действия догнать, настичь быстро.",
+      "sah": "Дьоммутун Көчүктэйгэ тиийэ иликтэринэ ситэ баттаатыбыт.",
+      "ru": "Наших мы догнали в пути, когда они еще не доехали до Кечюктея.",
+      "id": 25,
+      "parses": [
+         {"pos": 1, "text": "Дьоммутун", "type": "title", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+POSS.1PL", "+ACC"]},
+         {"pos": 2, "text": "Көчүктэйгэ", "type": "title", "fst": "yma", "root": "көчүктэйгэ", "affixes": ["+N"]},
+         {"pos": 2, "text": "Көчүктэйгэ", "type": "title", "fst": "yma", "root": "көчүктэй", "affixes": ["+Adj", "+DAT"]},
+         {"pos": 3, "text": "тиийэ", "type": "lowercase", "fst": "ymv", "root": "тиий", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "иликтэринэ", "type": "lowercase", "fst": "ymv", "root": "илик", "affixes": ["+Part", "+POSS.3PL", "+PRTV"]},
+         {"pos": 4, "text": "иликтэринэ", "type": "lowercase", "fst": "ymv", "root": "илик", "affixes": ["+Part", "+PL", "+POSS.3SG", "+PRTV"]},
+         {"pos": 5, "text": "ситэ", "type": "lowercase", "fst": "ymv", "root": "сит", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 6, "text": "баттаатыбыт", "type": "lowercase", "fst": "ymv", "root": "баттаа", "affixes": ["+V", "+PST.1PL"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+
+
+
+
+
+
+
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 40,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Үүйэ-хаайа тут- или бүүйэ-хаайа тут- (деепричастие на -а от основ үүй- и бүүй- сшивать, скреплять, связывать и хаай- 'загонять, закрывать, заточать, задерживать') - 6) перен. обступать, охватывать, захватывать, беспокоить, тревожить.",
+      "sah": "Оттон былааччыйам бэлэм буолтугар, өссө тигиэх санаа үүйэ-хаайа туппута.",
+      "ru": "Когда закончила шить платье, меня охватило новое желание еще шить.",
+      "id": 34,
+      "parses": [
+         {"pos": 1, "text": "Оттон", "type": "title", "fst": "ymv", "root": "оттон", "affixes": ["+CONJ"]},
+         {"pos": 2, "text": "былааччыйам", "type": "lowercase", "fst": "ymv", "root": "былааччыйа", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 3, "text": "бэлэм", "type": "lowercase", "fst": "ymv", "root": "бэлэм", "affixes": ["+Adj"]},
+         {"pos": 4, "text": "буолтугар", "type": "lowercase", "fst": "yma", "root": "буолуу", "affixes": ["+Adj", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 4, "text": "буолтугар", "type": "lowercase", "fst": "yma", "root": "буолтаа", "affixes": ["+V", "+NMLZ#5", "+POSS.3SG", "+DAT"]},
+         {"pos": 4, "text": "буолтугар", "type": "lowercase", "fst": "yma", "root": "буолтук", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 4, "text": "буолтугар", "type": "lowercase", "fst": "yma", "root": "буолтуй", "affixes": ["+V", "+NMLZ#5", "+POSS.3SG", "+DAT"]},
+         {"pos": 4, "text": "буолтугар", "type": "lowercase", "fst": "yma", "root": "буолту", "affixes": ["+Adv", "+POSS.2SG", "+DAT"]},
+         {"pos": 4, "text": "буолтугар", "type": "lowercase", "fst": "yma", "root": "буолту", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 6, "text": "өссө", "type": "lowercase", "fst": "ymv", "root": "өссө", "affixes": ["+Adv"]},
+         {"pos": 7, "text": "тигиэх", "type": "lowercase", "fst": "ymv", "root": "тик", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 8, "text": "санаа", "type": "lowercase", "fst": "ymv", "root": "санаа", "affixes": ["+N"]},
+         {"pos": 9, "text": "үүйэ", "type": "lowercase", "fst": "ymv", "root": "үүй", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 11, "text": "хаайа", "type": "lowercase", "fst": "ymv", "root": "хаай", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 12, "text": "туппута", "type": "lowercase", "fst": "ymv", "root": "тут", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 40,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Үүйэ-хаайа тут- или бүүйэ-хаайа тут- (деепричастие на -а от основ үүй- и бүүй- сшивать, скреплять, связывать и хаай- 'загонять, закрывать, заточать, задерживать') - 6) перен. обступать, охватывать, захватывать, беспокоить, тревожить.",
+      "sah": "Бииргэ олорор дьоно: 'Туохта эмэ ааҕан иһитиннэр', — диэн үүйэ-хаайа туттахтарына: 'Чочуйа иликпин', диир идэлээх.",
+      "ru": "Когда его обступали соседи по комнате: 'Почитай что-нибудь', — он обычно отвечал: 'Не отточил еще'.",
+      "id": 35,
+      "parses": [
+         {"pos": 1, "text": "Бииргэ", "type": "title", "fst": "ymv", "root": "биир", "affixes": ["+Num", "+DAT"]},
+         {"pos": 2, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 2, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олой", "affixes": ["+V", "+ADJZ#17", "+VRBLZ#4a"]},
+         {"pos": 3, "text": "дьоно", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 4, "text": ":", "type": "colon", "fst": "ymv"},
+         {"pos": 5, "text": "'", "type": "quotation", "fst": "ymv"},
+         {"pos": 6, "text": "Туохта", "type": "title", "fst": "ymv", "root": "туох", "affixes": ["+Pron", "+PRTV"]},
+         {"pos": 6, "text": "Туохта", "type": "title", "fst": "ymv", "root": "туох", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 6, "text": "Туохта", "type": "title", "fst": "ymv", "root": "туой", "affixes": ["+V", "+NMLZ#6", "+PRTV"]},
+         {"pos": 7, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "эмэ", "affixes": ["+Part"]},
+         {"pos": 7, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "эмп", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 7, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "эм", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+NEG"]},
+         {"pos": 8, "text": "ааҕан", "type": "lowercase", "fst": "ymv", "root": "аах", "affixes": ["+Adj", "+VRBLZ#3", "+REFL"]},
+         {"pos": 8, "text": "ааҕан", "type": "lowercase", "fst": "ymv", "root": "аах", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": "иһитиннэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL", "+CAUS"]},
+         {"pos": 9, "text": "иһитиннэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL", "+CONV_COND#1"]},
+         {"pos": 9, "text": "иһитиннэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL", "+PL"]},
+         {"pos": 9, "text": "иһитиннэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+CSTV", "+REFL", "+CAUS"]},
+         {"pos": 9, "text": "иһитиннэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+CSTV", "+REFL", "+CONV_COND#1"]},
+         {"pos": 9, "text": "иһитиннэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+CSTV", "+REFL", "+PL"]},
+         {"pos": 9, "text": "иһитиннэр", "type": "lowercase", "fst": "ymv", "root": "иһит", "affixes": ["+V", "+REFL", "+CAUS"]},
+         {"pos": 10, "text": "'", "type": "quotation", "fst": "ymv"},
+         {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 12, "text": "—", "type": "dash", "fst": "ymv"},
+         {"pos": 13, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 14, "text": "үүйэ", "type": "lowercase", "fst": "ymv", "root": "үүй", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 15, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 16, "text": "хаайа", "type": "lowercase", "fst": "ymv", "root": "хаай", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 16, "text": "хаайа", "type": "lowercase", "fst": "ymv", "root": "хаа", "affixes": ["+N", "+VRBLZ#2", "+CONV#2"]},
+         {"pos": 17, "text": "туттахтарына", "type": "lowercase", "fst": "ymv", "root": "тут", "affixes": ["+V", "+CONV_COND#2", "+POSS.3PL", "+PRTV"]},
+         {"pos": 17, "text": "туттахтарына", "type": "lowercase", "fst": "ymv", "root": "тут", "affixes": ["+V", "+CONV_COND#2", "+PL", "+POSS.3SG", "+PRTV"]},
+         {"pos": 18, "text": ":", "type": "colon", "fst": "ymv"},
+         {"pos": 19, "text": "'", "type": "quotation", "fst": "ymv"},
+         {"pos": 20, "text": "Чочуйа", "type": "title", "fst": "ymv", "root": "чочу", "affixes": ["+N", "+VRBLZ#2", "+CONV#2"]},
+         {"pos": 21, "text": "иликпин", "type": "lowercase", "fst": "ymv", "root": "илик", "affixes": ["+Part", "+POSS.1SG", "+ACC"]},
+         {"pos": 21, "text": "иликпин", "type": "lowercase", "fst": "ymv", "root": "илик", "affixes": ["+Part", "+1SG"]},
+         {"pos": 21, "text": "иликпин", "type": "lowercase", "fst": "ymv", "root": "илий", "affixes": ["+V", "+ADJZ#16", "+POSS.1SG", "+ACC"]},
+         {"pos": 21, "text": "иликпин", "type": "lowercase", "fst": "ymv", "root": "илий", "affixes": ["+V", "+ADJZ#16", "+1SG"]},
+         {"pos": 21, "text": "иликпин", "type": "lowercase", "fst": "ymv", "root": "илий", "affixes": ["+V", "+NMLZ#5", "+POSS.1SG", "+ACC"]},
+         {"pos": 21, "text": "иликпин", "type": "lowercase", "fst": "ymv", "root": "илий", "affixes": ["+V", "+NMLZ#5", "+1SG"]},
+         {"pos": 22, "text": "'", "type": "quotation", "fst": "ymv"},
+         {"pos": 23, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 24, "text": "диир", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 25, "text": "идэлээх", "type": "lowercase", "fst": "ymv", "root": "идэ", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 26, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+
+
+
+
+
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 41,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 2. Деепричастие на -а/-ын",
+      "section": 26,
+      "notes": "Бете бэрдэр- (деепричастие от основы бет- икать + глагольная основа. в форме побудительного залога бэрдэр- 'заставить, позволить давать') со значением остановиться, умолкнуть на полуслове.",
+      "sah": "Кеша ити тылы иһиттэ буолан баран, хайдах эрэ бөтө бэрдэрэн хаалла.",
+      "ru": "Кеша, хотя и услышал это слово, но как-то умолк на полуслове.",
+      "id": 42,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша", "affixes": ["+N"]},
+         {"pos": 2, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "тылы", "type": "lowercase", "fst": "ymv", "root": "тыл", "affixes": ["+N", "+ACC"]},
+         {"pos": 4, "text": "иһиттэ", "type": "lowercase", "fst": "ymv", "root": "иһит", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 4, "text": "иһиттэ", "type": "lowercase", "fst": "ymv", "root": "иһит", "affixes": ["+V", "+REFL", "+CONV#2"]},
+         {"pos": 5, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 8, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хайдах", "affixes": ["+Pron"]},
+         {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 10, "text": "бөтө", "type": "lowercase", "fst": "ymv", "root": "бөт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 11, "text": "бэрдэрэн", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+CAUS", "+CONV#1"]},
+         {"pos": 12, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаалла", "affixes": ["+Adj"]},
+         {"pos": 12, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаалла", "affixes": ["+Adv"]},
+         {"pos": 12, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаалла", "affixes": ["+N"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

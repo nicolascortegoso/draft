@@ -1,0 +1,36 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 476,
+      "chapter": "Союзы",
+      "topic": "Подчинительные союзы",
+      "section": 1002,
+      "notes": "Относительные союзные слова могут спариваться с вопросительно-относительными местоименными словами. Их можно назвать парными относительными союзными словами. У них первый компонент употребляется в придаточном предложении, а второй — в главном.",
+      "sah": "Төһөнөн дьиэтигэр чугаһыыр, Липа туһунан саныыр даҕаны, оччонон ол киһи сырдаан кэрэтийэн көһүннэ.",
+      "ru": "Чем ближе он подъезжает к дому и чем сильнее думает о Липе, тем больше этот человек светлеет лицом и хорошеет.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Төһөнөн", "type": "title", "fst": "fst", "root": "төһө", "affixes": ["+Pron", "+INST"]},
+         {"pos": 2, "text": "дьиэтигэр", "type": "lowercase", "fst": "fst", "root": "дьиэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 2, "text": "дьиэтигэр", "type": "lowercase", "fst": "fst", "root": "дьиэ", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 3, "text": "чугаһыыр", "type": "lowercase", "fst": "fst", "root": "чугас", "affixes": ["+Adj", "+VRBLZ#3", "+PART_PRES"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "Липа", "type": "title", "fst": "fst"},
+         {"pos": 6, "text": "туһунан", "type": "lowercase", "fst": "fst", "root": "тус", "affixes": ["+N", "+INST"]},
+         {"pos": 6, "text": "туһунан", "type": "lowercase", "fst": "fst", "root": "тус", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 7, "text": "саныыр", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": "саныыр", "type": "lowercase", "fst": "fst", "root": "сан", "affixes": ["+N", "+VRBLZ#3", "+PART_PRES"]},
+         {"pos": 8, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны", "affixes": ["+Part"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 10, "text": "оччонон", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DEF#2", "+INST"]},
+         {"pos": 11, "text": "ол", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 12, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+         {"pos": 13, "text": "сырдаан", "type": "lowercase", "fst": "fst", "root": "сырдаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 13, "text": "сырдаан", "type": "lowercase", "fst": "fst", "root": "сыр", "affixes": ["+IMIT", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 14, "text": "кэрэтийэн", "type": "lowercase", "fst": "fst", "root": "кэрэ", "affixes": ["+Adj", "+VRBLZ#5", "+CONV#1"]},
+         {"pos": 15, "text": "көһүннэ", "type": "lowercase", "fst": "fst", "root": "көһүн", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 15, "text": "көһүннэ", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["+V", "+RECP", "+REFL", "+PST.3SG"]},
+         {"pos": 16, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

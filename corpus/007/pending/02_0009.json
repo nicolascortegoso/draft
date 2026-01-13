@@ -1,0 +1,66 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 81,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Баҕардаҕына.",
+      "section": 9,
+      "notes": "В качестве модального слова употребляется баҕардаҕына — вторая форма условного наклонения (условно-притяжательная) от баҕар. Это слово ныне довольно широко распространено почти во всех говорах якутского языка. Оно выражает предположение и соответствует русским модальным словам может, пожалуй, может быть.",
+      "sah": "Эн төһө да үтүөнү баҕаартыҥ иннигэр, баҕардаҕына, таба көппөтүҥ буолуо.",
+      "ru": "Как бы ты ни желал добра, пожалуй, не сумеешь набрести на нужное место.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "төһө", "type": "lowercase", "fst": "fst", "root": "төһө", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 4, "text": "үтүөнү", "type": "lowercase", "fst": "fst", "root": "үтүө", "affixes": ["+Adj", "+ACC"]},
+         {"pos": 5, "text": "баҕаартыҥ", "type": "lowercase", "fst": "fst"},
+         {"pos": 6, "text": "иннигэр", "type": "lowercase", "fst": "fst", "root": "инни", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 6, "text": "иннигэр", "type": "lowercase", "fst": "fst", "root": "илин", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 6, "text": "иннигэр", "type": "lowercase", "fst": "fst", "root": "илин", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "баҕардаҕына", "type": "lowercase", "fst": "fst", "root": "баҕардаҕына", "affixes": ["+MOD"]},
+         {"pos": 8, "text": "баҕардаҕына", "type": "lowercase", "fst": "fst", "root": "баҕа", "affixes": ["+N", "+VRBLZ#4", "+CONV_COND#2", "+POSS.3SG", "+PRTV"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 10, "text": "таба", "type": "lowercase", "fst": "fst", "root": "тап", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 10, "text": "таба", "type": "lowercase", "fst": "fst", "root": "тап", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "таба", "type": "lowercase", "fst": "fst", "root": "таба", "affixes": ["+N"]},
+         {"pos": 11, "text": "көппөтүҥ", "type": "lowercase", "fst": "fst", "root": "көппө", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADVZ#1", "+POSS.2SG"]},
+         {"pos": 11, "text": "көппөтүҥ", "type": "lowercase", "fst": "fst", "root": "көппө", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+IMP#1.2PL"]},
+         {"pos": 11, "text": "көппөтүҥ", "type": "lowercase", "fst": "fst", "root": "көп", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 11, "text": "көппөтүҥ", "type": "lowercase", "fst": "fst", "root": "көп", "affixes": ["+V", "+NEG", "+PST.2SG"]},
+         {"pos": 11, "text": "көппөтүҥ", "type": "lowercase", "fst": "fst", "root": "көт", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 11, "text": "көппөтүҥ", "type": "lowercase", "fst": "fst", "root": "көт", "affixes": ["+V", "+NEG", "+PST.2SG"]},
+         {"pos": 12, "text": "буолуо", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+
+
+
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 81,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Баҕардаҕына.",
+      "section": 9,
+      "notes": "В качестве модального слова употребляется баҕардаҕына — вторая форма условного наклонения (условно-притяжательная) от баҕар. Это слово ныне довольно широко распространено почти во всех говорах якутского языка. Оно выражает предположение и соответствует русским модальным словам может, пожалуй, может быть.",
+      "sah": "Баҕардаҕына, сүрүн объектары түөрэлэрин уҥуоргу биэрэккэ көһөртөрүөхтэрэ",
+      "ru": "Возможно, заставят перенести все основные объекты на противоположный берег.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Баҕардаҕына", "type": "title", "fst": "fst", "root": "баҕардаҕына", "affixes": ["+MOD"]},
+         {"pos": 1, "text": "Баҕардаҕына", "type": "title", "fst": "fst", "root": "баҕа", "affixes": ["+N", "+VRBLZ#4", "+CONV_COND#2", "+POSS.3SG", "+PRTV"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "сүрүн", "type": "lowercase", "fst": "fst", "root": "сүрүн", "affixes": ["+N"]},
+         {"pos": 3, "text": "сүрүн", "type": "lowercase", "fst": "fst", "root": "сүр", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "объектары", "type": "lowercase", "fst": "fst"},
+         {"pos": 5, "text": "түөрэлэрин", "type": "lowercase", "fst": "fst"},
+         {"pos": 6, "text": "уҥуоргу", "type": "lowercase", "fst": "fst", "root": "уҥуор", "affixes": ["+Adv", "+ADJZ#4"]},
+         {"pos": 7, "text": "биэрэккэ", "type": "lowercase", "fst": "fst", "root": "биэрэк", "affixes": ["+N", "+DAT"]},
+         {"pos": 7, "text": "биэрэккэ", "type": "lowercase", "fst": "fst", "root": "биэрэк", "affixes": ["+N", "+DIM#3"]},
+         {"pos": 8, "text": "көһөртөрүөхтэрэ", "type": "lowercase", "fst": "fst", "root": "көс", "affixes": ["+V", "+CSTV", "+CAUS", "+PART_FUT", "+PL", "+POSS.3SG"]}
+      ]
+   }
+]

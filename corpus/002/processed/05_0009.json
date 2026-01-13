@@ -1,0 +1,103 @@
+[
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 176,
+        "chapter": "Глава II. Условное наклонение",
+        "topic": "1. Первая форма условного наклонения. Значение первой формы условного наклонения",
+        "section": 9,
+        "notes": "2) На сочетание с формой прошедшего повествовательного времени:",
+        "sah": "Мин биир мүнүүтэни хойутаабытым буоллар, эн билигин өлбүт киһи буолуоҥ этэ.",
+        "ru": "Если бы я опоздал на одну минуту, ты бы сейчас уже был мертв.",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+           {"pos": 3, "text": "мүнүүтэни", "type": "lowercase", "fst": "fst", "root": "мүнүүтэ", "affixes": ["+N", "+ACC"]},
+           {"pos": 4, "text": "хойутаабытым", "type": "lowercase", "fst": "fst", "root": "хойут", "affixes": ["+Adv", "+VRBLZ#3", "+PART_PAST", "+POSS.1SG"]},
+           {"pos": 5, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+           {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 7, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+           {"pos": 8, "text": "билигин", "type": "lowercase", "fst": "fst", "root": "билигин", "affixes": ["+Adv"]},
+           {"pos": 9, "text": "өлбүт", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+V", "+PART_PAST"]},
+           {"pos": 10, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+           {"pos": 11, "text": "буолуоҥ", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+POSS.2SG"]},
+           {"pos": 12, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+           {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },    
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 176,
+        "chapter": "Глава II. Условное наклонение",
+        "topic": "1. Первая форма условного наклонения. Значение первой формы условного наклонения",
+        "section": 9,
+        "notes": "В якутском языке широко употребительны также формы условной модальности настояще-будущего и будущего времени изъявительного наклонения.",
+        "sah": "Мин күүһүм кыайара буоллар, тугу да кэрэйиэм суоҕа этэ.",
+        "ru": "Если бы у меня хватало сил, я бы ничего не пожалел.",
+        "id": 5,
+        "parses": [
+           {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "күүһүм", "type": "lowercase", "fst": "fst", "root": "күүс", "affixes": ["+N", "+POSS.1SG"]},
+           {"pos": 3, "text": "кыайара", "type": "lowercase", "fst": "fst", "root": "кыай", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+           {"pos": 4, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+           {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 6, "text": "тугу", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 7, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 8, "text": "кэрэйиэм", "type": "lowercase", "fst": "fst", "root": "кэрэй", "affixes": ["+V", "+PART_FUT", "+POSS.1SG"]},
+           {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 10, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+           {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 176,
+        "chapter": "Глава II. Условное наклонение",
+        "topic": "1. Первая форма условного наклонения. Значение первой формы условного наклонения",
+        "section": 9,
+        "notes": "В якутском языке широко употребительны также формы условной модальности настояще-будущего и будущего времени изъявительного наклонения.",
+        "sah": "Этэҥҥэ сылдьан, кини оҕолоох-уруулаах дьахтар буолара буоллар, биһиги ийэ ууһа быстыа суоҕа этибит.",
+        "ru": "Если б она, живя благополучно, стала плодовитой женщиной, то наш род не вымер бы.",
+        "id": 6,
+        "parses": [
+           {"pos": 1, "text": "Этэҥҥэ", "type": "title", "fst": "fst", "root": "этэҥҥэ", "affixes": ["+Adv"]},
+           {"pos": 2, "text": "сылдьан", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 4, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+           {"pos": 5, "text": "оҕолоох", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 6, "text": "-", "type": "hyphen", "fst": "fst"},
+           {"pos": 7, "text": "уруулаах", "type": "lowercase", "fst": "fst", "root": "уруу", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 8, "text": "дьахтар", "type": "lowercase", "fst": "fst", "root": "дьахтар", "affixes": ["+N"]},
+           {"pos": 9, "text": "буолара", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+           {"pos": 10, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+           {"pos": 11, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 12, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "биһиги", "affixes": ["+Pron"]},
+           {"pos": 13, "text": "ийэ", "type": "lowercase", "fst": "fst", "root": "ийэ", "affixes": ["+N"]},
+           {"pos": 14, "text": "ууһа", "type": "lowercase", "fst": "fst", "root": "уус", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 15, "text": "быстыа", "type": "lowercase", "fst": "fst", "root": "быһын", "affixes": ["+V", "+PART_FUT"]},
+           {"pos": 16, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 17, "text": "этибит", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.1PL"]},
+           {"pos": 18, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 176,
+        "chapter": "Глава II. Условное наклонение",
+        "topic": "1. Первая форма условного наклонения. Значение первой формы условного наклонения",
+        "section": 9,
+        "notes": "В якутском языке широко употребительны также формы условной модальности настояще-будущего и будущего времени изъявительного наклонения.",
+        "sah": "Барыахтара буоллар, — бара таттыннар!",
+        "ru": "Если они собираются идти - пусть идут побыстрее!",
+        "id": 7,
+        "parses": [
+           {"pos": 1, "text": "Барыахтара", "type": "title", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_FUT", "+PL", "+POSS.3SG"]},
+           {"pos": 2, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+           {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 4, "text": "—", "type": "dash", "fst": "fst"},
+           {"pos": 5, "text": "бара", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 6, "text": "таттыннар", "type": "lowercase", "fst": "fst", "root": "тат", "affixes": ["+V", "+IMP#1.3PL"]},
+           {"pos": 7, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    }
+]

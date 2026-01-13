@@ -1,0 +1,32 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 162,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 11. Сорго.",
+      "section": 11,
+      "notes": "Модальное слово сорго выражает субъективную эмоционально-отрицательную оценку высказываемой действительности.",
+      "sah": "Сорго, кэлин Красовскай бөлөҕөр провокатор киирэн, кистэлэнинэн үлэлээччилэр сорохторун гестапоҕа тыллаан биэрбитэ.",
+      "ru": "К несчастью, в дальнейшем в группу Красовского проник провокатор, выдавший гестапо часть подпольщиков.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Сорго", "type": "title", "fst": "fst", "root": "сор", "affixes": ["+N", "+DAT"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "кэлин", "type": "lowercase", "fst": "fst", "root": "кэлин", "affixes": ["+N"]},
+         {"pos": 3, "text": "кэлин", "type": "lowercase", "fst": "fst", "root": "кэй", "affixes": ["+V", "+PASS"]},
+         {"pos": 4, "text": "Красовскай", "type": "title", "fst": "fst"},
+         {"pos": 5, "text": "бөлөҕөр", "type": "lowercase", "fst": "fst", "root": "бөлөх", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 6, "text": "провокатор", "type": "lowercase", "fst": "fst", "root": "провокатор", "affixes": ["+N"]},
+         {"pos": 7, "text": "киирэн", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 9, "text": "кистэлэнинэн", "type": "lowercase", "fst": "fst"},
+         {"pos": 10, "text": "үлэлээччилэр", "type": "lowercase", "fst": "fst", "root": "үлэ", "affixes": ["+N", "+VRBLZ#1", "+HAB#1", "+PL"]},
+         {"pos": 11, "text": "сорохторун", "type": "lowercase", "fst": "fst", "root": "сорох", "affixes": ["+Pron", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 12, "text": "гестапоҕа", "type": "lowercase", "fst": "fst"},
+         {"pos": 13, "text": "тыллаан", "type": "lowercase", "fst": "fst", "root": "тыл", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 14, "text": "биэрбитэ", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 14, "text": "биэрбитэ", "type": "lowercase", "fst": "fst", "root": "биэ", "affixes": ["+N", "+VRBLZ#4", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 15, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

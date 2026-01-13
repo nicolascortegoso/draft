@@ -1,0 +1,63 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 475,
+      "chapter": "Союзы",
+      "topic": "Подчинительные союзы",
+      "section": 996,
+      "notes": "Условные союзы. Они соединяют условные обороты и придаточные условные с главным предложением. К ним относятся өксө, өскөтүн, өскүөрү, өскүөрүтүн, буоллаҕына, да, даҕаны, эрэ, эбит, эрээри и др.",
+      "sah": "Өскүөрү Роберт билсии-көрсүү көмөтүнэн үөрэххэ бардаҕына, мин редакцияҕа суруйуом",
+      "ru": "если Роберт поедет учиться по блату, то я напишу в редакцию",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Өскүөрү", "type": "title", "fst": "fst", "root": "өскүөрү", "affixes": ["+CONJ"]},
+         {"pos": 2, "text": "Роберт", "type": "title", "fst": "fst"},
+         {"pos": 3, "text": "билсии", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+RECP", "+NMLZ#2"]},
+         {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 5, "text": "көрсүү", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+RECP", "+NMLZ#2"]},
+         {"pos": 6, "text": "көмөтүнэн", "type": "lowercase", "fst": "fst", "root": "көмө", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADVZ#1", "+INST"]},
+         {"pos": 6, "text": "көмөтүнэн", "type": "lowercase", "fst": "fst", "root": "көмө", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL", "+CONV#1"]},
+         {"pos": 6, "text": "көмөтүнэн", "type": "lowercase", "fst": "fst", "root": "көмө", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 7, "text": "үөрэххэ", "type": "lowercase", "fst": "fst", "root": "үөрэх", "affixes": ["+N", "+DAT"]},
+         {"pos": 7, "text": "үөрэххэ", "type": "lowercase", "fst": "fst", "root": "үөр", "affixes": ["+V", "+NMLZ#6", "+DAT"]},
+         {"pos": 8, "text": "бардаҕына", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG", "+PRTV"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 10, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+N"]},
+         {"pos": 10, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 11, "text": "редакцияҕа", "type": "lowercase", "fst": "fst", "root": "редакция", "affixes": ["+N", "+DAT"]},
+         {"pos": 12, "text": "суруйуом", "type": "lowercase", "fst": "fst", "root": "суруй", "affixes": ["+V", "+PART_FUT", "+POSS.1SG"]},
+         {"pos": 12, "text": "суруйуом", "type": "lowercase", "fst": "fst", "root": "сур", "affixes": ["+Adj", "+VRBLZ#2", "+PART_FUT", "+POSS.1SG"]}
+      ]
+   },
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 475,
+      "chapter": "Союзы",
+      "topic": "Подчинительные союзы",
+      "section": 996,
+      "notes": "Условные союзы. Они соединяют условные обороты и придаточные условные с главным предложением. К ним относятся өксө, өскөтүн, өскүөрү, өскүөрүтүн, буоллаҕына, да, даҕаны, эрэ, эбит, эрээри и др.",
+      "sah": "Кыһый да тарбан, кыһан да көрдөс.",
+      "ru": "Раз чешется, то чешись, раз нужно, то проси.",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Кыһый", "type": "title", "fst": "fst", "root": "кыс", "affixes": ["+N", "+ACC", "+INT"]},
+         {"pos": 1, "text": "Кыһый", "type": "title", "fst": "fst", "root": "кыс", "affixes": ["+N", "+INT"]},
+         {"pos": 1, "text": "Кыһый", "type": "title", "fst": "fst", "root": "кыс", "affixes": ["+N", "+VRBLZ#2"]},
+         {"pos": 1, "text": "Кыһый", "type": "title", "fst": "fst", "root": "кыһый", "affixes": ["+V"]},
+         {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 3, "text": "тарбан", "type": "lowercase", "fst": "fst", "root": "тарбаа", "affixes": ["+V", "+REFL"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "кыһан", "type": "lowercase", "fst": "fst", "root": "кыс", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 5, "text": "кыһан", "type": "lowercase", "fst": "fst", "root": "кыс", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "кыһан", "type": "lowercase", "fst": "fst", "root": "кыһан", "affixes": ["+V"]},
+         {"pos": 5, "text": "кыһан", "type": "lowercase", "fst": "fst", "root": "кыһай", "affixes": ["+V", "+REFL"]},
+         {"pos": 5, "text": "кыһан", "type": "lowercase", "fst": "fst", "root": "кый", "affixes": ["+V", "+RECP", "+CONV#1"]},
+         {"pos": 6, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 7, "text": "көрдөс", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+ADJZ#14"]},
+         {"pos": 7, "text": "көрдөс", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+RECP"]},
+         {"pos": 7, "text": "көрдөс", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#1", "+ADJZ#14"]},
+         {"pos": 7, "text": "көрдөс", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#1", "+RECP"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

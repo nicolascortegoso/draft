@@ -1,0 +1,79 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 246,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кулу",
+        "section": 22,
+        "notes": "Частица кулу, как собственно частица илик, примыкает к деепричастию, точнее к соединительному (на -ан), и выражает императивную модальность.",
+        "sah": "Эһиги билигин хайа сиргэ бааргытын эн чуолкайдык ыйан кулу.",
+        "ru": "Укажи-ка точно, в каком месте вы сейчас находитесь.",
+        "id": 1,
+        "parses": [
+           {"pos": 1, "text": "Эһиги", "type": "title", "fst": "fst", "root": "эһиги", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "билигин", "type": "lowercase", "fst": "fst", "root": "билигин", "affixes": ["+Adv"]},
+           {"pos": 3, "text": "хайа", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron"]},
+           {"pos": 4, "text": "сиргэ", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["+N", "+DAT"]},
+           {"pos": 5, "text": "бааргытын", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+N", "+POSS.2PL", "+ACC"]},
+           {"pos": 6, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+           {"pos": 7, "text": "чуолкайдык", "type": "lowercase", "fst": "fst", "root": "чуолкай", "affixes": ["+Adj", "+ADVZ#5"]},
+           {"pos": 8, "text": "ыйан", "type": "lowercase", "fst": "fst", "root": "ый", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 9, "text": "кулу", "type": "lowercase", "fst": "fst", "root": "кулу", "affixes": ["+V"]},
+           {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },    
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 246,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кулу",
+        "section": 22,
+        "notes": "Частица кулу, как собственно частица илик, примыкает к деепричастию, точнее к соединительному (на -ан), и выражает императивную модальность.",
+        "sah": "Бытыкпын тарыы охсон кулу!",
+        "ru": "Расчеши-ка мне бороду скорей!",
+        "id": 2,
+        "parses": [
+           {"pos": 1, "text": "Бытыкпын", "type": "title", "fst": "fst", "root": "бытык", "affixes": ["+N", "+POSS.1SG", "+ACC"]},
+           {"pos": 2, "text": "тарыы", "type": "lowercase", "fst": "fst", "root": "тараа", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 3, "text": "охсон", "type": "lowercase", "fst": "fst", "root": "оҕус", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": "кулу", "type": "lowercase", "fst": "fst", "root": "кулу", "affixes": ["+V"]},
+           {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 246,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кулу",
+        "section": 22,
+        "notes": "Частица кулу, как собственно частица илик, примыкает к деепричастию, точнее к соединительному (на -ан), и выражает императивную модальность.",
+        "sah": "Быһааран кулу ону миэхэ!",
+        "ru": "Объясни же мне это!",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Быһааран", "type": "title", "fst": "fst", "root": "быһаар", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 2, "text": "кулу", "type": "lowercase", "fst": "fst", "root": "кулу", "affixes": ["+V"]},
+           {"pos": 3, "text": "ону", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 4, "text": "миэхэ", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron", "+DAT"]},
+           {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 246,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кулу",
+        "section": 22,
+        "notes": "Частица кулу может сочетаться с другими частицами просьбы и повеления.",
+        "sah": "Айаххын атан кулу эрэ!",
+        "ru": "Открой-ка мне рот!",
+        "id": 5,
+        "parses": [
+           {"pos": 1, "text": "Айаххын", "type": "title", "fst": "fst", "root": "айах", "affixes": ["+N", "+POSS.2SG", "+ACC"]},
+           {"pos": 2, "text": "атан", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 3, "text": "кулу", "type": "lowercase", "fst": "fst", "root": "кулу", "affixes": ["+V"]},
+           {"pos": 4, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+           {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    }
+]

@@ -1,0 +1,125 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 231,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаахтаан",
+      "section": 5,
+      "notes": "Служебный глагол буол всецело подчинил свое вещественное содержание грамматическому значению аффикса -аахтаа и получилась частица буолаахтаан, которая выражает, во-первых, несогласие, возражение с чувством жалости и снисхожде ния говорящего к предмету речи или собеседнику.",
+      "sah": "«Олус үчүгэй» буолаахтаан, оҕом сыыһа.",
+      "ru": "ҕҥ— Ах, как же «очень хорошо», деточка моя.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "«", "type": "quotation", "fst": "fst"},
+         {"pos": 2, "text": "Олус", "type": "title", "fst": "fst", "root": "олус", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "үчүгэй", "type": "lowercase", "fst": "fst", "root": "үчүгэй", "affixes": ["+Adj"]},
+         {"pos": 4, "text": "»", "type": "quotation", "fst": "fst"},
+         {"pos": 5, "text": "буолаахтаан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+DIM", "+CONV#1"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "оҕом", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 8, "text": "сыыһа", "type": "lowercase", "fst": "fst", "root": "сыыс", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 8, "text": "сыыһа", "type": "lowercase", "fst": "fst", "root": "сыыс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 8, "text": "сыыһа", "type": "lowercase", "fst": "fst", "root": "сыый", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 231,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаахтаан",
+      "section": 5,
+      "notes": "Служебный глагол буол всецело подчинил свое вещественное содержание грамматическому значению аффикса -аахтаа и получилась частица буолаахтаан, которая выражает, во-первых, несогласие, возражение с чувством жалости и снисхожде ния говорящего к предмету речи или собеседнику.",
+      "sah": "Бэйи да буолаахтаан.",
+      "ru": "Бедняжка, и говоришь, «погоди».",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бэйи", "type": "title", "fst": "fst", "root": "бэйи", "affixes": ["+MOD"]},
+         {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 3, "text": "буолаахтаан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+DIM", "+CONV#1"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 231,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаахтаан",
+      "section": 5,
+      "notes": "Служебный глагол буол всецело подчинил свое вещественное содержание грамматическому значению аффикса -аахтаа и получилась частица буолаахтаан, которая выражает, во-первых, несогласие, возражение с чувством жалости и снисхожде ния говорящего к предмету речи или собеседнику.",
+      "sah": "Сүүрбэ биэс сүүскэ хаартыска баттаппыт эбээт!",
+      "ru": "А еще снялся на фотографию за двадцать пять рублей.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Сүүрбэ", "type": "title", "fst": "fst", "root": "сүүрбэ", "affixes": ["+Num"]},
+         {"pos": 2, "text": "биэс", "type": "lowercase", "fst": "fst", "root": "биэс", "affixes": ["+Num"]},
+         {"pos": 2, "text": "биэс", "type": "lowercase", "fst": "fst", "root": "биэ", "affixes": ["+N", "+VRBLZ#2", "+RECP"]},
+         {"pos": 3, "text": "сүүскэ", "type": "lowercase", "fst": "fst", "root": "сүүс", "affixes": ["+N", "+DAT"]},
+         {"pos": 3, "text": "сүүскэ", "type": "lowercase", "fst": "fst", "root": "сүүс", "affixes": ["+N", "+DIM#3"]},
+         {"pos": 3, "text": "сүүскэ", "type": "lowercase", "fst": "fst", "root": "сүүс", "affixes": ["+Num", "+DAT"]},
+         {"pos": 4, "text": "хаартыска", "type": "lowercase", "fst": "fst", "root": "хаартыска", "affixes": ["+N"]},
+         {"pos": 5, "text": "баттаппыт", "type": "lowercase", "fst": "fst", "root": "баттаа", "affixes": ["+V", "+CAUS", "+PART_PAST"]},
+         {"pos": 5, "text": "баттаппыт", "type": "lowercase", "fst": "fst", "root": "баттаа", "affixes": ["+V", "+CAUS", "+1PL"]},
+         {"pos": 6, "text": "эбээт", "type": "lowercase", "fst": "fst", "root": "эп", "affixes": ["+V", "+CONV#6"]},
+         {"pos": 6, "text": "эбээт", "type": "lowercase", "fst": "fst", "root": "эбээт", "affixes": ["+Part"]},
+         {"pos": 7, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 231,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаахтаан",
+      "section": 5,
+      "notes": "Во-вторых, буолаахтаан выражает презрение, отрицательное отношение говорящего.",
+      "sah": "Улаата!",
+      "ru": "Ну и ну!",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Улаата", "type": "title", "fst": "fst", "root": "улаат", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 231,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаахтаан",
+      "section": 5,
+      "notes": "Во-вторых, буолаахтаан выражает презрение, отрицательное отношение говорящего.",
+      "sah": "Образ буолаахтаан!",
+      "ru": "Тоже мне образ!",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Образ", "type": "title", "fst": "fst", "root": "образ", "affixes": ["+N"]},
+         {"pos": 2, "text": "буолаахтаан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+DIM", "+CONV#1"]},
+         {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 231,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаахтаан",
+      "section": 5,
+      "notes": "Во-вторых, буолаахтаан выражает презрение, отрицательное отношение говорящего.",
+      "sah": "Бары-барыта эмиэ салайааччы буолаахтаан.",
+      "ru": "Всякая всячина, тоже мне руководитель.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Бары", "type": "title", "fst": "fst", "root": "бары", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 3, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "барый", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 3, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+POSS.3SG"]},
+         {"pos": 3, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+PRTV"]},
+         {"pos": 3, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#2", "+ADVZ#8"]},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмп", "affixes": ["+N", "+VRBLZ#3", "+PART_FUT"]},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эм", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+NEG", "+PART_FUT"]},
+         {"pos": 5, "text": "салайааччы", "type": "lowercase", "fst": "fst", "root": "салай", "affixes": ["+V", "+HAB#1"]},
+         {"pos": 6, "text": "буолаахтаан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+DIM", "+CONV#1"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

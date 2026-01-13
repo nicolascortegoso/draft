@@ -1,0 +1,70 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 93,
+      "chapter": "Глава 2. Собственно частицы",
+      "topic": "Частица бөҕөлөөх",
+      "section": 18,
+      "notes": "Образуется при помощи аффикса обладания стицы бөҕө является ее морфологической разновидностью и выражает множественность, исключительные качества предмета, многократность, силу действия.",
+      "sah": "Учуутал бөҕөлөөҕу кыйахаабыт бэйэккэтэ.",
+      "ru": "Он-то заставлял нервничать множество учителей.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Учуутал", "type": "title", "fst": "fst", "root": "учуутал", "affixes": ["+N"]},
+         {"pos": 2, "text": "бөҕөлөөҕу", "type": "lowercase", "fst": "fst"},
+         {"pos": 3, "text": "кыйахаабыт", "type": "lowercase", "fst": "fst"},
+         {"pos": 4, "text": "бэйэккэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэккэ", "affixes": ["+Part", "+POSS.3SG"]},
+         {"pos": 4, "text": "бэйэккэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэккэ", "affixes": ["+Part", "+PRTV"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 93,
+      "chapter": "Глава 2. Собственно частицы",
+      "topic": "Частица бөҕөлөөх",
+      "section": 18,
+      "notes": "Образуется при помощи аффикса обладания стицы бөҕө является ее морфологической разновидностью и выражает множественность, исключительные качества предмета, многократность, силу действия.",
+      "sah": "Күүс-уох, доруобуйа бөҕөлөөх дьон буоллаҕа.",
+      "ru": "Они ведь очень сильные, крепкие, здоровые люди.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Күүс", "type": "title", "fst": "fst", "root": "күүс", "affixes": ["+N"]},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 3, "text": "уох", "type": "lowercase", "fst": "fst", "root": "уох", "affixes": ["+N"]},
+         {"pos": 3, "text": "уох", "type": "lowercase", "fst": "fst", "root": "уой", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "доруобуйа", "type": "lowercase", "fst": "fst", "root": "доруоп", "affixes": ["+N", "+VRBLZ#2", "+CONV#2"]},
+         {"pos": 5, "text": "доруобуйа", "type": "lowercase", "fst": "fst", "root": "доруоп", "affixes": ["+N", "+DIM#4"]},
+         {"pos": 5, "text": "доруобуйа", "type": "lowercase", "fst": "fst", "root": "доруобуйа", "affixes": ["+N"]},
+         {"pos": 6, "text": "бөҕөлөөх", "type": "lowercase", "fst": "fst", "root": "бөҕө", "affixes": ["+Adj", "+ADJZ#1"]},
+         {"pos": 6, "text": "бөҕөлөөх", "type": "lowercase", "fst": "fst", "root": "бөҕө", "affixes": ["+Part", "+ADJZ#1"]},
+         {"pos": 7, "text": "дьон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N"]},
+         {"pos": 8, "text": "буоллаҕа", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 93,
+      "chapter": "Глава 2. Собственно частицы",
+      "topic": "Частица бөҕөлөөх",
+      "section": 18,
+      "notes": "Образуется при помощи аффикса обладания стицы бөҕө является ее морфологической разновидностью и выражает множественность, исключительные качества предмета, многократность, силу действия.",
+      "sah": "Силлэҥнэһэн түһэн Сииһиттэрэ бөҕөлөөх.",
+      "ru": "Ох, и мастера же они осуждать, какие гримасники.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Силлэҥнэһэн", "type": "title", "fst": "fst", "root": "сил", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#7", "+VRBLZ#1", "+RECP", "+CONV#1"]},
+         {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+PASS"]},
+         {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түһээ", "affixes": ["+V", "+PASS"]},
+         {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түһээ", "affixes": ["+V", "+REFL"]},
+         {"pos": 3, "text": "Сииһиттэрэ", "type": "title", "fst": "fst", "root": "сиэ", "affixes": ["+V", "+CONV#2", "+NMLZ#1", "+PL", "+POSS.3SG"]},
+         {"pos": 4, "text": "бөҕөлөөх", "type": "lowercase", "fst": "fst", "root": "бөҕө", "affixes": ["+Adj", "+ADJZ#1"]},
+         {"pos": 4, "text": "бөҕөлөөх", "type": "lowercase", "fst": "fst", "root": "бөҕө", "affixes": ["+Part", "+ADJZ#1"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

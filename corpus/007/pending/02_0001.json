@@ -1,0 +1,107 @@
+[
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 70,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова",
+      "section": 1,
+      "notes": "Модальное слово аата, во-первых, выражает одобрение, хвалу, восхищение, радость говорящего.",
+      "sah": "Бэйэм да хаһыаты ахтан аҥарым буолла.",
+      "ru": "И сам больно соскучился по газетной работе.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Бэйэм", "type": "title", "fst": "ymv", "root": "бэйэ", "affixes": ["+Pron", "+POSS.1SG"]},
+         {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да", "affixes": ["+Part"]},
+         {"pos": 3, "text": "хаһыаты", "type": "lowercase", "fst": "ymv", "root": "хаһыат", "affixes": ["+N", "+ACC"]},
+         {"pos": 4, "text": "ахтан", "type": "lowercase", "fst": "ymv", "root": "аҕын", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "аҥарым", "type": "lowercase", "fst": "ymv", "root": "аҥар", "affixes": ["+Num", "+POSS.1SG"]},
+         {"pos": 6, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 70,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова",
+      "section": 1,
+      "notes": "Модальное слово аата, во-первых, выражает одобрение, хвалу, восхищение, радость говорящего.",
+      "sah": "Оо, оҕолор барахсаттар, аата аламаҕайгыт, боростуойгут сүрүкэтэ!",
+      "ru": "О, милые дети, ну какие вы приветливые, простые!",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Оо", "type": "title", "fst": "ymv", "root": "оо", "affixes": ["+INJ"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 3, "text": "оҕолор", "type": "lowercase", "fst": "ymv", "root": "оҕо", "affixes": ["+N", "+PL"]},
+         {"pos": 4, "text": "барахсаттар", "type": "lowercase", "fst": "yma", "root": "барахсаттар", "affixes": ["^N"]},
+         {"pos": 4, "text": "барахсаттар", "type": "lowercase", "fst": "yma", "root": "барахсатта", "affixes": ["^N", "^VRBLZ#4"]},
+         {"pos": 4, "text": "барахсаттар", "type": "lowercase", "fst": "yma", "root": "барахсат", "affixes": ["^N", "+PL"]},
+         {"pos": 4, "text": "барахсаттар", "type": "lowercase", "fst": "yma", "root": "барахс", "affixes": ["^N", "^VRBLZ#3", "+CAUS", "+PL"]},
+         {"pos": 4, "text": "барахсаттар", "type": "lowercase", "fst": "yma", "root": "барахс", "affixes": ["^N", "^VRBLZ#3", "+CAUS", "+CONV_COND#1"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 6, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аата", "affixes": ["+INJ"]},
+         {"pos": 6, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аата", "affixes": ["+MOD"]},
+         {"pos": 6, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аат", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 7, "text": "аламаҕайгыт", "type": "lowercase", "fst": "ymv", "root": "аламаҕай", "affixes": ["+Adj", "+POSS.2PL"]},
+         {"pos": 7, "text": "аламаҕайгыт", "type": "lowercase", "fst": "ymv", "root": "аламаҕай", "affixes": ["+Adj", "+2PL"]},
+         {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 9, "text": "боростуойгут", "type": "lowercase", "fst": "ymv", "root": "боростуой", "affixes": ["+Adj", "+POSS.2PL"]},
+         {"pos": 9, "text": "боростуойгут", "type": "lowercase", "fst": "ymv", "root": "боростуой", "affixes": ["+Adj", "+2PL"]},
+         {"pos": 10, "text": "сүрүкэтэ", "type": "lowercase", "fst": "yma", "root": "сүрүкэтэ", "affixes": ["^N"]},
+         {"pos": 10, "text": "сүрүкэтэ", "type": "lowercase", "fst": "yma", "root": "сүрүкэт", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 10, "text": "сүрүкэтэ", "type": "lowercase", "fst": "yma", "root": "сүрүкэ", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 10, "text": "сүрүкэтэ", "type": "lowercase", "fst": "yma", "root": "сүрүкэ", "affixes": ["^N", "+PRTV"]},
+         {"pos": 11, "text": "!", "type": "exclamation", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 70,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова",
+      "section": 1,
+      "notes": "Во-вторых, аата выражает неодобрение, презрение, обиду и другие отрицательные отношения говорящего.",
+      "sah": "Аата кэхтэрэн түһэҥҥин.",
+      "ru": "Как же останавливаешься да останавливаешься (по-человечески не рассказываешь).",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Аата", "type": "title", "fst": "ymv", "root": "аата", "affixes": ["+MOD"]},
+         {"pos": 2, "text": "кэхтэрэн", "type": "lowercase", "fst": "ymv", "root": "кэҕин", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+         {"pos": 3, "text": "түһэҥҥин", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#7", "+POSS.2SG", "+ACC"]},
+         {"pos": 3, "text": "түһэҥҥин", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#7", "+2SG"]},
+         {"pos": 3, "text": "түһэҥҥин", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+REFL", "+2SG"]},
+         {"pos": 3, "text": "түһэҥҥин", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+V", "+CONV#1", "+2SG"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 70,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова",
+      "section": 1,
+      "notes": "Во-вторых, аата выражает неодобрение, презрение, обиду и другие отрицательные отношения говорящего.",
+      "sah": "Арай, аата киһиргээтэҕэ сүрүн диэн кэлэйэн эрин кынчарыйар.",
+      "ru": "Только бросает злобный взгляд на мужа в мыслях, что ну и ну, расхвастался же.",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Арай", "type": "title", "fst": "ymv", "root": "арай", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 3, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аата", "affixes": ["+INJ"]},
+         {"pos": 3, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аата", "affixes": ["+MOD"]},
+         {"pos": 3, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аат", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 4, "text": "киһиргээтэҕэ", "type": "lowercase", "fst": "ymv", "root": "киһиргээ", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG"]},
+         {"pos": 4, "text": "киһиргээтэҕэ", "type": "lowercase", "fst": "ymv", "root": "киһи", "affixes": ["+N", "+VRBLZ#7", "+CONV_COND#2", "+POSS.3SG"]},
+         {"pos": 5, "text": "сүрүн", "type": "lowercase", "fst": "ymv", "root": "сүрүн", "affixes": ["+N"]},
+         {"pos": 5, "text": "сүрүн", "type": "lowercase", "fst": "ymv", "root": "сүр", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 7, "text": "кэлэйэн", "type": "lowercase", "fst": "ymv", "root": "кэлэй", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 8, "text": "эрин", "type": "lowercase", "fst": "ymv", "root": "эрий", "affixes": ["+V", "+REFL"]},
+         {"pos": 8, "text": "эрин", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 8, "text": "эрин", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+V", "+REFL"]},
+         {"pos": 9, "text": "кынчарыйар", "type": "lowercase", "fst": "ymv", "root": "кынчай", "affixes": ["+V", "+ACCE#2", "+PART_PRES"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

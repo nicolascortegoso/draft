@@ -1,0 +1,36 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 244,
+      "chapter": "Глава VII. Наклонения несовершившегося (неосуществленного) действия",
+      "topic": "1. К вопросу о выделении наклонения несовершившегося (неосуществленного) действия",
+      "section": 6,
+      "notes": "При дополнительном же присоединении вспомогательного глагола буол-, стоящего в форме деепричастия на -ан, сочетание деепричастия на а/-ы и илик выступает уже в качестве обстоятельства причины или сказуемого придаточного предложения в составе сложноподчиненного предложения.",
+      "sah": "Ол эрээри ол ыһыахтарга, сахалыы ырыа-тойук, билиҥҥи бириэмэҕэ тэҥнээтэххэ, соччо сайда илик буолан, аҕыйаҕа.",
+      "ru": "Однако на тех ысахах якутской песни, поскольку она по сравнению с нынешним временем еще не получила такого развития, было мало (обстоятельство причины).",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "эрээри", "type": "lowercase", "fst": "fst", "root": "эрээри", "affixes": ["+CONJ"]},
+         {"pos": 3, "text": "ол", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "ыһыахтарга", "type": "lowercase", "fst": "fst", "root": "ыһыах", "affixes": ["+N", "+PL", "+DAT"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "сахалыы", "type": "lowercase", "fst": "fst", "root": "саха", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 7, "text": "ырыа", "type": "lowercase", "fst": "fst", "root": "ырыа", "affixes": ["+N"]},
+         {"pos": 8, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 9, "text": "тойук", "type": "lowercase", "fst": "fst", "root": "той", "affixes": ["+V", "+NMLZ#5"]},
+         {"pos": 10, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 11, "text": "билиҥҥи", "type": "lowercase", "fst": "fst", "root": "билиҥҥи", "affixes": ["+Adj"]},
+         {"pos": 12, "text": "бириэмэҕэ", "type": "lowercase", "fst": "fst", "root": "бириэмэ", "affixes": ["+N", "+DAT"]},
+         {"pos": 13, "text": "тэҥнээтэххэ", "type": "lowercase", "fst": "fst", "root": "тэҥ", "affixes": ["+Adj", "+VRBLZ#1", "+CONV_COND#2", "+DAT"]},
+         {"pos": 14, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 15, "text": "соччо", "type": "lowercase", "fst": "fst", "root": "сол", "affixes": ["+Pron", "+DEF#2"]},
+         {"pos": 16, "text": "сайда", "type": "lowercase", "fst": "fst", "root": "сайын", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 17, "text": "илик", "type": "lowercase", "fst": "fst", "root": "илик", "affixes": ["+Part"]},
+         {"pos": 18, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 19, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 20, "text": "аҕыйаҕа", "type": "lowercase", "fst": "fst", "root": "аҕыйаа", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG"]},
+         {"pos": 21, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }    
+]

@@ -1,0 +1,82 @@
+[
+   {
+      "source": "Данилова, Надежда Ивановна. Курс якутской грамматики: система морфологических категорий и синтаксических конструкций : учеб. пособие для студентов филол. фак. ЯГУ / Н. И. Данилова, Н. И. Попова, Н. Н. Ефремов ; Акад. наук Респ. Саха (Якутия), Ин-т гуманитар. исслед . - Якутск : ИГИ АН РС(Я), 2004. - 195, с.",
+      "page": 69,
+      "chapter": "Словоизменительные категории имени",
+      "topic": "Категория склонения. Сравнительный падеж",
+      "section": 1,
+      "notes": "Морфологически выраженные сравнительные отношения устроены так, что в качестве эталона используется субъект высказывания, а референт выражается формой сравнительного падежа.",
+      "sah": "Суруксуттааҕар учууталыҥ дьоҥҥо туһатынан быдан буоллаҕа дии.",
+      "ru": "Конечно, учитель по своей пользе для людей намного значительнее писаря.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Суруксуттааҕар", "type": "title", "fst": "fst", "root": "сураа", "affixes": ["+V", "+NMLZ#5", "+NMLZ#1", "+COMP"]},
+         {"pos": 1, "text": "Суруксуттааҕар", "type": "title", "fst": "fst", "root": "суруй", "affixes": ["+V", "+NMLZ#5", "+NMLZ#1", "+COMP"]},
+         {"pos": 2, "text": "учууталыҥ", "type": "lowercase", "fst": "fst", "root": "учуутал", "affixes": ["+N", "+POSS.2SG"]},
+         {"pos": 3, "text": "дьоҥҥо", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N", "+DAT"]},
+         {"pos": 4, "text": "туһатынан", "type": "lowercase", "fst": "fst", "root": "тус", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+ADVZ#1", "+INST"]},
+         {"pos": 4, "text": "туһатынан", "type": "lowercase", "fst": "fst", "root": "тус", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+REFL", "+CONV#1"]},
+         {"pos": 4, "text": "туһатынан", "type": "lowercase", "fst": "fst", "root": "туһа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADVZ#1", "+INST"]},
+         {"pos": 4, "text": "туһатынан", "type": "lowercase", "fst": "fst", "root": "туһа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL", "+CONV#1"]},
+         {"pos": 4, "text": "туһатынан", "type": "lowercase", "fst": "fst", "root": "туһа", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 5, "text": "быдан", "type": "lowercase", "fst": "fst", "root": "быдан", "affixes": ["+Adv"]},
+         {"pos": 6, "text": "буоллаҕа", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG"]},
+         {"pos": 7, "text": "дии", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "дии", "type": "lowercase", "fst": "fst", "root": "дии", "affixes": ["+Part"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Данилова, Надежда Ивановна. Курс якутской грамматики: система морфологических категорий и синтаксических конструкций : учеб. пособие для студентов филол. фак. ЯГУ / Н. И. Данилова, Н. И. Попова, Н. Н. Ефремов ; Акад. наук Респ. Саха (Якутия), Ин-т гуманитар. исслед . - Якутск : ИГИ АН РС(Я), 2004. - 195, с.",
+      "page": 69,
+      "chapter": "Словоизменительные категории имени",
+      "topic": "Категория склонения. Сравнительный падеж",
+      "section": 1,
+      "notes": "Сравнению могут подвергаться и признаки действий.",
+      "sah": "Охтооҕор түргэнник, түүтээҕэр чэпчэкитик сылдьаҥҥын, Маайыһы чып кистэлэҥинэн ыҥыран аҕал.",
+      "ru": "Сбегай быстрее стрелы, легче пуха и приведи сюда под строгим секретом Маис.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Охтооҕор", "type": "title", "fst": "fst", "root": "ох", "affixes": ["+N", "+COMP"]},
+         {"pos": 1, "text": "Охтооҕор", "type": "title", "fst": "fst", "root": "ой", "affixes": ["+V", "+NMLZ#6", "+COMP"]},
+         {"pos": 2, "text": "түргэнник", "type": "lowercase", "fst": "fst", "root": "түргэн", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "түүтээҕэр", "type": "lowercase", "fst": "fst", "root": "түү", "affixes": ["+N", "+COMP"]},
+         {"pos": 5, "text": "чэпчэкитик", "type": "lowercase", "fst": "fst", "root": "чэпчэки", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 5, "text": "чэпчэкитик", "type": "lowercase", "fst": "fst", "root": "чэпчэки", "affixes": ["+Adj", "+VRBLZ#2", "+CSTV", "+ADJZ#16"]},
+         {"pos": 6, "text": "сылдьаҥҥын", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+CONV#1", "+2SG"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "Маайыһы", "type": "title", "fst": "fst"},
+         {"pos": 9, "text": "чып", "type": "lowercase", "fst": "fst", "root": "чып", "affixes": ["+IMIT"]},
+         {"pos": 9, "text": "чып", "type": "lowercase", "fst": "fst", "root": "чып", "affixes": ["+Part"]},
+         {"pos": 10, "text": "кистэлэҥинэн", "type": "lowercase", "fst": "fst", "root": "кистээ", "affixes": ["+V", "+NMLZ#7", "+INST"]},
+         {"pos": 10, "text": "кистэлэҥинэн", "type": "lowercase", "fst": "fst", "root": "кистээ", "affixes": ["+V", "+NMLZ#7", "+POSS.3SG", "+INST"]},
+         {"pos": 11, "text": "ыҥыран", "type": "lowercase", "fst": "fst", "root": "ыҥыран", "affixes": ["+V"]},
+         {"pos": 11, "text": "ыҥыран", "type": "lowercase", "fst": "fst", "root": "ыҥыр", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 12, "text": "аҕал", "type": "lowercase", "fst": "fst", "root": "аҕаа", "affixes": ["+V", "+NMLZ#9"]},
+         {"pos": 12, "text": "аҕал", "type": "lowercase", "fst": "fst", "root": "аҕал", "affixes": ["+V"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Данилова, Надежда Ивановна. Курс якутской грамматики: система морфологических категорий и синтаксических конструкций : учеб. пособие для студентов филол. фак. ЯГУ / Н. И. Данилова, Н. И. Попова, Н. Н. Ефремов ; Акад. наук Респ. Саха (Якутия), Ин-т гуманитар. исслед . - Якутск : ИГИ АН РС(Я), 2004. - 195, с.",
+      "page": 69,
+      "chapter": "Словоизменительные категории имени",
+      "topic": "Категория склонения. Сравнительный падеж",
+      "section": 1,
+      "notes": "Сравнению могут подвергаться и признаки действий.",
+      "sah": "Чөөчө кинитээҕэр өссө ордук соһуйда.",
+      "ru": "Чечя удивился еще больше него.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Чөөчө", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "кинитээҕэр", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+COMP"]},
+         {"pos": 3, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өссө", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өс", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 4, "text": "ордук", "type": "lowercase", "fst": "fst", "root": "орт", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 4, "text": "ордук", "type": "lowercase", "fst": "fst", "root": "орт", "affixes": ["+V", "+NMLZ#5"]},
+         {"pos": 5, "text": "соһуйда", "type": "lowercase", "fst": "fst", "root": "соһуй", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

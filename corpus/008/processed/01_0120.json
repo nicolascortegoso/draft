@@ -1,0 +1,58 @@
+[
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 175,
+      "chapter": "Глагол",
+      "topic": "Глаголы основного залога",
+      "section": 120,
+      "notes": "К этому залогу относятся глаголы в предложениях следующего рода.",
+      "sah": "Трактор бүгүн үлэлээбэт. ",
+      "ru": "Трактор сегодня не работает.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Трактор", "type": "title", "fst": "fst", "root": "трактор", "affixes": ["+N"]},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "fst", "root": "бүгүн", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "үлэлээбэт", "type": "lowercase", "fst": "fst", "root": "үлэ", "affixes": ["+N", "+VRBLZ#1", "+NEG", "+PART_PRES"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 175,
+      "chapter": "Глагол",
+      "topic": "Глаголы основного залога",
+      "section": 120,
+      "notes": "К этому залогу относятся глаголы в предложениях следующего рода.",
+      "sah": "Мин сурукпун почтанан ыыттым.",
+      "ru": "Я письмо своё отправил почтой.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "сурукпун", "type": "lowercase", "fst": "fst", "root": "суруй", "affixes": ["+V", "+NMLZ#5", "+POSS.1SG", "+ACC"]},
+         {"pos": 3, "text": "почтанан", "type": "lowercase", "fst": "fst", "root": "почта", "affixes": ["+N", "+INST"]},
+         {"pos": 4, "text": "ыыттым", "type": "lowercase", "fst": "fst", "root": "ыыт", "affixes": ["+V", "+PST.1SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 175,
+      "chapter": "Глагол",
+      "topic": "Глаголы основного залога",
+      "section": 120,
+      "notes": "К этому залогу относятся глаголы в предложениях следующего рода.",
+      "sah": "Самолет аара тохтуо суоҕа.",
+      "ru": "Самолет по пути останавливаться не будет.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Самолет", "type": "title", "fst": "fst", "root": "самолет", "affixes": ["+N"]},
+         {"pos": 2, "text": "аара", "type": "lowercase", "fst": "fst", "root": "аара", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "тохтуо", "type": "lowercase", "fst": "fst", "root": "тохтоо", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 4, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

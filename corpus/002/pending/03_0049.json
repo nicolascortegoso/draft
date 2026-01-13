@@ -1,0 +1,55 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 113,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Прошедшее незаконченное время (имперфект)",
+      "section": 49,
+      "notes": "Еще реже употребительна форма давнопрошедшего времени от глагола э-: этим этэ, этиҥ этэ, этибит этэ, этигит этэ, этилэр этэ.",
+      "sah": "Уот сиэбит бааһын эһэ сыатынан эмтиир этилэрэ.",
+      "ru": "Рану от ожога лечили, бывало, медвежьим салом.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Уот", "type": "title", "fst": "fst", "root": "уот", "affixes": ["+N"]},
+         {"pos": 1, "text": "Уот", "type": "title", "fst": "fst", "root": "уой", "affixes": ["+V", "+CSTV"]},
+         {"pos": 2, "text": "сиэбит", "type": "lowercase", "fst": "fst", "root": "сиэп", "affixes": ["+N", "+VRBLZ#2", "+CSTV"]},
+         {"pos": 2, "text": "сиэбит", "type": "lowercase", "fst": "fst", "root": "сиэб", "affixes": ["+N", "+VRBLZ#2", "+CSTV"]},
+         {"pos": 2, "text": "сиэбит", "type": "lowercase", "fst": "fst", "root": "сиэ", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 3, "text": "бааһын", "type": "lowercase", "fst": "fst", "root": "баас", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 3, "text": "бааһын", "type": "lowercase", "fst": "fst", "root": "баай", "affixes": ["+V", "+RECP", "+REFL"]},
+         {"pos": 4, "text": "эһэ", "type": "lowercase", "fst": "fst", "root": "эс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "эһэ", "type": "lowercase", "fst": "fst", "root": "эһэ", "affixes": ["+N"]},
+         {"pos": 5, "text": "сыатынан", "type": "lowercase", "fst": "fst", "root": "сыа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADVZ#1", "+INST"]},
+         {"pos": 5, "text": "сыатынан", "type": "lowercase", "fst": "fst", "root": "сыа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL", "+CONV#1"]},
+         {"pos": 5, "text": "сыатынан", "type": "lowercase", "fst": "fst", "root": "сыа", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 6, "text": "эмтиир", "type": "lowercase", "fst": "fst", "root": "эмп", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES"]},
+         {"pos": 7, "text": "этилэрэ", "type": "lowercase", "fst": "fst"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 113,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Прошедшее незаконченное время (имперфект)",
+      "section": 49,
+      "notes": "То же самое второй вариант этого времени: мин эбитим тэ, эбитин этэ, кини эбитэ этэ, биһиги эбиппит этэ, эһиги эбиккит этэ, кинилэр эбиттэрэ этэ.",
+      "sah": "Эн бэйэҥ бэйэҕинэн эбитиҥ этэ.",
+      "ru": "Ты был сам собой.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["+V", "+PASS"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["+V", "+REFL"]},
+         {"pos": 2, "text": "бэйэҥ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.2SG"]},
+         {"pos": 3, "text": "бэйэҕинэн", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.2SG", "+INST"]},
+         {"pos": 4, "text": "эбитиҥ", "type": "lowercase", "fst": "fst", "root": "эбит", "affixes": ["+Part", "+POSS.2SG"]},
+         {"pos": 4, "text": "эбитиҥ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PART_PAST", "+POSS.2SG"]},
+         {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,56 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 177,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "Бастатан (слитное деепричастие от побуд. залога глагола бастаа 'идти первым') выражает порядок движения мыслей с оттенком выделения, подчеркивания.",
+      "sah": "Саха норуота бугун дьоллоох олоххо кэлбитигэр, мин, бастатан, бэйэм дириҥ махталбын улуу нуучча норуотугар биэрэбин.",
+      "ru": "За то, что сегодня якутский народ пришел к счастливой жизни, я свою глубокую благодарность даю прежде всего великому русскому народу.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Саха", "type": "title", "fst": "fst", "root": "саха", "affixes": ["+N"]},
+         {"pos": 2, "text": "норуота", "type": "lowercase", "fst": "fst", "root": "норуот", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "бугун", "type": "lowercase", "fst": "fst"},
+         {"pos": 4, "text": "дьоллоох", "type": "lowercase", "fst": "fst", "root": "дьол", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 5, "text": "олоххо", "type": "lowercase", "fst": "fst", "root": "олох", "affixes": ["+N", "+DAT"]},
+         {"pos": 6, "text": "кэлбитигэр", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PAST", "+POSS.3SG", "+DAT"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 10, "text": "бастатан", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+VRBLZ#1", "+CAUS", "+CONV#1"]},
+         {"pos": 11, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 12, "text": "бэйэм", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Pron", "+POSS.1SG"]},
+         {"pos": 13, "text": "дириҥ", "type": "lowercase", "fst": "fst", "root": "дириҥ", "affixes": ["+Adj"]},
+         {"pos": 14, "text": "махталбын", "type": "lowercase", "fst": "fst", "root": "махтал", "affixes": ["+N", "+POSS.1SG", "+ACC"]},
+         {"pos": 15, "text": "улуу", "type": "lowercase", "fst": "fst", "root": "улуу", "affixes": ["+Adj"]},
+         {"pos": 16, "text": "нуучча", "type": "lowercase", "fst": "fst", "root": "нуучча", "affixes": ["+N"]},
+         {"pos": 17, "text": "норуотугар", "type": "lowercase", "fst": "fst", "root": "норуот", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 18, "text": "биэрэбин", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+PART_PRES", "+1SG"]},
+         {"pos": 19, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },    
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 177,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "Бастатан имеет вариант аан бастатан с более усиленным значением или может иметь при себе усилительную частицу туран.",
+      "sah": "Сурукпар, бастатан тураммын, Эйиэхэ манныгы ахтабын.",
+      "ru": "В своем письме, в первую очередь, сообщаю тебе следующее.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Сурукпар", "type": "title", "fst": "fst", "root": "суруй", "affixes": ["+V", "+NMLZ#5", "+POSS.1SG", "+DAT"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "бастатан", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+VRBLZ#1", "+CAUS", "+CONV#1"]},
+         {"pos": 4, "text": "тураммын", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+CONV#1", "+1SG"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "Эйиэхэ", "type": "title", "fst": "fst", "root": "эн", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 7, "text": "манныгы", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+DEF", "+ACC"]},
+         {"pos": 8, "text": "ахтабын", "type": "lowercase", "fst": "fst", "root": "аҕын", "affixes": ["+V", "+PART_PRES", "+1SG"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

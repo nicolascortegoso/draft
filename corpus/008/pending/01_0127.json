@@ -1,0 +1,62 @@
+[
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 181,
+      "chapter": "Глагол",
+      "topic": "Многократные глаголы",
+      "section": 127,
+      "notes": "Глаголы многократного вида выражают действие, совершаемое многократно или же направленное на несколько предметов.",
+      "sah": "Били киһи сис туттан баран төттөрү-таары хаамыталаабыта.",
+      "ru": "Тот человек, заложив руки за спину, взад-вперёд пошагивал.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Били", "type": "title", "fst": "fst", "root": "били", "affixes": ["^Pron"]},
+         {"pos": 1, "text": "Били", "type": "title", "fst": "fst", "root": "бил", "affixes": ["^N", "+ACC"]},
+         {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["^N"]},
+         {"pos": 3, "text": "сис", "type": "lowercase", "fst": "fst", "root": "сис", "affixes": ["^N"]},
+         {"pos": 4, "text": "туттан", "type": "lowercase", "fst": "fst", "root": "тутун", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 4, "text": "туттан", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["^V", "+REFL", "+CONV#1"]},
+         {"pos": 5, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["^V", "+PASS"]},
+         {"pos": 5, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["^V", "+REFL"]},
+         {"pos": 5, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 6, "text": "төттөрү", "type": "lowercase", "fst": "fst", "root": "төнүн", "affixes": ["^V", "+CSTV", "^ADVZ#1"]},
+         {"pos": 7, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 8, "text": "таары", "type": "lowercase", "fst": "fst", "root": "таары", "affixes": ["^Adv"]},
+         {"pos": 9, "text": "хаамыталаабыта", "type": "lowercase", "fst": "fst", "root": "хаамп", "affixes": ["^V", "+ITER#1", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 9, "text": "хаамыталаабыта", "type": "lowercase", "fst": "fst", "root": "хаамп", "affixes": ["^V", "+CSTV", "+FREC#4", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 182,
+      "chapter": "Глагол",
+      "topic": "Многократные глаголы",
+      "section": 127,
+      "notes": "Многократные глаголы могут иметь различные оттен ки значения. Они могут обозначать: б) многократность действия, направленного предмет.",
+      "sah": "били хаптаһынын хас да сиринэн тобулу үүттэтэлээбитэ",
+      "ru": "ту доску свою он скольких местах просверлил насквозь",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "били", "type": "lowercase", "fst": "fst", "root": "били", "affixes": ["^Pron"]},
+         {"pos": 1, "text": "били", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["^N", "+ACC"]},
+         {"pos": 2, "text": "хаптаһынын", "type": "lowercase", "fst": "fst", "root": "хаптаһын", "affixes": ["^N", "+POSS.3SG", "+ACC"]},
+         {"pos": 3, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хас", "affixes": ["^V"]},
+         {"pos": 3, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хас", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хай", "affixes": ["^V", "+RECP"]},
+         {"pos": 4, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["^Part"]},
+         {"pos": 5, "text": "сиринэн", "type": "lowercase", "fst": "fst", "root": "сирин", "affixes": ["^N", "^VRBLZ#3", "+PASS"]},
+         {"pos": 5, "text": "сиринэн", "type": "lowercase", "fst": "fst", "root": "сирин", "affixes": ["^N", "^VRBLZ#3", "+REFL"]},
+         {"pos": 5, "text": "сиринэн", "type": "lowercase", "fst": "fst", "root": "сирий", "affixes": ["^V", "+REFL", "+CONV#1"]},
+         {"pos": 5, "text": "сиринэн", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["^N", "+INST"]},
+         {"pos": 5, "text": "сиринэн", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["^N", "+POSS.3SG", "+INST"]},
+         {"pos": 5, "text": "сиринэн", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["^V", "+REFL", "+CONV#1"]},
+         {"pos": 6, "text": "тобулу", "type": "lowercase", "fst": "fst", "root": "тобул", "affixes": ["^N", "+ACC"]},
+         {"pos": 6, "text": "тобулу", "type": "lowercase", "fst": "fst", "root": "тобул", "affixes": ["^V", "^ADVZ#1"]},
+         {"pos": 6, "text": "тобулу", "type": "lowercase", "fst": "fst", "root": "той", "affixes": ["^V", "^NMLZ#4", "+ACC"]},
+         {"pos": 7, "text": "үүттэтэлээбитэ", "type": "lowercase", "fst": "fst", "root": "үүт", "affixes": ["^N", "^VRBLZ#1", "+CAUS", "+FREC#4", "+PART_PAST", "+POSS.3SG"]}
+      ]
+   }
+]

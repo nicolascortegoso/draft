@@ -1,0 +1,78 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 163,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 15. Тугуй.",
+      "section": 15,
+      "notes": "Тугуй — вопросительная (стяженная) форма от местоимения туох 'что'; как модальное слово, во-первых, выражает вопросительный отклик на обращение.",
+      "sah": "Баһылаай!",
+      "ru": "Василий?",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Баһылаай", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 163,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 15. Тугуй.",
+      "section": 15,
+      "notes": "Во-вторых, оно может выражать недовольство, возмущение говорящего чем-либо. Здесь тугуй по употреблению близко к частицам, но все же оно, видимо, не примыкает к предшествующему ему слову как постпозитивный элемент.",
+      "sah": "Ускуруой ыалга хамнаска сылдьар диэн тугуй, бэйэбит даҕаны туспа ыал буолуохпутугар да син этэ.",
+      "ru": "Что это такое, все время батрачить у чужих, и сами могли бы отдельным хозяйством жить.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Ускуруой", "type": "title", "fst": "fst", "root": "ускуруой", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "ыалга", "type": "lowercase", "fst": "fst", "root": "ыал", "affixes": ["+N", "+DAT"]},
+         {"pos": 2, "text": "ыалга", "type": "lowercase", "fst": "fst", "root": "ыа", "affixes": ["+V", "+NMLZ#9", "+DAT"]},
+         {"pos": 3, "text": "хамнаска", "type": "lowercase", "fst": "fst", "root": "хамнаа", "affixes": ["+V", "+ADJZ#14", "+DAT"]},
+         {"pos": 3, "text": "хамнаска", "type": "lowercase", "fst": "fst", "root": "хамнас", "affixes": ["+N", "+DAT"]},
+         {"pos": 3, "text": "хамнаска", "type": "lowercase", "fst": "fst", "root": "хамнас", "affixes": ["+N", "+DIM#3"]},
+         {"pos": 3, "text": "хамнаска", "type": "lowercase", "fst": "fst", "root": "хам", "affixes": ["+Adv", "+VRBLZ#1", "+ADJZ#14", "+DAT"]},
+         {"pos": 4, "text": "сылдьар", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "тугуй", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron", "+ACC", "+INT"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "бэйэбит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.1PL"]},
+         {"pos": 8, "text": "бэйэбит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+1PL"]},
+         {"pos": 8, "text": "бэйэбит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Pron", "+POSS.1PL"]},
+         {"pos": 9, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны", "affixes": ["+CONJ"]},
+         {"pos": 9, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны", "affixes": ["+Part"]},
+         {"pos": 10, "text": "туспа", "type": "lowercase", "fst": "fst", "root": "туспа", "affixes": ["+Adv"]},
+         {"pos": 11, "text": "ыал", "type": "lowercase", "fst": "fst", "root": "ыал", "affixes": ["+N"]},
+         {"pos": 11, "text": "ыал", "type": "lowercase", "fst": "fst", "root": "ыа", "affixes": ["+V", "+NMLZ#9"]},
+         {"pos": 12, "text": "буолуохпутугар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+POSS.1PL", "+DAT"]},
+         {"pos": 13, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 13, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 14, "text": "син", "type": "lowercase", "fst": "fst", "root": "син", "affixes": ["+Adv"]},
+         {"pos": 15, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 15, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 15, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 16, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 163,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 15. Тугуй.",
+      "section": 15,
+      "notes": "В третьих, тугуй выражает усиление, подчеркивание вопроса.",
+      "sah": "Тугуй, Корчагин эһигини кытта барсыбат дуо?",
+      "ru": "Что, разве Корчагин не едет с вами?",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Тугуй", "type": "title", "fst": "fst", "root": "туох", "affixes": ["+Pron", "+ACC", "+INT"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "Корчагин", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": "эһигини", "type": "lowercase", "fst": "fst", "root": "эһиги", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 5, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 6, "text": "барсыбат", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+RECP", "+NEG", "+PART_PRES"]},
+         {"pos": 7, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо", "affixes": ["+Part"]},
+         {"pos": 8, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,42 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 73,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Вторичные деепричастия. 2. Деепричастие на -бытынан.",
+      "section": 67,
+      "notes": "В якутском языке возможны сочетания деепричастий на -бычча с личными и деепричастными формами от одной и той же глагольной основы, которые близки к устойчивым словосочетаниям.",
+      "sah": "Хайдах эрэ ол курдук, дьоммун көһүтэн дуу, хайаан дуу, олорбучча олорон хааллым.",
+      "ru": "Каким-то образом, ожидая своих, что ли, как сидел, так и остался сидеть.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Хайдах", "type": "title", "fst": "ymv", "root": "хайдах", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Хайдах", "type": "title", "fst": "ymv", "root": "хай", "affixes": ["+V", "+CONV_COND#2"]},
+         {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук", "affixes": ["+POST"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук", "affixes": ["+Part"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур", "affixes": ["+N", "+ADVZ#5"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 6, "text": "дьоммун", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+POSS.1SG", "+ACC"]},
+         {"pos": 6, "text": "дьоммун", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+1SG"]},
+         {"pos": 7, "text": "көһүтэн", "type": "lowercase", "fst": "ymv", "root": "көс", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#1"]},
+         {"pos": 7, "text": "көһүтэн", "type": "lowercase", "fst": "ymv", "root": "көс", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+         {"pos": 7, "text": "көһүтэн", "type": "lowercase", "fst": "ymv", "root": "көй", "affixes": ["+V", "+RECP", "+CSTV", "+CONV#1"]},
+         {"pos": 8, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу", "affixes": ["+Part"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 10, "text": "хайаан", "type": "lowercase", "fst": "ymv", "root": "хайаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 10, "text": "хайаан", "type": "lowercase", "fst": "ymv", "root": "хайа", "affixes": ["+Pron", "+INST"]},
+         {"pos": 10, "text": "хайаан", "type": "lowercase", "fst": "ymv", "root": "хай", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 11, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу", "affixes": ["+Part"]},
+         {"pos": 12, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 13, "text": "олорбучча", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+PART_PAST", "+ADVZ#4"]},
+         {"pos": 14, "text": "олорон", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 15, "text": "хааллым", "type": "lowercase", "fst": "ymv", "root": "хаал", "affixes": ["+V", "+PST.1SG"]},
+         {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

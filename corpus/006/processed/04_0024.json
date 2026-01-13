@@ -1,0 +1,111 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 246,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кэлэн",
+        "section": 24,
+        "notes": "Частица кэлэн, во-первых, выражает никчемность, бесполезность, бессмысленность высказываемой мысли.",
+        "sah": "Аны кэлэн тыыннаах да сылдьан диэн...",
+        "ru": "ҕҥ— Теперь-то не стоит мне оставаться в живых.",
+        "id": 1,
+        "parses": [
+           {"pos": 1, "text": "Аны", "type": "title", "fst": "fst", "root": "аны", "affixes": ["+Adv"]},
+           {"pos": 2, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 3, "text": "тыыннаах", "type": "lowercase", "fst": "fst", "root": "тыын", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 4, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 5, "text": "сылдьан", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 7, "text": "...", "type": "ellipsis", "fst": "fst"}
+        ]
+    },    
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 247,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кэлэн",
+        "section": 24,
+        "notes": "Частица кэлэн, во-первых, выражает никчемность, бесполезность, бессмысленность высказываемой мысли.",
+        "sah": "Эчи суох, туох да биллибэт.",
+        "ru": "Да нет, ничего не известно.",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Эчи", "type": "title", "fst": "fst", "root": "эчи", "affixes": ["+MOD"]},
+           {"pos": 2, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+           {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 4, "text": "туох", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron"]},
+           {"pos": 5, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 6, "text": "биллибэт", "type": "lowercase", "fst": "fst", "root": "билин", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+           {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 247,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кэлэн",
+        "section": 24,
+        "notes": "Во-вторых, имеет выделительно-усилительное значение.",
+        "sah": "Сымыйаны кэлэн кэпсии сылдьыма.",
+        "ru": "Неправду-то ты не рассказывай всюду.",
+        "id": 6,
+        "parses": [
+           {"pos": 1, "text": "Сымыйаны", "type": "title", "fst": "fst", "root": "сымыйа", "affixes": ["+N", "+ACC"]},
+           {"pos": 2, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 3, "text": "кэпсии", "type": "lowercase", "fst": "fst", "root": "кэпсээ", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 4, "text": "сылдьыма", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+NEG"]},
+           {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 247,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кэлэн",
+        "section": 24,
+        "notes": "В-третьих, выражает пренебрежительное отношение говорящего.",
+        "sah": "Маннык ыт кэлэн эһэни үрүө дуо?",
+        "ru": "Да разве такая-то собака поднимет медведя?",
+        "id": 8,
+        "parses": [
+           {"pos": 1, "text": "Маннык", "type": "title", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+DEF"]},
+           {"pos": 2, "text": "ыт", "type": "lowercase", "fst": "fst", "root": "ыт", "affixes": ["+N"]},
+           {"pos": 3, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": "эһэни", "type": "lowercase", "fst": "fst", "root": "эһэ", "affixes": ["+N", "+ACC"]},
+           {"pos": 5, "text": "үрүө", "type": "lowercase", "fst": "fst", "root": "үр", "affixes": ["+V", "+PART_FUT"]},
+           {"pos": 6, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо", "affixes": ["+Part"]},
+           {"pos": 7, "text": "?", "type": "question", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 247,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица кэлэн",
+        "section": 24,
+        "notes": "В-третьих, выражает пренебрежительное отношение говорящего.",
+        "sah": "Онон син биир тулутуохтара суоҕа, мин кэлэн кими кыайаары диэн наһаа сүр баттатар, баһыйтарар этим.",
+        "ru": "Так что они нас все равно победят, а я-то никого не одолею, — думая так, я ходил очень подавленный, угнетенный.",
+        "id": 7,
+        "parses": [
+           {"pos": 1, "text": "Онон", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+INST"]},
+           {"pos": 2, "text": "син", "type": "lowercase", "fst": "fst", "root": "син", "affixes": ["+Adv"]},
+           {"pos": 3, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+           {"pos": 4, "text": "тулутуохтара", "type": "lowercase", "fst": "fst", "root": "тулуй", "affixes": ["+V", "+CSTV", "+PART_FUT", "+PL", "+POSS.3SG"]},
+           {"pos": 5, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 7, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+           {"pos": 8, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 9, "text": "кими", "type": "lowercase", "fst": "fst", "root": "ким", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 10, "text": "кыайаары", "type": "lowercase", "fst": "fst", "root": "кыай", "affixes": ["+V", "+CONV#5"]},
+           {"pos": 11, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 12, "text": "наһаа", "type": "lowercase", "fst": "fst", "root": "наһаа", "affixes": ["+Adv"]},
+           {"pos": 13, "text": "сүр", "type": "lowercase", "fst": "fst", "root": "сүр", "affixes": ["+N"]},
+           {"pos": 14, "text": "баттатар", "type": "lowercase", "fst": "fst", "root": "баттаа", "affixes": ["+V", "+CAUS", "+PART_PRES"]},
+           {"pos": 15, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 16, "text": "баһыйтарар", "type": "lowercase", "fst": "fst", "root": "баһый", "affixes": ["+V", "+CAUS", "+PART_PRES"]},
+           {"pos": 17, "text": "этим", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.1SG"]},
+           {"pos": 18, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }
+]

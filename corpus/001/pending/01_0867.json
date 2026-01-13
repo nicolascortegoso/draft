@@ -1,0 +1,54 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 435,
+      "chapter": "Частицы",
+      "topic": "Морфологические признаки частиц",
+      "section": 867,
+      "notes": "Здесь частица аах образует аналитическую основу с именем таайын 'его дядя' и приняла на себя аффикс дательного падежа при склонении этой основы.",
+      "sah": "Костя уончатыгар диэри таайын аахха иитиллибит.",
+      "ru": "До десяти лет Костя воспитывался в семье родного дяди.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Костя", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "уончатыгар", "type": "lowercase", "fst": "fst", "root": "уон", "affixes": ["+Num", "+APPR#1", "+POSS.3SG", "+DAT"]},
+         {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "fst", "root": "диэри", "affixes": ["+POST"]},
+         {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 4, "text": "таайын", "type": "lowercase", "fst": "fst", "root": "таай", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "таайын", "type": "lowercase", "fst": "fst", "root": "таай", "affixes": ["+V", "+REFL"]},
+         {"pos": 5, "text": "аахха", "type": "lowercase", "fst": "fst", "root": "аах", "affixes": ["+Adj", "+DAT"]},
+         {"pos": 5, "text": "аахха", "type": "lowercase", "fst": "fst", "root": "аах", "affixes": ["+Part", "+DAT"]},
+         {"pos": 6, "text": "иитиллибит", "type": "lowercase", "fst": "fst", "root": "иит", "affixes": ["+V", "+PASS", "+PART_PAST"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 436,
+      "chapter": "Частицы",
+      "topic": "Морфологические признаки частиц",
+      "section": 867,
+      "notes": "WARNING!! Частица сыыһа приняла на себя уменьшительно-ласкательный афф. -чаан.",
+      "sah": "Уран-намчы илииҥ сыысчаана ханнаный, аҕал эрэ бэттэх.",
+      "ru": "Где твои красиво-нежные рученьки, подай-ка их сюда.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Уран", "type": "title", "fst": "fst", "root": "уран", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 3, "text": "намчы", "type": "lowercase", "fst": "fst", "root": "намчы", "affixes": ["+Adj"]},
+         {"pos": 4, "text": "илииҥ", "type": "lowercase", "fst": "fst", "root": "илии", "affixes": ["+N", "+POSS.2SG"]},
+         {"pos": 5, "text": "сыысчаана", "type": "lowercase", "fst": "fst", "root": "сыысчаан", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": "сыысчаана", "type": "lowercase", "fst": "fst", "root": "сыыс", "affixes": ["+N", "+DIM#2", "+POSS.3SG"]},
+         {"pos": 6, "text": "ханнаный", "type": "lowercase", "fst": "fst", "root": "ханна", "affixes": ["+Pron", "+INT"]},
+         {"pos": 6, "text": "ханнаный", "type": "lowercase", "fst": "fst", "root": "харын", "affixes": ["+N", "+POSS.3SG", "+INT"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "аҕал", "type": "lowercase", "fst": "fst", "root": "аҕаа", "affixes": ["+V", "+NMLZ#9"]},
+         {"pos": 8, "text": "аҕал", "type": "lowercase", "fst": "fst", "root": "аҕал", "affixes": ["+V"]},
+         {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "бэттэх", "type": "lowercase", "fst": "fst", "root": "бэттэх", "affixes": ["+Pron"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

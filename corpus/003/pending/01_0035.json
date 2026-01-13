@@ -1,0 +1,37 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 51,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 3. Деепричастие на -ымына",
+      "section": 35,
+      "notes": "В современном языке в подобных сочетаниях место деепричастия на ымына чаще стало занимать деепричастие на бакка.",
+      "sah": "Хастаева биристээҥкилээх илиитин уоһугар тиэрдэ тиэрдибэккэ өрө тутан, чочумча хамсаабакка турда.",
+      "ru": "Хастаева, подняв руки в перчатках, почти дотрагиваясь ими своих губ, постояла некоторое время неподвижно.",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Хастаева", "type": "title", "fst": "yma", "root": "хастаева", "affixes": ["+N"]},
+         {"pos": 1, "text": "Хастаева", "type": "title", "fst": "yma", "root": "хастаев", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 2, "text": "биристээҥкилээх", "type": "lowercase", "fst": "ymv", "root": "биристээҥки", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 3, "text": "илиитин", "type": "lowercase", "fst": "ymv", "root": "илии", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "уоһугар", "type": "lowercase", "fst": "ymv", "root": "уос", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 4, "text": "уоһугар", "type": "lowercase", "fst": "ymv", "root": "уой", "affixes": ["+V", "+RECP", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 5, "text": "тиэрдэ", "type": "lowercase", "fst": "ymv", "root": "тиэрт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "тиэрдэ", "type": "lowercase", "fst": "ymv", "root": "тиэр", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 6, "text": "тиэрдибэккэ", "type": "lowercase", "fst": "yma", "root": "тиэрдибэккэ", "affixes": ["+Adv"]},
+         {"pos": 6, "text": "тиэрдибэккэ", "type": "lowercase", "fst": "yma", "root": "тиэрдибэккэ", "affixes": ["+N"]},
+         {"pos": 7, "text": "өрө", "type": "lowercase", "fst": "ymv", "root": "өрө", "affixes": ["+Adv"]},
+         {"pos": 7, "text": "өрө", "type": "lowercase", "fst": "ymv", "root": "өр", "affixes": ["+Adv", "+POSS.3SG"]},
+         {"pos": 7, "text": "өрө", "type": "lowercase", "fst": "ymv", "root": "өр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 8, "text": "тутан", "type": "lowercase", "fst": "ymv", "root": "тут", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 10, "text": "чочумча", "type": "lowercase", "fst": "yma", "root": "чочумча", "affixes": ["+Adv"]},
+         {"pos": 10, "text": "чочумча", "type": "lowercase", "fst": "yma", "root": "чочумча", "affixes": ["+N"]},
+         {"pos": 11, "text": "хамсаабакка", "type": "lowercase", "fst": "ymv", "root": "хамсаа", "affixes": ["+V", "+NEG", "+CONV#4"]},
+         {"pos": 11, "text": "хамсаабакка", "type": "lowercase", "fst": "ymv", "root": "хамсаа", "affixes": ["+V", "+NEG", "+PART_PRES", "+DAT"]},
+         {"pos": 12, "text": "турда", "type": "lowercase", "fst": "ymv", "root": "тур", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 12, "text": "турда", "type": "lowercase", "fst": "ymv", "root": "тур", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

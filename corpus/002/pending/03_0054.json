@@ -1,0 +1,83 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 119,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. К вопросу о происхождении формы прошедшего незаконченного времени",
+      "section": 54,
+      "notes": "Непосредственное присоединение именами аффиксов принадлежности отличается от описанных случаев стяжения тем, что они в этом случае, выступая в роли разных членов предложения, не выражают значения прошедшего времени.",
+      "sah": "Уйбаан - киһи бэрдэ.",
+      "ru": "Иван - лучший из людей.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+         {"pos": 4, "text": "бэрдэ", "type": "lowercase", "fst": "fst", "root": "бэрт", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 119,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. К вопросу о происхождении формы прошедшего незаконченного времени",
+      "section": 54,
+      "notes": "Непосредственное присоединение именами аффиксов принадлежности отличается от описанных случаев стяжения тем, что они в этом случае, выступая в роли разных членов предложения, не выражают значения прошедшего времени.",
+      "sah": "Анараа дьонтон биир саамай көрүннээхтэрэ Сүөдэргэ супту хааман кэлэн баран, илиитин ууммута.",
+      "ru": "Один, самый представительный вид из тех людей, твердыми шагами подошел к Федору и протянул руку.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Анараа", "type": "title", "fst": "fst", "root": "анараа", "affixes": ["+N"]},
+         {"pos": 2, "text": "дьонтон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N", "+ABL"]},
+         {"pos": 3, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+         {"pos": 3, "text": "биир", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4"]},
+         {"pos": 4, "text": "саамай", "type": "lowercase", "fst": "fst", "root": "саамай", "affixes": ["+Adv"]},
+         {"pos": 5, "text": "көрүннээхтэрэ", "type": "lowercase", "fst": "fst"},
+         {"pos": 6, "text": "Сүөдэргэ", "type": "title", "fst": "fst", "root": "сүөдэй", "affixes": ["+V", "+ADJZ#17", "+DAT"]},
+         {"pos": 7, "text": "супту", "type": "lowercase", "fst": "fst", "root": "супту", "affixes": ["+Adv"]},
+         {"pos": 8, "text": "хааман", "type": "lowercase", "fst": "fst", "root": "хаамп", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 10, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+PASS"]},
+         {"pos": 10, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+REFL"]},
+         {"pos": 10, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 11, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 12, "text": "илиитин", "type": "lowercase", "fst": "fst", "root": "илии", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 13, "text": "ууммута", "type": "lowercase", "fst": "fst", "root": "уун", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 14, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 119,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. К вопросу о происхождении формы прошедшего незаконченного времени",
+      "section": 54,
+      "notes": "Непосредственное присоединение именами аффиксов принадлежности отличается от описанных случаев стяжения тем, что они в этом случае, выступая в роли разных членов предложения, не выражают значения прошедшего времени.",
+      "sah": "Абаҕа оскуолатыгар Ленин аатынан эдэр пионер тэрилтэтэ баара үчүгэйдик биллэрэ.",
+      "ru": "Хорошо было известно существование в Абагинской школе пионерской организации имени Ленина.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Абаҕа", "type": "title", "fst": "fst", "root": "абаҕа", "affixes": ["+N"]},
+         {"pos": 1, "text": "Абаҕа", "type": "title", "fst": "fst", "root": "аба", "affixes": ["+N", "+DAT"]},
+         {"pos": 2, "text": "оскуолатыгар", "type": "lowercase", "fst": "fst", "root": "оскуола", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 2, "text": "оскуолатыгар", "type": "lowercase", "fst": "fst", "root": "оскуола", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 3, "text": "Ленин", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": "аатынан", "type": "lowercase", "fst": "fst", "root": "аат", "affixes": ["+N", "+INST"]},
+         {"pos": 4, "text": "аатынан", "type": "lowercase", "fst": "fst", "root": "аат", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 5, "text": "эдэр", "type": "lowercase", "fst": "fst", "root": "эдэр", "affixes": ["+Adj"]},
+         {"pos": 6, "text": "пионер", "type": "lowercase", "fst": "fst", "root": "пионер", "affixes": ["+N"]},
+         {"pos": 7, "text": "тэрилтэтэ", "type": "lowercase", "fst": "fst", "root": "тэрий", "affixes": ["+V", "+NMLZ#8", "+POSS.3SG"]},
+         {"pos": 7, "text": "тэрилтэтэ", "type": "lowercase", "fst": "fst", "root": "тэрий", "affixes": ["+V", "+NMLZ#8", "+PRTV"]},
+         {"pos": 8, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 8, "text": "баара", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 9, "text": "үчүгэйдик", "type": "lowercase", "fst": "fst", "root": "үчүгэй", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 10, "text": "биллэрэ", "type": "lowercase", "fst": "fst", "root": "билин", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 10, "text": "биллэрэ", "type": "lowercase", "fst": "fst", "root": "билин", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 10, "text": "биллэрэ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+N", "+PL", "+POSS.3SG"]},
+         {"pos": 10, "text": "биллэрэ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+CAUS", "+CONV#2"]},
+         {"pos": 10, "text": "биллэрэ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+CONV_COND#1", "+POSS.3SG"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

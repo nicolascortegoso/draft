@@ -1,0 +1,59 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 123,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Значение прошедшего незаконченного времени",
+      "section": 59,
+      "notes": "В родственных тюркских языках для выражения такого прошлого действия различают определенный имперфект. В якутском языке разбираемая форма одна выполняет функции как неопределенного, так и функции определенного имперфекта.",
+      "sah": "Үлэбиттэн төннөн иһэн Ылдьаалаахха киирэн тахсыбытым.",
+      "ru": "Возвращаясь с работы, я заходил к Ильинским.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Үлэбиттэн", "type": "title", "fst": "fst", "root": "үлэ", "affixes": ["+N", "+POSS.1SG", "+ABL"]},
+         {"pos": 2, "text": "төннөн", "type": "lowercase", "fst": "fst", "root": "төнүн", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "иһэн", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+N", "+VRBLZ#3", "+PASS"]},
+         {"pos": 3, "text": "иһэн", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 3, "text": "иһэн", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 4, "text": "Ылдьаалаахха", "type": "title", "fst": "fst"},
+         {"pos": 5, "text": "киирэн", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "тахсыбытым", "type": "lowercase", "fst": "fst", "root": "таҕыс", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 123,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Значение прошедшего незаконченного времени",
+      "section": 59,
+      "notes": "Здесь корова паслась не вообще в прошлом, а именно в тот момент, когда ищущий увидел ее.",
+      "sah": "Ол көрдүү сылдьан көрбүтэ, ынаҕа алаас ортотугар киирэн мэччийэ сылдьара.",
+      "ru": "Когда, продолжая свои поиски, он взглянул, корова его забрела на середину аласа, и паслась там.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "көрдүү", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "көрдүү", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 2, "text": "көрдүү", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 2, "text": "көрдүү", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 2, "text": "көрдүү", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+ITER#2", "+NMLZ#2"]},
+         {"pos": 2, "text": "көрдүү", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+ITER#2", "+CONV#2"]},
+         {"pos": 3, "text": "сылдьан", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 4, "text": "көрбүтэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "ынаҕа", "type": "lowercase", "fst": "fst", "root": "ынах", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 6, "text": "ынаҕа", "type": "lowercase", "fst": "fst", "root": "ынай", "affixes": ["+V", "+ADJZ#16", "+POSS.3SG"]},
+         {"pos": 6, "text": "ынаҕа", "type": "lowercase", "fst": "fst", "root": "ынай", "affixes": ["+V", "+SUDD#2", "+CONV#2"]},
+         {"pos": 6, "text": "ынаҕа", "type": "lowercase", "fst": "fst", "root": "ын", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG"]},
+         {"pos": 7, "text": "алаас", "type": "lowercase", "fst": "fst", "root": "алаас", "affixes": ["+N"]},
+         {"pos": 7, "text": "алаас", "type": "lowercase", "fst": "fst", "root": "ыал", "affixes": ["+N", "+VRBLZ#3", "+SUDD#1", "+RECP"]},
+         {"pos": 8, "text": "ортотугар", "type": "lowercase", "fst": "fst", "root": "орто", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 8, "text": "ортотугар", "type": "lowercase", "fst": "fst", "root": "орто", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 9, "text": "киирэн", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 10, "text": "мэччийэ", "type": "lowercase", "fst": "fst", "root": "мэччий", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 11, "text": "сылдьара", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

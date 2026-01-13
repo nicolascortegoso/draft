@@ -1,0 +1,26 @@
+[
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 177,
+      "chapter": "Глагол",
+      "topic": "Глаголы возвратного залога",
+      "section": 122,
+      "notes": "Глаголы возвратного залога обозначают действие, совершаемое действующим лицом над самим собою или для себя, также действие или состояние, характеризующее внешнее или внутреннее состояние субъекта.",
+      "sah": "Ити кыыс таҥаһын бэйэтэ суунар.",
+      "ru": "Эта девушка бельё свое стирает (себе) сама.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ити", "type": "title", "fst": "fst", "root": "ити", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "кыыс", "type": "lowercase", "fst": "fst", "root": "кыыс", "affixes": ["^N"]},
+         {"pos": 3, "text": "таҥаһын", "type": "lowercase", "fst": "fst", "root": "таҥас", "affixes": ["^N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^N", "^VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^N", "+PRTV"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^Part", "+POSS.3SG"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^Part", "+PRTV"]},
+         {"pos": 5, "text": "суунар", "type": "lowercase", "fst": "fst", "root": "сууй", "affixes": ["^V", "+REFL", "+PART_PRES"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

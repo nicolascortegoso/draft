@@ -1,0 +1,46 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 241,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолуохтаах",
+      "section": 16,
+      "notes": "Буолуохтаах в модальном значении преимущественно употребляется с глаголами прошедшего времени и выражает предположение с оттенком долженствования, уверенности.",
+      "sah": "Балыгы баһан ыла кэлбит дьон буолуохтаахтар.",
+      "ru": "По-видимому, эти люди приехали с намерением вдоволь вычерпать рыбы.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Балыгы", "type": "title", "fst": "fst", "root": "балык", "affixes": ["+N", "+ACC"]},
+         {"pos": 1, "text": "Балыгы", "type": "title", "fst": "fst", "root": "балы", "affixes": ["+Adv", "+ADJZ#4"]},
+         {"pos": 2, "text": "баһан", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+VRBLZ#3", "+PASS"]},
+         {"pos": 2, "text": "баһан", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 2, "text": "баһан", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 2, "text": "баһан", "type": "lowercase", "fst": "fst", "root": "бай", "affixes": ["+V", "+RECP", "+CONV#1"]},
+         {"pos": 3, "text": "ыла", "type": "lowercase", "fst": "fst", "root": "ыл", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "кэлбит", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 5, "text": "дьон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N"]},
+         {"pos": 6, "text": "буолуохтаахтар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+DEB", "+PL"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 241,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолуохтаах",
+      "section": 16,
+      "notes": "Буолуохтаах в модальном значении преимущественно употребляется с глаголами прошедшего времени и выражает предположение с оттенком долженствования, уверенности. В этом значении буолуохтаах реже сочетается с глаголами настоящего времени.",
+      "sah": "Кинилэргэ Адычча уола сылдьыһар буолуохтаах.",
+      "ru": "С ними, должно быть, ходит сын Адыччи.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Кинилэргэ", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+PL", "+DAT"]},
+         {"pos": 2, "text": "Адычча", "type": "title", "fst": "fst"},
+         {"pos": 3, "text": "уола", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "уола", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "сылдьыһар", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+RECP", "+PART_PRES"]},
+         {"pos": 5, "text": "буолуохтаах", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+DEB"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

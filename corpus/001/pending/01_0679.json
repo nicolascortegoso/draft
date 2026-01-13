@@ -1,0 +1,49 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 346,
+      "chapter": "Наречие",
+      "topic": "Обстоятельственные наречия. Наречия места",
+      "section": 679,
+      "notes": "",
+      "sah": "Борокуоттар ыраах хараар-саллар.",
+      "ru": "Вдали (далеко) чернеются парохоны.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Борокуоттар", "type": "title", "fst": "fst", "root": "борокуот", "affixes": ["+N", "+PL"]},
+         {"pos": 2, "text": "ыраах", "type": "lowercase", "fst": "fst", "root": "ыраах", "affixes": ["+Adj"]},
+         {"pos": 3, "text": "хараар", "type": "lowercase", "fst": "fst", "root": "хара", "affixes": ["+Adj", "+VRBLZ#4a"]},
+         {"pos": 3, "text": "хараар", "type": "lowercase", "fst": "fst", "root": "хар", "affixes": ["+V", "+IMP#2.2SG"]},
+         {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 5, "text": "саллар", "type": "lowercase", "fst": "fst", "root": "салын", "affixes": ["+V", "+CSTV"]},
+         {"pos": 5, "text": "саллар", "type": "lowercase", "fst": "fst", "root": "салын", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 5, "text": "саллар", "type": "lowercase", "fst": "fst", "root": "саллай", "affixes": ["+V", "+ADJZ#17"]},
+         {"pos": 5, "text": "саллар", "type": "lowercase", "fst": "fst", "root": "сал", "affixes": ["+N", "+PL"]},
+         {"pos": 5, "text": "саллар", "type": "lowercase", "fst": "fst", "root": "сал", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 5, "text": "саллар", "type": "lowercase", "fst": "fst", "root": "сал", "affixes": ["+V", "+CSTV"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 346,
+      "chapter": "Наречие",
+      "topic": "Обстоятельственные наречия. Наречия места",
+      "section": 679,
+      "notes": "",
+      "sah": "Охоноос туран, Лухаҕа ыкса кэлэр.",
+      "ru": "Афонас встает и вплотную подходит к Луке.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Охоноос", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "туран", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "Лухаҕа", "type": "title", "fst": "fst"},
+         {"pos": 5, "text": "ыкса", "type": "lowercase", "fst": "fst", "root": "ык", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 6, "text": "кэлэр", "type": "lowercase", "fst": "fst", "root": "кэлэй", "affixes": ["+V", "+ADJZ#17"]},
+         {"pos": 6, "text": "кэлэр", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CSTV"]},
+         {"pos": 6, "text": "кэлэр", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,41 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 116,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Прошедшее незаконченное время (имперфект)",
+      "section": 52,
+      "notes": "Судя по тому, что 3-е лицо множественного числа сохранило вариант спряжения, при котором изменяется причастная форма, а не форма прошедшего определенного времени от глагола э-, это время, как и некоторые другие в якутском и родственных тюркских языках, некогда имело, видимо, два варианта спряжения, из которых один выпал из употребления за исключением указанного 3-го лица множественного числа.",
+      "sah": "Биитэр көннөрү агитациялыыр, ыҥырар, эбэтэр кыайыылары эридьиэстиир очеркалыы былааннаан суруллаллар этэ.",
+      "ru": "Либо писались в плане очерков, просто агитирующих, призывающих или регистрирующих достижения.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Биитэр", "type": "title", "fst": "fst", "root": "биитэр", "affixes": ["+CONJ"]},
+         {"pos": 1, "text": "Биитэр", "type": "title", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+PART_PRES"]},
+         {"pos": 2, "text": "көннөрү", "type": "lowercase", "fst": "fst", "root": "көн", "affixes": ["+V", "+CONV_COND#1", "+ACC"]},
+         {"pos": 2, "text": "көннөрү", "type": "lowercase", "fst": "fst", "root": "көн", "affixes": ["+V", "+CSTV", "+ADVZ#1"]},
+         {"pos": 2, "text": "көннөрү", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["+V", "+REFL", "+CAUS", "+ADVZ#1"]},
+         {"pos": 2, "text": "көннөрү", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["+V", "+REFL", "+CONV_COND#1", "+ACC"]},
+         {"pos": 2, "text": "көннөрү", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["+V", "+REFL", "+PL", "+ACC"]},
+         {"pos": 3, "text": "агитациялыыр", "type": "lowercase", "fst": "fst", "root": "агитация", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "ыҥырар", "type": "lowercase", "fst": "fst", "root": "ыҥыр", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "эбэтэр", "type": "lowercase", "fst": "fst", "root": "эбэтэр", "affixes": ["+CONJ"]},
+         {"pos": 7, "text": "эбэтэр", "type": "lowercase", "fst": "fst", "root": "эбэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+PART_PRES"]},
+         {"pos": 7, "text": "эбэтэр", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+NEG", "+CONV_COND#1"]},
+         {"pos": 8, "text": "кыайыылары", "type": "lowercase", "fst": "fst", "root": "кыай", "affixes": ["+V", "+NMLZ#2", "+PL", "+ACC"]},
+         {"pos": 8, "text": "кыайыылары", "type": "lowercase", "fst": "fst", "root": "кыа", "affixes": ["+N", "+VRBLZ#2", "+NMLZ#2", "+PL", "+ACC"]},
+         {"pos": 9, "text": "эридьиэстиир", "type": "lowercase", "fst": "fst", "root": "эридьиэс", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES"]},
+         {"pos": 10, "text": "очеркалыы", "type": "lowercase", "fst": "fst", "root": "очерка", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 10, "text": "очеркалыы", "type": "lowercase", "fst": "fst", "root": "очерка", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 10, "text": "очеркалыы", "type": "lowercase", "fst": "fst", "root": "очерка", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 11, "text": "былааннаан", "type": "lowercase", "fst": "fst", "root": "былаан", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 12, "text": "суруллаллар", "type": "lowercase", "fst": "fst", "root": "суруй", "affixes": ["+V", "+PASS", "+PART_PRES", "+PL"]},
+         {"pos": 13, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 13, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 13, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 14, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

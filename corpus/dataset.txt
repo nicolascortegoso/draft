@@ -1,0 +1,575 @@
+Тыал курдук түргэнник сүүрэр.	тыал^N курдук^POST түргэн^Adj^ADVZ#5 сүүр^V+PART_PRES period
+Кыргыттар бары даҕаны үлэттэн сынньанан, кулуупка баралларыттан үөрэн, күннэрэ түргэнник ааста.	кыыс^N+PL бары^Pron даҕаны^Part үлэ^N+ABL сынньан^V+CONV#1 comma кулууп^N+DAT бар^V+PART_PRES+PL+POSS.3SG+ABL үөр^V+CONV#1 comma күн^N+PL+POSS.3SG түргэн^Adj^ADVZ#5 аас^V+PST.3SG period
+Киргиэлэй наһаа күтүр, кэмчитик туттар, маратык таҥнар, үгүс сылгытыгар-ынаҕар кулут буоллар.	киргиэлэй^PN наһаа^Adv күтүр^Adj comma кэмчи^Adj^ADVZ#5 тутун^V+PART_PRES comma мара^Adj^ADVZ#5 таҥын^V+PART_PRES comma үгүс^Adj сылгы^N+POSS.3SG+DAT hyphen ынах^N+POSS.3SG+DAT кулут^N буол^V+PL period
+Балаһыанньабыт уустугурда, улаханнык мунчаардыбыт, хайдах гыныахха?	балаһыанньа^N+POSS.1PL уустук^Adj^VRBLZ#4+PST.3SG comma улахан^Adj^ADVZ#5 мунчаар^V+PST.1PL comma хайдах^Pron гын^V+PART_FUT+DAT question
+Аня барыларыттан үчүгэйдик ыллыыр.	аня^PN бары^Pron+PL+POSS.3SG+ABL үчүгэй^Adj^ADVZ#5 ыллаа^V+PART_PRES period
+Бүгүн тыал күүскэ үрэр.	бүгүн^Adv тыал^N күүс^N+DAT үр^V+PART_PRES period
+Эн миигиннээҕэр түргэнник үлэлиигин.	эн^Pron мин^Pron+COMP түргэн^Adj^ADVZ#5 үлэ^N^VRBLZ#1+PART_PRES+2SG period
+Маны түргэнник оҥор.	бу^Pron+ACC түргэн^Adj^ADVZ#5 оҥор^V period
+Маша барыларынааҕар үчүгэйдик уруһуйдуур.	маша^PN бары^Pron+PL+POSS.3SG+COMP үчүгэй^Adj^ADVZ#5 уруһуй^N^VRBLZ#1+PART_PRES period
+Бүгүн хаһааҥҥытааҕар да түргэнник айанаан тиийдибит.	бүгүн^Adv хаһааҥҥы^N+COMP да^Part түргэн^Adj^ADVZ#5 айан^N^VRBLZ#3+CONV#1 тиий^V+PST.1PL period
+Дьөгүөссэ оҕонньор санаата көммүт киэһэтигэр бэрт көрүдьүөстүк былыргыны кэпсиир.	дьөгүөссэ^PN оҕонньор^N санаа^N+POSS.3SG көн^V+PART_PAST киэһэ^N+POSS.3SG+DAT бэрт^Part көрүдьүөс^N^ADVZ#5 былыр^Adv^ADJZ#4+ACC кэпсээ^V+PART_PRES period
+Оо, олох наһаа да түргэнник, балысхан хардыынан сайдар!	оо^INJ comma олох^N наһаа^Adv да^Part түргэн^Adj^ADVZ#5 comma балысхан^Adj хардыы^N+INST сайын^V+PART_PRES exclamation
+Буомбардырыапсыктары истирэбиитэллэр арыаллаабыттар! – диэн бэрт холкутук, сэрииттэн аҥаар илиитин мэлитэн кэлбит Ньукулай, чарапчылана-чарапчылана, быһаара турда.	буомбардырыапсык^N+PL+ACC истирэбиитэл^N+PL арыал^N^VRBLZ#1+PART_PAST+PL exclamation dash диэ^V+CONV#1 бэрт^Part холку^Adj^ADVZ#5 comma сэрии^N+ABL аҥаар^Adj илии^N+POSS.3SG+ACC мэлий^V+CSTV+CONV#1 кэл^V+PART_PAST ньукулай^PN comma чарапчы^N^VRBLZ#1+REFL+CONV#2 hyphen чарапчы^N^VRBLZ#1+REFL+CONV#2 comma быһаар^V+CONV#2 тур^V+PST.3SG period
+Кинилэр кылаастарыгар саамай үчүгэйдик кини таҥнар этэ.	кини^Pron+PL кылаас^N+POSS.3PL+DAT саамай^Adv үчүгэй^Adj^ADVZ#5 кини^Pron таҥын^V+PART_PRES э^V+PST.3SG period
+уол чобуо баҕайытык хардары эппиэттээтэ	уол^N чобуо^Adj баҕайы^N^ADVZ#5 хардар^V^ADVZ#1 эппиэт^N^VRBLZ#1+PST.3SG
+эрдэ да эрдэ	эрдэ^Adv да^Part эрдэ^Adv
+үрдүктэн үрдүктүк	үрдүк^Adj+ABL үрдүк^Adj^ADVZ#5
+сырдыктан сырдыктык	сырдык^Adj+ABL сырдык^Adj^ADVZ#5
+Төһөнөн тыаҕа дириҥник киирэн иһэр да, оччонон суола-ииһэ араастаан эриллэр.	төһө^Pron+INST тыа^N+DAT дириҥ^Adj^ADVZ#5 киир^V+CONV#1 ис^V+PART_PRES да^Part comma ол^Pron+DEF#2+INST суол^N+POSS.3SG hyphen иис^N+POSS.3SG араас^Adj^VRBLZ#1+CONV#1 эрий^V+PASS+PART_PRES period
+саамай күндү таҥас	саамай^Adv күндү^Adj таҥас^N
+олус кэрэ кыыс	олус^Adv кэрэ^Adj кыыс^N
+үрдүктэн үрдүк дьиэ	үрдүк^Adj+ABL үрдүк^Adj дьиэ^N
+Киһи тулуйбат итиитэ.	киһи^N тулуй^V+NEG+PART_PRES итии^Adj+POSS.3SG period
+Киһи эппэт ыарахана.	киһи^N эп^V+NEG+PART_PRES ыарахан^Adj+POSS.3SG period
+Киһи кулгааҕа чуҥкунуур чуумпута.	киһи^N кулгаах^N+POSS.3SG чуҥ^IMIT^VRBLZ#16+PART_PRES чуумпу^Adj+POSS.3SG period
+Истиэхтэн кэрэ ырыа.	ис^N^VRBLZ#1+PART_FUT+ABL кэрэ^Adj ырыа^N period
+учууталлар учууталлара	учуутал^N+PL учуутал^N+PL+POSS.3SG
+ньургуннар ньургуннара	ньургун^PN+PL ньургун^PN+PL+POSS.3SG
+маастардар маастардара	маастар^N+PL маастар^N+PL+POSS.3SG
+дьиктиттэн дьикти	дьикти^Adj+ABL дьикти^Adj
+кэрэттэн кэрэ	кэрэ^Adj+ABL кэрэ^Adj
+үтүөттэн үтүө	үтүө^Adj+ABL үтүө^Adj
+туйгунтан туйгун	туйгун^Adj+ABL туйгун^Adj
+дьиэттэн үрдүктэрэ	дьиэ^N+ABL үрдүк^Adj+PL+POSS.3SG
+оҕолортон кыралара	оҕо^N+PL+ABL кыра^Adj+PL+POSS.3SG
+дьонтон дьадаҥылара	дьон^N+ABL дьадай^V^ADJZ#4+PL+POSS.3SG
+дьиэ да дьиэ	дьиэ^N да^Part дьиэ^N
+кыыс да кыыс	кыыс^N да^Part кыыс^N
+куорат да куорат	куорат^N да^Part куорат^N
+«Россияҕа» сүүрбэ иккис этээскэ ресторан да ресторан баар, Москва киинэ ытыска уурбут курдук көстөр.	quotation россия^N+DAT quotation сүүрбэ^Num икки^Num+ORD этээс^N+DAT ресторан^N да^Part ресторан^N баар^V comma москва^PN киин^N+POSS.3SG ытыс^N+DAT уур^V+PART_PAST курдук^POST көһүн^V+PART_PRES period
+Кыыс киэнэ кылааннааҕа.	кыыс^N киэн^Part+POSS.3SG кылаан^N^ADJZ#1+POSS.3SG period
+киһи киэнэ кэрэмэһэ	киһи^N киэн^Part+POSS.3SG кэрэмэс^Adj+POSS.3SG
+киһи киэнэ чулуута	киһи^N киэн^Part+POSS.3SG чулуу^Adj+POSS.3SG
+саха киэнэ саарбата, киһи киэнэ киргиллээҕэ	саха^Adj киэн^Part+POSS.3SG саарба^N+POSS.3SG comma киһи^N киэн^Part+POSS.3SG киргил^N^ADJZ#1+POSS.3SG
+киһи сорсуннааҕа	киһи^N сорсун^N^ADJZ#1+POSS.3SG
+Эйиэхэ төлөннөөх эҕэрдэ, Икки атахтаах албаннаах туйгунугар!	эн^Pron+DAT төлөн^N^ADJZ#1 эҕэрдэ^N comma икки^Num атах^N^ADJZ#1 албан^Adj^ADJZ#1 туйгун^Adj+POSS.3SG+DAT exclamation
+киһи күнэ	киһи^N күн^N+POSS.3SG
+күөгэйэр күнүгэр сылдьар	күөгэй^V+PART_PRES күн^N+POSS.3SG+DAT сырыт^V+PART_PRES
+Туоскуннааҕы ханнык да киһи ымсыыра көрөр ыала этилэр: иккиэн үрдүк үөрэхтээх специалистар, - күөгэйэр күннэригэр сылдьар дьоннор.	туоскун^PN^ADJZ#1+ACC ханнык^Pron да^Part киһи^N ымсыы^N^VRBLZ#4+CONV#2 көр^V+PART_PRES ыал^N+POSS.3SG э^V+PST.3PL colon икки^Num+COLL#1^ADVZ#10 үрдүк^Adj үөрэх^N^ADJZ#1 специалист^N+PL comma hyphen күөгэй^V+PART_PRES күн^N+POSS.3PL+DAT сырыт^V+PART_PRES дьон^N+PL period
+күөгэйэр күнэ	күөгэй^V+PART_PRES күн^N+POSS.3SG
+Урут күөгэйэр күнүгэр таҥара буолан олорбута: аҕабыт оҕону сүрэхтиирэ, кини улахан дьону сүрэхтиирэ.	урут^Adv күөгэй^V+PART_PRES күн^N+POSS.3SG+DAT таҥара^N буол^V+CONV#1 олор^V+PART_PAST+POSS.3SG colon аҕа^N+POSS.1PL оҕо^N+ACC сүрэх^N^VRBLZ#1+PART_PRES+POSS.3SG comma кини^Pron улахан^Adj дьон^N+ACC сүрэх^N^VRBLZ#1+PART_PRES+POSS.3SG period
+үлэлээн биэрэр	үлэ^N^VRBLZ#1+CONV#1 биэр^V+PART_PRES
+киһиргээн байар	киһиргээ^V+CONV#1 бай^V+PART_PRES
+Бөрөлөр-табалар бииргэ үөрдүспэттэр ини.	бөрө^N+PL hyphen таба^N+PL биир^Num+DAT үөрдүс^V+NEG+PART_PRES+PL ини^Part period
+Бука, сарсын-өйүүн үлэҕэ тахсыам.	бука^MOD comma сарсын^Adv hyphen өйүүн^Adv үлэ^N+DAT таҕыс^V+PART_FUT+POSS.1SG period
+саа эҥин	саа^N эҥин^Adj
+аҕам аах	аҕа^N+POSS.1SG аах^Part
+ата суох	ат^N+POSS.3SG суох^Part
+туох эмэ	туох^Pron эмэ^Part
+ким эрэ	ким^Pron эрэ^Part
+хас даҕаны	хас^Pron даҕаны^Part
+ким да	ким^Pron да^Part
+Эппэтэҕим дуо мин!	эт^V+NEG+PART_PAST+POSS.1SG дуо^Part мин^Pron exclamation
+Уолу үрдүнэн өрө уунан кэбистэ.	уол^N+ACC үрүт^N+POSS.3SG+INST өрө^Adv уун^V+CONV#1 кэбис^V+PST.3SG period
+Республика үрдүнэн биллэр булчут буолбута.	республика^N үрүт^N+POSS.3SG+INST билин^V+PART_PRES булт^N+NMLZ#1 буол^V+PART_PAST+POSS.3SG period
+Мин өр кэнники олоҕум туһунан санаатым.	мин^Pron өр^Adv кэлин^N^ADJZ#4 олох^N+POSS.1SG тус^N+POSS.3SG+INST санаа^V+PST.1SG period
+Ити иннигэр, ойоҕуҥ аналын биэрбитиҥ таһынан, бэйэҥ дьүүллэниэх тустааххын.	ити^Pron илин^N+POSS.3SG+DAT comma ойох^N+POSS.2SG анаа^V^NMLZ#9+POSS.3SG+ACC биэр^V+PART_PAST+POSS.2SG тас^N+POSS.3SG+INST comma бэйэ^N+POSS.2SG дьүүл^N^VRBLZ#1+PASS+PART_FUT тус^N^ADJZ#1+2SG period
+Киэби таһынан уот буолла.	киэп^N+ACC тас^N+POSS.3SG+INST уот^N буол^V+PST.3SG period
+Научнай уонна политическай өттүнэн мөлтөх сайдыылаах киһи.	научнай^Adj уонна^CONJ политическай^Adj өрүт^N+POSS.3SG+INST мөлтөө^V^ADJZ#16 сайын^V^NMLZ#2^ADJZ#1 киһи^N period
+Тумуроваҕа дьону ортотунан тиийэн кэлэр.	тумурова^PN+DAT дьон^N+ACC орто^N+POSS.3SG+INST тиий^V+CONV#1 кэл^V+PART_PRES period
+Биһиги биригээдэ иһинэн тахсар хаһыат аата эмиэ 'Чаҕылҕан'.	биһиги^Pron биригээдэ^N ис^N+POSS.3SG+INST таҕыс^V+PART_PRES хаһыат^N аат^N+POSS.3SG эмиэ^Adv quotation чаҕылҕан^N quotation period
+Ымынаҕа биир нэдиэлэ иһинэн хатырык курдук түһэн хаалыаҕа.	ымынах^N+POSS.3SG биир^Num нэдиэлэ^N ис^N+POSS.3SG+INST хатырык^N курдук^POST түс^V+CONV#1 хаал^V+PART_FUT+POSS.3SG period
+Барыта сиэр иһинэн.	бары^Pron+POSS.3SG сиэр^Adj ис^N+POSS.3SG+INST period
+Сотору мастары быыһынан Маня маҥан былаата элэҥнээн сүттэ.	сотору^Adv мас^N+PL+ACC быыс^N+POSS.3SG+INST маня^PN маҥан^Adj былаат^N+POSS.3SG элэй^V+FREC#7+CONV#1 сүт^V+PST.3SG period
+Ыраах үөһэ, туманы быыһынан сулустар көстөллөр.	ыраах^Adj үөс^N+POSS.3SG comma туман^N+ACC быыс^N+POSS.3SG+INST сулус^N+PL көһүн^V+PART_PRES+PL period
+Атын норуоттары тэҥинэн, саха норуотугар эмиэ көҥүл-сайдыы суолун арыйбытын туһунан листовкаларга бэлиэтэммит.	атын^Adj норуот^N+PL+ACC тэҥ^Adj+POSS.3SG+INST comma саха^Adj норуот^N+POSS.3SG+DAT эмиэ^Adv көҥүл^N hyphen сайын^V^NMLZ#2 суол^N+POSS.3SG+ACC арый^V+PART_PAST+POSS.3SG+ACC тус^N+POSS.3SG+INST листовка^N+PL+DAT бэлиэтээ^V+PASS+PART_PAST period
+Бу уураах быһыытынан үгүс көлүйэлэри, чүөмпэлэри үөскэтиллиэхтээх.	бу^Pron уураах^N быһыы^N+POSS.3SG+INST үгүс^Adj көлүйэ^N+PL+ACC comma чүөмпэ^N+PL+ACC үөскээ^V+CSTV+PASS+PART_FUT+DEB period
+Сокуон быһыытынан эһиги арахсаҕыт.	сокуон^N быһыы^N+POSS.3SG+INST эһиги^Pron арах^V+RECP+PART_PRES+2PL period
+Ол иһин кини большевик буолбут.	ол^Pron ис^N+POSS.3SG+ACC кини^Pron большевик^N буол^V+PART_PAST period
+Итиннээҕэр быдан элбэх киһи босхоҥ буолбута.	ити^Pron+COMP быдан^Adv элбээ^V^ADJZ#16 киһи^N босхоҥ^N буол^V+PART_PAST+POSS.3SG period
+Оччоҕо кини 16 саастаах уол этэ.	ол^Pron+DEF#2+DAT кини^Pron number саас^N^ADJZ#1 уол^N э^V+PST.3SG period
+Биир киһи теплоход иннигэр мустан турар дьоҥҥо кэпсиир.	биир^Num киһи^N теплоход^N илин^N+POSS.3SG+DAT муһун^V+CONV#1 тур^V+PART_PRES дьон^N+DAT кэпсээ^V+PART_PRES period
+Ити кэмҥэ теплоход иннигэр моторкалар көһүннүлэр.	ити^Pron кэм^N+DAT теплоход^N илин^N+POSS.3SG+DAT моторка^N+PL көһүн^V+PST.3PL period
+Сайынын куйааһа — бэрт.	сайын^N+POSS.3SG+ACC куйаас^Adj+POSS.3SG dash бэрт^Adj period
+Куйааһа бэрт эбит, сыралыйан олорор.	куйаас^Adj+POSS.3SG бэрт^Part э^V+PART_PAST comma сырал^N^VRBLZ#2+CONV#1 олор^V+PART_PRES period
+Биһиэхэ бырааттыы быһыылаах, тэҥнээх олохтоох пролетарскай лааҕырга холбоһон иһиҥ.	биһиги^Pron+DAT быраат^N^ADVZ#6 быһыы^N^ADJZ#1 comma тэҥ^Adj^ADJZ#1 олох^N^ADJZ#1 пролетарскай^Adj лааҕыр^N+DAT холбоо^V+RECP+CONV#1 ис^N+POSS.2SG period
+Бэйэ киһитэ быһыылаах.	бэйэ^N киһи^N+POSS.3SG быһыы^N^ADJZ#1 period
+Сааһынан да балыс быһыылаах.	саас^N+POSS.3SG+INST да^Part балыс^N быһыы^N^ADJZ#1 period
+баар гын	баар^N гын^V
+үс гын	үс^Num гын^V
+киһи гын	киһи^N гын^V
+суох буол	суох^Part буол^V
+аччык буол	аччык^Adj буол^V
+хат буол	хат^Adj буол^V
+тыл эт	тыл^N эт^V
+уруй эт	уруй^N эт^V
+эр ыл	эр^N ыл^V
+ойох ыл	ойох^N ыл^V
+сэниэ ыл	сэниэ^N ыл^V
+күлүүгэ бар	күл^V^NMLZ#2+DAT бар^V
+эргэ бар	эр^N+DAT бар^V
+толкуйга түс	толкуй^N+DAT түс^V
+хаартыскаҕа түс	хаартыска^N+DAT түс^V
+чиэс биэр	чиэс^N биэр^V
+иэдэс биэр	иэдэс^N биэр^V
+айах тут	айах^N тут^V
+өйтөн таҕыс	өй^N+ABL таҕыс^V
+сото кэбис	сото^N кэбис^V
+звони гын	звони^N гын^V
+көрү тут	көр^N+ACC тут^V
+өйтөн таҕыс	өй^N+ABL таҕыс^V
+ат иһин биэрдим	ат^N ис^N+POSS.3SG+ACC биэр^V+PST.1SG
+акка биэрдим	ат^N+DAT биэр^V+PST.1SG
+ойуурунан барда	ойуур^N+INST бар^V+PST.3SG
+ойуур устун барда	ойуур^N устун^POST бар^V+PST.3SG
+Оччоҕо биһиги Москва анныгар олорбуппут.	ол^Pron+DEF#2+DAT биһиги^Pron москва^PN алын^N+POSS.3SG+DAT олор^V+PART_PAST+1PL period
+Уол остуол анныгар тутан олорон манныгы аахта.	уол^N остуол^N алын^N+POSS.3SG+DAT тут^V+CONV#1 олор^V+CONV#1 бу^Pron+DEF+ACC аах^V+PST.3SG period
+Остуол анныгар бурдук тохтубута туртайа сытар.	остуол^N алын^N+POSS.3SG+DAT бурдук^N тоҕун^V+PART_PAST+POSS.3SG туртай^V+CONV#2 сыт^V+PART_PRES period
+Ити кэмҥэ сыыр анныттан бэрт намылхай саҥа эҥээрийэн иһилиннэ.	ити^Pron кэм^N+DAT сыыр^N алын^N+POSS.3SG+ABL бэрт^Adj намылхай^Adj саҥа^Adj эҥээрий^V+CONV#1 иһилин^V+PST.3SG period
+Анараа хоско орон анныттан биир чымыдааны ылла.	анараа^N хос^N+DAT орон^N алын^N+POSS.3SG+ABL биир^Num чымыдаан^N+ACC ыл^V+PST.3SG period
+Хаҥас иэдэһин аннынан кыракый кимистигэс көстө түһэр.	хаҥас^Adj иэдэс^N+POSS.3SG+ACC алын^N+POSS.3SG+INST кыракый^Adj кимистигэс^Adj көһүн^V+CONV#2 түс^V+PART_PRES period
+Уу аннынан муоста тутуллубут.	уу^N алын^N+POSS.3SG+INST муоста^N тут^V+PASS+PART_PAST period
+дьиэ аайы киир	дьиэ^N аайы^POST киир^V
+куорат ахсын ыыт	куорат^N ахсын^POST ыыт^V
+строй диэки	строй^N диэки^POST
+күнү көрсө бар	күн^N+ACC көр^V+RECP+CONV#2 бар^V
+уот хоту	уот^N хоту^POST
+сүүрүгү утары	сүүр^V^NMLZ#5+ACC утар^V^ADVZ#1
+оскуола аайы	оскуола^N аайы^POST
+хонуу ахсын	хонуу^N ахсын^POST
+биһиги диэки	биһиги^Pron диэки^POST
+уулусса тухары	уулусса^N тухары^POST
+армия иһигэр	армия^N ис^N+POSS.3SG+DAT
+нэһилиэнньэ ортотугар	нэһилиэнньэ^N орто^N+POSS.3SG+DAT
+буурҕа быыһыгар	буурҕа^N быыс^N+POSS.3SG+DAT
+бригада иһинэн	бригада^N ис^N+POSS.3SG+INST
+оскуола үрдүнэн	оскуола^N үрүт^N+POSS.3SG+INST
+оскуолаҕа дылы	оскуола^N+DAT дылы^POST
+күөлгэ диэри	күөл^N+DAT диэри^POST
+Москваҕа тиийэ	москва^PN+DAT тиий^V+CONV#2
+ойуур устун	ойуур^N устун^POST
+коллектив иһиттэн	коллектив^N ис^N+POSS.3SG+ABL
+биһиги ортотуттан	биһиги^Pron орто^N+POSS.3SG+ABL
+былааһын анныттан	былаа^V^NMLZ#3 алын^N+POSS.3SG+ABL
+черта таһыттан	черта^N тас^N+POSS.3SG+ABL
+куорат үөһэ	куорат^N үөс^N+POSS.3SG
+кырдьык үрдүгэр	кырдьык^N үрүт^N+POSS.3SG+DAT
+уолу үрдүнэн	уол^N+ACC үрүт^N+POSS.3SG+INST
+хос нөҥүө	хос^N нөҥүө^Adj
+буруо курдары	буруо^N курдар^V^ADVZ#1
+таҥас курдаттыы	таҥас^N курдат^N^ADVZ#6
+туман курдат	туман^N курдат^N
+эт бүтэй	эт^N бүтэй^Adj
+дьону ортотунан	дьон^N+ACC орто^N+POSS.3SG+INST
+туманы быыһынан	туман^N+ACC быыс^N+POSS.3SG+INST
+куораттан ыла	куорат^N+ABL ыл^V+CONV#2
+нэдиэлэ курдук	нэдиэлэ^N курдук^POST
+үс чаас диэки	үс^Num чаас^N диэки^POST
+бу киэһэ устун	бу^Pron киэһэ^N устун^POST
+уон чаас саҕана	уон^Num чаас^N саҕана^POST
+киэһэ эргин	киэһэ^N эргин^N
+чаас кэриҥэ	чаас^N кэриҥ^N+POSS.3SG
+нэдиэлэ быстыҥа	нэдиэлэ^N быстыҥа^N
+уон чааска диэри	уон^Num чаас^N+DAT диэри^POST
+киэһэттэн ыла	киэһэ^N+ABL ыл^V+CONV#2
+бырааһынньык инниттэн	бырааһынньык^N илин^N+POSS.3SG+ABL
+сэрии иннинэ	сэрии^N иннинэ^POST
+утуйуох иннигэр	утуй^V+PART_FUT илин^N+POSS.3SG+DAT
+өлбүтүн кэннэ	өл^V+PART_PAST+POSS.3SG+ACC кэннэ^POST
+сарсыҥҥыттан инньэ	сарсын^Adv^ADJZ#4+ABL инньэ^Adv
+тохсунньуттан кэлин	тохсунньу^N+ABL кэлин^N
+уруок кэннигэр	уруок^N кэлин^N+POSS.3SG+DAT
+үлэ кэнниттэн	үлэ^N кэлин^N+POSS.3SG+ABL
+уу курдук	уу^N курдук^POST
+эн курдук	эн^Pron курдук^POST
+куртуйах курдук	куртуйах^N курдук^POST
+отон саҕа	отон^N саҕа^POST
+балык кэриэтэ	балык^N кэриэтэ^POST
+аҕатыгар дылы	аҕа^N+POSS.3SG+DAT дылы^POST
+кини тэҥэ	кини^Pron тэҥ^Adj+POSS.3SG
+сылайыахпар диэри	сылай^V+PART_FUT+POSS.1SG+DAT диэри^POST
+оҕонньоруттан кытары	оҕонньор^N+POSS.3SG+ABL кытары^POST
+биир харчытыгар тиийэ	биир^Num харчы^N+POSS.3SG+DAT тиий^V+CONV#2
+солкотуттан кытта	солко^N+POSS.3SG+ABL кытын^V+CONV#2
+дьыала иһин	дьыала^N иһин^POST
+кандидаттар иһин	кандидат^N+PL иһин^POST
+үлэ иһин	үлэ^N иһин^POST
+табаарыһын иннигэр	табаарыс^N+POSS.3SG+ACC илин^N+POSS.3SG+DAT
+биһиги туспутугар	биһиги^Pron тус^N+POSS.1PL+DAT
+колхоз суотугар	колхоз^N суот^N+POSS.3SG+DAT
+коммунизм иһин	коммунизм^N иһин^POST
+коммунизм иннигэр	коммунизм^N илин^N+POSS.3SG+DAT
+Москва туһугар	москва^PN тус^N+POSS.3SG+DAT
+ити инниттэн	ити^Pron илин^N+POSS.3SG+ABL
+суоҕун иһин	суох^Part+POSS.3SG+ACC иһин^POST
+аттан сылтаан	ат^N+ABL сылтаа^V+CONV#1
+эрэйин быатыгар	эрэй^N+POSS.3SG+ACC быа^N+POSS.3SG+DAT
+үөрэнэр туһуттан	үөрэн^V+PART_PRES тус^N+POSS.3SG+ABL
+сөбүн быһыытынан	сөп^Adj+POSS.3SG+ACC быһыы^N+POSS.3SG+INST
+хойутааһын туһугар	хойут^Adv^VRBLZ#3^NMLZ#3 тус^N+POSS.3SG+DAT
+күүстээҕин иһин	күүс^N^ADJZ#1+POSS.3SG+ACC иһин^POST
+эдэрин иннигэр	эдэр^Adj+POSS.3SG+ACC илин^N+POSS.3SG+DAT
+ол үрдүнэн	ол^Pron үрүт^N+POSS.3SG+INST
+килиэптэн ураты	килиэп^N+ABL ураты^Adv
+итинтэн ордук	ити^Pron+ABL орт^V^NMLZ#5
+миигиттэн атын	мин^Pron+ABL атын^Adj
+кинигэ чааһыттан	кинигэ^N чаас^N+POSS.3SG+ABL
+математика ирээтиттэн	математика^N ирээт^N+POSS.3SG+ABL
+булт ирээтэ	булт^N ирээт^N+POSS.3SG
+сэрии чааһын	сэрии^N чаас^N+POSS.3SG+ACC
+ити ирээтин	ити^Pron ирээт^N+POSS.3SG+ACC
+көҥүл туһун	көҥүл^N тус^N+POSS.3SG+ACC
+эйэ туһунан	эйэ^N тус^N+POSS.3SG+INST
+үлэ чааһынан	үлэ^N чаас^N+POSS.3SG+INST
+баай хоту	баай^Adj хоту^POST
+баҕатын хоту	баҕа^N+POSS.3SG+ACC хоту^POST
+кырдьаҕаһын аанньа	кырый^V^ADJZ#6+POSS.3SG+ACC аанньа^Adv
+уураах быһыытынан	уураах^N быһыы^N+POSS.3SG+INST
+киһи аайы биэр	киһи^N аайы^POST биэр^V
+кыыс ахсын	кыыс^N ахсын^POST
+гектарын баһыгар	гектар^N+POSS.3SG+ACC бас^N+POSS.3SG+DAT
+кыыһы кытары	кыыс^N+ACC кытары^POST
+миигин кытта	мин^Pron+ACC кытын^V+CONV#2
+үлэни сэргэ	үлэ^N+ACC сэргэ^N
+итини тэҥинэн	ити^Pron+ACC тэҥ^Adj+POSS.3SG+INST
+ону тэҥэ	ол^Pron+ACC тэҥ^Adj+POSS.3SG
+уонтан тахса	уон^Num+ABL таҕыс^V+CONV#2
+Михаилтан ордук	михаил^PN+ABL орт^V^NMLZ#5
+уонтан ордук	уон^Num+ABL орт^V^NMLZ#5
+хараҕын муҥунан	харах^N+POSS.3SG+ACC муҥ^N+POSS.3SG+INST
+күүһүн таһынан	күүс^N+POSS.3SG+ACC тас^N+POSS.3SG+INST
+баҕа өттүнэн	баҕа^N өрүт^N+POSS.3SG+INST
+санаатын ортотунан	санаа^N+POSS.3SG+ACC орто^N+POSS.3SG+INST
+сиэр иһинэн	сиэр^Adj ис^N+POSS.3SG+INST
+доҕор быһыытынан	доҕор^N быһыы^N+POSS.3SG+INST
+эдэрин таһынан	эдэр^Adj+POSS.3SG+ACC тас^N+POSS.3SG+INST
+сүрүн үлэтигэр эбии	сүрүн^N үлэ^N+POSS.3SG+DAT эп^V^NMLZ#2
+күүстээҕин үрдүнэн	күүс^N^ADJZ#1+POSS.3SG+ACC үрүт^N+POSS.3SG+INST
+ону ааһан	ол^Pron+ACC аас^V+CONV#1
+көмөтүн үрдүгэр	көмө^N+POSS.3SG+ACC үрүт^N+POSS.3SG+DAT
+үлэ чааһыгар	үлэ^N чаас^N+POSS.3SG+DAT
+балык ирээтигэр	балык^N ирээт^N+POSS.3SG+DAT
+научнай өттүнэн	научнай^Adj өрүт^N+POSS.3SG+INST
+кини оннугар	кини^Pron орун^N+POSS.3SG+DAT
+директор оннугар	директор^N орун^N+POSS.3SG+DAT
+съеһи көрсө	lowercase көр^V+RECP+CONV#2
+сэриини утары	сэрии^N+ACC утар^V^ADVZ#1
+Эһэни соҕотоҕун бултаан өлөрөрү оонньуу кэриэтэ саныырым.	эһэ^N+ACC соҕотох^Adj+POSS.3SG+ACC бултаа^V+CONV#1 өл^V+CSTV+PART_PRES+ACC оонньуу^N кэриэтэ^POST санаа^V+PART_PRES+POSS.1SG period
+Мэлдьи кэриэтэ кинини кытта үҥкүүлүүр буолла.	мэлдьи^Adv кэриэтэ^POST кини^Pron+ACC кытын^V+CONV#2 үҥкүү^N^VRBLZ#1+PART_PRES буол^V+PST.3SG period
+Бу дьиэни биэс тыһыынча аайы туппаттар.	бу^Pron дьиэ^N+ACC биэс^Num тыһыынча^Num аайы^POST тут^V+NEG+PART_PRES+PL period
+Эбэм миигин таптыыр, эн буоллаҕына таптаабаккын.	эбэ^N+POSS.1SG мин^Pron+ACC таптаа^V+PART_PRES comma эн^Pron буол^V+CONV_COND#2+POSS.3SG+PRTV таптаа^V+NEG+PART_PRES+2SG period
+Оттон ийэтин аҕата Саян Саянов буоллаҕына, эмиэ бэрт 'үтүө' киһи үөскээн ааспыта үһү.	оттон^CONJ ийэ^N+POSS.3SG+ACC аҕа^N+POSS.3SG саян^PN саянов^PN буол^V+CONV_COND#2+POSS.3SG+PRTV comma эмиэ^Adv бэрт^Adj quotation үтүө^Adj quotation киһи^N үөскээ^V+CONV#1 аас^V+PART_PAST+POSS.3SG үһү^Part period
+дьиэ кыһайар кытыытыгар	дьиэ^N кыһай^V+PART_PRES кытыы^N+POSS.3SG+DAT
+дьиэ аттыгар диэри	дьиэ^N атта^N+POSS.3SG+DAT диэри^POST
+күп гын	күп^IMIT гын^V
+ар диэ	ар^IMIT диэ^V
+лэс гыннар	лэс^IMIT гын^V+CAUS
+дьик гын	дьик^IMIT гын^V
+тосту бар	тосту^Adv бар^V
+өй ыл	өй^N ыл^V
+элэк гын	элэк^N гын^V
+учуутал буолбут	учуутал^N буол^V+PART_PAST
+тымныы этэ	тымныы^Adj э^V+PST.3SG
+бара түс	бар^V+CONV#2 түс^V
+бара тур	бар^V+CONV#2 тур^V
+төҥкөс гын	төҥкөй^V+SUDD#2 гын^V
+ситэн ыл	сит^V+CONV#1 ыл^V
+Кыайа сыста.	кыай^V+CONV#2 сыс^V+PST.3SG period
+Билиэхпин баҕарабын.	бил^V+PART_FUT+1SG баҕа^N^VRBLZ#4+PART_PRES+1SG period
+Үлэлээтэххэ табыллар.	үлэ^N^VRBLZ#1+CONV_COND#2+DAT тап^V+PASS+PART_PRES period
+Республика үрдүнэн биллэр булчут буолбута.	республика^N үрүт^N+POSS.3SG+INST билин^V+PART_PRES булт^N+NMLZ#1 буол^V+PART_PAST+POSS.3SG period
+дьиэ таһа	дьиэ^N тас^N+POSS.3SG
+дьиэ үрдүн	дьиэ^N үрүт^N+POSS.3SG+ACC
+дьиэлэр истэриттэн	дьиэ^N+PL ис^N+POSS.3PL+ABL
+күөл ортотун мууһа	күөл^N орто^N+POSS.3SG+ACC муус^N+POSS.3SG
+күөл ортотун мууһун кытыыта	күөл^N орто^N+POSS.3SG+ACC муус^N+POSS.3SG+ACC кытыы^N+POSS.3SG
+күөл саамай ортотунан	күөл^N саамай^Adv орто^N+POSS.3SG+INST
+Хаастар дьиэ саамай үрдүнэн аастылар.	хаас^N+PL дьиэ^N саамай^Adv үрүт^N+POSS.3SG+INST аас^V+PST.3PL period
+Дьиэ үрдүн тобулу одууласта.	дьиэ^N үрүт^N+POSS.3SG+ACC тобул^N+ACC одуу^N^VRBLZ#1+RECP+PST.3SG period
+Эмискэ дьиэ аана аһылларын кытта, күөх ырбаахылаах, сүүрбэччэ саастаах кыыс тахсан кэллэ.	эмис^Adj+DAT дьиэ^N аан^N+POSS.3SG ас^V+PASS+PART_PRES+POSS.3SG+ACC кытын^V+CONV#2 comma күөх^Adj ырбаахы^N^ADJZ#1 comma сүүрбэ^Num+APPR#1 саас^N^ADJZ#1 кыыс^N таҕыс^V+CONV#1 кэл^V+PST.3SG period
+Арамаан эйиэхэ уон сүүһү биэрбитэ дуо?	арамаан^PN эн^Pron+DAT уон^Num сүүс^Num+ACC биэр^V+PART_PAST+POSS.3SG дуо^Part question
+Бабат, истэн турбут буолбаат!	бабат^INJ comma иһит^V+CONV#1 тур^V+PART_PAST буолбаат^Part exclamation
+Көлүйэҕэ кустар түстүлэр ыта оҕус.	көлүйэ^N+DAT кус^N+PL түс^V+PST.3PL ыт^V+CONV#2 оҕус^V period
+Аанчык аргыый туран кэллэ.	аан^PN+DIM#1 аргыый^Adv тур^V+CONV#1 кэл^V+PST.3SG period
+Көрүнэ түс.	көр^V+REFL+CONV#2 түс^V period
+Көрдөрө түс.	көр^V+CAUS+CONV#2 түс^V period
+Көтө ахан турда.	көт^V+CONV#2 ахан^Part тур^V+PST.3SG period
+Үлэлиир да этэ.	үлэ^N^VRBLZ#1+PART_PRES да^Part э^V+PST.3SG period
+ньоҥ диэ	ньоҥ^IMIT диэ^V
+кэнэн түс	кэй^V+REFL+CONV#1 түс^V
+эмти бар	эмти^Adv бар^V
+өй ыл	өй^N ыл^V
+көрү тут	көр^N+ACC тут^V
+өйтөн аах	өй^N+ABL аах^V
+булчут буол	булт^N+NMLZ#1 буол^V
+булчут этэ	булт^N+NMLZ#1 э^V+PST.3SG
+сүүрэ тур	сүүр^V+CONV#2 тур^V
+этэн биэр	эт^V+CONV#1 биэр^V
+хаампытынан бар	хаамп^V+PART_PAST+POSS.3SG+INST бар^V
+үөрэниэхпин саныыбын	үөрэн^V+PART_FUT+POSS.1SG+ACC санаа^V+PART_PRES+1SG
+кыыһырыах этэ	кыыһыр^V+PART_FUT э^V+PST.3SG
+Сарсыарда аармыйаҕа барар үһүгүн.	сарсыарда^N аармыйа^N+DAT бар^V+PART_PRES үһү^Part+2SG period
+Ити туох дьиэлэрэ үһүнүй?	ити^Pron туох^Pron дьиэ^N+PL+POSS.3SG үһү^Part+INT question
+Кини өлбүт үһүтүн иһиттим.	кини^Pron өл^V+PART_PAST үһү^Part+POSS.3SG+ACC иһит^V+PST.1SG period
+Көрдөспүтэ бэрдиттэн, билэр киһибэр Уоһукка аҕаллым.	көрдөө^V+RECP+PART_PAST+POSS.3SG бэрт^Part+POSS.3SG+ABL comma бил^V+PART_PRES киһи^N+POSS.1SG+DAT уоһук^PN+DAT аҕал^V+PST.1SG period
+Эн акаарыгыттан дьон өлө сыспыттар.	эн^Pron акаары^Adj+POSS.2SG+ABL дьон^N өл^V+CONV#2 сыс^V+PART_PAST+PL period
+Сылаас ууга киирэн сытыа этэ.	сылаас^Adj уу^N+DAT киир^V+CONV#1 сыт^V+PART_FUT э^V+PST.3SG period
+барар этим	бар^V+PART_PRES э^V+PST.1SG
+барбат этим	бар^V+NEG+PART_PRES э^V+PST.1SG
+үлэлиир этэ	үлэ^N^VRBLZ#1+PART_PRES э^V+PST.3SG
+Оҥоро сатаата да, туох да тахсыбата.	оҥор^V+CONV#2 сатаа^V+PST.3SG да^Part comma туох^Pron да^Part таҕыс^V+NEG+PST.3SG period
+Сөбүлэһэр үһүө, этэ сатыам.	сөбүлээ^V+RECP+PART_PRES үһүө^Part comma э^V+PST.3SG сатаа^V+PART_FUT+POSS.1SG period
+Елканы оҕолор киэргэтэ сатаабаттар.	елка^N+ACC оҕо^N+PL киэргэт^V+CONV#2 сатаа^V+NEG+PART_PRES+PL period
+Кини онтон ыла айаҕын иһин үлэ көрдөһө барбыта.	кини^Pron ол^Pron+ABL ыл^V+CONV#2 айа^N+POSS.2SG+ACC иһин^POST үлэ^N көрдөө^V+RECP+CONV#2 бар^V+PART_PAST+POSS.3SG period
+Саҥа кыайыылар иһин иннибит диэки!	саҥа^Adj кыай^V^NMLZ#2+PL иһин^POST илин^N+POSS.1PL диэки^POST exclamation
+Төрөөбүт тылбыт атынын иһин биир нуучча тыллаахпыт, биир санаалаахпыт.	төрөө^V+PART_PAST тыл^N+POSS.1PL атын^Adj+POSS.3SG+ACC иһин^POST биир^Num нуучча^Adj тыл^N^ADJZ#1+1PL comma биир^Num санаа^N^ADJZ#1+1PL period
+Ама кинитин иһин Борукуоппай кыайаа ини.	ама^MOD кини^Pron+POSS.3SG+ACC иһин^POST борукуоппай^PN lowercase ини^Part period
+Көлөһүн күнүн аайы биирдии солкуобайы ылбыттар.	көлөһүн^N күн^N+POSS.3SG+ACC аайы^POST биир^Num+DISTR солкуобай^N+ACC ыл^V+PART_PAST+PL period
+Оҕонньордоох эмээхсин дьон аайы кэпсииллэр.	оҕонньор^N^ADJZ#1 эмээхсин^N дьон^N аайы^POST кэпсээ^V+PART_PRES+PL period
+Куорат орто оскуолаларын аайы литература куруһуоктара бааллар.	куорат^N орто^N оскуола^N+POSS.3PL+ACC аайы^POST литература^N куруһуок^N+PL+POSS.3SG баар^V+PL period
+Күн аайы маҕаһыыннарга сылдьар.	күн^N аайы^POST маҕаһыын^N+PL+DAT сырыт^V+PART_PRES period
+Дьоннор, ыаллар аайыттан ыйыталастылар.	дьон^N+PL comma ыал^N+PL аайы^POST+ABL ыйыт^V+FREC#4+RECP+PST.3PL period
+Киниэхэ тыаҕа тахсар киһи аайынан сурук ыытабын.	кини^Pron+DAT тыа^N+DAT таҕыс^V+PART_PRES киһи^N аайы^POST+INST суруй^V^NMLZ#5 ыыт^V+PART_PRES+1SG period
+Үс үөстээх Лена хотун муора курдук нэлэһийэр.	үс^Num үөс^N^ADJZ#1 лена^PN хотун^N муора^N курдук^POST нэлэй^V+ACCE#2+PART_PRES period
+Оскуолаттан тарҕаспыттара ый курдук буолла.	оскуола^N+ABL тарҕаа^V+RECP+PART_PAST+PL+POSS.3SG ый^N курдук^POST буол^V+PST.3SG period
+Кини саҕа куһаҕан суох.	кини^Pron саҕа^POST куһаҕан^Adj суох^Part period
+Эн саҕа ыалдьааччылар бааллар.	эн^Pron саҕа^POST ыарый^V+HAB#1+PL баар^V+PL period
+Нина манна илимҥэ киирбит балык кэриэтэ.	нина^PN бу^Pron+LOC илим^N+DAT киир^V+PART_PAST балык^N кэриэтэ^POST period
+Һи-һи, акаарыскай аныаха дылы үгэни билбэт.	һи^INJ hyphen һи^INJ comma акаарыскай^Adj аныаха^N дылы^POST үгэ^N+ACC бил^V+NEG+PART_PRES period
+Баҕалара ханыар дылы сөтүөлээтилэр.	баҕа^N+PL+POSS.3SG хай^V+REFL+PART_FUT+POSS.3SG+DAT дылы^POST сөтүө^N^VRBLZ#1+PST.3PL period
+Коля ийэтин диэки сытыы харахтарынан көрбөхтөөтө.	коля^PN ийэ^N+POSS.3SG+ACC диэки^POST сытыы^Adj харах^N+POSS.3PL+INST көр^V+ACCE#1+PST.3SG period
+Эһиги диэки хайдах олордугут?	эһиги^Pron диэки^POST хайдах^Pron олор^V+PST.2PL question
+Үлэ бүтүүтүн диэки кэлээр.	үлэ^N бүт^V^NMLZ#2+POSS.3SG+ACC диэки^POST кэл^V+IMP#2.2SG period
+Оҕо эрдэхпинэ мин авиация диэки букатын санаабат этим.	оҕо^N эр^V+CONV_COND#2+POSS.1SG+PRTV мин^Pron авиация^N диэки^POST букатын^Adv санаа^V+NEG+PART_PRES э^V+PST.1SG period
+Хоту диэккиттэн сөрүүн тыал үрэр.	хоту^N диэкки^POST+ABL сөрүүн^Adj тыал^N үр^V+PART_PRES period
+Өрүс диэкиттэн суол буора өрө бурҕачыйда.	өрүс^N диэки^POST+ABL суол^N буор^N+POSS.3SG өрө^Adv бурҕачый^V+PST.3SG period
+Күн ортотун диэкиттэн ардах түстэ.	күн^N орто^N+POSS.3SG+ACC диэки^POST+ABL ардаа^V^NMLZ#6 түс^V+PST.3SG period
+Биэрэк диэкинэн устуҥ.	биэрэк^N диэки^POST+INST уй^V+RECP+PST.2SG period
+Сарсыарда диэкинэн тымныйда.	сарсыарда^N диэки^POST+INST тымныы^Adj^VRBLZ#2+PST.3SG period
+Ойуур устун баран истим.	ойуур^N устун^POST бар^V+CONV#1 ис^V+PST.1SG period
+Биир өстөөх сибээс устун сүүрэн иһэр.	биир^Num өс^N^ADJZ#1 сибээс^N устун^POST сүүр^V+CONV#1 ис^V+PART_PRES period
+Баҕатын хоту билигин цигейковай мантолаах.	баҕа^N+POSS.3SG+ACC хоту^POST билигин^Adv цигейковай^Adj манто^N^ADJZ#1 period
+Киэһэ утуйуох иннинэ Даарыйа эмээхсин кыра уолугар этэр.	киэһэ^N утуй^V+PART_FUT иннинэ^POST даарыйа^PN эмээхсин^N кыра^Adj уол^N+POSS.3SG+DAT эт^V+PART_PRES period
+Кеша Тускаев кэлбитин кэннэ митинг буолбута.	кеша^PN тускаев^PN кэл^V+PART_PAST+POSS.3SG+ACC кэннэ^POST митинг^N буол^V+PART_PAST+POSS.3SG period
+Түөрт чаас саҕана иккиһин киирдилэр.	түөрт^Num чаас^N саҕана^POST икки^Num+ORD^ADVZ#9 киир^V+PST.3PL period
+Ити тухары биир да киһини көрсүбэтэ.	ити^Pron тухары^POST биир^Num да^Part киһи^N+ACC көр^V+RECP+NEG+PST.3SG period
+Лена умнаһын тухары итинник.	лена^PN умнас^N+POSS.3SG+ACC тухары^POST ити^Pron+DEF period
+Бу дойдуну бэрт үчүгэйдик, хас талаҕын кытары билэбин.	бу^Pron дойду^N+ACC бэрт^Adj үчүгэй^Adj^ADVZ#5 comma хас^Pron талах^N+POSS.3SG+ACC кытары^POST бил^V+PART_PRES+1SG period
+Түннүктэр анныларын дьөлүтэ хаспыттар.	түннүк^N+PL алын^N+POSS.3PL+ACC дьөл^V+CONV#2^ADVZ#8 хас^V+PART_PAST+PL period
+Түннүктэр анныларынан аастыбыт.	түннүк^N+PL алын^N+POSS.3PL+INST аас^V+PST.1PL period
+ойуур иһинээҕи чуумпу	ойуур^N ис^N+POSS.3SG+ACC^ADJZ#3 чуумпу^Adj
+Тугу гынаҕын?	туох^Pron+ACC гын^V+PART_PRES+2SG question
+Саас буолла.	саас^N буол^V+PST.3SG period
+Хаар түстэ.	хаар^N түс^V+PST.3SG period
+Куораттан иһэбит.	куорат^N+ABL ис^V+PART_PRES+1PL period
+аҕалан биэр	аҕал^V+CONV#1 биэр^V
+төҥкөйөн тур	төҥкөй^V+CONV#1 тур^V
+сылдьан бар	сырыт^V+CONV#1 бар^V
+үлэлии таҕыс	үлэ^N^VRBLZ#1+CONV#2 таҕыс^V
+Хойгуону эҥини онтон ылыаҥ этэ.	хойгуо^N+ACC эҥин^Adj+ACC ол^Pron+ABL ыл^V+PART_FUT+POSS.2SG э^V+PST.3SG period
+Иван Семенович учуутал эрдэҕинэ, маннааҕы оскуолаҕа үлэлээбитэ.	иван^PN семенович^PN учуутал^N эр^V+CONV_COND#2+POSS.3SG+PRTV comma бу^Pron^ADJZ#3 оскуола^N+DAT үлэ^N^VRBLZ#1+PART_PAST+POSS.3SG period
+Эдэр эрдэхтэринэ, айан дьоно соччо түспэт буолар этилэр.	эдэр^Adj эр^V+CONV_COND#2+POSS.3PL+PRTV comma айан^N дьон^N+POSS.3SG сол^Pron+DEF#2 түс^V+NEG+PART_PRES буол^V+PART_PRES э^V+PST.3PL period
+оҕо эрдэхпинэ	оҕо^N эр^V+CONV_COND#2+POSS.1SG+PRTV
+учууталлыыр эрдэхпинэ	учуутал^N^VRBLZ#1+PART_PRES эр^V+CONV_COND#2+POSS.1SG+PRTV
+мин туспунан	мин^N мин^Pron тус^N+POSS.1SG+INST
+эн тускунан	эн^Pron э^V+PASS э^V+CONV#1 э^V+REFL тус^N^ADJZ#4+INST тус^N+POSS.2SG+INST
+кини туһунан	кини^Pron тус^N+POSS.3SG+INST
+кинилэр тустарынан	кини^Pron+PL тус^N+POSS.3PL+INST
+күн былааныгар	күн^N былаан^N+POSS.3SG+DAT
+ааспыт күннэр былааннарыгар	аас^V+PART_PAST күн^N+PL былаан^N+POSS.3PL+DAT
+эппит үрдүнэн	эт^V+PART_PAST үрүт^N+INST
+эппит үрдэ	эт^V+PART_PAST үрүт^N+POSS.3SG
+эппитим үрдүнэн	эт^V+PART_PAST+POSS.1SG үрүт^N+POSS.3SG+INST
+эппиттэрин үрдүнэн	эт^V+PART_PAST+POSS.3PL+ACC үрүт^N+POSS.3SG+INST
+ булчут быһыытынан	булт^N+NMLZ#1 быһыы^N+POSS.3SG+INST
+булчуттар быһыыларынан	булт^N+NMLZ#1+PL быһыы^N+PL+POSS.3SG+INST
+үчүгэй соҕус	үчүгэй^Adj соҕус^Part
+үчүгэйдик соҕус	үчүгэй^Adj^ADVZ#5 соҕус^Part
+син аҕай	син^Adv аҕай^Part
+ичигэс аҕай	ичигэс^Adj аҕай^Part
+аҕыйах ахан	аҕыйаа^V^ADJZ#16 ахан^Part
+эмискэ ахан	эмис^Adj+DAT ахан^Part
+бөҕө ахан	бөҕө^Adj ахан^Part
+көҥүл бааччы	көҥүл^N бааччы^Part
+илэ бааччы	илэ^Adv бааччы^Part
+үчүгэй баҕайы	үчүгэй^Adj баҕайы^Part
+күүскэ баҕайы	күүс^N+DAT баҕайы^Part
+аламаҕай бэйэлээх	аламаҕай^Adj бэйэ^Part^ADJZ#1
+кырата бэрт	кыра^Adj+POSS.3SG бэрт^Part
+үөрүү бөҕөтүн үөр	үөр^V^NMLZ#2 бөҕө^Part+POSS.3SG+ACC үөр^N
+алдьархай бөҕө	алдьархай^N бөҕө^Part
+үчүгэй бөҕө	үчүгэй^Adj бөҕө^Part
+үрдүк да үрдүк	үрдүк^Adj да^Part үрдүк^Adj
+күүскэ да күүскэ	күүс^N+DAT да^Part күүс^N+DAT
+үрдүк бэйэкээннээх	үрдүк^Adj бэйэкээн^Part^ADJZ#1
+күүстээх үлүгэр	күүс^N^ADJZ#1 үлүгэр^N
+Ааҕааччы болҕомтотун биир түбэлтэҕэ тохтотуохпун баҕарабын.	аах^V+HAB#1 болҕомто^N+POSS.3SG+ACC биир^Num түбэс^V^NMLZ#8+DAT тохтоо^V+CSTV+PART_FUT+POSS.1SG+ACC баҕа^N^VRBLZ#4+PART_PRES+1SG period
+Вася, мин эмиэ партияҕа киириэхпин саныыбын.	вася^PN comma мин^Pron эмиэ^Adv партия^N+DAT киир^V+PART_FUT+POSS.1SG+ACC санаа^V+PART_PRES+1SG period
+Мин кынат үүннэрэн көтүөхпүн көҕүйдүм.	мин^Pron кынат^N үүн^V+CSTV+CONV#1 көт^V+PART_FUT+POSS.1SG+ACC көҕүй^V+PST.1SG period
+Тогойкин уокка чугаһыан дьулайда.	тогойкин^PN уот^N+DAT чугас^Adj^VRBLZ#3+PART_FUT+CONV#1 дьулай^V+PST.3SG period
+күнү быһа	күн^N+ACC быс^V+CONV#2
+сылы быһа	сыл^N+ACC быс^V+CONV#2
+тыал утары	тыал^N утар^V^ADVZ#1
+остуол тула	остуол^N тул^V+CONV#2
+Оҥоро иликкин.	оҥор^V+CONV#2 илик^Part+2SG period
+Оҥоро иликпит.	оҥор^V+CONV#2 илик^Part+1PL period
+Көрбүт үһүгүн.	көр^V+PART_PAST үһү^Part+2SG period
+Бу саалар аҕам киэннэрэ.	бу^Pron саа^N+PL аҕа^N+POSS.1SG киэн^N+PL+POSS.3SG period
+Барыах тустаахпыт.	бар^V+PART_FUT тус^N^ADJZ#1+1PL period
+Барыах тустааххыт.	бар^V+PART_FUT тус^N^ADJZ#1+2PL period
+Костя уончатыгар диэри таайын аахха иитиллибит.	костя^PN уон^Num+APPR#1+POSS.3SG+DAT диэри^POST таай^N+POSS.3SG+ACC аах^Part+DAT иит^V+PASS+PART_PAST period
+Чокуур курдук тааһы буллум.	чокуур^N курдук^POST таас^N+ACC бул^V+PST.1SG period
+Улахан соҕус тааһы буллум.	улахан^Adj соҕус^Part таас^N+ACC бул^V+PST.1SG period
+Кэлин барыахпыт.	кэлин^N бар^V+PART_FUT+POSS.1PL period
+Эбиэттэн кэлин барыахпыт.	эбиэт^N+ABL кэлин^N бар^V+PART_FUT+POSS.1PL period
+Сири тула аргыстар көтөллөр.	сир^N+ACC тул^V+CONV#2 аргыс^N+PL көт^V+PART_PRES+PL period
+Кини Якутскайтан ыла Майдахаарга диэри сүүс көс сири айаннаан бэҕэһээ тиийэн кэлбитэ.	кини^Pron якутскай^Adj+ABL ыл^V+CONV#2 майдахаар^PN+DAT диэри^POST сүүс^Num көс^N сир^N+ACC айан^N^VRBLZ#1+CONV#1 бэҕэһээ^Adv тиий^V+CONV#1 кэл^V+PART_PAST+POSS.3SG period
+Ити киэһэттэн ыла мин эдьиийбин кытта нуучча тылыгар үөрэнэн барбытым.	ити^Pron киэһэ^N+ABL ыл^V+CONV#2 мин^Pron эдьиий^N+POSS.1SG+ACC кытын^V+CONV#2 нуучча^Adj тыл^N+POSS.3SG+DAT үөрэн^V+CONV#1 бар^V+PART_PAST+POSS.1SG period
+Командир түүнү быһа утуйбата.	командир^N түүн^N+ACC быс^V+CONV#2 утуй^V+NEG+PST.3SG period
+Үлэлээбиттэрэ сүүрбэттэн тахса хонно.	үлэ^N^VRBLZ#1+PART_PAST+PL+POSS.3SG сүүрбэ^Num+ABL таҕыс^V+CONV#2 хон^V+PST.3SG period
+Алдаҥҥа тиийэ кэтэн кэлбитим.	алдан^PN+DAT тиий^V+CONV#2 кэт^V+CONV#1 кэл^V+PART_PAST+POSS.1SG period
+Биир харчытыгар тиийэ ааҕа үөрэниэххэ.	биир^Num харчы^N+POSS.3SG+DAT тиий^V+CONV#2 аах^V+CONV#2 үөрэн^V+PART_FUT+DAT period
+Оскуолаттан, кулууптан, маҕаһыынтан бастыы дьиэлэр утум-ситим субуһа тураллар.	оскуола^N+ABL comma кулууп^N+ABL comma маҕаһыын^N+ABL бас^N^VRBLZ#1+CONV#2 дьиэ^N+PL утум^N hyphen ситим^N субуй^V+RECP+CONV#2 тур^V+PART_PRES+PL period
+Үрүйэни сырса барар омоох суолу батыста.	үрүйэ^N+ACC сырыс^V+CONV#2 бар^V+PART_PRES омоох^Adj суол^N+ACC батыс^V+PST.3SG period
+Сааһы көрсө, күнү көрсө Салааската сүүрдүөҕүҥ.	саас^N+ACC көр^V+RECP+CONV#2 comma күн^N+ACC көр^V+RECP+CONV#2 салааска^N+PRTV сүүр^V+CSTV+PART_FUT+IMP#1.1PL period
+Миитэрэй үтүө майгылаах, куруук бэһиэлэй, ону ааһан айылҕаттан артист.	миитэрэй^PN үтүө^Adj майгы^N^ADJZ#1 comma куруук^Adv бэһиэлэй^Adj comma ол^Pron+ACC аас^V+CONV#1 айылҕа^N+ABL артист^N period
+Улаанчыктан сылтаан тахсар үгүс мөккүөрдэр командир прикаһынан уурайдылар.	улаан^PN+DIM#1+ABL сылтаа^V+CONV#1 таҕыс^V+PART_PRES үгүс^Adj мөккүөр^N+PL командир^N приказ^N+POSS.3SG+INST уурай^V+PST.3PL period
+оҕо киэнэ	оҕо^N киэн^Part+POSS.3SG
+оҕо киэннэригэр	оҕо^N киэн^Part+POSS.3PL+DAT
+арыы сыыһа	арыы^N сыыс^N+POSS.3SG
+арыы сыыһынан	арыы^N сыыс^N+POSS.3SG+INST
+арыы сыыстаах	арыы^N сыыс^N^ADJZ#1
+тоҥхос гын	тоҥхой^V+SUDD#2 гын^V
+кылбас гын	кылбай^V+SUDD#2 гын^V
+булчут этэ	булт^N+NMLZ#1 э^V+PST.3SG
+лүҥ гын	лүҥ^IMIT гын^V
+ньаҥ диэ	ньаҥ^IMIT диэ^V
+барыахпын баҕарабын	бар^V+PART_FUT+1SG баҕа^N^VRBLZ#4+PART_PRES+1SG
+барарга тиийиллэр	бар^V+PART_PRES+DAT тиий^V+PASS+PART_PRES
+санааҕа түс	санаа^N+DAT түс^V
+эт тут	эт^N тут^V
+кыстык сирэйэ	кыс^N^ADVZ#5 сирэй^N+POSS.3SG
+биһилэх сирэйэ	биһилэх^N сирэй^N+POSS.3SG
+остуол сирэйэ	остуол^N сирэй^N+POSS.3SG
+кинигэ сирэйэ	кинигэ^N сирэй^N+POSS.3SG
+биэрэк сирэйэ	биэрэк^N сирэй^N+POSS.3SG
+хайа сирэйэ	хайа^N сирэй^N+POSS.3SG
+Сыыр сирэйинэн сүүрэкэлиир.	сыыр^N сирэй^N+POSS.3SG+INST сүүр^V+FREC#5+PART_PRES period
+хайа быара	хайа^N быар^N+POSS.3SG
+кытаҕас тумса	кытаҕас^N тумус^N+POSS.3SG
+сыыр хааһа	сыыр^N хаас^N+POSS.3SG
+хайа арҕаһа	хайа^N арҕас^N+POSS.3SG
+хайа чыпчаала	хайа^N чыпчаал^N+POSS.3SG
+таайым аах дачалара	таай^N+POSS.1SG аах^Part дача^N+PL+POSS.3SG
+куобах той этэ	куобах^N той^Part эт^N+POSS.3SG
+сылгы эҥин суола	сылгы^N эҥин^Adj суол^N+POSS.3SG
+кус бөҕө саҥата	кус^N бөҕө^Adj саҥа^Adj+POSS.3SG
+кыһыл соҕус таҥас	кыһыл^Adj соҕус^Part таҥас^N
+олус да кэрэ	олус^Adv да^Part кэрэ^Adj
+Олус да үчүгэйдик ааҕар.	олус^Adv да^Part үчүгэй^Adj^ADVZ#5 аах^V+PART_PRES period
+Сүүс да киһи кыайыа суоҕа.	сүүс^Num да^Part киһи^N кыай^V+PART_FUT суох^Part+POSS.3SG period
+суон соҕус	суон^Adj соҕус^Part
+мөлтөх соҕус	мөлтөө^V^ADJZ#16 соҕус^Part
+Били куһа тыыннаах, икки доруобунньук курдугунан турулуччу көрбүт.	били^Pron кус^N+POSS.3SG тыын^N^ADJZ#1 comma икки^Num доруобунньук^N курдук^POST+POSS.3SG+INST турулуй^V^ADVZ#2 көр^V+PART_PAST period
+Кини тоҕо үрүҥнэр диэкиний?	кини^Pron тоҕо^Adv үрүҥ^Adj+PL диэки^POST+INT question
+Лөчүөк дьиэтин кырыыскатын үрдүгэр турар чособуойтан уратылара дьиэҕэ киирдилэр.	лөчүөк^N дьиэ^N+POSS.3SG+ACC кырыыска^N+POSS.3SG+ACC үрүт^N+POSS.3SG+DAT тур^V+PART_PRES чособуой^N+ABL ураты^Adv+PL+POSS.3SG дьиэ^N+DAT киир^V+PST.3PL period
+Оччо буолуор диэритин уоттан быыһаабыт дьиэтин.	ол^Pron+DEF#2 буол^V+PART_FUT+POSS.3SG+DAT диэри^POST+POSS.3SG+ACC уот^N+ABL быыс^N^VRBLZ#3+PART_PAST дьиэ^N+POSS.3SG+ACC period
+хоннох анна	хоннох^N алын^N+POSS.3SG
+үүт анна	үүт^N алын^N+POSS.3SG
+күн анна	күн^N алын^N+POSS.3SG
+үүт үрдэ	үүт^N үрүт^N+POSS.3SG
+анныгар баттаа	алын^N+POSS.3SG+DAT баттаа^V
+Арыы үрдүгэр уу дагдайбат, кырдьык үрдүгэр сымыйа ыттыбат.	арыы^N үрүт^N+POSS.3SG+DAT уу^N дагдай^V+NEG+PART_PRES comma кырдьык^N үрүт^N+POSS.3SG+DAT сымыйа^N ытын^V+NEG+PART_PRES period
+Эдэригэр көрүөхтэн кэрэ дьүһүннээҕин үрдүгэр, истиэхтэн эриэккэс ырыаһыт эбитэ үһү.	эдэр^Adj+POSS.3SG+DAT көр^V+PART_FUT+ABL кэрэ^Adj дьүһүн^N^ADJZ#1+POSS.3SG+ACC үрүт^N+POSS.3SG+DAT comma ис^N^VRBLZ#1+PART_FUT+ABL эриэккэс^Adj ырыа^N+NMLZ#1 э^V+PART_PAST+POSS.3SG үһү^Part period
+Үйэбитин куттал анныгар моҥоон эрэбит.	үйэ^N+POSS.1PL+ACC куттаа^V^NMLZ#9 алын^N+POSS.3SG+DAT моҥоо^V+CONV#1 эр^V+PART_PRES+1PL period
+Ыччат биригээдэтин иннигэр саҥа күчүмэҕэй күөрэйэ түстэ.	ыччат^N биригээдэ^N+POSS.3SG+ACC илин^N+POSS.3SG+DAT саҥа^Adj күчүмэҕэй^Adj күөрэй^V+CONV#2 түс^V+PST.3SG period
+Мин сарсыҥҥы сыбаайбам иннигэр эйиэхэ бу суруйарга быһаарынным.	мин^Pron сарсын^Adv^ADJZ#4 сыбаайба^N+POSS.1SG илин^N+POSS.3SG+DAT эн^Pron+DAT бу^Pron суруй^V+PART_PRES+DAT быһаар^V+REFL+PST.1SG period
+Коммунизм иннигэр күүстээх үлэбит ньиргийдин!	коммунизм^N илин^N+POSS.3SG+DAT күүс^N^ADJZ#1 үлэ^N+POSS.1PL ньиргий^V+IMP#1.3SG exclamation
+Ити аата өстөөхтөр армия иһигэр эмиэ албыннаһар буолбуттар.	ити^Pron аат^N+POSS.3SG өс^N^ADJZ#1+PL армия^N ис^N+POSS.3SG+DAT эмиэ^Adv албын^N^VRBLZ#1+RECP+PART_PRES буол^V+PART_PAST+PL period
+Тимошин аҕыйах хонук иһигэр биллэ-көстө дьүдэйдэ.	тимошин^PN аҕыйаа^V^ADJZ#16 хон^V^NMLZ#5 ис^N+POSS.3SG+DAT билин^V+CONV#2 hyphen көһүн^V+CONV#2 дьүдэй^V+PST.3SG period
+Ийээ, бу биһиги кэргэммит ахсаанын иһигэр киирэр киһи кэлэн турар.	ийээ^INJ comma бу^Pron биһиги^Pron кэргэн^N+POSS.1PL ахсаан^N+POSS.3SG+ACC ис^N+POSS.3SG+DAT киир^V+PART_PRES киһи^N кэл^V+CONV#1 тур^V+PART_PRES period
+Кинилэр рабселькордар болҕомтолорун таһыгар хаалыа суох тустаахтар.	кини^Pron+PL рабселькор^N+PL болҕомто^N+POSS.3PL+ACC тас^N+POSS.3SG+DAT хаал^V+PART_FUT суох^Part тус^N^ADJZ#1+PL period
+Уруоктар быыстарыгар кылаастан тахсыбакка олорбут.	уруок^N+PL быыс^N+POSS.3PL+DAT кылаас^N+ABL таҕыс^V+NEG+PART_PRES+DAT олор^V+PART_PAST period
+Дьахталлар ардах сэллиирин быыһыгар охсо сылдьыбыттара.	дьахтар^N+PL ардаа^V^NMLZ#6 сэллээ^V+PART_PRES+POSS.3SG+ACC быыс^N+POSS.3SG+DAT оҕус^V+CONV#2 сырыт^V+PART_PAST+PL+POSS.3SG period
+Оҕолор бу биир хонук икки ардыгар киһи итинник үлүгэр уларыйбытын бэркиһээн кэллилэр.	оҕо^N+PL бу^Pron биир^Num хон^V^NMLZ#5 икки^Num арыт^Adv+POSS.3SG+DAT киһи^N ити^Pron+DEF үлүгэр^N уларый^V+PART_PAST+POSS.3SG+ACC бэркиһээ^V+CONV#1 кэл^V+PST.3PL period
+Ынах баһыгар бууттуу арыыны хаһаанан атыылыырбыт.	ынах^N бас^N+POSS.3SG+DAT буут^N^ADVZ#6 арыы^N+ACC хаһаан^V+CONV#1 атыы^N^VRBLZ#1+PART_PRES+POSS.1PL period
+Үс сыл баһыгар биирдэ бара сылдьыбыта.	үс^Num сыл^N бас^N+POSS.3SG+DAT биир^Num^ADVZ#8 бар^V+CONV#2 сырыт^V+PART_PAST+POSS.3SG period
+Телеграф баҕаналарын колхоз суотугар туруорбуттара.	телеграф^N баҕана^N+PL+POSS.3SG+ACC колхоз^N суот^N+POSS.3SG+DAT тур^V+CSTV+PART_PAST+PL+POSS.3SG period
+Буруйдаах чааһыгар эн да сүрэҕиҥ муус буолуо.	буруй^N^ADJZ#1 чаас^N+POSS.3SG+DAT эн^Pron да^Part сүрэх^N+POSS.2SG муус^N буол^V+PART_FUT period
+Алта суукка былаһыгар Аптаах тааһын атыытыгар Туйгуннук олорбута.	алта^Num суут^N+DAT былас^N+POSS.3SG+DAT ап^N^ADJZ#1 таас^N+POSS.3SG+ACC атыы^N+POSS.3SG+DAT туйгун^Adj^ADVZ#5 олор^V+PART_PAST+POSS.3SG period
+Байбаллаах Марба олорбуттарын былааныгар ситиччэ улаханнык иирсэ илик этилэр.	байбал^PN^ADJZ#1 марба^PN олор^V+PART_PAST+PL+POSS.3SG+ACC былаан^N+POSS.3SG+DAT сити^Pron+DEF#2 улахан^Adj^ADVZ#5 иир^V+RECP+CONV#2 илик^Part э^V+PST.3PL period
+ыыра тарт	ыыр^V+CONV#2 тарт^V
+дьөлө биэр	дьөл^V+CONV#2 биэр^V
+тоҕо көт	тох^V+CONV#2 көт^V
+Ол кэнниттэн эбэбэр барыам.	ол^Pron кэлин^N+POSS.3SG+ABL эбэ^N+POSS.1SG+DAT бар^V+PART_FUT+POSS.1SG period
+Арсения Мирей кэнниттэн таҕыста.	арсения^PN мирей^PN кэлин^N+POSS.3SG+ABL таҕыс^V+PST.3SG period
+Сэрии инниттэн билсэбит.	сэрии^N илин^N+POSS.3SG+ABL бил^V+RECP+PART_PRES+1PL period
+Кустук Дьөгүөрү быстах өлүү илиитин иһиттэн быыһаата.	кустук^PN дьөгүөр^PN+ACC быстах^Adj өл^V^NMLZ#2 илии^N+POSS.3SG+ACC иһит^V+REFL+CONV#1 быыс^N^VRBLZ#3+PST.3SG period
+Ону олохтуур туһуттан мин Улахан Быһах аатырдым.	ол^Pron+ACC олох^N^VRBLZ#1+PART_PRES тус^N+POSS.3SG+ABL мин^Pron улахан^Adj быс^V^NMLZ#6 аат^N^VRBLZ#4+PST.1SG period
+Кини илиитин анныттан былдьаан ылбыт.	кини^Pron илии^N+POSS.3SG+ACC алын^N+POSS.3SG+ABL былдьаа^V+CONV#1 ыл^V+PART_PAST period
+Кинигэ чааһыттан тугу да ылбатым.	кинигэ^N чаас^N+POSS.3SG+ABL туох^Pron+ACC да^Part ыл^V+NEG+PST.1SG period
+чыып диэ	чыып^IMIT диэ^V
+күлүм гын	күлүм^N гын^V
+нук буол	нук^Adj буол^V
+чаас иһинэн	чаас^N ис^N+POSS.3SG+INST
+үлэ таһынан	үлэ^N тас^N+POSS.3SG+INST
+партия иһигэр	партия^N ис^N+POSS.3SG+DAT
+эппит үрдүнэн	эт^V+PART_PAST үрүт^N+POSS.3SG+INST
+үөрэнэр иннигэр	үөрэн^V+PART_PRES илин^N+POSS.3SG+DAT
+Мин баттахпын тула хойуу бадараан хаппыт.	мин^Pron баттах^N+POSS.1SG+ACC тул^V+CONV#2 хойуу^Adj бадараан^N хат^V+PART_PAST period
+Уордаах Сиирдэри утары туран кэллэ.	уор^N^ADJZ#1 сиирдэр^PN+ACC утар^V^ADVZ#1 тур^V+CONV#1 кэл^V+PST.3SG period
+Биир ыйы мэлдьи мин бааспын эмтээн Чэрдитэн биэртэ.	биир^Num ый^N+ACC мэлдьи^Adv мин^Pron баас^N+POSS.1SG+ACC эмп^N^VRBLZ#1+CONV#1 чэр^N^VRBLZ#5+CSTV+CONV#1 lowercase period
+Ханна барбытын мантан инньэ билэн иһиэҥ.	ханна^Pron бар^V+PART_PAST+POSS.3SG+ACC бу^Pron+ABL инньэ^Adv бил^V+CONV#1 ис^V+PART_FUT+POSS.2SG period
+Бөһүөлэктэн инньэ суола үчүгэй этэ.	бөһүөлэк^N+ABL инньэ^Adv суол^N+POSS.3SG үчүгэй^Adj э^V+PST.3SG period
+Капитальнай оҥоһуулаах дьиэни сэргэ олорорго сөптөөх быстах дьиэни туталлар.	капитальнай^Adj оҥой^V+RECP^NMLZ#2^ADJZ#1 дьиэ^N+ACC сэргэ^N олор^V+PART_PRES+DAT сөп^Adj^ADJZ#1 быстах^Adj дьиэ^N+ACC тут^V+PART_PRES+PL period
+Үрүҥ таас муоста нөҥүө чаһы ыллыыр Спасскайга.	үрүҥ^Adj таас^N муоста^N нөҥүө^Adj чаһы^N ыллаа^V+PART_PRES спасскай^PN+DAT period
+Биһиги биэс уонна бомбаһыттарбыт өрүс уҥуор аастылар.	биһиги^Pron биэс^Num уон^Num^ADVZ#8 бомба^N+NMLZ#1+PL+POSS.1PL өрүс^N уҥ^V+PART_FUT+POSS.3SG+DAT аас^V+PST.3PL period
+Хотон муостатын үөһэ тахсыбыта.	хотон^N муоста^N+POSS.3SG+ACC үөс^N+POSS.3SG таҕыс^V+PART_PAST+POSS.3SG period
+Япония үөһэ түүн үгүс сулус күлүмнүүр.	япония^PN үөс^N+POSS.3SG түүн^N үгүс^Adj сулус^N күлүм^N^VRBLZ#1+PART_PRES period
+Витимтэн үөһэ Иркутскай уобалас саҕаланар.	витим^PN+ABL үөс^N+POSS.3SG иркутскай^Adj уобалас^N саҕа^N^VRBLZ#1+REFL+PART_PRES period
+Бу ат маанытын аанньа ахсым айаннаах, сыыдам сырыылаах эбит.	бу^Pron ат^N мааны^N+POSS.3SG+ACC аанньа^Adv ахсым^Adj айан^N^ADJZ#1 comma сыыдам^Adj сырыы^N^ADJZ#1 э^V+1PL period
+Оҕом итинтэн ордук хайдах таптыай, доҕор!	оҕо^N+POSS.1SG ити^Pron+ABL орт^V^NMLZ#5 хайдах^Pron таптаа^V+PART_FUT+INT comma доҕор^INJ exclamation
+Михаилтан ордук билэрим кэлиэ дуо?	михаил^PN+ABL орт^V^NMLZ#5 бил^V+PART_PRES+POSS.1SG кэл^V+PART_FUT дуо^Part question
+Нинаттан ураты бары тахсаллар.	нина^PN+ABL ураты^Adv бары^Pron таҕыс^V+PART_PRES+PL period
+Халыҥ тайҕа курдары одуулуура Ильич.	халыҥ^Adj тайҕа^N курдар^V^ADVZ#1 одуу^N^VRBLZ#1+PART_PRES+POSS.3SG ильич^PN period
+Кини учуутал буолла.	кини^Pron учуутал^N буол^V+PST.3SG period
+Кини учууталлаабыта буолла.	кини^Pron учуутал^N^VRBLZ#1+PART_PAST+POSS.3SG буол^V+PST.3SG period
+Кини учуутал этэ.	кини^Pron учуутал^N э^V+PST.3SG period
+Кини учууталлыыр этэ.	кини^Pron учуутал^N^VRBLZ#1+PART_PRES э^V+PST.3SG period
+Кини учууталлыах этэ.	кини^Pron учуутал^N^VRBLZ#1+PART_FUT э^V+PST.3SG period
+Киһи аймах туһугар.	киһи^N аймах^N тус^N+POSS.3SG+DAT period
+Бухатыыр обургуну кытта.	бухатыыр^N обургу^Adj+ACC кытын^V+CONV#2 period
+Дьиэм дуомун диэки.	дьиэ^N+POSS.1SG дуом^N+POSS.3SG+ACC диэки^POST period
+Көрдөспүтэ бэрдин үрдүнэн.	көрдөө^V+RECP+PART_PAST+POSS.3SG бэрт^Part+POSS.3SG+ACC үрүт^N+POSS.3SG+INST period
+Кини биһиги диэки ини.	кини^Pron биһиги^Pron диэки^POST ини^Part period
+Мин аҕам курдук үһүбүн.	мин^Pron аҕа^N+POSS.1SG курдук^POST үһү^Part+1SG period
+Күн ахсын дуо?	күн^N ахсын^POST дуо^Part question
+Бу көмөлөспүтүм иһин дуу?	бу^Pron көмө^N^VRBLZ#1+RECP+PART_PAST+POSS.1SG иһин^POST дуу^Part question
+Утуйан барда буолбаат!	утуй^V+CONV#1 бар^V+PST.3SG буолбаат^Part exclamation
+Бара турда дуо?	бар^V+CONV#2 тур^V+PST.3SG дуо^Part question
+Сүүрэн ис даа!	сүүр^V+CONV#1 ис^V даа^Part exclamation
+Мин ону төрдүс күн сарсыардатыгар эн маннык эппиккэр эрэ таайбытым:	мин^Pron ол^Pron+ACC түөрт^Num+ORD күн^N сарсыарда^N+POSS.3SG+DAT эн^Pron бу^Pron+DEF эт^V+PART_PAST+POSS.2SG+DAT эр^V+CONV#2 таай^V+PART_PAST+POSS.1SG colon
+— Мин саҕаҕы одуулуурбун олус сөбүлүүбүн.	dash мин^Pron саҕах^N+ACC одуу^N^VRBLZ#1+PART_PRES+POSS.1SG+ACC олус^Adv сөбүлээ^V+PART_PRES+1SG period
+— Тугу кэтэһэбит?	dash туох^Pron+ACC кэтээ^V+RECP+PART_PRES+1PL question
+— Оччотугар, ол, түөрт уон үс төгүл күн киирэрин көрбүт күҥҥэр, эн наһаа күүскэ санаарҕаабытыҥ дуо?	dash ол^Pron+DEF#2+POSS.3SG+DAT comma ол^Pron comma түөрт^Num уон^Num үс^Num төгүл^N күн^N киир^V+PART_PRES+POSS.3SG+ACC көр^V+PART_PAST күн^N+POSS.2SG+DAT comma эн^Pron наһаа^Adv күүс^N+DAT санаа^N^VRBLZ#7+PART_PAST+POSS.2SG дуо^Part question
+Кыра тыгын хардарбатаҕа.	кыра^Adj тыгын^N харда^N^VRBLZ#4+NEG+PART_PAST+POSS.3SG period
+Кыра тыгын халлаанын эттигиттэн ордук чугастарынан 325, 326, 327, 328, 329 уонна 330 халлаан эттиктэрэ эбиттэр.	кыра^Adj тыгын^N халлаан^N+POSS.3SG+ACC эттик^N+POSS.3SG+ABL орт^V^NMLZ#5 чугас^Adj+POSS.3PL+INST number comma number comma number comma number comma number уонна^CONJ number халлаан^N эттик^N+PL+POSS.3SG э^V+PART_PAST+PL period
+Бастакы эттиккэ ыраахтааҕы олорбут.	бастакы^Adj эттик^N+DAT ыраахтааҕы^N олор^V+PART_PAST period
+Мин ону билбэт этим.	мин^Pron ол^Pron+ACC бил^V+NEG+PART_PRES э^V+PST.1SG period
+Онтон кини кыыһырбыттыы:	ол^Pron+ABL кини^Pron кыыһыр^V+PART_PAST^ADVZ#3 colon
+— Мин эйигин итэҕэйбэппин!	dash мин^Pron эн^Pron+ACC итэҕэй^V+NEG+PART_PRES+1SG exclamation
+Сибэккилэр кэбирэхтэр.	сибэкки^N+PL кэбирээ^V^ADJZ#16+PL period
+Мин хардарбатаҕым.	мин^Pron харда^N^VRBLZ#4+NEG+PART_PAST+POSS.1SG period
+Кыра тыгын ити санаабын эмиэ быһа түспүтэ:	кыра^Adj тыгын^N ити^Pron санаа^N+POSS.1SG+ACC эмиэ^Adv быс^V+CONV#2 түс^V+PART_PAST+POSS.3SG colon
+— Оччоҕо, эн санааҕар, сибэккилэр...	dash ол^Pron+DEF#2+DAT comma эн^Pron санаа^N+POSS.2SG+DAT comma сибэкки^N+PL ellipsis
+Кини миигин дьиктиргии көрбүтэ.	кини^Pron мин^Pron+ACC дьикти^Adj^VRBLZ#7+CONV#2 көр^V+PART_PAST+POSS.3SG period
+— Эн улахан дьон курдук тыллаһаҕын! — диэбитэ кини.	dash эн^Pron улахан^Adj дьон^N курдук^POST тыл^N^VRBLZ#1+RECP+PART_PRES+2SG exclamation dash диэ^V+PART_PAST+POSS.3SG кини^Pron period
+«Мин дуоспуруннаах киһибин!	quotation мин^Pron дуоспурун^N^ADJZ#1 киһи^N+1SG exclamation
+Кини тэллэй.	кини^Pron тэллэй^N period
+— Туох диигин?	dash туох^Pron диэ^V+PART_PRES+2SG question
+— Тэллэй!	dash тэллэй^N exclamation
+Кыра тыгын абаккаран, бэл кубарыйан хаалбыта.	кыра^Adj тыгын^N абакка^N^VRBLZ#4+CONV#1 comma бэл^MOD кубарый^V+CONV#1 хаал^V+PART_PAST+POSS.3SG period
+Кини кытаран тахсыбыта.	кини^Pron кытар^V+CONV#1 таҕыс^V+PART_PAST+POSS.3SG period
+Ол кэннэ эмиэ саҥарбыта:	ол^Pron кэлин^N+POSS.3SG эмиэ^Adv саҥа^Adj^VRBLZ#4+PART_PAST+POSS.3SG colon
+Эмискэ ытаан маккыраабыта.	эмис^Adj+DAT ытаа^V+CONV#1 мак^IMIT^VRBLZ#16+PART_PAST+POSS.3SG period
+Халлаан хараҥарбыта	халлаан^N хараҥа^Adj^VRBLZ#4+PART_PAST+POSS.3SG
+Мин үлэбин бырахпытым.	мин^Pron үлэ^N+POSS.1SG+ACC бырах^V+PART_PAST+POSS.1SG period
+Мин эн хойчооҥҥор томторук уруһуйдуоҕум...	мин^Pron эн^Pron хой^N+DIM#2+POSS.2SG+DAT томторук^N уруһуй^N^VRBLZ#1+PART_FUT+POSS.1SG ellipsis
+Оннук бэйэбиттэн кэлэйбитим, кэмсиммитим.	ол^Pron+DEF бэйэ^N+POSS.1SG+ABL кэлэй^V+PART_PAST+POSS.1SG comma кэмсин^V+PART_PAST+POSS.1SG period
+Леон Вертигэ	леон^PN верти^PN+DAT
+Бу кинигэни улахан киһиэхэ анаабытым, онон оҕолортон бырастыы гыныҥ диэн көрдөһөбүн.	бу^Pron кинигэ^N+ACC улахан^Adj киһи^N+DAT анаа^V+PART_PAST+POSS.1SG comma ол^Pron+INST оҕо^N+PL+ABL бырастыы^N гын^V+IMP#1.2PL диэ^V+CONV#1 көрдөө^V+RECP+PART_PRES+1SG period
+Итиччэтигэр, анабылбын көннөрөбүн:	ити^Pron+DEF#2+POSS.3SG+DAT comma анаа^V^NMLZ#4+POSS.1SG+ACC көн^V+CSTV+PART_PRES+1SG colon
+Мин, биирдэ, алта сааспар сылдьан, «Кырдьыктаах остуоруйалар» диэн ааттаах кинигэҕэ, тыытыллыбатах тайҕа туһунан кэпсээҥҥэ дьикти хартыынаны көрбүтүм.	мин^Pron comma биир^Num^ADVZ#8 comma алта^Num саас^N+POSS.1SG+DAT сырыт^V+CONV#1 comma quotation кырдьык^N^ADJZ#1 остуоруйа^N+PL quotation диэ^V+CONV#1 аат^N^ADJZ#1 кинигэ^N+DAT comma тыыт^V+PASS+NEG+PART_PAST тайҕа^N тус^N+POSS.3SG+INST кэпсээн^N+DAT дьикти^Adj хартыына^N+ACC көр^V+PART_PAST+POSS.1SG period
+бу маннык:	бу^Pron бу^Pron+DEF colon
+Кинигэҕэ этиллибит:	кинигэ^N+DAT эт^V+PASS+PART_PAST colon

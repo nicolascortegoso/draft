@@ -1,0 +1,60 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 165,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 22. Чуолкайа.",
+      "section": 22,
+      "notes": "Чуолкайа (притяж. форма заимствованного имени чуолкай 'четкий') выражает субъективное уточнение говорящим высказываемой мысли.",
+      "sah": "Чуолкайа, бу үүнээйилэри урут ханна эрэ көрөттөөбүт курдугум да, кинилэр тугунан эрэ уратылаахтара.",
+      "ru": "Точнее, хотя эти растения я, кажется, где-то видывал, но они чем-то отличались.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Чуолкайа", "type": "title", "fst": "fst", "root": "чуолкай", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "үүнээйилэри", "type": "lowercase", "fst": "fst", "root": "үүнээйи", "affixes": ["+N", "+PL", "+ACC"]},
+         {"pos": 5, "text": "урут", "type": "lowercase", "fst": "fst", "root": "уруу", "affixes": ["+N", "+VRBLZ#2", "+CSTV"]},
+         {"pos": 5, "text": "урут", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+Adv"]},
+         {"pos": 5, "text": "урут", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+IMIT"]},
+         {"pos": 6, "text": "ханна", "type": "lowercase", "fst": "fst", "root": "ханна", "affixes": ["+Pron"]},
+         {"pos": 7, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 8, "text": "көрөттөөбүт", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+ITER#3", "+PART_PAST"]},
+         {"pos": 9, "text": "курдугум", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+POST", "+POSS.1SG"]},
+         {"pos": 9, "text": "курдугум", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+Part", "+POSS.1SG"]},
+         {"pos": 9, "text": "курдугум", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+Adj", "+ADVZ#5", "+POSS.1SG"]},
+         {"pos": 9, "text": "курдугум", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+N", "+ADVZ#5", "+POSS.1SG"]},
+         {"pos": 10, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 10, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 11, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 12, "text": "кинилэр", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+PL"]},
+         {"pos": 13, "text": "тугунан", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron", "+INST"]},
+         {"pos": 14, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 15, "text": "уратылаахтара", "type": "lowercase", "fst": "fst", "root": "ураты", "affixes": ["+Adv", "+ADJZ#1", "+PL", "+POSS.3SG"]},
+         {"pos": 16, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 165,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 22. Чуолкайа.",
+      "section": 22,
+      "notes": "Чуолкайа (притяж. форма заимствованного имени чуолкай 'четкий') выражает субъективное уточнение говорящим высказываемой мысли.",
+      "sah": "Кинилэр соторутааҕыта, чуолкайа, биэс хонуктааҕыта кэлбиттэрэ.",
+      "ru": "Они недавно, точнее, пять дней тому назад приехали.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+PL"]},
+         {"pos": 2, "text": "соторутааҕыта", "type": "lowercase", "fst": "fst", "root": "сотору", "affixes": ["+Adv", "+ADJZ#3", "+POSS.3SG"]},
+         {"pos": 2, "text": "соторутааҕыта", "type": "lowercase", "fst": "fst", "root": "сотору", "affixes": ["+Adv", "+ADJZ#3", "+PRTV"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "чуолкайа", "type": "lowercase", "fst": "fst", "root": "чуолкай", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "биэс", "type": "lowercase", "fst": "fst", "root": "биэс", "affixes": ["+Num"]},
+         {"pos": 7, "text": "хонуктааҕыта", "type": "lowercase", "fst": "fst"},
+         {"pos": 8, "text": "кэлбиттэрэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PAST", "+PL", "+POSS.3SG"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

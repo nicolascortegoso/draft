@@ -1,0 +1,181 @@
+[
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 39,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. а) Наречия с причастиями настоящего времени.",
+      "section": 2,
+      "notes": "Обстоятельственные наречия при подлежащем.",
+      "sah": "трактор манна кэлэрэ өртөн күүтүллүбүтэ",
+      "ru": "прибытие трактора сюда ожидалось задолго",
+      "id": 25,
+      "parses": [
+         {"pos": 1, "text": "трактор", "type": "lowercase", "fst": "fst", "root": "трактор", "affixes": ["+N"]},
+         {"pos": 2, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 3, "text": "кэлэрэ", "type": "lowercase", "fst": "fst", "root": "кэлэй", "affixes": ["+V", "+ADJZ#17", "+POSS.3SG"]},
+         {"pos": 3, "text": "кэлэрэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 3, "text": "кэлэрэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 4, "text": "өртөн", "type": "lowercase", "fst": "fst", "root": "өр", "affixes": ["+Adv", "+ABL"]},
+         {"pos": 4, "text": "өртөн", "type": "lowercase", "fst": "fst", "root": "өр", "affixes": ["+V", "+ITER#2", "+REFL"]},
+         {"pos": 5, "text": "күүтүллүбүтэ", "type": "lowercase", "fst": "fst", "root": "күүт", "affixes": ["+V", "+PASS", "+PART_PAST", "+POSS.3SG"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 39,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. а) Наречия с причастиями настоящего времени.",
+      "section": 2,
+      "notes": "Обстоятельственные при дополнении.",
+      "sah": "кини онно барарын бэйэтэ да сөбүлээбэт этэ",
+      "ru": "ему и самому не хотелось итти туда (туда отправление свое не одобрял)",
+      "id": 32,
+      "parses": [
+         {"pos": 1, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "онно", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 2, "text": "онно", "type": "lowercase", "fst": "fst", "root": "орун", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "барарын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_PRES", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+PRTV"]},
+         {"pos": 5, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 6, "text": "сөбүлээбэт", "type": "lowercase", "fst": "fst", "root": "сөбүлээ", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+         {"pos": 7, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 7, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 39,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. а) Наречия с причастиями настоящего времени.",
+      "section": 2,
+      "notes": "Обстоятельственные при дополнении.",
+      "sah": "сарсын кэлэргэ оҥостоллор",
+      "ru": "они собираются притти завтра",
+      "id": 33,
+      "parses": [
+         {"pos": 1, "text": "сарсын", "type": "lowercase", "fst": "fst", "root": "сарсын", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "кэлэргэ", "type": "lowercase", "fst": "fst", "root": "кэлэй", "affixes": ["+V", "+ADJZ#17", "+DAT"]},
+         {"pos": 2, "text": "кэлэргэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PRES", "+DAT"]},
+         {"pos": 3, "text": "оҥостоллор", "type": "lowercase", "fst": "fst", "root": "оҥоһун", "affixes": ["+V", "+PART_PRES", "+PL"]},
+         {"pos": 3, "text": "оҥостоллор", "type": "lowercase", "fst": "fst", "root": "оҥой", "affixes": ["+V", "+SUDD#2", "+CONV_COND#1", "+PL"]},
+         {"pos": 3, "text": "оҥостоллор", "type": "lowercase", "fst": "fst", "root": "оҥой", "affixes": ["+V", "+RECP", "+CONV_COND#1", "+PL"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 40,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. б) Наречия с причастиями прошедшего времени.",
+      "section": 2,
+      "notes": "Определение определения.",
+      "sah": "букатын өлбүт киһи курдук сытар",
+      "ru": "он лежит, как совершенно мертвый человек",
+      "id": 40,
+      "parses": [
+         {"pos": 1, "text": "букатын", "type": "lowercase", "fst": "fst", "root": "букатын", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "өлбүт", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+N", "+POSS.1PL"]},
+         {"pos": 2, "text": "өлбүт", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+N", "+1PL"]},
+         {"pos": 2, "text": "өлбүт", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+POST"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+Part"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+N", "+ADVZ#5"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+V", "+CSTV", "+ADJZ#16"]},
+         {"pos": 5, "text": "сытар", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+V", "+CSTV"]},
+         {"pos": 5, "text": "сытар", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+V", "+PART_PRES"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 40,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. б) Наречия с причастиями прошедшего времени.",
+      "section": 2,
+      "notes": "Наречия образа действия при подлежащем.",
+      "sah": "эмти тэптэрбитэ элгээн күөл буолла, көнү үктэппитэ көлүйэ күөл буолла",
+      "ru": "отщепленное им (место при беге коня) в глубокое озеро превращалось, разрушенное им место в озерко превращалось (из героического эпоса, про езду богатыря)",
+      "id": 48,
+      "parses": [
+         {"pos": 1, "text": "эмти", "type": "lowercase", "fst": "fst", "root": "эмти", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "тэптэрбитэ", "type": "lowercase", "fst": "fst", "root": "тэп", "affixes": ["+V", "+CAUS", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 2, "text": "тэптэрбитэ", "type": "lowercase", "fst": "fst", "root": "тэбин", "affixes": ["+V", "+CSTV", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 3, "text": "элгээн", "type": "lowercase", "fst": "fst", "root": "элгээн", "affixes": ["+N"]},
+         {"pos": 4, "text": "күөл", "type": "lowercase", "fst": "fst", "root": "күөл", "affixes": ["+N"]},
+         {"pos": 5, "text": "буолла", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "көнү", "type": "lowercase", "fst": "fst"},
+         {"pos": 8, "text": "үктэппитэ", "type": "lowercase", "fst": "fst", "root": "үктээ", "affixes": ["+V", "+CAUS", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 9, "text": "көлүйэ", "type": "lowercase", "fst": "fst", "root": "көлүйэ", "affixes": ["+N"]},
+         {"pos": 9, "text": "көлүйэ", "type": "lowercase", "fst": "fst", "root": "көлүй", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "күөл", "type": "lowercase", "fst": "fst", "root": "күөл", "affixes": ["+N"]},
+         {"pos": 11, "text": "буолла", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PST.3SG"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 40,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. б) Наречия с причастиями прошедшего времени.",
+      "section": 2,
+      "notes": "При дополнении.",
+      "sah": "умса түспүтү сүүһүттэн өйүүрүҥ, тиэрэ түспүтү кэтэбиттэн өйүүрүҥ",
+      "ru": "ничком упавшего ты со лба его поддерживал, навзничь упавшего ты с затылка его поддерживал",
+      "id": 55,
+      "parses": [
+         {"pos": 1, "text": "умса", "type": "lowercase", "fst": "fst", "root": "умус", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "түспүтү", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+PART_PAST", "+ACC"]},
+         {"pos": 3, "text": "сүүһүттэн", "type": "lowercase", "fst": "fst", "root": "сүүс", "affixes": ["+N", "+POSS.3SG", "+ABL"]},
+         {"pos": 3, "text": "сүүһүттэн", "type": "lowercase", "fst": "fst", "root": "сүүс", "affixes": ["+Num", "+POSS.3SG", "+ABL"]},
+         {"pos": 4, "text": "өйүүрүҥ", "type": "lowercase", "fst": "fst", "root": "өйөө", "affixes": ["+V", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 4, "text": "өйүүрүҥ", "type": "lowercase", "fst": "fst", "root": "өй", "affixes": ["+N", "+VRBLZ#3", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "тиэрэ", "type": "lowercase", "fst": "fst", "root": "тиэр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "түспүтү", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+PART_PAST", "+ACC"]},
+         {"pos": 8, "text": "кэтэбиттэн", "type": "lowercase", "fst": "fst"},
+         {"pos": 9, "text": "өйүүрүҥ", "type": "lowercase", "fst": "fst", "root": "өйөө", "affixes": ["+V", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 9, "text": "өйүүрүҥ", "type": "lowercase", "fst": "fst", "root": "өй", "affixes": ["+N", "+VRBLZ#3", "+PART_PRES", "+POSS.2SG"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 41,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. б) Наречия с причастиями прошедшего времени.",
+      "section": 2,
+      "notes": "При дополнении.",
+      "sah": "кини нууччалыы билбэтиттэн улаханнык моһуогурара",
+      "ru": "он сильно затруднялся незнанием русского языка (от по-русски незнания своего)",
+      "id": 56,
+      "parses": [
+         {"pos": 1, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "нууччалыы", "type": "lowercase", "fst": "fst", "root": "нуучча", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 2, "text": "нууччалыы", "type": "lowercase", "fst": "fst", "root": "нуучча", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 2, "text": "нууччалыы", "type": "lowercase", "fst": "fst", "root": "нуучча", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 3, "text": "билбэтиттэн", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.3SG", "+ABL"]},
+         {"pos": 4, "text": "улаханнык", "type": "lowercase", "fst": "fst", "root": "улахан", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 5, "text": "моһуогурара", "type": "lowercase", "fst": "fst", "root": "моһуок", "affixes": ["+N", "+VRBLZ#4", "+PART_PRES", "+POSS.3SG"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 42,
+      "chapter": "Глава IV. Синтаксические функции наречий",
+      "topic": "2. Сочетание наречий с причастиями. г) Наречия при глагольном имени -тах.",
+      "section": 2,
+      "notes": "Определяющие наречия.",
+      "sah": "тула көрдөххө",
+      "ru": "если посмотреть кругом",
+      "id": 92,
+      "parses": [
+         {"pos": 1, "text": "тула", "type": "lowercase", "fst": "fst", "root": "тула", "affixes": ["+N"]},
+         {"pos": 1, "text": "тула", "type": "lowercase", "fst": "fst", "root": "тул", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "көрдөххө", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+ADJZ#16", "+DAT"]},
+         {"pos": 2, "text": "көрдөххө", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+NMLZ#6", "+DAT"]},
+         {"pos": 2, "text": "көрдөххө", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+CONV_COND#2", "+DAT"]}
+      ]
+   }
+]

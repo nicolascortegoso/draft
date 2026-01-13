@@ -1,0 +1,30 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 206,
+      "chapter": "Глава III. Утвердительное наклонение",
+      "topic": "3. Значение утвердительного наклонения",
+      "section": 5,
+      "notes": "Форма утвердительного наклонения подчас сопровождается усилительно-модальной частицей дии, приобретая в таком случае не только оттенок усиления, но и вопроса, а также нежелания, несогласия или прямого отказа от совершения потенциального будущего действия.",
+      "sah": "Оччоҕо уһун тууну быһа итигирдик иттэ турууһугун дии?",
+      "ru": "Итак, значит, ты вот так простоишь всю ночь и будешь греться? (т. е. нельзя, неправильно так поступать)",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Оччоҕо", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DEF#2", "+DAT"]},
+         {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "fst", "root": "уст", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "fst", "root": "уһун", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "fst", "root": "уһун", "affixes": ["+V"]},
+         {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "fst", "root": "уй", "affixes": ["+V", "+RECP", "+REFL"]},
+         {"pos": 3, "text": "тууну", "type": "lowercase", "fst": "fst", "root": "туу", "affixes": ["+N", "+ACC"]},
+         {"pos": 4, "text": "быһа", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "итигирдик", "type": "lowercase", "fst": "fst", "root": "итий", "affixes": ["+V", "+ADJZ#8", "+ADVZ#5"]},
+         {"pos": 5, "text": "итигирдик", "type": "lowercase", "fst": "fst", "root": "итий", "affixes": ["+V", "+NMLZ#5", "+VRBLZ#4", "+CSTV", "+ADJZ#16"]},
+         {"pos": 6, "text": "иттэ", "type": "lowercase", "fst": "fst", "root": "итии", "affixes": ["+Adj", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 6, "text": "иттэ", "type": "lowercase", "fst": "fst", "root": "итин", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "турууһугун", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+AFFIR#1", "+2SG"]},
+         {"pos": 8, "text": "дии", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 8, "text": "дии", "type": "lowercase", "fst": "fst", "root": "дии", "affixes": ["+Part"]},
+         {"pos": 9, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   }
+]

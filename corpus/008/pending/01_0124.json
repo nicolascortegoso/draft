@@ -1,0 +1,61 @@
+[
+
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 179,
+      "chapter": "Глагол",
+      "topic": "Глаголы совместно-взаимного залога",
+      "section": 124,
+      "notes": "Совместным является действие, в совершении которого участвует несколько лиц.",
+      "sah": "Тахсан аҕаҕын кытта хаарда күрдьүс.",
+      "ru": "Выйди и вместе со своим отцом сгребай снег.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Тахсан", "type": "title", "fst": "fst", "root": "таҕыс", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "ах", "affixes": ["^N", "+POSS.3SG", "+2SG"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "ах", "affixes": ["^V", "^NMLZ#6", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "ах", "affixes": ["^V", "+PART_PRES", "+2SG"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "аҕаа", "affixes": ["^V", "^ADJZ#16", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "аҕаа", "affixes": ["^V", "^NMLZ#6", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "аҕа", "affixes": ["^N", "+POSS.2SG", "+ACC"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "аҕа", "affixes": ["^N", "+2SG"]},
+         {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "fst", "root": "ай", "affixes": ["^V", "^NMLZ#6", "+POSS.3SG", "+2SG"]},
+         {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын", "affixes": ["^V", "+CONV#2"]},
+         {"pos": 4, "text": "хаарда", "type": "lowercase", "fst": "fst", "root": "хаар", "affixes": ["^N", "+PRTV"]},
+         {"pos": 5, "text": "күрдьүс", "type": "lowercase", "fst": "fst", "root": "күрт", "affixes": ["^V", "+RECP"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+
+
+
+
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 179,
+      "chapter": "Глагол",
+      "topic": "Глаголы совместно-взаимного залога",
+      "section": 124,
+      "notes": "Взаимным называется действие, производимое несколькими лицами друг на друга взаимно.",
+      "sah": "Бэйэ-бэйэлэрин кытта өстүһэр буоллулар.",
+      "ru": "Они стали враждовать друг с другом.",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Бэйэ", "type": "title", "fst": "fst", "root": "бэйэ", "affixes": ["^MOD"]},
+         {"pos": 1, "text": "Бэйэ", "type": "title", "fst": "fst", "root": "бэйэ", "affixes": ["^N"]},
+         {"pos": 1, "text": "Бэйэ", "type": "title", "fst": "fst", "root": "бэйэ", "affixes": ["^Part"]},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^N", "+POSS.3PL", "+ACC"]},
+         {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^N", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^Part", "+POSS.3PL", "+ACC"]},
+         {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^Part", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын", "affixes": ["^V", "+CONV#2"]},
+         {"pos": 5, "text": "өстүһэр", "type": "lowercase", "fst": "fst", "root": "өстүй", "affixes": ["^V", "+RECP", "+PART_PRES"]},
+         {"pos": 5, "text": "өстүһэр", "type": "lowercase", "fst": "fst", "root": "өс", "affixes": ["^N", "^VRBLZ#5", "+RECP", "+PART_PRES"]},
+         {"pos": 6, "text": "буоллулар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["^V", "+PST.3PL"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

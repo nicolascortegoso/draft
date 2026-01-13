@@ -1,0 +1,29 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 115,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Прошедшее незаконченное время (имперфект)",
+      "section": 51,
+      "notes": "Прошедшее незаконченное время.",
+      "sah": "Кинилэр оччугуйдарыттан улаатыхтарыгар диэри этиһии диэни билбэттэрэ.",
+      "ru": "Они с самого детства до зрелого возраста не знали, что такое ссора.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+PL"]},
+         {"pos": 2, "text": "оччугуйдарыттан", "type": "lowercase", "fst": "fst", "root": "оччугуй", "affixes": ["+N", "+ADVZ#7", "+ABL"]},
+         {"pos": 2, "text": "оччугуйдарыттан", "type": "lowercase", "fst": "fst", "root": "оччугуй", "affixes": ["+N", "+POSS.3PL", "+ABL"]},
+         {"pos": 2, "text": "оччугуйдарыттан", "type": "lowercase", "fst": "fst", "root": "оччугуй", "affixes": ["+N", "+PL", "+POSS.3SG", "+ABL"]},
+         {"pos": 3, "text": "улаатыхтарыгар", "type": "lowercase", "fst": "fst"},
+         {"pos": 4, "text": "диэри", "type": "lowercase", "fst": "fst", "root": "диэри", "affixes": ["+POST"]},
+         {"pos": 4, "text": "диэри", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 5, "text": "этиһии", "type": "lowercase", "fst": "fst", "root": "этис", "affixes": ["+V", "+NMLZ#2"]},
+         {"pos": 5, "text": "этиһии", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+VRBLZ#2", "+RECP", "+NMLZ#2"]},
+         {"pos": 5, "text": "этиһии", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+VRBLZ#2", "+RECP", "+CONV#2"]},
+         {"pos": 5, "text": "этиһии", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 6, "text": "диэни", "type": "lowercase", "fst": "fst"},
+         {"pos": 7, "text": "билбэттэрэ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+NEG", "+PART_PRES", "+PL", "+POSS.3SG"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

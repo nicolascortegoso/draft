@@ -1,0 +1,56 @@
+[
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 89,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Быһыыта.",
+      "section": 15,
+      "notes": "Быһыыта может усиливаться частицей быһыылаах.",
+      "sah": "Алиман, быһыыта, онтон курутуйар быһыылааҕа.",
+      "ru": "Алиман, видно, переживал это.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Алиман", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+NMLZ#2", "+POSS.3SG"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+NMLZ#2", "+PRTV"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быһыыта", "affixes": ["+MOD"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+PRTV"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "онтон", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ABL"]},
+         {"pos": 6, "text": "курутуйар", "type": "lowercase", "fst": "fst", "root": "курутуй", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": "быһыылааҕа", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+NMLZ#2", "+ADJZ#1", "+POSS.3SG"]},
+         {"pos": 7, "text": "быһыылааҕа", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+ADJZ#1", "+POSS.3SG"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 89,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Быһыыта.",
+      "section": 15,
+      "notes": "Быһыыта может усиливаться частицей быһыылаах.",
+      "sah": "Климка, быһыыта, түргэнник сүүрэн кэлбит быһыылаах.",
+      "ru": "Климка, видно, быстро бежал.",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Климка", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+NMLZ#2", "+POSS.3SG"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+NMLZ#2", "+PRTV"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быһыыта", "affixes": ["+MOD"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "быһыыта", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+PRTV"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "түргэнник", "type": "lowercase", "fst": "fst", "root": "түргэн", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 6, "text": "сүүрэн", "type": "lowercase", "fst": "fst", "root": "сүүр", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 7, "text": "кэлбит", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 8, "text": "быһыылаах", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+NMLZ#2", "+ADJZ#1"]},
+         {"pos": 8, "text": "быһыылаах", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

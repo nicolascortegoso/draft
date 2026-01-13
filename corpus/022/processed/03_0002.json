@@ -1,0 +1,59 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 212,
+      "chapter": "3.3 The Sakha Distant Future Imperative",
+      "topic": "3.3.1.2 The Future Imperative",
+      "section": "67b",
+      "notes": "The Sakha Future Imperative, which is marked by the suffix –A:r, is restricted to the second persons. As in the Present Imperative mood, agreement with second person singular is unmarked (67a), and agreement with the second person plural is marked with the suffix –(I). The Future Imperative, too, is regularly negated with the negative suffix –(I)mA, with the final vowel of the negative suffix merging with the initial vowel of the Future Imperative suffix (67b). It conveys a command that is to be fulfilled at a later point in time (67c), or after some other action (67d), and is also used for weaker commands or polite requests (67e).",
+      "sah": "Эһиги сиэмээриҥ диэн аҕам кэриэһин эппитэ.",
+      "en": "“Don't you eat (it),” my father said as a testament. [2PL eat–NEG–DSTIMP–2PL say–PF.CVB father–POSS.1SG memory–ACC.3SG say–PSTPT–POSS.3SG]",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Эһиги", "type": "title", "fst": "ymv", "root": "эһиги", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "сиэмээриҥ", "type": "lowercase", "fst": "ymv", "root": "сиэ", "affixes": ["+V", "+NEG", "+IMP#2.2PL"]},
+         {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 4, "text": "аҕам", "type": "lowercase", "fst": "ymv", "root": "аҕа", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 5, "text": "кэриэһин", "type": "lowercase", "fst": "ymv", "root": "кэриэс", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 6, "text": "эппитэ", "type": "lowercase", "fst": "ymv", "root": "эт", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },    
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 212,
+      "chapter": "3.3 The Sakha Distant Future Imperative",
+      "topic": "3.3.1.2 The Future Imperative",
+      "section": "67c",
+      "notes": "The Sakha Future Imperative, which is marked by the suffix –A:r, is restricted to the second persons. As in the Present Imperative mood, agreement with second person singular is unmarked (67a), and agreement with the second person plural is marked with the suffix –(I). The Future Imperative, too, is regularly negated with the negative suffix –(I)mA, with the final vowel of the negative suffix merging with the initial vowel of the Future Imperative suffix (67b). It conveys a command that is to be fulfilled at a later point in time (67c), or after some other action (67d), and is also used for weaker commands or polite requests (67e).",
+      "sah": "Бу түлүппүөнүнэн кэпсэтээр диэн.",
+      "en": "“Call me on the telephone”, he said. [this telephone–INS tell–CAUS–DSTIMP–2SG say–PF.CVB]",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "түлүппүөнүнэн", "type": "lowercase", "fst": "ymv", "root": "түлүппүөн", "affixes": ["+N", "+INST"]},
+         {"pos": 3, "text": "кэпсэтээр", "type": "lowercase", "fst": "ymv", "root": "кэпсээ", "affixes": ["+V", "+CAUS", "+IMP#2.2SG"]},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 212,
+        "chapter": "3.3 The Sakha Distant Future Imperative",
+        "topic": "3.3.1.2 The Future Imperative",
+        "section": "67d",
+        "notes": "The Sakha Future Imperative, which is marked by the suffix –A:r, is restricted to the second persons. As in the Present Imperative mood, agreement with second person singular is unmarked (67a), and agreement with the second person plural is marked with the suffix –(I). The Future Imperative, too, is regularly negated with the negative suffix –(I)mA, with the final vowel of the negative suffix merging with the initial vowel of the Future Imperative suffix (67b). It conveys a command that is to be fulfilled at a later point in time (67c), or after some other action (67d), and is also used for weaker commands or polite requests (67e).",
+        "sah": "Сөтүөлээн кэлэн баран хоскун хомуйаар.",
+        "en": "After coming back from swimming, tidy up your room. [bathe–PF.CVB come–PF.CVB SEQ–PF.CVB room–ACC.2SG tidy.up–DSTIMP–2SG]",
+        "id": 4,
+        "parses": [
+            {"pos": 1, "text": "Сөтүөлээн", "type": "title", "fst": "ymv", "root": "сөтүө", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+            {"pos": 2, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 3, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 4, "text": "хоскун", "type": "lowercase", "fst": "ymv", "root": "хос", "affixes": ["+N", "+POSS.2SG", "+ACC"]},
+            {"pos": 5, "text": "хомуйаар", "type": "lowercase", "fst": "ymv", "root": "хомуй", "affixes": ["+V", "+IMP#2.2SG"]},
+            {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }
+]

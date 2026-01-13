@@ -1,0 +1,28 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 107,
+      "chapter": "Глава II. Синтаксические функции деепричастий якутского языка",
+      "topic": "8. Деепричастие на -ымаары",
+      "section": 106,
+      "notes": "Деепричастие на -ымаары употребляется в функции обстоятельства цели.",
+      "sah": "Хайыһардыы барымаары налдьыбыта буолла.",
+      "ru": "Чтобы не идти на лыжах, притворился больным.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыс", "affixes": ["+V", "+CSTV", "+ITER#2", "+NMLZ#2"]},
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыс", "affixes": ["+V", "+CSTV", "+ITER#2", "+CONV#2"]},
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыс", "affixes": ["+V", "+CSTV", "+CAUS", "+NMLZ#2"]},
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыс", "affixes": ["+V", "+CSTV", "+CAUS", "+CONV#2"]},
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыс", "affixes": ["+V", "+PART_PRES", "+ADVZ#3"]},
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыһар", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыһар", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 1, "text": "Хайыһардыы", "type": "title", "fst": "ymv", "root": "хайыһар", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 2, "text": "барымаары", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+NEG", "+CONV#5"]},
+         {"pos": 3, "text": "налдьыбыта", "type": "lowercase", "fst": "yma", "root": "налдьыбыта", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "налдьыбыта", "type": "lowercase", "fst": "yma", "root": "налдьыбыта", "affixes": ["+N"]},
+         {"pos": 4, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,85 @@
+[
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 74,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Apaaһa.",
+      "section": 4,
+      "notes": "Арааһа употребляется довольно активно и выражает допущение, предположение с оттенком неуверенности, сомнения.",
+      "sah": "Аны, арааһа, эн Никольскайы илдьэ дьоҥҥор өссө биирдэ күү лэйдииһиккин.",
+      "ru": "Теперь, пожалуй, ты проводишь Никольского и попутно еще раз погостишь у родных.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Аны", "type": "title", "fst": "fst", "root": "аны", "affixes": ["+Adv"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "арааһа", "type": "lowercase", "fst": "fst", "root": "араас", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 3, "text": "арааһа", "type": "lowercase", "fst": "fst", "root": "арааһа", "affixes": ["+MOD"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 5, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+REFL"]},
+         {"pos": 6, "text": "Никольскайы", "type": "title", "fst": "fst"},
+         {"pos": 7, "text": "илдьэ", "type": "lowercase", "fst": "fst", "root": "илт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "илдьэ", "type": "lowercase", "fst": "fst", "root": "илдьэ", "affixes": ["+Adv"]},
+         {"pos": 8, "text": "дьоҥҥор", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 9, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өссө", "affixes": ["+Adv"]},
+         {"pos": 9, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өс", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 10, "text": "биирдэ", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num", "+ADVZ#8"]},
+         {"pos": 10, "text": "биирдэ", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num", "+PRTV"]},
+         {"pos": 10, "text": "биирдэ", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4", "+CSTV", "+CONV#2"]},
+         {"pos": 10, "text": "биирдэ", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4", "+PST.3SG"]},
+         {"pos": 11, "text": "күү", "type": "lowercase", "fst": "fst", "root": "күү", "affixes": ["+IMIT"]},
+         {"pos": 12, "text": "лэйдииһиккин", "type": "lowercase", "fst": "fst"},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 74,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Apaaһa.",
+      "section": 4,
+      "notes": "Арааһа употребляется довольно активно и выражает допущение, предположение с оттенком неуверенности, сомнения.",
+      "sah": "Чыычааҕыам, дьиэбиттэн, арааһа, бардаххына сөп буолсу.",
+      "ru": "Голубушка моя, из дома, пожалуй, тебе лучше будет уйти.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Чыычааҕыам", "type": "title", "fst": "fst", "root": "чыычаах", "affixes": ["+N", "+VRBLZ#3", "+PART_FUT", "+POSS.1SG"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "дьиэбиттэн", "type": "lowercase", "fst": "fst", "root": "дьиэ", "affixes": ["+N", "+POSS.1SG", "+ABL"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "арааһа", "type": "lowercase", "fst": "fst", "root": "араас", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 5, "text": "арааһа", "type": "lowercase", "fst": "fst", "root": "арааһа", "affixes": ["+MOD"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "бардаххына", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV_COND#2", "+POSS.2SG", "+PRTV"]},
+         {"pos": 8, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп", "affixes": ["+Adj"]},
+         {"pos": 9, "text": "буолсу", "type": "lowercase", "fst": "fst"},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 74,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Apaaһa.",
+      "section": 4,
+      "notes": "Модальное слово арааһа имеет редко употребляемые варианты арааһата (арааһа+аффикс принадлежности 3-го лица), арааската (от арааска+аффикс принадлежности -та).",
+      "sah": "Арааһата, эн, кырдьык, сөбө суох буолсугун.",
+      "ru": "Видимо, ты, правда, не подойдешь.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Арааһата", "type": "title", "fst": "fst", "root": "арааһата", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "кырдьык", "type": "lowercase", "fst": "fst", "root": "кырдьык", "affixes": ["+N"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "сөбө", "type": "lowercase", "fst": "fst", "root": "сөп", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 8, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+         {"pos": 9, "text": "буолсугун", "type": "lowercase", "fst": "fst"},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

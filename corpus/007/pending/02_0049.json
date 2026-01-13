@@ -1,0 +1,58 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 133,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Эс.",
+      "section": 49,
+      "notes": "Эс с отрицательной формой сказуемого имеет яркий оттенок отрицания.",
+      "sah": "Эс, оннук буолбатах.",
+      "ru": "Нет, не так.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Эс", "type": "title", "fst": "fst", "root": "эс", "affixes": ["+MOD"]},
+         {"pos": 1, "text": "Эс", "type": "title", "fst": "fst", "root": "эс", "affixes": ["+V"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "оннук", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DEF"]},
+         {"pos": 4, "text": "буолбатах", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+NEG", "+CONV_COND#2"]},
+         {"pos": 4, "text": "буолбатах", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+NEG", "+PART_PAST"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 133,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Эс.",
+      "section": 49,
+      "notes": "Эс с отрицательной формой сказуемого имеет яркий оттенок отрицания.",
+      "sah": "Эс, бу 'Үүнэр олох' колхозка киһи сатаан олоруо суох.",
+      "ru": "Нет, в этом колхозе 'Юнэр олох' невозможно жить'.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Эс", "type": "title", "fst": "fst", "root": "эс", "affixes": ["+MOD"]},
+         {"pos": 1, "text": "Эс", "type": "title", "fst": "fst", "root": "эс", "affixes": ["+V"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "'", "type": "quotation", "fst": "fst"},
+         {"pos": 5, "text": "Үүнэр", "type": "title", "fst": "fst", "root": "үүн", "affixes": ["+V", "+CSTV"]},
+         {"pos": 5, "text": "Үүнэр", "type": "title", "fst": "fst", "root": "үүн", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 5, "text": "Үүнэр", "type": "title", "fst": "fst", "root": "үүй", "affixes": ["+V", "+REFL", "+PART_PRES"]},
+         {"pos": 6, "text": "олох", "type": "lowercase", "fst": "fst", "root": "олоо", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 6, "text": "олох", "type": "lowercase", "fst": "fst", "root": "олоо", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 6, "text": "олох", "type": "lowercase", "fst": "fst", "root": "олох", "affixes": ["+Adv"]},
+         {"pos": 6, "text": "олох", "type": "lowercase", "fst": "fst", "root": "олох", "affixes": ["+N"]},
+         {"pos": 6, "text": "олох", "type": "lowercase", "fst": "fst", "root": "олой", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 6, "text": "олох", "type": "lowercase", "fst": "fst", "root": "олой", "affixes": ["+V", "+SUDD#2"]},
+         {"pos": 7, "text": "'", "type": "quotation", "fst": "fst"},
+         {"pos": 8, "text": "колхозка", "type": "lowercase", "fst": "fst", "root": "колхоз", "affixes": ["+N", "+DAT"]},
+         {"pos": 8, "text": "колхозка", "type": "lowercase", "fst": "fst", "root": "колхоз", "affixes": ["+N", "+DIM#3"]},
+         {"pos": 9, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+         {"pos": 10, "text": "сатаан", "type": "lowercase", "fst": "fst", "root": "сатаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 10, "text": "сатаан", "type": "lowercase", "fst": "fst", "root": "сай", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+         {"pos": 11, "text": "олоруо", "type": "lowercase", "fst": "fst", "root": "олор", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 12, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

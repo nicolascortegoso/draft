@@ -1,0 +1,68 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 175,
+      "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+      "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+      "section": "46a",
+      "notes": "The Comitative shows ‘prototypical’ comitative functions (Stolz & Stroh 2001: 391), primarily expressing a joint action between two nouns of equal standing that are most often animate, and even human (46a, b). With nouns denoting animals the Comitative case can only be used when the animals are viewed as being similar to people – compare (46c) and (46d).",
+      "sah": "Мин балтым подругаларынаан оонньуу сылдьар.",
+      "en": "My younger sister is playing with her girlfriends. [1SG younger.sister–POSS.1SG girlfriend–PL–COM.3SG play–IPF.CVB IPFV–PRSPT]",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+N"]},
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "балтым", "type": "lowercase", "fst": "ymv", "root": "балыс", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 3, "text": "подругаларынаан", "type": "lowercase", "fst": "yma", "root": "подругаларынаан", "affixes": ["+N"]},
+         {"pos": 3, "text": "подругаларынаан", "type": "lowercase", "fst": "yma", "root": "подругаларынт", "affixes": ["+N", "+VRBLZ#3", "+CONV#1"]},
+         {"pos": 3, "text": "подругаларынаан", "type": "lowercase", "fst": "yma", "root": "подругаларын", "affixes": ["+N", "+VRBLZ#3", "+CONV#1"]},
+         {"pos": 4, "text": "оонньуу", "type": "lowercase", "fst": "ymv", "root": "оонньоо", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "оонньуу", "type": "lowercase", "fst": "ymv", "root": "оонньуу", "affixes": ["+N"]},
+         {"pos": 5, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 177,
+      "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+      "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+      "section": "48a",
+      "notes": "In addition, the Grammatika sovremennogo jakutskogo literaturnogo jazyka (GSJa: 132) gives a number of examples with inanimate referents (48a), and even examples of the Comitative functioning as an adverbial of manner (48.b), i.e. in a similar function to the Instrumental case. According to the judgements of my consultant in the Verxojansk district, in these cases, the Comitative case serves to underline the togetherness of the arguments, and the attention of the hearer is directed somewhat towards the case-marked argument. However, judging from the examples found in my text collection as well as in the elicited data, in normal speech the Comitative is primarily used to express a joint action of human referents.",
+      "sah": "Тэлиэгэ таһаҕастыын түҥнэстибит.",
+      "en": "The cart toppled over together with the load. [cart load–COM turn.upside.down–PSTPT]",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "Тэлиэгэ", "type": "title", "fst": "ymv", "root": "тэлиэгэ", "affixes": ["+N"]},
+         {"pos": 2, "text": "таһаҕастыын", "type": "lowercase", "fst": "ymv", "root": "тас", "affixes": ["+N", "+VRBLZ#3", "+ADJZ#6", "+COMIT"]},
+         {"pos": 2, "text": "таһаҕастыын", "type": "lowercase", "fst": "ymv", "root": "тас", "affixes": ["+V", "+ADJZ#6", "+COMIT"]},
+         {"pos": 3, "text": "түҥнэстибит", "type": "lowercase", "fst": "ymv", "root": "түҥ", "affixes": ["+Adj", "+VRBLZ#1", "+RECP", "+PST.1PL"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 181,
+      "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+      "topic": "3.2.4.1.2 The two variants of the Sakha Comitative suffix in the possessive declension",
+      "section": "52",
+      "notes": "It should further be noted that my main consultant in the Verxojansk district consistently rejected forms with the high vowel, saying they were incorrect. However, a second consultant in the same village accepted both the forms with the low and the high vowel, although she thought that the variant with the low vowel was used more commonly in the village. Translations of sentences in which something is done with both possessively-marked kin (e.g. ‘my younger sister’) and possessively-marked non-kin (e.g. ‘my teacher’) by Katja Potapova (who originally comes from the Taatta district) and Njurgujana Petrova (who originally comes from the Suntar district) also resulted in only case endings with the low vowel being offered.",
+      "sah": "Мин балтыбынаан Москваҕа Кремль көрө бара сылдьыбырпыт.",
+      "en": "I went to Moscow with my younger sister to see the Kremlin. [1SG younger.sister–COM.1SG Moscow–DAT Kremlin see–IPF.CVB go–IPF.CVB IPFV–PSTPT–1PL]",
+      "id": 25,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+N"]},
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "балтыбынаан", "type": "lowercase", "fst": "yma", "root": "балтыбынаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москвах", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москваҕа", "affixes": ["+N"]},
+         {"pos": 3, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москва", "affixes": ["+N", "+DAT"]},
+         {"pos": 4, "text": "Кремль", "type": "title", "fst": "ymv", "root": "кремль", "affixes": ["+N"]},
+         {"pos": 5, "text": "көрө", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": "көрө", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 6, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "сылдьыбырпыт", "type": "lowercase", "fst": "yma", "root": "сылдьыбырпыт", "affixes": ["+N"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

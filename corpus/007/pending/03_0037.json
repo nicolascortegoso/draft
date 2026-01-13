@@ -1,0 +1,54 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 162,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 10. Муҥ.",
+      "section": 10,
+      "notes": "Во-вторых, муҥ, если сказуемое выражено глаголом возможного наклонения, выражает предположение о возможности действия с оттенком указания на его случайный характер.",
+      "sah": "Барыаҕыҥ, муҥ, директору көрсөөйөбүт.",
+      "ru": "Пойдемте, может быть (хоть случайно), встретим директора.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "fst", "root": "бараа", "affixes": ["+V", "+PART_FUT", "+IMP#1.1PL"]},
+         {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "fst", "root": "бараа", "affixes": ["+V", "+PART_FUT", "+POSS.2SG"]},
+         {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_FUT", "+IMP#1.1PL"]},
+         {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_FUT", "+POSS.2SG"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "муҥ", "type": "lowercase", "fst": "fst", "root": "муҥ", "affixes": ["+N"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "директору", "type": "lowercase", "fst": "fst"},
+         {"pos": 6, "text": "көрсөөйөбүт", "type": "lowercase", "fst": "fst"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 163,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 10. Муҥ.",
+      "section": 10,
+      "notes": "В-третьих, муҥ редко, видимо, в некоторых говорах, употребляется в уступительно-усилительном значении.",
+      "sah": "Муҥ, маныаха дылы кэлбиттэрэ буоллар, эрэйдэрэ чэпчиэ этэ.",
+      "ru": "По крайнем мере, если доехали бы досюда, то им было бы легче.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Муҥ", "type": "title", "fst": "fst", "root": "муҥ", "affixes": ["+N"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "маныаха", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 4, "text": "дылы", "type": "lowercase", "fst": "fst", "root": "дылы", "affixes": ["+POST"]},
+         {"pos": 4, "text": "дылы", "type": "lowercase", "fst": "fst", "root": "дылы", "affixes": ["+Part"]},
+         {"pos": 5, "text": "кэлбиттэрэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PAST", "+PL", "+POSS.3SG"]},
+         {"pos": 6, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 6, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PL"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "эрэйдэрэ", "type": "lowercase", "fst": "fst", "root": "эрэй", "affixes": ["+N", "+PL", "+POSS.3SG"]},
+         {"pos": 8, "text": "эрэйдэрэ", "type": "lowercase", "fst": "fst", "root": "эрэй", "affixes": ["+V", "+CONV_COND#1", "+POSS.3SG"]},
+         {"pos": 9, "text": "чэпчиэ", "type": "lowercase", "fst": "fst", "root": "чэпчээ", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 10, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 10, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

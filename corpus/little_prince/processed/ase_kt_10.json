@@ -1,0 +1,54 @@
+[
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 39,
+      "chapter": "X",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Кыра тыгын халлаанын эттигиттэн ордук чугастарынан 325, 326, 327, 328, 329 уонна 330 халлаан эттиктэрэ эбиттэр.",
+      "ru": "Ближе всего к планете Маленького принца были астероиды 325, 326, 327, 328, 329 и 330.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кыра", "type": "title", "fst": "fst", "root": "кыра", "affixes": ["^Adj"]},
+         {"pos": 2, "text": "тыгын", "type": "lowercase", "fst": "fst", "root": "тыгын", "affixes": ["^N"]},
+         {"pos": 3, "text": "халлаанын", "type": "lowercase", "fst": "fst", "root": "халлаан", "affixes": ["^N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "эттигиттэн", "type": "lowercase", "fst": "fst", "root": "эттик", "affixes": ["^N", "+POSS.3SG", "+ABL"]},
+         {"pos": 5, "text": "ордук", "type": "lowercase", "fst": "fst", "root": "орт", "affixes": ["^V", "^NMLZ#5"]},
+         {"pos": 6, "text": "чугастарынан", "type": "lowercase", "fst": "fst", "root": "чугас", "affixes": ["^Adj", "+POSS.3PL", "+INST"]},
+         {"pos": 7, "text": "325", "type": "number", "fst": "fst"},
+         {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 9, "text": "326", "type": "number", "fst": "fst"},
+         {"pos": 10, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 11, "text": "327", "type": "number", "fst": "fst"},
+         {"pos": 12, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 13, "text": "328", "type": "number", "fst": "fst"},
+         {"pos": 14, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 15, "text": "329", "type": "number", "fst": "fst"},
+         {"pos": 16, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уонна", "affixes": ["^CONJ"]},
+         {"pos": 17, "text": "330", "type": "number", "fst": "fst"},
+         {"pos": 18, "text": "халлаан", "type": "lowercase", "fst": "fst", "root": "халлаан", "affixes": ["^N"]},
+         {"pos": 19, "text": "эттиктэрэ", "type": "lowercase", "fst": "fst", "root": "эттик", "affixes": ["^N", "+PL", "+POSS.3SG"]},
+         {"pos": 20, "text": "эбиттэр", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["^V", "+PART_PAST", "+PL"]},
+         {"pos": 21, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 40,
+      "chapter": "X",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Бастакы эттиккэ ыраахтааҕы олорбут.",
+      "ru": "На первом астероиде жил король.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Бастакы", "type": "title", "fst": "fst", "root": "бастакы", "affixes": ["^Adj"]},
+         {"pos": 2, "text": "эттиккэ", "type": "lowercase", "fst": "fst", "root": "эттик", "affixes": ["^N", "+DAT"]},
+         {"pos": 3, "text": "ыраахтааҕы", "type": "lowercase", "fst": "fst", "root": "ыраахтааҕы", "affixes": ["^N"]},
+         {"pos": 4, "text": "олорбут", "type": "lowercase", "fst": "fst", "root": "олор", "affixes": ["^V", "+PART_PAST"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

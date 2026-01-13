@@ -1,0 +1,63 @@
+[
+
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 175,
+      "chapter": "Глава II. Условное наклонение",
+      "topic": "1. Первая форма условного наклонения. Значение первой формы условного наклонения",
+      "section": 8,
+      "notes": "Глаголы условного наклонения на -тар в составе условного периода способны сочетаться также с глаголами и других наклонений якутского языка. 2) С глаголами долженствовательного наклонения. В данном случае сказуемое главного предложения выражает возможную необходимость, обязательность будущего действия.",
+      "sah": "Ол гынан баран, көмүс эрэ көһүннэр, ити ороскуот хас-эмэ төгүлүнэн аһары анньыллыахтаах.",
+      "ru": "Тем не менее если только найдется золото, эти расходы окупятся с лихвой (с превышением).",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "гынан", "type": "lowercase", "fst": "fst", "root": "гын", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "көмүс", "type": "lowercase", "fst": "fst", "root": "көмүс", "affixes": ["+N"]},
+         {"pos": 6, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 7, "text": "көһүннэр", "type": "lowercase", "fst": "fst", "root": "көһүн", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 9, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити", "affixes": ["+Pron"]},
+         {"pos": 10, "text": "ороскуот", "type": "lowercase", "fst": "fst", "root": "ороскуот", "affixes": ["+N"]},
+         {"pos": 11, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хас", "affixes": ["+Pron"]},
+         {"pos": 12, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 13, "text": "эмэ", "type": "lowercase", "fst": "fst", "root": "эмэ", "affixes": ["+Part"]},
+         {"pos": 14, "text": "төгүлүнэн", "type": "lowercase", "fst": "fst", "root": "төгүл", "affixes": ["+N", "+INST"]},
+         {"pos": 14, "text": "төгүлүнэн", "type": "lowercase", "fst": "fst", "root": "төгүл", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 15, "text": "аһары", "type": "lowercase", "fst": "fst", "root": "аас", "affixes": ["+V", "+CSTV", "+ADVZ#1"]},
+         {"pos": 15, "text": "аһары", "type": "lowercase", "fst": "fst", "root": "ас", "affixes": ["+V", "+PART_PRES", "+ACC"]},
+         {"pos": 15, "text": "аһары", "type": "lowercase", "fst": "fst", "root": "аһар", "affixes": ["+V", "+ADVZ#1"]},
+         {"pos": 15, "text": "аһары", "type": "lowercase", "fst": "fst", "root": "ай", "affixes": ["+V", "+RECP", "+PART_PRES", "+ACC"]},
+         {"pos": 16, "text": "анньыллыахтаах", "type": "lowercase", "fst": "fst", "root": "ас", "affixes": ["+V", "+PASS", "+PART_FUT", "+DEB"]},
+         {"pos": 17, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 175,
+      "chapter": "Глава II. Условное наклонение",
+      "topic": "1. Первая форма условного наклонения. Значение первой формы условного наклонения",
+      "section": 8,
+      "notes": "Глаголы условного наклонения на -тар в составе условного периода способны сочетаться также с глаголами и других наклонений якутского языка. 3) С глаголами утвердительного наклонения. С последними, правда, не совсем свободно-обычно, если они сопровождаются какими-либо модальными словами. В данном случае следствие, выраженное сказуемым главного предложения, подчеркивает возможность совершения действия в будущем.",
+      "sah": "Харчы манньалаатарбын, киһим барыыһы быһыылаах.",
+      "ru": "Если мне вознаградить деньгами, он, кажется, готов пойти.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Харчы", "type": "title", "fst": "fst", "root": "харчы", "affixes": ["+N"]},
+         {"pos": 1, "text": "Харчы", "type": "title", "fst": "fst", "root": "хар", "affixes": ["+V", "+ADVZ#2"]},
+         {"pos": 1, "text": "Харчы", "type": "title", "fst": "fst", "root": "хар", "affixes": ["+V", "+CSTV", "+ADVZ#2"]},
+         {"pos": 2, "text": "манньалаатарбын", "type": "lowercase", "fst": "fst", "root": "манньа", "affixes": ["+N", "+VRBLZ#1", "+CONV_COND#1", "+POSS.1SG", "+ACC"]},
+         {"pos": 2, "text": "манньалаатарбын", "type": "lowercase", "fst": "fst", "root": "манньа", "affixes": ["+N", "+VRBLZ#1", "+CONV_COND#1", "+1SG"]},
+         {"pos": 2, "text": "манньалаатарбын", "type": "lowercase", "fst": "fst", "root": "манньа", "affixes": ["+N", "+VRBLZ#1", "+SUDD#1", "+CSTV", "+PART_PRES", "+POSS.1SG", "+ACC"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "киһим", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 5, "text": "барыыһы", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+AFFIR#1"]},
+         {"pos": 5, "text": "барыыһы", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+AFFIR#1"]},
+         {"pos": 6, "text": "быһыылаах", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+NMLZ#2", "+ADJZ#1"]},
+         {"pos": 6, "text": "быһыылаах", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

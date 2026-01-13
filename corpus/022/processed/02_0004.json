@@ -1,0 +1,471 @@
+[
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 174,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "45a",
+        "notes": "Sakha has two cases expressing some form of accompaniment/association: the Instrumental and the Comitative. The Instrumental in Sakha covers ‘prototypical’ instrumental functions (Stolz & Stroh 2001: 391), expressing an instrument (45a) or means (45b); it also functions in adverbials of manner (45c), cause, time, and space.",
+        "sah": "Бу Пөпүгэй диэки кырсаны пааһынан ылаллар этэ, пааска түһэрэн.",
+        "en": "In the direction of Popigaj they used to take polar foxes with traps, making them fall into traps. [this P. in.the.direction.of polar.fox–ACC trap–INS take–PRSPT–PL AUX–PST.3SG trap–DAT fall–CAUS–PF.CVB]",
+        "id": 1,
+        "parses": [
+            {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "Пөпүгэй", "type": "title", "fst": "yma", "root": "пөпүгэй", "affixes": ["+Adj"]},
+            {"pos": 3, "text": "диэки", "type": "lowercase", "fst": "ymv", "root": "диэки", "affixes": ["+POST"]},
+            {"pos": 4, "text": "кырсаны", "type": "lowercase", "fst": "ymv", "root": "кырса", "affixes": ["+N", "+ACC"]},
+            {"pos": 5, "text": "пааһынан", "type": "lowercase", "fst": "ymv", "root": "паас", "affixes": ["+N", "+INST"]},
+            {"pos": 6, "text": "ылаллар", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 7, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+            {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 9, "text": "пааска", "type": "lowercase", "fst": "ymv", "root": "паас", "affixes": ["+N", "+DAT"]},
+            {"pos": 10, "text": "түһэрэн", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+            {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },   
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 174,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "45b",
+        "notes": "Sakha has two cases expressing some form of accompaniment/association: the Instrumental and the Comitative. The Instrumental in Sakha covers ‘prototypical’ instrumental functions (Stolz & Stroh 2001: 391), expressing an instrument (45a) or means (45b); it also functions in adverbials of manner (45c), cause, time, and space.",
+        "sah": "Сатыы сылдьаҕын, атынан сылдьабыт, иногда оҕуһунан сылдьабыт, уонна ДТ диэн тракторынан сылдьаҕын, велосипединан сылдьаҕын.",
+        "en": "You go on foot, we go by horseback, sometimes we go with oxen, and you go with a DT tractor, you go by bike. [on.foot go–IPF.CVB–PRED.2SG horse–INS go–IPF.CVB–1PL sometimes ox–INS go–IPF.CVB–1PL and DT say–PF.CVB tractor–INS go–IPF.CVB–PRED.2SG bicycle–INS go–IPF.CVB–PRED.2SG]",
+        "id": 2,
+        "parses": [
+            {"pos": 1, "text": "Сатыы", "type": "title", "fst": "ymv", "root": "сатыы", "affixes": ["+Adv"]},
+            {"pos": 2, "text": "сылдьаҕын", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES", "+2SG"]},
+            {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 4, "text": "атынан", "type": "lowercase", "fst": "ymv", "root": "ат", "affixes": ["+N", "+INST"]},
+            {"pos": 5, "text": "сылдьабыт", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES", "+1PL"]},
+            {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 7, "text": "иногда", "type": "lowercase", "fst": "yma", "root": "иногда", "affixes": ["+N"]},
+            {"pos": 8, "text": "оҕуһунан", "type": "lowercase", "fst": "ymv", "root": "оҕус", "affixes": ["+N", "+INST"]},
+            {"pos": 9, "text": "сылдьабыт", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES", "+1PL"]},
+            {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 11, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна", "affixes": ["+CONJ"]},
+            {"pos": 12, "text": "ДТ", "type": "uppercase", "fst": "ymv"},
+            {"pos": 13, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 14, "text": "тракторынан", "type": "lowercase", "fst": "ymv", "root": "трактор", "affixes": ["+N", "+INST"]},
+            {"pos": 15, "text": "сылдьаҕын", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES", "+2SG"]},
+            {"pos": 16, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 17, "text": "велосипединан", "type": "lowercase", "fst": "ymv", "root": "велосипед", "affixes": ["+N", "+INST"]},
+            {"pos": 18, "text": "сылдьаҕын", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES", "+2SG"]},
+            {"pos": 19, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 175,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "45c",
+        "notes": "Sakha has two cases expressing some form of accompaniment/association: the Instrumental and the Comitative. The Instrumental in Sakha covers ‘prototypical’ instrumental functions (Stolz & Stroh 2001: 391), expressing an instrument (45a) or means (45b); it also functions in adverbials of manner (45c), cause, time, and space.",
+        "sah": "Ону буоллаҕына, биһиги тыаҕа олорор дьоннор үөрүүнэн ылар буоллахпыт.",
+        "en": "Well, we, people living in the woods, took that gladly.’ (lit. ‘with gladness’) [CP 1PL taiga–DAT sit–PRSPT people–PL be.glad–NR–INS take–PRSPT AUX–MDL–1PL]",
+        "id": 3,
+        "parses": [
+            {"pos": 1, "text": "Ону", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+            {"pos": 2, "text": "буоллаҕына", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG", "+PRTV"]},
+            {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 4, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron"]},
+            {"pos": 5, "text": "тыаҕа", "type": "lowercase", "fst": "ymv", "root": "тыа", "affixes": ["+N", "+DAT"]},
+            {"pos": 6, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 7, "text": "дьоннор", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+PL"]},
+            {"pos": 8, "text": "үөрүүнэн", "type": "lowercase", "fst": "ymv", "root": "үөр", "affixes": ["+V", "+NMLZ#2", "+INST"]},
+            {"pos": 9, "text": "ылар", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 10, "text": "буоллахпыт", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV_COND#2", "+1PL"]},
+            {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 175,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "46b",
+        "notes": "The Comitative shows ‘prototypical’ comitative functions (Stolz & Stroh 2001: 391), primarily expressing a joint action between two nouns of equal standing that are most often animate, and even human (46a, b). With nouns denoting animals the Comitative case can only be used when the animals are viewed as being similar to people – compare (46c) and (46d).",
+        "sah": "Бу оҕонньордуун онтон түөрт уон сэттис сылбытыгар олоробут...",
+        "en": "And this old man and I are living together in our forty seventh year… [this old.man–COM CP four ten seven–ORD year–DAT.1PL live–IPF.CVB–1PL]",
+        "id": 5,
+        "parses": [
+            {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "оҕонньордуун", "type": "lowercase", "fst": "ymv", "root": "оҕонньор", "affixes": ["+N", "+COMIT"]},
+            {"pos": 3, "text": "онтон", "type": "lowercase", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+ABL"]},
+            {"pos": 4, "text": "түөрт", "type": "lowercase", "fst": "ymv", "root": "түөрт", "affixes": ["+Num"]},
+            {"pos": 5, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон", "affixes": ["+Num"]},
+            {"pos": 6, "text": "сэттис", "type": "lowercase", "fst": "ymv", "root": "сэттэ", "affixes": ["+Num", "+ORD"]},
+            {"pos": 7, "text": "сылбытыгар", "type": "lowercase", "fst": "ymv", "root": "сыл", "affixes": ["+N", "+POSS.1PL", "+DAT"]},
+            {"pos": 8, "text": "олоробут", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+PART_PRES", "+1PL"]},
+            {"pos": 9, "text": "...", "type": "ellipsis", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 175,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "46c",
+        "notes": "The Comitative shows ‘prototypical’ comitative functions (Stolz & Stroh 2001: 391), primarily expressing a joint action between two nouns of equal standing that are most often animate, and even human (46a, b). With nouns denoting animals the Comitative case can only be used when the animals are viewed as being similar to people – compare (46c) and (46d). Horses and cows are not ‘relatives or friends’ and therefore the Comitative case-marking is not possible.",
+        "sah": "Ат ынахтыын күөлгэ уу иһэллэр.",
+        "en": "A/the horse and cow drink water in the lake. [horse cow–COM lake–DAT water drink–PRSPT–PL]",
+        "id": 6,
+        "parses": [
+            {"pos": 1, "text": "Ат", "type": "title", "fst": "ymv", "root": "ат", "affixes": ["+N"]},
+            {"pos": 2, "text": "ынахтыын", "type": "lowercase", "fst": "ymv", "root": "ынах", "affixes": ["+N", "+COMIT"]},
+            {"pos": 3, "text": "күөлгэ", "type": "lowercase", "fst": "ymv", "root": "күөл", "affixes": ["+N", "+DAT"]},
+            {"pos": 4, "text": "уу", "type": "lowercase", "fst": "ymv", "root": "уу", "affixes": ["+N"]},
+            {"pos": 5, "text": "иһэллэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 176,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "46d",
+        "notes": "The Comitative shows ‘prototypical’ comitative functions (Stolz & Stroh 2001: 391), primarily expressing a joint action between two nouns of equal standing that are most often animate, and even human (46a, b). With nouns denoting animals the Comitative case can only be used when the animals are viewed as being similar to people – compare (46c) and (46d).",
+        "sah": "Куоска ыт оҕотунаан наһаа үчүгэйдик оонньууллар.",
+        "en": "The cat and puppy play nicely together. [cat dog child–COM.3SG very good–ADVR play–PRSPT–PL]",
+        "id": 7,
+        "parses": [
+            {"pos": 1, "text": "Куоска", "type": "title", "fst": "ymv", "root": "куоска", "affixes": ["+N"]},
+            {"pos": 2, "text": "ыт", "type": "lowercase", "fst": "ymv", "root": "ыт", "affixes": ["+N"]},
+            {"pos": 3, "text": "оҕотунаан", "type": "lowercase", "fst": "ymv", "root": "оҕо", "affixes": ["+N", "+POSS.3SG", "+COMIT"]},
+            {"pos": 4, "text": "наһаа", "type": "lowercase", "fst": "ymv", "root": "наһаа", "affixes": ["+Adv"]},
+            {"pos": 5, "text": "үчүгэйдик", "type": "lowercase", "fst": "ymv", "root": "үчүгэй", "affixes": ["+Adj", "+ADVZ#5"]},
+            {"pos": 6, "text": "оонньууллар", "type": "lowercase", "fst": "ymv", "root": "оонньоо", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 176,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "47a",
+        "notes": "Although the Comitative is mainly used to express an association or joint action between two animate nouns, there are instances of it having not so much a comitative function as a function as an inclusive coordination marker (47a-c). In these cases, the suffix is added to both conjoined nouns and the meaning is one of total affectedness.",
+        "sah": "Хоргуйуу саҕана бары өлбүттэрэ даҕаны, оҕолуун даҕаны, улаханныын даҕаны.",
+        "en": "… in the time of hunger everybody died, children died and adults died. [be.hungry–NR time–LOC all die–PSTPT–POSS.3PL PTL child–COM PTL big–COM PTL]",
+        "id": 8,
+        "parses": [
+            {"pos": 1, "text": "Хоргуйуу", "type": "title", "fst": "ymv", "root": "хоргуй", "affixes": ["+V", "+NMLZ#2"]},
+            {"pos": 2, "text": "саҕана", "type": "lowercase", "fst": "ymv", "root": "саҕана", "affixes": ["+POST"]},
+            {"pos": 3, "text": "бары", "type": "lowercase", "fst": "ymv", "root": "бары", "affixes": ["+Pron"]},
+            {"pos": 4, "text": "өлбүттэрэ", "type": "lowercase", "fst": "ymv", "root": "өл", "affixes": ["+V", "+PART_PAST", "+PL", "+POSS.3SG"]},
+            {"pos": 5, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны", "affixes": ["+Part"]},
+            {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 7, "text": "оҕолуун", "type": "lowercase", "fst": "ymv", "root": "оҕо", "affixes": ["+N", "+COMIT"]},
+            {"pos": 8, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны", "affixes": ["+Part"]},
+            {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 10, "text": "улаханныын", "type": "lowercase", "fst": "ymv", "root": "улахан", "affixes": ["+Adj", "+COMIT"]},
+            {"pos": 11, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны", "affixes": ["+Part"]},
+            {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }, 
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 176,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "47b",
+        "notes": "Although the Comitative is mainly used to express an association or joint action between two animate nouns, there are instances of it having not so much a comitative function as a function as an inclusive coordination marker (47a-c). In these cases, the suffix is added to both conjoined nouns and the meaning is one of total affectedness.",
+        "sah": "Билигин кырдьаҕастыын эдэрдиин бары капроновай сабынан иистэнэллэр.",
+        "en": "Nowadays young and old all sew with kapron (similar to nylon) threads. [now old–COM young–COM all kapron thread–INS sew–PRSPT–PL]",
+        "id": 9,
+        "parses": [
+            {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "билигин", "affixes": ["+Adv"]},
+            {"pos": 2, "text": "кырдьаҕастыын", "type": "lowercase", "fst": "ymv", "root": "кырый", "affixes": ["+V", "+ADJZ#6", "+COMIT"]},
+            {"pos": 3, "text": "эдэрдиин", "type": "lowercase", "fst": "ymv", "root": "эдэр", "affixes": ["+Adj", "+COMIT"]},
+            {"pos": 4, "text": "бары", "type": "lowercase", "fst": "ymv", "root": "бары", "affixes": ["+Pron"]},
+            {"pos": 5, "text": "капроновай", "type": "lowercase", "fst": "yma", "root": "капроновай", "affixes": ["+Adj"]},
+            {"pos": 6, "text": "сабынан", "type": "lowercase", "fst": "ymv", "root": "сап", "affixes": ["+N", "+INST"]},
+            {"pos": 7, "text": "иистэнэллэр", "type": "lowercase", "fst": "ymv", "root": "иис", "affixes": ["+N", "+VRBLZ#1", "+REFL", "+PART_PRES", "+PL"]},
+            {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 176,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "47c",
+        "notes": "Although the Comitative is mainly used to express an association or joint action between two animate nouns, there are instances of it having not so much a comitative function as a function as an inclusive coordination marker (47a-c). In these cases, the suffix is added to both conjoined nouns and the meaning is one of total affectedness.",
+        "sah": "… истиин тастыын сэллик буолан.",
+        "en": "… inside and outside there was tuberculosis (the whole organism was infected with tuberculosis). [inside–COM outside–COM tuberculosis AUX–PF.CVB]",
+        "id": 10,
+        "parses": [
+            {"pos": 1, "text": "…", "type": "unknown", "fst": "ymv"},
+            {"pos": 2, "text": "истиин", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+N", "+COMIT"]},
+            {"pos": 3, "text": "тастыын", "type": "lowercase", "fst": "ymv", "root": "тас", "affixes": ["+N", "+COMIT"]},
+            {"pos": 4, "text": "сэллик", "type": "lowercase", "fst": "ymv", "root": "сэллик", "affixes": ["+N"]},
+            {"pos": 5, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 177,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1 The Sakha Instrumental and Comitative",
+        "section": "48b",
+        "notes": "In addition, the Grammatika sovremennogo jakutskogo literaturnogo jazyka (GSJa: 132) gives a number of examples with inanimate referents (48a), and even examples of the Comitative functioning as an adverbial of manner (48.b), i.e. in a similar function to the Instrumental case. According to the judgements of my consultant in the Verxojansk district, in these cases, the Comitative case serves to underline the togetherness of the arguments, and the attention of the hearer is directed somewhat towards the case-marked argument. However, judging from the examples found in my text collection as well as in the elicited data, in normal speech the Comitative is primarily used to express a joint action of human referents.",
+        "sah": "Оҕо таҥастыын утуйбут.",
+        "en": "The child fell asleep in its clothes. [child clothes–COM sleep–PSTPT]",
+        "id": 12,
+        "parses": [
+            {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "оҕо", "affixes": ["+N"]},
+            {"pos": 2, "text": "таҥастыын", "type": "lowercase", "fst": "ymv", "root": "таҥас", "affixes": ["+N", "+COMIT"]},
+            {"pos": 3, "text": "утуйбут", "type": "lowercase", "fst": "ymv", "root": "утуй", "affixes": ["+V", "+PART_PAST"]},
+            {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 178,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "49a",
+        "notes": "In Sakha, the Comitative case is not the only means to express joint actions between two nouns of equal standing. One alternative is the postposition kïtta ‘with’, which is the Imperfective Converb of the verb kïtïn ‘to join’. When used with animate nouns, kïtta is practically synonymous with the Comitative case, and in elicitated sentences they were often given interchangeably, or as synonymous alternatives (49a, b). There does appear to be a possible slight preference to use the Comitative case with kin terms, and kïtta with non-kin terms, but this is tenuous and may be an attempt by my consultant to be very accurate in her judgements. There also appears to be an occasional nuance of contrastive focus inherent in the use of kïtta with kinship terms (49c, d).",
+        "sah": "Мин Дария эмээхсин кийиитин кытынна сельсовет мунньаҕар бардыбыт.",
+        "en": "Old Dariya’s daughter-in-law and I went to the meeting of the village soviet together. [1SG D. old.woman daughter.in.law–ACC.3SG join–IPF.CVB village.soviet meeting–DAT.3SG go–PST–1PL]",
+        "id": 13,
+        "parses": [
+            {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "Дария", "type": "title", "fst": "yma", "root": "дария", "affixes": ["+N"]},
+            {"pos": 3, "text": "эмээхсин", "type": "lowercase", "fst": "ymv", "root": "эмээхсин", "affixes": ["+N"]},
+            {"pos": 4, "text": "кийиитин", "type": "lowercase", "fst": "ymv", "root": "кийиит", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+            {"pos": 5, "text": "кытынна", "type": "lowercase", "fst": "ymv", "root": "кытын", "affixes": ["+V", "+PST.3SG"]},
+            {"pos": 6, "text": "сельсовет", "type": "lowercase", "fst": "ymv", "root": "сельсовет", "affixes": ["+N"]},
+            {"pos": 7, "text": "мунньаҕар", "type": "lowercase", "fst": "ymv", "root": "мус", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG", "+DAT"]},
+            {"pos": 8, "text": "бардыбыт", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PST.1PL"]},
+            {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 178,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "49b",
+        "notes": "In Sakha, the Comitative case is not the only means to express joint actions between two nouns of equal standing. One alternative is the postposition kïtta ‘with’, which is the Imperfective Converb of the verb kïtïn ‘to join’. When used with animate nouns, kïtta is practically synonymous with the Comitative case, and in elicitated sentences they were often given interchangeably, or as synonymous alternatives (49a, b). There does appear to be a possible slight preference to use the Comitative case with kin terms, and kïtta with non-kin terms, but this is tenuous and may be an attempt by my consultant to be very accurate in her judgements. There also appears to be an occasional nuance of contrastive focus inherent in the use of kïtta with kinship terms (49c, d).",
+        "sah": "Мин Дария эмээхсин кийиитинээн сельсовет мунньаҕар бардыбыт.",
+        "en": "Old Dariya’s daughter-in-law and I went to the meeting of the village soviet together. [1SG D. old.woman daughter.in.law–COM.3SG village.soviet meeting–DAT.3SG go–PST–1PL]",
+        "id": 14,
+        "parses": [
+            {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "Дария", "type": "title", "fst": "yma", "root": "дария", "affixes": ["+N"]},
+            {"pos": 3, "text": "эмээхсин", "type": "lowercase", "fst": "ymv", "root": "эмээхсин", "affixes": ["+N"]},
+            {"pos": 4, "text": "кийиитинээн", "type": "lowercase", "fst": "ymv", "root": "кийиит", "affixes": ["+N", "+POSS.3SG", "+COMIT"]},
+            {"pos": 5, "text": "сельсовет", "type": "lowercase", "fst": "ymv", "root": "сельсовет", "affixes": ["+N"]},
+            {"pos": 6, "text": "мунньаҕар", "type": "lowercase", "fst": "ymv", "root": "мус", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG", "+DAT"]},
+            {"pos": 7, "text": "бардыбыт", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PST.1PL"]},
+            {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 178,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "49c",
+        "notes": "In Sakha, the Comitative case is not the only means to express joint actions between two nouns of equal standing. One alternative is the postposition kïtta ‘with’, which is the Imperfective Converb of the verb kïtïn ‘to join’. When used with animate nouns, kïtta is practically synonymous with the Comitative case, and in elicitated sentences they were often given interchangeably, or as synonymous alternatives (49a, b). There does appear to be a possible slight preference to use the Comitative case with kin terms, and kïtta with non-kin terms, but this is tenuous and may be an attempt by my consultant to be very accurate in her judgements. There also appears to be an occasional nuance of contrastive focus inherent in the use of kïtta with kinship terms (49c, d).",
+        "sah": "Ийэ кыыһынаан сылдьар.",
+        "en": "The mother is walking with her daughter. [mother daughter–COM.3SG walk–PRSPT]",
+        "id": 15,
+        "parses": [
+            {"pos": 1, "text": "Ийэ", "type": "title", "fst": "ymv", "root": "ийэ", "affixes": ["+N"]},
+            {"pos": 2, "text": "кыыһынаан", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N", "+POSS.3SG", "+COMIT"]},
+            {"pos": 3, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 178,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "49d",
+        "notes": "In Sakha, the Comitative case is not the only means to express joint actions between two nouns of equal standing. One alternative is the postposition kïtta ‘with’, which is the Imperfective Converb of the verb kïtïn ‘to join’. When used with animate nouns, kïtta is practically synonymous with the Comitative case, and in elicitated sentences they were often given interchangeably, or as synonymous alternatives (49a, b). There does appear to be a possible slight preference to use the Comitative case with kin terms, and kïtta with non-kin terms, but this is tenuous and may be an attempt by my consultant to be very accurate in her judgements. There also appears to be an occasional nuance of contrastive focus inherent in the use of kïtta with kinship terms (49c, d).",
+        "sah": "Ийэ кыыһын кытта сылдьар.",
+        "en": "The mother is walking with her daughter (and not with her son). [mother daughter–ACC.3SG join–IPF.CVB walk–PRSPT]",
+        "id": 16,
+        "parses": [
+            {"pos": 1, "text": "Ийэ", "type": "title", "fst": "ymv", "root": "ийэ", "affixes": ["+N"]},
+            {"pos": 2, "text": "кыыһын", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+            {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 4, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 179,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "50a",
+        "notes": "Another means of expressing joint actions is the use of the Proprietive suffix (50a); this is not restricted to animate nouns, but can be used with inanimate nouns as well (50b). The Proprietive suffix can be used interchangeably with the Comitative case and the postposition kïtta, as shown by examples (50c) and (50d) with practically the same meaning as (50a). All the examples were provided as an explanation by my consultant in the Verxojansk district. Lastly, when the coordinated noun phrases are proper names, the joint action can be expressed by plural marking on both names (51).",
+        "sah": "Уоллаах кыыс дисктэкаҕа бараллар.",
+        "en": "The/a boy and girl are going to the disco. [boy–PROP girl disco–DAT go–PRSPT–PL]",
+        "id": 17,
+        "parses": [
+            {"pos": 1, "text": "Уоллаах", "type": "title", "fst": "ymv", "root": "уол", "affixes": ["+N", "+ADJZ#1"]},
+            {"pos": 2, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N"]},
+            {"pos": 3, "text": "дисктэкаҕа", "type": "lowercase", "fst": "yma", "root": "дисктэка", "affixes": ["+N", "+DAT"]},
+            {"pos": 4, "text": "бараллар", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 179,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "50b",
+        "notes": "Another means of expressing joint actions is the use of the Proprietive suffix (50a); this is not restricted to animate nouns, but can be used with inanimate nouns as well (50b). The Proprietive suffix can be used interchangeably with the Comitative case and the postposition kïtta, as shown by examples (50c) and (50d) with practically the same meaning as (50a). All the examples were provided as an explanation by my consultant in the Verxojansk district. Lastly, when the coordinated noun phrases are proper names, the joint action can be expressed by plural marking on both names (51).",
+        "sah": "Кинигэлээх уруучука остуолга сыталлар.",
+        "en": "The/a book and pen are lying on the table. [book–PROP pen table–DAT lie–PRSPT–PL]",
+        "id": 18,
+        "parses": [
+            {"pos": 1, "text": "Кинигэлээх", "type": "title", "fst": "ymv", "root": "кинигэ", "affixes": ["+N", "+ADJZ#1"]},
+            {"pos": 2, "text": "уруучука", "type": "lowercase", "fst": "ymv", "root": "уруучука", "affixes": ["+N"]},
+            {"pos": 3, "text": "остуолга", "type": "lowercase", "fst": "ymv", "root": "остуол", "affixes": ["+N", "+DAT"]},
+            {"pos": 4, "text": "сыталлар", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 179,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "50c",
+        "notes": "Another means of expressing joint actions is the use of the Proprietive suffix (50a); this is not restricted to animate nouns, but can be used with inanimate nouns as well (50b). The Proprietive suffix can be used interchangeably with the Comitative case and the postposition kïtta, as shown by examples (50c) and (50d) with practically the same meaning as (50a). All the examples were provided as an explanation by my consultant in the Verxojansk district. Lastly, when the coordinated noun phrases are proper names, the joint action can be expressed by plural marking on both names (51).",
+        "sah": "Уоллуун кыыс кэнсиэргэ бараллар.",
+        "en": "The/a boy and girl are going to the concert. [boy–COM girl concert–DAT go–PRSPT–PL]",
+        "id": 19,
+        "parses": [
+            {"pos": 1, "text": "Уоллуун", "type": "title", "fst": "ymv", "root": "уол", "affixes": ["+N", "+COMIT"]},
+            {"pos": 2, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N"]},
+            {"pos": 3, "text": "кэнсиэргэ", "type": "lowercase", "fst": "ymv", "root": "кэнсиэр", "affixes": ["+N", "+DAT"]},
+            {"pos": 4, "text": "бараллар", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 179,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "50d",
+        "notes": "Another means of expressing joint actions is the use of the Proprietive suffix (50a); this is not restricted to animate nouns, but can be used with inanimate nouns as well (50b). The Proprietive suffix can be used interchangeably with the Comitative case and the postposition kïtta, as shown by examples (50c) and (50d) with practically the same meaning as (50a). All the examples were provided as an explanation by my consultant in the Verxojansk district. Lastly, when the coordinated noun phrases are proper names, the joint action can be expressed by plural marking on both names (51).",
+        "sah": "Кыыс уолу кытта киинэҕэ бараллар.",
+        "en": "The/a boy and girl are going to the movies. [boy–ACC join–IPF.CVB girl cinema–DAT go–PRSPT–PL]",
+        "id": 20,
+        "parses": [
+            {"pos": 1, "text": "Кыыс", "type": "title", "fst": "ymv", "root": "кыыс", "affixes": ["+N"]},
+            {"pos": 2, "text": "уолу", "type": "lowercase", "fst": "ymv", "root": "уол", "affixes": ["+N", "+ACC"]},
+            {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 4, "text": "киинэҕэ", "type": "lowercase", "fst": "ymv", "root": "киинэ", "affixes": ["+N", "+DAT"]},
+            {"pos": 5, "text": "бараллар", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 179,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.1 Other means of expressing joint actions in Sakha",
+        "section": "51",
+        "notes": "Another means of expressing joint actions is the use of the Proprietive suffix (50a); this is not restricted to animate nouns, but can be used with inanimate nouns as well (50b). The Proprietive suffix can be used interchangeably with the Comitative case and the postposition kïtta, as shown by examples (50c) and (50d) with practically the same meaning as (50a). All the examples were provided as an explanation by my consultant in the Verxojansk district. Lastly, when the coordinated noun phrases are proper names, the joint action can be expressed by plural marking on both names (51).",
+        "sah": "Онтон Валялар Валеркалар Ленскай Остуолба диэҥҥэ барбыттара.",
+        "en": "Then Valja and Valerka went to the Lena Pillars. [then V.-PL V.-PL L. O. say–PF.CVB–DAT go–PSTPT–POSS.3PL]",
+        "id": 21,
+        "parses": [
+            {"pos": 1, "text": "Онтон", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+ABL"]},
+            {"pos": 2, "text": "Валялар", "type": "title", "fst": "yma", "root": "валя", "affixes": ["+N", "+PL"]},
+            {"pos": 3, "text": "Валеркалар", "type": "title", "fst": "yma", "root": "валерка", "affixes": ["+N", "+PL"]},
+            {"pos": 4, "text": "Ленскай", "type": "title", "fst": "yma", "root": "ленскай", "affixes": ["+Adj"]},
+            {"pos": 5, "text": "Остуолба", "type": "title", "fst": "yma", "root": "остуолба", "affixes": ["+N"]},
+            {"pos": 6, "text": "диэҥҥэ", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+NMLZ#7", "+DAT"]},
+            {"pos": 7, "text": "барбыттара", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PART_PAST", "+PL", "+POSS.3SG"]},
+            {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 180,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.2 The two variants of the Sakha Comitative suffix in the possessive declension",
+        "section": "",
+        "notes": "The Comitative suffix takes the form –LI:n for unpossessed nouns, and –(I)nA:n/–(I)nI:n in the possessive declension.",
+        "sah": "эдьиийбинээн",
+        "en": "with my older sister [older.sister–COM.1SG]",
+        "id": 22,
+        "parses": [
+            {"pos": 1, "text": "эдьиийбинээн", "type": "lowercase", "fst": "ymv", "root": "эдьиий", "affixes": ["+N", "+POSS.1SG", "+COMIT"]}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 180,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.2 The two variants of the Sakha Comitative suffix in the possessive declension",
+        "section": "",
+        "notes": "Ubrjatova, on the other hand, claims that the variant with the low vowel is used with kinship terms, while the variant with the high vowel is used with general nouns.",
+        "sah": "Аласов ийэтинээн Даарыйа эмээхсинниин кэллилэр",
+        "en": "Alasov and his mother, granny Darya, came. [A. mother–COM.3SG D. old.woman–COM come–PST–PL]",
+        "id": 23,
+        "parses": [
+            {"pos": 1, "text": "Аласов", "type": "title", "fst": "yma", "root": "аласов", "affixes": ["+N"]},
+            {"pos": 2, "text": "ийэтинээн", "type": "lowercase", "fst": "ymv", "root": "ийэ", "affixes": ["+N", "+POSS.3SG", "+COMIT"]},
+            {"pos": 3, "text": "Даарыйа", "type": "title", "fst": "yma", "root": "даарыйа", "affixes": ["+N"]},
+            {"pos": 4, "text": "эмээхсинниин", "type": "lowercase", "fst": "ymv", "root": "эмээхсин", "affixes": ["+N", "+COMIT"]},
+            {"pos": 5, "text": "кэллилэр", "type": "lowercase", "fst": "ymv", "root": "кэл", "affixes": ["+V", "+PST.3PL"]}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 181,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.2 The two variants of the Sakha Comitative suffix in the possessive declension",
+        "section": "52",
+        "notes": "It is hard to judge the accuracy of this claim using data from the life histories I collected, since nearly all the occurrences of the Comitative in the possessive declension concern kin (and the example given by Ubrjatova also contains only a possessively marked kinship term with the Comitative suffix, not a possessively-marked general noun). However, there is one example in favour of Ubrjatova’s hypothesis.",
+        "sah": "Оҕонньорбунаан маҥнай бара сылдьыбытым, Дьөгүөһэ кийиитиниин бара сылдьыбыппыт.",
+        "en": "At first I went with my husband, (then) Egor's daughter-in-law and I went together. [old.man–COM.1SG first go–IPF.CVB IPFV–PSTPT–POSS.1SG J. daughter.in.law–COM.3SG go–IPF.CVB IPFV–PSTPT–1PL]",
+        "id": 24,
+        "parses": [
+            {"pos": 1, "text": "Оҕонньорбунаан", "type": "title", "fst": "ymv", "root": "оҕонньор", "affixes": ["+N", "+POSS.1SG", "+COMIT"]},
+            {"pos": 2, "text": "маҥнай", "type": "lowercase", "fst": "ymv", "root": "маҥнай", "affixes": ["+Adv"]},
+            {"pos": 3, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 4, "text": "сылдьыбытым", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+            {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 6, "text": "Дьөгүөһэ", "type": "title", "fst": "yma", "root": "дьөгүөһэ", "affixes": ["+N"]},
+            {"pos": 7, "text": "кийиитиниин", "type": "lowercase", "fst": "ymv", "root": "кийиит", "affixes": ["+N", "+POSS.3SG", "+COMIT"]},
+            {"pos": 8, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 9, "text": "сылдьыбыппыт", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PAST", "+1PL"]},
+            {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 181,
+        "chapter": "3.2.4 The distinction between an Instrumental and a Comitative case in Sakha",
+        "topic": "3.2.4.1.2 The two variants of the Sakha Comitative suffix in the possessive declension",
+        "section": "52",
+        "notes": "It should further be noted that my main consultant in the Verxojansk district consistently rejected forms with the high vowel, saying they were incorrect. However, a second consultant in the same village accepted both the forms with the low and the high vowel, although she thought that the variant with the low vowel was used more commonly in the village. Translations of sentences in which something is done with both possessively-marked kin (e.g. ‘my younger sister’) and possessively-marked non-kin (e.g. ‘my teacher’) by Katja Potapova (who originally comes from the Taatta district) and Njurgujana Petrova (who originally comes from the Suntar district) also resulted in only case endings with the low vowel being offered.",
+        "sah": "Мин учууталбынаан Баатаҕайга баран кэлбитим.",
+        "en": "I went to Batagay with my teacher. [1SG teacher–COM.1SG Batagay–DAT go–PF.CVB come–PSTPT–POSS.1SG]",
+        "id": 26,
+        "parses": [
+            {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "учууталбынаан", "type": "lowercase", "fst": "ymv", "root": "учуутал", "affixes": ["+N", "+POSS.1SG", "+COMIT"]},
+            {"pos": 3, "text": "Баатаҕайга", "type": "title", "fst": "yma", "root": "баатаҕай", "affixes": ["+N", "+DAT"]},
+            {"pos": 4, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 5, "text": "кэлбитим", "type": "lowercase", "fst": "ymv", "root": "кэл", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+            {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }
+]

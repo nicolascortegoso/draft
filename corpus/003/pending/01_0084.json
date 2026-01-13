@@ -1,0 +1,63 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 92,
+      "chapter": "Глава II. Синтаксические функции деепричастий якутского языка",
+      "topic": "2. Деепричастий на -а/-ыы",
+      "section": 84,
+      "notes": "Некоторые аналитические формы с деепричастием на могут употребляться в составе словосочетаний с вводным значением.",
+      "sah": "Быһа эттэххэ, син биир биһиги Сыҕаайаптарбыт курдук, бурсуй боһомолоро.",
+      "ru": "Короче говоря, они, вроде наших Сыгаевых, крупные буржуи.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Быһа", "type": "title", "fst": "ymv", "root": "быс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "эттэххэ", "type": "lowercase", "fst": "ymv", "root": "эт", "affixes": ["+V", "+CONV_COND#2", "+DAT"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 4, "text": "син", "type": "lowercase", "fst": "ymv", "root": "син", "affixes": ["+Adv"]},
+         {"pos": 5, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир", "affixes": ["+Num"]},
+         {"pos": 5, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "бии", "affixes": ["+N", "+VRBLZ#4"]},
+         {"pos": 6, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "бис", "affixes": ["+V", "+ADJZ#16", "+ACC"]},
+         {"pos": 6, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "бис", "affixes": ["+V", "+NMLZ#5", "+ACC"]},
+         {"pos": 6, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһик", "affixes": ["+N", "+ACC"]},
+         {"pos": 6, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron"]},
+         {"pos": 7, "text": "Сыҕаайаптарбыт", "type": "title", "fst": "yma", "root": "сыҕаайаптар", "affixes": ["+N", "+1PL"]},
+         {"pos": 7, "text": "Сыҕаайаптарбыт", "type": "title", "fst": "yma", "root": "сыҕаайаптар", "affixes": ["+N", "+POSS.1PL"]},
+         {"pos": 7, "text": "Сыҕаайаптарбыт", "type": "title", "fst": "yma", "root": "сыҕаайапта", "affixes": ["+Adv", "+VRBLZ#4", "+PART_PAST"]},
+         {"pos": 7, "text": "Сыҕаайаптарбыт", "type": "title", "fst": "yma", "root": "сыҕаайапта", "affixes": ["+N", "+VRBLZ#4", "+PART_PAST"]},
+         {"pos": 8, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук", "affixes": ["+POST"]},
+         {"pos": 8, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук", "affixes": ["+Part"]},
+         {"pos": 8, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 8, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур", "affixes": ["+N", "+ADVZ#5"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 10, "text": "бурсуй", "type": "lowercase", "fst": "ymv", "root": "бур", "affixes": ["+IMIT", "+VRBLZ#5"]},
+         {"pos": 11, "text": "боһомолоро", "type": "lowercase", "fst": "yma", "root": "боһомолоро", "affixes": ["+N"]},
+         {"pos": 11, "text": "боһомолоро", "type": "lowercase", "fst": "yma", "root": "боһомолор", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 11, "text": "боһомолоро", "type": "lowercase", "fst": "yma", "root": "боһомоло", "affixes": ["+N", "+VRBLZ#4", "+CONV#2"]},
+         {"pos": 11, "text": "боһомолоро", "type": "lowercase", "fst": "yma", "root": "боһомо", "affixes": ["+N", "+PL", "+POSS.3SG"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 92,
+      "chapter": "Глава II. Синтаксические функции деепричастий якутского языка",
+      "topic": "2. Деепричастий на -а/-ыы",
+      "section": 84,
+      "notes": "Некоторые аналитические формы с деепричастием на могут употребляться в составе словосочетаний с вводным значением.",
+      "sah": "Быһа сэрэйдэххэ, эмиэ чычырбас буолуо.",
+      "ru": "Надо полагать, что тоже негусто.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Быһа", "type": "title", "fst": "ymv", "root": "быс", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "сэрэйдэххэ", "type": "lowercase", "fst": "ymv", "root": "сэрэй", "affixes": ["+V", "+CONV_COND#2", "+DAT"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмп", "affixes": ["+N", "+VRBLZ#3", "+PART_FUT"]},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эм", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+NEG", "+PART_FUT"]},
+         {"pos": 5, "text": "чычырбас", "type": "lowercase", "fst": "yma", "root": "чычырба", "affixes": ["+N", "+VRBLZ#2", "+RECP"]},
+         {"pos": 6, "text": "буолуо", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

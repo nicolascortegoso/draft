@@ -1,0 +1,31 @@
+[
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 103,
+        "chapter": "Глава III. Прошедшее время",
+        "topic": "Значение прошедшего эпизодического времени",
+        "section": 38,
+        "notes": "Очень часто в таких сочетаниях оттенок постоянства (обычности) быстрого совершения действий усиливается введением модально-вводного слова буолар бывает.",
+        "sah": "Кини... бииргэм солото суох аатырар, бииргэм онно тиийбитэ, манна кэлбитэ баар буолар.",
+        "ru": "Он всегда слывет занятым, всегда оказывается уже ушел туда, уже пришел сюда.",
+        "id": 4,
+        "parses": [
+           {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "...", "type": "ellipsis", "fst": "fst"},
+           {"pos": 3, "text": "бииргэм", "type": "lowercase", "fst": "fst", "root": "бииргэм", "affixes": ["+Adv"]},
+           {"pos": 4, "text": "солото", "type": "lowercase", "fst": "fst", "root": "соло", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 5, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+           {"pos": 6, "text": "аатырар", "type": "lowercase", "fst": "fst", "root": "аат", "affixes": ["+N", "+VRBLZ#4", "+PART_PRES"]},
+           {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 8, "text": "бииргэм", "type": "lowercase", "fst": "fst", "root": "бииргэм", "affixes": ["+Adv"]},
+           {"pos": 9, "text": "онно", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+LOC"]},
+           {"pos": 10, "text": "тиийбитэ", "type": "lowercase", "fst": "fst", "root": "тиий", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+           {"pos": 11, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 12, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+LOC"]},
+           {"pos": 13, "text": "кэлбитэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+           {"pos": 14, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V"]},
+           {"pos": 15, "text": "буолар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 16, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }    
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Ынахтар да буолан, киһи саатыах сүөһүлэрэ, — ыанньыксыт кыыс саҥарар.",
+        "ru": "Ну и коровы, такой скот, что можно постыдиться, — говорит девушка-доярка.",
+        "id": 1,
+        "parses": [
+           {"pos": 1, "text": "Ынахтар", "type": "title", "fst": "fst", "root": "ынах", "affixes": ["+N", "+PL"]},
+           {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 3, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 5, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+           {"pos": 6, "text": "саатыах", "type": "lowercase", "fst": "fst", "root": "саат", "affixes": ["+V", "+PART_FUT"]},
+           {"pos": 7, "text": "сүөһүлэрэ", "type": "lowercase", "fst": "fst", "root": "сүөһү", "affixes": ["+N", "+PL", "+POSS.3SG"]},
+           {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 9, "text": "—", "type": "dash", "fst": "fst"},
+           {"pos": 10, "text": "ыанньыксыт", "type": "lowercase", "fst": "fst", "root": "ыанньый", "affixes": ["+V", "+NMLZ#5", "+NMLZ#1"]},
+           {"pos": 11, "text": "кыыс", "type": "lowercase", "fst": "fst", "root": "кыыс", "affixes": ["+N"]},
+           {"pos": 12, "text": "саҥарар", "type": "lowercase", "fst": "fst", "root": "саҥа", "affixes": ["+N", "+VRBLZ#4", "+PART_PRES"]},
+           {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },    
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Кини эмиэ улахан буолан!",
+        "ru": "Тоже мне, строит из себя важного!",
+        "id": 2,
+        "parses": [
+           {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ", "affixes": ["+Adv"]},
+           {"pos": 3, "text": "улахан", "type": "lowercase", "fst": "fst", "root": "улахан", "affixes": ["+Adj"]},
+           {"pos": 4, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Тохтообот буолан бу ардах.",
+        "ru": "Ну и не прекращается этот дождь.",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Тохтообот", "type": "title", "fst": "fst", "root": "тохтоо", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+           {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 3, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+           {"pos": 4, "text": "ардах", "type": "lowercase", "fst": "fst", "root": "ардаа", "affixes": ["+V", "+NMLZ#6"]},
+           {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Сүрүн да, сүрэҕэ сыа буолан!",
+        "ru": "Ужасно, как он разленился!",
+        "id": 4,
+        "parses": [
+           {"pos": 1, "text": "Сүрүн", "type": "title", "fst": "fst", "root": "сүр", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+           {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 4, "text": "сүрэҕэ", "type": "lowercase", "fst": "fst", "root": "сүрэх", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 5, "text": "сыа", "type": "lowercase", "fst": "fst", "root": "сыа", "affixes": ["+N"]},
+           {"pos": 6, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 7, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Кыраһыабай буолан!",
+        "ru": "Какая же красивая!",
+        "id": 5,
+        "parses": [
+           {"pos": 1, "text": "Кыраһыабай", "type": "title", "fst": "fst", "root": "кыраһыабай", "affixes": ["+Adj"]},
+           {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Мин саҕалар бааллар ини.",
+        "ru": "Наверно, есть такие, как я.",
+        "id": 6,
+        "parses": [
+           {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "саҕалар", "type": "lowercase", "fst": "fst", "root": "саҕа", "affixes": ["+N", "+PL"]},
+           {"pos": 3, "text": "бааллар", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V", "+PL"]},
+           {"pos": 4, "text": "ини", "type": "lowercase", "fst": "fst", "root": "ини", "affixes": ["+Part"]},
+           {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Ийэм буола-буола.",
+        "ru": "Еще мамин!",
+        "id": 7,
+        "parses": [
+           {"pos": 1, "text": "Ийэм", "type": "title", "fst": "fst", "root": "ийэ", "affixes": ["+N", "+POSS.1SG"]},
+           {"pos": 2, "text": "буола", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 3, "text": "-", "type": "hyphen", "fst": "fst"},
+           {"pos": 4, "text": "буола", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Бөрүкү ийэлээх буолан.",
+        "ru": "Как будто имеет какую-то важную маму.",
+        "id": 8,
+        "parses": [
+           {"pos": 1, "text": "Бөрүкү", "type": "title", "fst": "fst", "root": "бөрүкү", "affixes": ["+Adj"]},
+           {"pos": 2, "text": "ийэлээх", "type": "lowercase", "fst": "fst", "root": "ийэ", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 3, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Ити үөдэн, эмиэ киһи буолан, атын үлүгэрдик киэмсийэр ээ.",
+        "ru": "Смотри, эта дрянь, будто тоже человек, не дай бог, как важничает.",
+        "id": 9,
+        "parses": [
+           {"pos": 1, "text": "Ити", "type": "title", "fst": "fst", "root": "ити", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "үөдэн", "type": "lowercase", "fst": "fst", "root": "үөдэн", "affixes": ["+N"]},
+           {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ", "affixes": ["+Adv"]},
+           {"pos": 5, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+           {"pos": 6, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 8, "text": "атын", "type": "lowercase", "fst": "fst", "root": "атын", "affixes": ["+Adj"]},
+           {"pos": 9, "text": "үлүгэрдик", "type": "lowercase", "fst": "fst", "root": "үлүгэр", "affixes": ["+N", "+ADVZ#5"]},
+           {"pos": 10, "text": "киэмсийэр", "type": "lowercase", "fst": "fst", "root": "киэн", "affixes": ["+N", "+VRBLZ#5", "+PART_PRES"]},
+           {"pos": 11, "text": "ээ", "type": "lowercase", "fst": "fst", "root": "ээ", "affixes": ["+Part"]},
+           {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Частица буолан, во-первых, выражает презрение, иронию, раздражение, гнев, сожаление, неодобрение и т. п. эмоциональные отношения говорящего.",
+        "sah": "Кэлэр почтанан буолан, ыгыла да бэрт.",
+        "ru": "Еще следующей почтой, и слишком спешно же!",
+        "id": 10,
+        "parses": [
+           {"pos": 1, "text": "Кэлэр", "type": "title", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 2, "text": "почтанан", "type": "lowercase", "fst": "fst", "root": "почта", "affixes": ["+N", "+INST"]},
+           {"pos": 3, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 5, "text": "ыгыла", "type": "lowercase", "fst": "fst", "root": "ыгыл", "affixes": ["+Adj", "+POSS.3SG"]},
+           {"pos": 6, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 7, "text": "бэрт", "type": "lowercase", "fst": "fst", "root": "бэрт", "affixes": ["+Adj"]},
+           {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 232,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частица буолан",
+        "section": 7,
+        "notes": "Во-вторых, частица буолан выражает кажущуюся, мнимую достоверность высказывания.",
+        "sah": "Онуоха эн барыаҥ буоллаҕа өһөстөҕүҥ буолан.",
+        "ru": "Тогда ты навер- няка уйдешь, хоть ради напускного упрямства.",
+        "id": 13,
+        "parses": [
+           {"pos": 1, "text": "Онуоха", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DAT"]},
+           {"pos": 2, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+           {"pos": 3, "text": "барыаҥ", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_FUT", "+POSS.2SG"]},
+           {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG"]},
+           {"pos": 5, "text": "өһөстөҕүҥ", "type": "lowercase", "fst": "fst", "root": "өһөс", "affixes": ["+V", "+CONV_COND#2", "+POSS.2SG"]},
+           {"pos": 6, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }
+]

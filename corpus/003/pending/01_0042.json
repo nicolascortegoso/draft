@@ -1,0 +1,34 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 56,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 4. Деепричастие на -аары",
+      "section": 42,
+      "notes": "В языке фольклорных произведений довольно часто употребляется сложная глагольная форма, состоящая из деепричастия на -аары и спрягаемой формы от одной и той же основы, чем передается значение предельной интенсивности действия.",
+      "sah": "Онуга эр киһи кыыһыраары кыыһырда, уордайаары уордайда, абараары абарда.",
+      "ru": "На это мужчина чрезмерно рассердился, предельно разгневался, крайне разозлился.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Онуга", "type": "title", "fst": "yma", "root": "онук", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 1, "text": "Онуга", "type": "title", "fst": "yma", "root": "онуй", "affixes": ["+V", "+NMLZ#5", "+POSS.3SG"]},
+         {"pos": 2, "text": "эр", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+N"]},
+         {"pos": 2, "text": "эр", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+V"]},
+         {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи", "affixes": ["+N"]},
+         {"pos": 4, "text": "кыыһыраары", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N", "+VRBLZ#4", "+CONV#5"]},
+         {"pos": 4, "text": "кыыһыраары", "type": "lowercase", "fst": "ymv", "root": "кыыһыр", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 5, "text": "кыыһырда", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N", "+VRBLZ#4", "+CSTV", "+CONV#2"]},
+         {"pos": 5, "text": "кыыһырда", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N", "+VRBLZ#4", "+PST.3SG"]},
+         {"pos": 5, "text": "кыыһырда", "type": "lowercase", "fst": "ymv", "root": "кыыһыр", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 5, "text": "кыыһырда", "type": "lowercase", "fst": "ymv", "root": "кыыһыр", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 7, "text": "уордайаары", "type": "lowercase", "fst": "ymv", "root": "уордай", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 8, "text": "уордайда", "type": "lowercase", "fst": "ymv", "root": "уордай", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 10, "text": "абараары", "type": "lowercase", "fst": "ymv", "root": "аба", "affixes": ["+N", "+VRBLZ#4", "+CONV#5"]},
+         {"pos": 11, "text": "абарда", "type": "lowercase", "fst": "ymv", "root": "аба", "affixes": ["+N", "+VRBLZ#4", "+CSTV", "+CONV#2"]},
+         {"pos": 11, "text": "абарда", "type": "lowercase", "fst": "ymv", "root": "аба", "affixes": ["+N", "+VRBLZ#4", "+PST.3SG"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

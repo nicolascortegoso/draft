@@ -1,0 +1,192 @@
+[
+
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 66,
+      "chapter": "XIX",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Кини урут, тобугар эрэ тиийэр-тиийбэт бэйэтин дойдутугар баар булкааннарыттан ураты, хайа диэни харахтаабатах.",
+      "ru": "Прежде он никогда не видал гор, кроме своих трех вулканов, которые были ему по колено.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "урут", "type": "lowercase", "fst": "fst", "root": "уруу", "affixes": ["+N", "+VRBLZ#2", "+CSTV"]},
+         {"pos": 2, "text": "урут", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "урут", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+IMIT"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "тобугар", "type": "lowercase", "fst": "fst", "root": "тобук", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 6, "text": "тиийэр", "type": "lowercase", "fst": "fst", "root": "тиий", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 8, "text": "тиийбэт", "type": "lowercase", "fst": "fst", "root": "тиий", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+         {"pos": 9, "text": "бэйэтин", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL"]},
+         {"pos": 9, "text": "бэйэтин", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 10, "text": "дойдутугар", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 10, "text": "дойдутугар", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 11, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+N"]},
+         {"pos": 11, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V"]},
+         {"pos": 12, "text": "булкааннарыттан", "type": "lowercase", "fst": "fst", "root": "булкаан", "affixes": ["+N", "+ADVZ#7", "+ABL"]},
+         {"pos": 12, "text": "булкааннарыттан", "type": "lowercase", "fst": "fst", "root": "булкаан", "affixes": ["+N", "+POSS.3PL", "+ABL"]},
+         {"pos": 12, "text": "булкааннарыттан", "type": "lowercase", "fst": "fst", "root": "булкаан", "affixes": ["+N", "+PL", "+POSS.3SG", "+ABL"]},
+         {"pos": 13, "text": "ураты", "type": "lowercase", "fst": "fst", "root": "ураты", "affixes": ["+Adv"]},
+         {"pos": 14, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 15, "text": "хайа", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv"]},
+         {"pos": 15, "text": "хайа", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+MOD"]},
+         {"pos": 15, "text": "хайа", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N"]},
+         {"pos": 15, "text": "хайа", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron"]},
+         {"pos": 15, "text": "хайа", "type": "lowercase", "fst": "fst", "root": "хай", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 16, "text": "диэни", "type": "lowercase", "fst": "fst"},
+         {"pos": 17, "text": "харахтаабатах", "type": "lowercase", "fst": "fst", "root": "хараа", "affixes": ["+V", "+ADJZ#16", "+VRBLZ#1", "+NEG", "+CONV_COND#2"]},
+         {"pos": 17, "text": "харахтаабатах", "type": "lowercase", "fst": "fst", "root": "хараа", "affixes": ["+V", "+NMLZ#6", "+VRBLZ#1", "+NEG", "+CONV_COND#2"]},
+         {"pos": 17, "text": "харахтаабатах", "type": "lowercase", "fst": "fst", "root": "харах", "affixes": ["+N", "+VRBLZ#1", "+NEG", "+CONV_COND#2"]},
+         {"pos": 17, "text": "харахтаабатах", "type": "lowercase", "fst": "fst", "root": "харай", "affixes": ["+V", "+NMLZ#6", "+VRBLZ#1", "+NEG", "+CONV_COND#2"]},
+         {"pos": 17, "text": "харахтаабатах", "type": "lowercase", "fst": "fst", "root": "хар", "affixes": ["+V", "+NMLZ#6", "+VRBLZ#1", "+NEG", "+CONV_COND#2"]},
+         {"pos": 18, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 66,
+      "chapter": "XIX",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Умуллубут булкаан киниэхэ олоппос оннугар туттуллара.",
+      "ru": "Потухший вулкан служил ему табуретом.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Умуллубут", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "булкаан", "type": "lowercase", "fst": "fst", "root": "булкаан", "affixes": ["+N"]},
+         {"pos": 3, "text": "киниэхэ", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 4, "text": "олоппос", "type": "lowercase", "fst": "fst", "root": "олоппос", "affixes": ["+N"]},
+         {"pos": 5, "text": "оннугар", "type": "lowercase", "fst": "fst", "root": "орун", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 5, "text": "оннугар", "type": "lowercase", "fst": "fst", "root": "орун", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 6, "text": "туттуллара", "type": "lowercase", "fst": "fst", "root": "тутун", "affixes": ["+V", "+PASS", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 6, "text": "туттуллара", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["+V", "+REFL", "+PASS", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 66,
+      "chapter": "XIX",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Ол эрээри сытым уһуктаах иннэ курдук синньигэс очуостары эрэ көрбүт.",
+      "ru": "Но увидел только скалы, острые и тонкие, как иглы.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "эрээри", "type": "lowercase", "fst": "fst", "root": "эрээри", "affixes": ["+CONJ"]},
+         {"pos": 3, "text": "сытым", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 4, "text": "уһуктаах", "type": "lowercase", "fst": "fst", "root": "уһаа", "affixes": ["+V", "+NMLZ#5", "+ADJZ#1"]},
+         {"pos": 4, "text": "уһуктаах", "type": "lowercase", "fst": "fst", "root": "уһук", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 5, "text": "иннэ", "type": "lowercase", "fst": "fst", "root": "иннэ", "affixes": ["+N"]},
+         {"pos": 5, "text": "иннэ", "type": "lowercase", "fst": "fst", "root": "илин", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+POST"]},
+         {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+Part"]},
+         {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+N", "+ADVZ#5"]},
+         {"pos": 7, "text": "синньигэс", "type": "lowercase", "fst": "fst", "root": "синньээ", "affixes": ["+V", "+ADJZ#5"]},
+         {"pos": 8, "text": "очуостары", "type": "lowercase", "fst": "fst", "root": "очуос", "affixes": ["+N", "+ADVZ#7"]},
+         {"pos": 8, "text": "очуостары", "type": "lowercase", "fst": "fst", "root": "очуос", "affixes": ["+N", "+PL", "+ACC"]},
+         {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "көрбүт", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+POSS.1PL"]},
+         {"pos": 10, "text": "көрбүт", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+1PL"]},
+         {"pos": 10, "text": "көрбүт", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+
+
+
+
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 66,
+      "chapter": "XIX",
+      "topic": "Литература",
+      "section": "",
+      "sah": "- Доҕордуу буолуох, мин собус-соҕотохпун.",
+      "ru": "- Будем друзьями, я совсем один, - сказал он.",
+      "id": 10,
+      "parses": [
+         {"pos": 1, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 2, "text": "Доҕордуу", "type": "title", "fst": "fst", "root": "доҕор", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 3, "text": "буолуох", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 6, "text": "собус", "type": "lowercase", "fst": "fst"},
+         {"pos": 7, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 8, "text": "соҕотохпун", "type": "lowercase", "fst": "fst", "root": "соҕотох", "affixes": ["+Adj", "+POSS.1SG", "+ACC"]},
+         {"pos": 8, "text": "соҕотохпун", "type": "lowercase", "fst": "fst", "root": "соҕотох", "affixes": ["+Adj", "+1SG"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+
+
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 66,
+      "chapter": "XIX",
+      "topic": "Литература",
+      "section": "",
+      "sah": "- «Кубус-кураанах, бүтүннүү иннэ уонна өссө туустаах.",
+      "ru": "- Совсем сухая, вся в иглах и соленая.",
+      "id": 13,
+      "parses": [
+         {"pos": 1, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 2, "text": "«", "type": "quotation", "fst": "fst"},
+         {"pos": 3, "text": "Кубус", "type": "title", "fst": "fst", "root": "куп", "affixes": ["+V", "+RECP"]},
+         {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 5, "text": "кураанах", "type": "lowercase", "fst": "fst", "root": "кураанах", "affixes": ["+Adj"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "бүтүннүү", "type": "lowercase", "fst": "fst", "root": "бүтүн", "affixes": ["+Adj", "+ADVZ#6"]},
+         {"pos": 7, "text": "бүтүннүү", "type": "lowercase", "fst": "fst", "root": "бүтүн", "affixes": ["+Adj", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 7, "text": "бүтүннүү", "type": "lowercase", "fst": "fst", "root": "бүтүн", "affixes": ["+Adj", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 8, "text": "иннэ", "type": "lowercase", "fst": "fst", "root": "иннэ", "affixes": ["+N"]},
+         {"pos": 8, "text": "иннэ", "type": "lowercase", "fst": "fst", "root": "илин", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 9, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уонна", "affixes": ["+CONJ"]},
+         {"pos": 10, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өссө", "affixes": ["+Adv"]},
+         {"pos": 10, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өс", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 11, "text": "туустаах", "type": "lowercase", "fst": "fst", "root": "туус", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+
+
+
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 66,
+      "chapter": "XIX",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Сибэкким кэпсэтиини куруук бэйэтэ саҕалыыра».",
+      "ru": "",
+      "id": 17,
+      "parses": [
+         {"pos": 1, "text": "Сибэкким", "type": "title", "fst": "fst", "root": "сибэкки", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 2, "text": "кэпсэтиини", "type": "lowercase", "fst": "fst", "root": "кэпсээ", "affixes": ["+V", "+CAUS", "+NMLZ#2", "+ACC"]},
+         {"pos": 3, "text": "куруук", "type": "lowercase", "fst": "fst", "root": "куруук", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+PRTV"]},
+         {"pos": 5, "text": "саҕалыыра", "type": "lowercase", "fst": "fst", "root": "сах", "affixes": ["+V", "+FREC#4", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 5, "text": "саҕалыыра", "type": "lowercase", "fst": "fst", "root": "саҕа", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 6, "text": "»", "type": "quotation", "fst": "fst"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

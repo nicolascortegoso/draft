@@ -1,0 +1,381 @@
+[
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 29,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Мин ону билбэт этим.",
+      "ru": "Этого я не знал.",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "ону", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["^Pron", "+ACC"]},
+         {"pos": 3, "text": "билбэт", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["^V", "+NEG", "+PART_PRES"]},
+         {"pos": 4, "text": "этим", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["^V", "+PST.1SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Онтон кини кыыһырбыттыы:",
+      "ru": "Потом он сказал почти сердито:",
+      "id": 18,
+      "parses": [
+         {"pos": 1, "text": "Онтон", "type": "title", "fst": "fst", "root": "ол", "affixes": ["^Pron", "+ABL"]},
+         {"pos": 2, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "кыыһырбыттыы", "type": "lowercase", "fst": "fst", "root": "кыыһыр", "affixes": ["^V", "+PART_PAST", "^ADVZ#3"]},
+         {"pos": 4, "text": ":", "type": "colon", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "— Мин эйигин итэҕэйбэппин!",
+      "ru": "— Не верю я тебе!",
+      "id": 19,
+      "parses": [
+         {"pos": 1, "text": "—", "type": "dash", "fst": "fst"},
+         {"pos": 2, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "эйигин", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["^Pron", "+ACC"]},
+         {"pos": 4, "text": "итэҕэйбэппин", "type": "lowercase", "fst": "fst", "root": "итэҕэй", "affixes": ["^V", "+NEG", "+PART_PRES", "+1SG"]},
+         {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Сибэккилэр кэбирэхтэр.",
+      "ru": "Цветы слабые.",
+      "id": 20,
+      "parses": [
+         {"pos": 1, "text": "Сибэккилэр", "type": "title", "fst": "fst", "root": "сибэкки", "affixes": ["^N", "+PL"]},
+         {"pos": 2, "text": "кэбирэхтэр", "type": "lowercase", "fst": "fst", "root": "кэбирээ", "affixes": ["^V", "^ADJZ#16", "+PL"]},
+         {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Мин хардарбатаҕым.",
+      "ru": "Я не ответил.",
+      "id": 24,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "хардарбатаҕым", "type": "lowercase", "fst": "fst", "root": "харда", "affixes": ["^N", "^VRBLZ#4", "+NEG", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Кыра тыгын ити санаабын эмиэ быһа түспүтэ:",
+      "ru": "Маленький принц снова перебил мои мысли:",
+      "id": 27,
+      "parses": [
+         {"pos": 1, "text": "Кыра", "type": "title", "fst": "fst", "root": "кыра", "affixes": ["^Adj"]},
+         {"pos": 2, "text": "тыгын", "type": "lowercase", "fst": "fst", "root": "тыгын", "affixes": ["^N"]},
+         {"pos": 3, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити", "affixes": ["^Pron"]},
+         {"pos": 4, "text": "санаабын", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["^N", "+POSS.1SG", "+ACC"]},
+         {"pos": 5, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ", "affixes": ["^Adv"]},
+         {"pos": 6, "text": "быһа", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["^V", "+CONV#2"]},
+         {"pos": 7, "text": "түспүтэ", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["^V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 8, "text": ":", "type": "colon", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "— Оччоҕо, эн санааҕар, сибэккилэр...",
+      "ru": "— А ты думаешь, что цветы...",
+      "id": 28,
+      "parses": [
+         {"pos": 1, "text": "—", "type": "dash", "fst": "fst"},
+         {"pos": 2, "text": "Оччоҕо", "type": "title", "fst": "fst", "root": "ол", "affixes": ["^Pron", "+DEF#2", "+DAT"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["^Pron"]},
+         {"pos": 5, "text": "санааҕар", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["^N", "+POSS.2SG", "+DAT"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "сибэккилэр", "type": "lowercase", "fst": "fst", "root": "сибэкки", "affixes": ["^N", "+PL"]},
+         {"pos": 8, "text": "...", "type": "ellipsis", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Кини миигин дьиктиргии көрбүтэ.",
+      "ru": "Он посмотрел на меня в изумлении.",
+      "id": 33,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "миигин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["^Pron", "+ACC"]},
+         {"pos": 3, "text": "дьиктиргии", "type": "lowercase", "fst": "fst", "root": "дьикти", "affixes": ["^Adj", "^VRBLZ#7", "+CONV#2"]},
+         {"pos": 4, "text": "көрбүтэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["^V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 30,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "— Эн улахан дьон курдук тыллаһаҕын! — диэбитэ кини.",
+      "ru": "— Ты говоришь, как взрослые! — сказал он.",
+      "id": 36,
+      "parses": [
+         {"pos": 1, "text": "—", "type": "dash", "fst": "fst"},
+         {"pos": 2, "text": "Эн", "type": "title", "fst": "fst", "root": "эн", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "улахан", "type": "lowercase", "fst": "fst", "root": "улахан", "affixes": ["^Adj"]},
+         {"pos": 4, "text": "дьон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["^N"]},
+         {"pos": 5, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["^POST"]},
+         {"pos": 6, "text": "тыллаһаҕын", "type": "lowercase", "fst": "fst", "root": "тыл", "affixes": ["^N", "^VRBLZ#1", "+RECP", "+PART_PRES", "+2SG"]},
+         {"pos": 7, "text": "!", "type": "exclamation", "fst": "fst"},
+         {"pos": 8, "text": "—", "type": "dash", "fst": "fst"},
+         {"pos": 9, "text": "диэбитэ", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["^V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 10, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["^Pron"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 31,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "«Мин дуоспуруннаах киһибин!",
+      "ru": "«Я человек серьезный!",
+      "id": 46,
+      "parses": [
+         {"pos": 1, "text": "«", "type": "quotation", "fst": "fst"},
+         {"pos": 2, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "дуоспуруннаах", "type": "lowercase", "fst": "fst", "root": "дуоспурун", "affixes": ["^N", "^ADJZ#1"]},
+         {"pos": 4, "text": "киһибин", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["^N", "+1SG"]},
+         {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 31,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Кини тэллэй.",
+      "ru": "Он гриб.",
+      "id": 51,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "тэллэй", "type": "lowercase", "fst": "fst", "root": "тэллэй", "affixes": ["^N"]},
+         {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 31,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "— Туох диигин?",
+      "ru": "— Что?",
+      "id": 52,
+      "parses": [
+         {"pos": 1, "text": "—", "type": "dash", "fst": "fst"},
+         {"pos": 2, "text": "Туох", "type": "title", "fst": "fst", "root": "туох", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "диигин", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["^V", "+PART_PRES", "+2SG"]},
+         {"pos": 4, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 31,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "— Тэллэй!",
+      "ru": "— Гриб!",
+      "id": 53,
+      "parses": [
+         {"pos": 1, "text": "—", "type": "dash", "fst": "fst"},
+         {"pos": 2, "text": "Тэллэй", "type": "title", "fst": "fst", "root": "тэллэй", "affixes": ["^N"]},
+         {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 31,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Кыра тыгын абаккаран, бэл кубарыйан хаалбыта.",
+      "ru": "Маленький принц даже побледнел от гнева.",
+      "id": 54,
+      "parses": [
+         {"pos": 1, "text": "Кыра", "type": "title", "fst": "fst", "root": "кыра", "affixes": ["^Adj"]},
+         {"pos": 2, "text": "тыгын", "type": "lowercase", "fst": "fst", "root": "тыгын", "affixes": ["^N"]},
+         {"pos": 3, "text": "абаккаран", "type": "lowercase", "fst": "fst", "root": "абакка", "affixes": ["^N", "^VRBLZ#4", "+CONV#1"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "бэл", "type": "lowercase", "fst": "fst", "root": "бэл", "affixes": ["^MOD"]},
+         {"pos": 6, "text": "кубарыйан", "type": "lowercase", "fst": "fst", "root": "кубарый", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 7, "text": "хаалбыта", "type": "lowercase", "fst": "fst", "root": "хаал", "affixes": ["^V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 32,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Кини кытаран тахсыбыта.",
+      "ru": "Он густо покраснел.",
+      "id": 63,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "кытаран", "type": "lowercase", "fst": "fst", "root": "кытар", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 3, "text": "тахсыбыта", "type": "lowercase", "fst": "fst", "root": "таҕыс", "affixes": ["^V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 32,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Ол кэннэ эмиэ саҥарбыта:",
+      "ru": "Потом снова заговорил:",
+      "id": 64,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "кэннэ", "type": "lowercase", "fst": "fst", "root": "кэлин", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ", "affixes": ["^Adv"]},
+         {"pos": 4, "text": "саҥарбыта", "type": "lowercase", "fst": "fst", "root": "саҥа", "affixes": ["^Adj", "^VRBLZ#4", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 5, "text": ":", "type": "colon", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 32,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Эмискэ ытаан маккыраабыта.",
+      "ru": "Он вдруг разрыдался.",
+      "id": 70,
+      "parses": [
+         {"pos": 1, "text": "Эмискэ", "type": "title", "fst": "fst", "root": "эмис", "affixes": ["^Adj", "+DAT"]},
+         {"pos": 2, "text": "ытаан", "type": "lowercase", "fst": "fst", "root": "ытаа", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 3, "text": "маккыраабыта", "type": "lowercase", "fst": "fst", "root": "мак", "affixes": ["^IMIT", "^VRBLZ#16", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 32,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Халлаан хараҥарбыта",
+      "ru": "Стемнело.",
+      "id": 71,
+      "parses": [
+         {"pos": 1, "text": "Халлаан", "type": "title", "fst": "fst", "root": "халлаан", "affixes": ["^N"]},
+         {"pos": 2, "text": "хараҥарбыта", "type": "lowercase", "fst": "fst", "root": "хараҥа", "affixes": ["^Adj", "^VRBLZ#4", "+PART_PAST", "+POSS.3SG"]}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 32,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Мин үлэбин бырахпытым.",
+      "ru": "Я бросил работу.",
+      "id": 72,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "үлэбин", "type": "lowercase", "fst": "fst", "root": "үлэ", "affixes": ["^N", "+POSS.1SG", "+ACC"]},
+         {"pos": 3, "text": "бырахпытым", "type": "lowercase", "fst": "fst", "root": "бырах", "affixes": ["^V", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 32,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Мин эн хойчооҥҥор томторук уруһуйдуоҕум...",
+      "ru": "Я нарисую твоему барашку намордник...",
+      "id": 78,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "хойчооҥҥор", "type": "lowercase", "fst": "fst", "root": "хой", "affixes": ["^N", "+DIM#2", "+POSS.2SG", "+DAT"]},
+         {"pos": 4, "text": "томторук", "type": "lowercase", "fst": "fst", "root": "томторук", "affixes": ["^N"]},
+         {"pos": 5, "text": "уруһуйдуоҕум", "type": "lowercase", "fst": "fst", "root": "уруһуй", "affixes": ["^N", "^VRBLZ#1", "+PART_FUT", "+POSS.1SG"]},
+         {"pos": 6, "text": "...", "type": "ellipsis", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 32,
+      "chapter": "VII",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Оннук бэйэбиттэн кэлэйбитим, кэмсиммитим.",
+      "ru": "Я чувствовал себя ужасно неловким и неуклюжим.",
+      "id": 82,
+      "parses": [
+         {"pos": 1, "text": "Оннук", "type": "title", "fst": "fst", "root": "ол", "affixes": ["^Pron", "+DEF"]},
+         {"pos": 2, "text": "бэйэбиттэн", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["^N", "+POSS.1SG", "+ABL"]},
+         {"pos": 3, "text": "кэлэйбитим", "type": "lowercase", "fst": "fst", "root": "кэлэй", "affixes": ["^V", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "кэмсиммитим", "type": "lowercase", "fst": "fst", "root": "кэмсин", "affixes": ["^V", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

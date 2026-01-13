@@ -1,0 +1,26 @@
+[
+
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 83,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Бадаҕа.",
+      "section": 11,
+      "notes": "Бадага в отличие от модального слова быһыыта имеет оттенок меньшей уверенности.",
+      "sah": "Бадаҕа, бу түүн Амматтан тахсаллар үһү.",
+      "ru": "Кажется, они выйдут из Амги этой ночью.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Бадаҕа", "type": "title", "fst": "fst", "root": "бадаҕа", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "түүн", "type": "lowercase", "fst": "fst", "root": "түүн", "affixes": ["+N"]},
+         {"pos": 5, "text": "Амматтан", "type": "title", "fst": "fst", "root": "ай", "affixes": ["+V", "+REFL", "+NEG", "+PART_PRES", "+ABL"]},
+         {"pos": 6, "text": "тахсаллар", "type": "lowercase", "fst": "fst", "root": "таҕыс", "affixes": ["+V", "+PART_PRES", "+PL"]},
+         {"pos": 7, "text": "үһү", "type": "lowercase", "fst": "fst", "root": "үс", "affixes": ["+Num", "+ACC"]},
+         {"pos": 7, "text": "үһү", "type": "lowercase", "fst": "fst", "root": "үһү", "affixes": ["+Part"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

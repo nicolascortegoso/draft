@@ -1,0 +1,27 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 146,
+      "chapter": "3.2.3 The development of the Partitive case in Sakha",
+      "topic": "3.2.3.1 Sakha case-marking on direct objects",
+      "section": "",
+      "notes": "The use of the Nominative for non-specific direct objects with affirmative Imperative verbs is acceptable (e.g. 29b, 30a and 30b could all be used with the object in the unmarked Nominative case rather than the Partitive case); however, Partitive case-marked objects are more common and are given spontaneously. The Partitive is occasionally also acceptable with verbs in the Indicative mood.",
+      "sah": "Бурдукта тардыбаппыт даҕаны.",
+      "en": "We didn’t even grind grain. [grain–PART grind–E–NEG.PRSPT–1PL PTL]]",
+      "id": 16,
+      "parses": [
+         {"pos": 1, "text": "Бурдукта", "type": "title", "fst": "ymv", "root": "бурдук", "affixes": ["+N", "+PRTV"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардып", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+1PL"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардып", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+PART_PAST"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардыбаппыт", "affixes": ["+N"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардыбап", "affixes": ["+N", "+1PL"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардыбап", "affixes": ["+N", "+POSS.1PL"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардыбат", "affixes": ["+N", "+1PL"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардыбат", "affixes": ["+N", "+POSS.1PL"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардыб", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+1PL"]},
+         {"pos": 2, "text": "тардыбаппыт", "type": "lowercase", "fst": "yma", "root": "тардыб", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+PART_PAST"]},
+         {"pos": 3, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны", "affixes": ["+Part"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

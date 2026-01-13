@@ -1,0 +1,58 @@
+# Morphologically Annotated Sequences
+
+The dataset is organized into folders, each representing a collection of sequences from a specific source material.
+Within each folder, there are three subfolders: 'source', 'pending', and 'processed'.
+
+The 'source' folder contains files in JSON format (JavaScript Object Notation) with the following fields:
+
+- source: A reference to the original work on Yakut morphology.
+- page/section: The location of the source material within the reference.
+- chapter: The general aspect of Yakut morphology under discussion.
+- topic: The specific aspect of Yakut morphology under discussion.
+- notes: Explanations and observations provided by the authors, relevant to the analysis.
+- sah: The original sentence in the Yakut language, as found in the source material.
+- ru: The corresponding Russian gloss or translation of the Yakut sentence, as provided in the source material.
+
+Each file typically corresponds to a topic, part of a chapter, or a section of the source material.
+
+The 'pending' folder contains JSON files derived from the 'source' folder after being processed through the morphological analyzer.
+
+An additional field, 'analyses', is added to each file, containing the raw output from the morphological pipeline. This output may include:
+
+- Multiple interpretations for the same token (morphological ambiguity).
+- Instances where the pipeline failed to analyze the token.
+
+Each analyzed token includes the following fields:
+
+- pos: The token's position in the sequence.
+- text: The surface form of the token as it appears in the sequence.
+- type: The category of the token (e.g., word, punctuation).
+- fst: The morphological transducer that performed the analysis.
+- root: The lexical root of the token.
+- affixes: An ordered list of affixes attached to the lexical root.
+
+The 'processed' folder contains JSON files that have been manually disambiguated, ensuring that each token has only one analysis.
+This folder represents the final output, while the 'pending' folder serves as a transitional stage.
+
+### Content Summarization
+
+- [Annotation progress](annotation_progress.md)
+- [Annotated data by chapter (in Russian)](annotated_chapters.md)
+- [Annotated data by topic (in Russian)](annotated_topics.md)
+- [Word form distribution](wordform_distribution.md)
+- [Lexical root distribution](root_distribution.md)
+- [Affix distribution](affix_distribution.md)
+
+### Conventions and Guidelines for Organizing Samples
+The following conventions are used to organize samples into folders and files:
+
+#### 1. Aggregation by Source
+- Samples are grouped primarily by source rather than being scattered across multiple sources.
+- The goal is to collect multiple samples related to a specific topic, rather than isolated examples from different sources.
+- Consequently, the 'source' field is the same for all files within a folder.
+
+#### 2. File Organization
+- Within each folder, samples are organized into files.
+- Typically, each file contains samples that illustrate a particular topic within the current work on Yakut morphology.
+- As a result, the 'chapter', 'topic', and 'section' fields must be consistent across all samples in a file.
+- However, the 'page' and 'notes' fields are sample-specific and can vary within the file.

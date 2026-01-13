@@ -1,0 +1,24 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 235,
+      "chapter": "3.3 The Sakha Distant Future Imperative",
+      "topic": "3.3.6.3 Connection with the Sakha Purposive Converb",
+      "section": "86",
+      "notes": "In his discussion of the Sakha Future Imperative, Böhtlingk (Btl: 303) also proposes that it represents an old participle, the accusative form of which (–A:rI) nowadays has supinal meaning.",
+      "sah": "Тугу да аһаабат буола ыксаан бартым көрдөрөөрү.",
+      "en": "Not having been able to eat anything (I) hurried in order to show myself (to him). [what.ACC PTL eat–PRSPT.NEG AUX–IPF.CVB hurry–PF.CVB go–PSTPT–POSS.1SG look–CAUS–PURP]",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Тугу", "type": "title", "fst": "ymv", "root": "туох", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да", "affixes": ["+Part"]},
+         {"pos": 3, "text": "аһаабат", "type": "lowercase", "fst": "ymv", "root": "ас", "affixes": ["+N", "+VRBLZ#3", "+NEG", "+PART_PRES"]},
+         {"pos": 4, "text": "буола", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "ыксаан", "type": "lowercase", "fst": "ymv", "root": "ыксаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "бартым", "type": "lowercase", "fst": "yma", "root": "барты", "affixes": ["+Adv", "+POSS.1SG"]},
+         {"pos": 6, "text": "бартым", "type": "lowercase", "fst": "yma", "root": "барты", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 7, "text": "көрдөрөөрү", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+V", "+CAUS", "+CONV#5"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

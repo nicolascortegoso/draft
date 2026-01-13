@@ -1,0 +1,37 @@
+[
+
+   {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 113,
+      "chapter": "Страдательные глаголы",
+      "topic": "Употребление глаголов страдательного залога",
+      "section": 219,
+      "notes": "Деепричастные формы страдательных глаголов в предложении имеют обычные функции, свойственные вообще деепричастиям: они могут являться обстоятельством, компонентом составного или сложного сказуемого, а также второстепенным сказуемым. Наиболее часто встречаются деепричастия на -ан, а также на -а (-ыы). В принципе возможны, но редки формы деепричастия на -аат и -аары. Например: (от ынырылын- и ыйытылын-).",
+      "sah": "Дуоскаҕа ыҥырыллан, ыйытылла турарыныы, кыһыытыгар төбөтүн тарбаммахтаата.",
+      "ru": "Будто вызванный и опрашиваемый, стоя у доски, он почесал себе голову от досады.",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Дуоскаҕа", "type": "title", "fst": "ymv", "root": "дуоска", "affixes": ["+N", "+DAT"]},
+         {"pos": 2, "text": "ыҥырыллан", "type": "lowercase", "fst": "ymv", "root": "ыҥыр", "affixes": ["+V", "+PASS", "+CONV#1"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 4, "text": "ыйытылла", "type": "lowercase", "fst": "ymv", "root": "ыйыт", "affixes": ["+V", "+PASS", "+CONV#2"]},
+         {"pos": 5, "text": "турарыныы", "type": "lowercase", "fst": "yma", "root": "турарынаа", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "турарыныы", "type": "lowercase", "fst": "yma", "root": "турарын", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2"]},
+         {"pos": 5, "text": "турарыныы", "type": "lowercase", "fst": "yma", "root": "турарын", "affixes": ["+N", "+VRBLZ#3", "+CONV#2"]},
+         {"pos": 5, "text": "турарыныы", "type": "lowercase", "fst": "yma", "root": "турарый", "affixes": ["+V", "+REFL", "+NMLZ#2"]},
+         {"pos": 5, "text": "турарыныы", "type": "lowercase", "fst": "yma", "root": "турарый", "affixes": ["+V", "+REFL", "+CONV#2"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 7, "text": "кыһыытыгар", "type": "lowercase", "fst": "ymv", "root": "кыс", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2", "+POSS.3SG", "+DAT"]},
+         {"pos": 7, "text": "кыһыытыгар", "type": "lowercase", "fst": "ymv", "root": "кыс", "affixes": ["+V", "+NMLZ#2", "+POSS.3SG", "+DAT"]},
+         {"pos": 7, "text": "кыһыытыгар", "type": "lowercase", "fst": "ymv", "root": "кыһыы", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 7, "text": "кыһыытыгар", "type": "lowercase", "fst": "ymv", "root": "кый", "affixes": ["+V", "+RECP", "+NMLZ#2", "+POSS.3SG", "+DAT"]},
+         {"pos": 8, "text": "төбөтүн", "type": "lowercase", "fst": "ymv", "root": "төп", "affixes": ["+Adj", "+VRBLZ#3", "+CAUS", "+REFL"]},
+         {"pos": 8, "text": "төбөтүн", "type": "lowercase", "fst": "ymv", "root": "төбөт", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 8, "text": "төбөтүн", "type": "lowercase", "fst": "ymv", "root": "төбө", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL"]},
+         {"pos": 8, "text": "төбөтүн", "type": "lowercase", "fst": "ymv", "root": "төбө", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "тарбаммахтаата", "type": "lowercase", "fst": "ymv", "root": "тарбаа", "affixes": ["+V", "+REFL", "+ACCE#1", "+PST.3SG"]},
+         {"pos": 9, "text": "тарбаммахтаата", "type": "lowercase", "fst": "ymv", "root": "тарбаа", "affixes": ["+V", "+REFL", "+ACCE#1", "+SUDD#1", "+CSTV", "+CONV#2"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

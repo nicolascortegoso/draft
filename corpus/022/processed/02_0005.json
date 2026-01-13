@@ -1,0 +1,69 @@
+[
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 202,
+        "chapter": "3.2.5 The origins of the Sakha Comparative case",
+        "topic": "3.2.5.1 The Sakha Comparative case",
+        "section": "62a",
+        "notes": "The Comparative case in Sakha is marked by the suffix –TAАҕAr in the simple declension, and –(I)nAAҕAr in the possessive declension. It marks the standard of comparison in comparative constructions (62a, b), while the adjective, for which no comparative or superlative forms exist, remains invariant. An exception is made, however, for comparative constructions regarding age: here, the standard of comparison is marked by the Ablative case, while the relative age (‘younger’, ‘older’) is expressed by the words быраат ‘younger.brother’ or балыс ‘younger.sister’ and aҕa ‘father’ (62c). Nowadays, however, быраат and балыс are being replaced more and more by кыра ‘small’.",
+        "sah": "Аны икки биир обургу эмиэ сытар оннооҕор кыра",
+        "en": "Now one or two fairly big ones are still lying there, smaller than that one. [now two one fairly.big again lie–PRSPT that.OBL–COMP small]",
+        "id": 1,
+        "parses": [
+            {"pos": 1, "text": "Аны", "type": "title", "fst": "ymv", "root": "аны", "affixes": ["+Adv"]},
+            {"pos": 2, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки", "affixes": ["+Num"]},
+            {"pos": 3, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир", "affixes": ["+Num"]},
+            {"pos": 4, "text": "обургу", "type": "lowercase", "fst": "ymv", "root": "обургу", "affixes": ["+Adj"]},
+            {"pos": 5, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ", "affixes": ["+Adv"]},
+            {"pos": 6, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 7, "text": "оннооҕор", "type": "lowercase", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+COMP"]},
+            {"pos": 8, "text": "кыра", "type": "lowercase", "fst": "ymv", "root": "кыра", "affixes": ["+Adj"]}
+        ]
+    },    
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 202,
+        "chapter": "3.2.5 The origins of the Sakha Comparative case",
+        "topic": "3.2.5.1 The Sakha Comparative case",
+        "section": "62b",
+        "notes": "The Comparative case in Sakha is marked by the suffix –TAАҕAr in the simple declension, and –(I)nAAҕAr in the possessive declension. It marks the standard of comparison in comparative constructions (62a, b), while the adjective, for which no comparative or superlative forms exist, remains invariant. An exception is made, however, for comparative constructions regarding age: here, the standard of comparison is marked by the Ablative case, while the relative age (‘younger’, ‘older’) is expressed by the words быраат ‘younger.brother’ or балыс ‘younger.sister’ and aҕa ‘father’ (62c). Nowadays, however, быраат and балыс are being replaced more and more by кыра ‘small’.",
+        "sah": "Онтуҥ ханнык да хопруон саптааҕар бөҕө буолар.",
+        "en": "That is stronger than any kapron thread. [that–POSS.2SG of.what.sort PTL kapron thread–COMP strong be–PRSPT]",
+        "id": 2,
+        "parses": [
+            {"pos": 1, "text": "Онтуҥ", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+POSS.2SG"]},
+            {"pos": 2, "text": "ханнык", "type": "lowercase", "fst": "ymv", "root": "ханнык", "affixes": ["+Pron"]},
+            {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да", "affixes": ["+Part"]},
+            {"pos": 4, "text": "хопруон", "type": "lowercase", "fst": "yma", "root": "хопруон", "affixes": ["+N"]},
+            {"pos": 5, "text": "саптааҕар", "type": "lowercase", "fst": "ymv", "root": "сап", "affixes": ["+N", "+COMP"]},
+            {"pos": 6, "text": "бөҕө", "type": "lowercase", "fst": "ymv", "root": "бөҕө", "affixes": ["+Adj"]},
+            {"pos": 7, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 202,
+        "chapter": "3.2.5 The origins of the Sakha Comparative case",
+        "topic": "3.2.5.1 The Sakha Comparative case",
+        "section": "62c",
+        "notes": "The Comparative case in Sakha is marked by the suffix –TAАҕAr in the simple declension, and –(I)nAAҕAr in the possessive declension. It marks the standard of comparison in comparative constructions (62a, b), while the adjective, for which no comparative or superlative forms exist, remains invariant. An exception is made, however, for comparative constructions regarding age: here, the standard of comparison is marked by the Ablative case, while the relative age (‘younger’, ‘older’) is expressed by the words быраат ‘younger.brother’ or балыс ‘younger.sister’ and aҕa ‘father’ (62c). Nowadays, however, быраат and балыс are being replaced more and more by кыра ‘small’.",
+        "sah": "улахан эдьиийбит миигиттэн уон аҕыс дуу сэттэ дуу сыл аҕа этэ.",
+        "en": "Our oldest sister was seventeen or eighteen years older than me. [big older.sister–POSS.1PL 1SG.ABL ten eight DISJ seven DISJ year father AUX–PST.3SG]",
+        "id": 3,
+        "parses": [
+            {"pos": 1, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан", "affixes": ["+Adj"]},
+            {"pos": 2, "text": "эдьиийбит", "type": "lowercase", "fst": "ymv", "root": "эдьиий", "affixes": ["+N", "+POSS.1PL"]},
+            {"pos": 3, "text": "миигиттэн", "type": "lowercase", "fst": "ymv", "root": "мин", "affixes": ["+Pron", "+ABL"]},
+            {"pos": 4, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон", "affixes": ["+Num"]},
+            {"pos": 5, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "аҕыс", "affixes": ["+Num"]},
+            {"pos": 6, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу", "affixes": ["+Part"]},
+            {"pos": 7, "text": "сэттэ", "type": "lowercase", "fst": "ymv", "root": "сэттэ", "affixes": ["+Num"]},
+            {"pos": 8, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу", "affixes": ["+Part"]},
+            {"pos": 9, "text": "сыл", "type": "lowercase", "fst": "ymv", "root": "сыл", "affixes": ["+N"]},
+            {"pos": 10, "text": "аҕа", "type": "lowercase", "fst": "ymv", "root": "аҕа", "affixes": ["+N"]},
+            {"pos": 11, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+            {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }
+]

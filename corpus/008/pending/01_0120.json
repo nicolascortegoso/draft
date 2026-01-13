@@ -1,0 +1,21 @@
+[
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 175,
+      "chapter": "Глагол",
+      "topic": "Глаголы основного залога",
+      "section": 120,
+      "notes": "К этому залогу относятся глаголы в предложениях следующего рода.",
+      "sah": "Аккын манна аҕалан баай.",
+      "ru": "Коня его привяжи здесь.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Аккын", "type": "title", "fst": "fst", "root": "ат", "affixes": ["^N", "+POSS.2SG", "+ACC"]},
+         {"pos": 2, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["^Pron", "+LOC"]},
+         {"pos": 3, "text": "аҕалан", "type": "lowercase", "fst": "fst", "root": "аҕал", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 4, "text": "баай", "type": "lowercase", "fst": "fst", "root": "баай", "affixes": ["^V"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

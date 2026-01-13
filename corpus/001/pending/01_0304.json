@@ -1,0 +1,31 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 183,
+      "chapter": "Имя числительное",
+      "topic": "Разделительные числительные",
+      "section": 304,
+      "notes": "В предложении разделительные числительные могут служить определением.",
+      "sah": "Оҕолорго биирдии омурт сылаас ууну иһэртэ.",
+      "ru": "Ребятишкам по одному глотку теплой воды дала попить.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Оҕолорго", "type": "title", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+PL", "+DAT"]},
+         {"pos": 2, "text": "биирдии", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 2, "text": "биирдии", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 2, "text": "биирдии", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num", "+DISTR"]},
+         {"pos": 2, "text": "биирдии", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4", "+ITER#2", "+NMLZ#2"]},
+         {"pos": 2, "text": "биирдии", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4", "+ITER#2", "+CONV#2"]},
+         {"pos": 2, "text": "биирдии", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4", "+CSTV", "+NMLZ#2"]},
+         {"pos": 2, "text": "биирдии", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4", "+CSTV", "+CONV#2"]},
+         {"pos": 3, "text": "омурт", "type": "lowercase", "fst": "fst", "root": "омурт", "affixes": ["+V"]},
+         {"pos": 4, "text": "сылаас", "type": "lowercase", "fst": "fst", "root": "сылаас", "affixes": ["+Adj"]},
+         {"pos": 4, "text": "сылаас", "type": "lowercase", "fst": "fst", "root": "сылаа", "affixes": ["+N", "+VRBLZ#2", "+RECP"]},
+         {"pos": 4, "text": "сылаас", "type": "lowercase", "fst": "fst", "root": "сыл", "affixes": ["+N", "+VRBLZ#3", "+SUDD#1", "+RECP"]},
+         {"pos": 5, "text": "ууну", "type": "lowercase", "fst": "fst", "root": "уу", "affixes": ["+Adj", "+ACC"]},
+         {"pos": 5, "text": "ууну", "type": "lowercase", "fst": "fst", "root": "уу", "affixes": ["+N", "+ACC"]},
+         {"pos": 6, "text": "иһэртэ", "type": "lowercase", "fst": "fst"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,131 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 277,
+      "chapter": "3.5 Person-marked converbs in Sakha",
+      "topic": "3.5.2 The functions of person-marked converbs in Sakha",
+      "section": "115",
+      "notes": "Nevertheless, there are three clearly discernible trends in the function of person-marked converbs: firstly, they emphasize the main actant of the sentence; as such, one occasionally finds strings of person-marked converbs and one or even several instances of free pronouns in the same sentence, i.e. an ‘overload’ of subject reference (114). Secondly, they facilitate reference tracking in discourse, being used after (and occasionally before) a switch in discourse referent (115). This contrasts with the use of unmarked converbs in sequences of sentences where no switch in discourse referent has taken place (116). And lastly, there is a discernible, though low-frequency tendency for person-marked Perfective Converbs to take the place of finite verbs, suggesting grammaticalization of a new TAM form (117a, b).",
+      "sah": "ону биэрбэтэхтэрэ",
+      "en": "But they didn't send me. [CP give–PSTPT.NEG–POSS.3PL]",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "ону", "type": "lowercase", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 2, "text": "биэрбэтэхтэрэ", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+NEG", "+PART_PAST", "+PL", "+POSS.3SG"]}
+      ]
+   },    
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 277,
+      "chapter": "3.5 Person-marked converbs in Sakha",
+      "topic": "3.5.2 The functions of person-marked converbs in Sakha",
+      "section": "115",
+      "notes": "Nevertheless, there are three clearly discernible trends in the function of person-marked converbs: firstly, they emphasize the main actant of the sentence; as such, one occasionally finds strings of person-marked converbs and one or even several instances of free pronouns in the same sentence, i.e. an ‘overload’ of subject reference (114). Secondly, they facilitate reference tracking in discourse, being used after (and occasionally before) a switch in discourse referent (115). This contrasts with the use of unmarked converbs in sequences of sentences where no switch in discourse referent has taken place (116). And lastly, there is a discernible, though low-frequency tendency for person-marked Perfective Converbs to take the place of finite verbs, suggesting grammaticalization of a new TAM form (117a, b).",
+      "sah": "сааһа ыраатта",
+      "en": "She's too old. [spring–POSS.3SG move.off–PST.3SG]",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "сааһа", "type": "lowercase", "fst": "ymv", "root": "саас", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 2, "text": "ыраатта", "type": "lowercase", "fst": "ymv", "root": "ыраат", "affixes": ["+V", "+PST.3SG"]}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 277,
+      "chapter": "3.5 Person-marked converbs in Sakha",
+      "topic": "3.5.2 The functions of person-marked converbs in Sakha",
+      "section": "115",
+      "notes": "Nevertheless, there are three clearly discernible trends in the function of person-marked converbs: firstly, they emphasize the main actant of the sentence; as such, one occasionally finds strings of person-marked converbs and one or even several instances of free pronouns in the same sentence, i.e. an ‘overload’ of subject reference (114). Secondly, they facilitate reference tracking in discourse, being used after (and occasionally before) a switch in discourse referent (115). This contrasts with the use of unmarked converbs in sequences of sentences where no switch in discourse referent has taken place (116). And lastly, there is a discernible, though low-frequency tendency for person-marked Perfective Converbs to take the place of finite verbs, suggesting grammaticalization of a new TAM form (117a, b).",
+      "sah": "Үөрэн бараарыбын көппүтүм аҕай.",
+      "en": "Thinking I would go to school, I was very happy (lit: flew). [learn go–PURP.CVB–PRED.1SG fly–PSTPT–POSS.1SG INTS]",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Үөрэн", "type": "title", "fst": "ymv", "root": "үөрэн", "affixes": ["+V"]},
+         {"pos": 2, "text": "бараарыбын", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#5", "+1SG"]},
+         {"pos": 3, "text": "көппүтүм", "type": "lowercase", "fst": "ymv", "root": "көт", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 4, "text": "аҕай", "type": "lowercase", "fst": "ymv", "root": "аҕай", "affixes": ["+Part"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 277,
+      "chapter": "3.5 Person-marked converbs in Sakha",
+      "topic": "3.5.2 The functions of person-marked converbs in Sakha",
+      "section": "",
+      "notes": "Nevertheless, there are three clearly discernible trends in the function of person-marked converbs: firstly, they emphasize the main actant of the sentence; as such, one occasionally finds strings of person-marked converbs and one or even several instances of free pronouns in the same sentence, i.e. an ‘overload’ of subject reference (114). Secondly, they facilitate reference tracking in discourse, being used after (and occasionally before) a switch in discourse referent (115). This contrasts with the use of unmarked converbs in sequences of sentences where no switch in discourse referent has taken place (116). And lastly, there is a discernible, though low-frequency tendency for person-marked Perfective Converbs to take the place of finite verbs, suggesting grammaticalization of a new TAM form (117a, b).",
+      "sah": "Ону дьонум аах биэрбэтэхтэрэ.",
+      "en": "But my family didn't let me (lit: give me). [CP people–POSS.1SG COLL give–PSTPT.NEG–POSS.3PL]",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Ону", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 2, "text": "дьонум", "type": "lowercase", "fst": "ymv", "root": "дьон", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 3, "text": "аах", "type": "lowercase", "fst": "ymv", "root": "аах", "affixes": ["+Part"]},
+         {"pos": 4, "text": "биэрбэтэхтэрэ", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+NEG", "+PART_PAST", "+PL", "+POSS.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 278,
+      "chapter": "3.5 Person-marked converbs in Sakha",
+      "topic": "3.5.2 The functions of person-marked converbs in Sakha",
+      "section": "116",
+      "notes": "Nevertheless, there are three clearly discernible trends in the function of person-marked converbs: firstly, they emphasize the main actant of the sentence; as such, one occasionally finds strings of person-marked converbs and one or even several instances of free pronouns in the same sentence, i.e. an ‘overload’ of subject reference (114). Secondly, they facilitate reference tracking in discourse, being used after (and occasionally before) a switch in discourse referent (115). This contrasts with the use of unmarked converbs in sequences of sentences where no switch in discourse referent has taken place (116). And lastly, there is a discernible, though low-frequency tendency for person-marked Perfective Converbs to take the place of finite verbs, suggesting grammaticalization of a new TAM form (117a, b).",
+      "sah": "Сонтон ыла дьэ бу сырыттаҕым дии үлэлээн хамнаан.",
+      "en": "Well, from then on I lived like this, working. [EMPH–that.OBL–ABL take–IPF.CVB well this go–MDL–POSS.1SG ASS work–VR–PF.CVB earn–PF.CVB]",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Сонтон", "type": "title", "fst": "ymv", "root": "сол", "affixes": ["+Pron", "+ABL"]},
+         {"pos": 2, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "дьэ", "type": "lowercase", "fst": "ymv", "root": "дьэ", "affixes": ["+MOD"]},
+         {"pos": 4, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 5, "text": "сырыттаҕым", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+CONV_COND#2", "+POSS.1SG"]},
+         {"pos": 6, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии", "affixes": ["+Part"]},
+         {"pos": 7, "text": "үлэлээн", "type": "lowercase", "fst": "ymv", "root": "үлэ", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 8, "text": "хамнаан", "type": "lowercase", "fst": "ymv", "root": "хамнаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 278,
+      "chapter": "3.5 Person-marked converbs in Sakha",
+      "topic": "3.5.2 The functions of person-marked converbs in Sakha",
+      "section": "117a",
+      "notes": "Nevertheless, there are three clearly discernible trends in the function of person-marked converbs: firstly, they emphasize the main actant of the sentence; as such, one occasionally finds strings of person-marked converbs and one or even several instances of free pronouns in the same sentence, i.e. an ‘overload’ of subject reference (114). Secondly, they facilitate reference tracking in discourse, being used after (and occasionally before) a switch in discourse referent (115). This contrasts with the use of unmarked converbs in sequences of sentences where no switch in discourse referent has taken place (116). And lastly, there is a discernible, though low-frequency tendency for person-marked Perfective Converbs to take the place of finite verbs, suggesting grammaticalization of a new TAM form (117a, b).",
+      "sah": "Биһиги отто былыр Сухаана нэһилиэгэр олороммут.",
+      "en": "Well, in the past we lived in the Suxana nasleg. [1PL CP in.the.past S. nasleg–DAT.3SG sit–PF.CVB–1PL]",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "отто", "type": "lowercase", "fst": "ymv", "root": "отун", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "былыр", "type": "lowercase", "fst": "ymv", "root": "былыр", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "Сухаана", "type": "title", "fst": "yma", "root": "сухаана", "affixes": ["+N"]},
+         {"pos": 5, "text": "нэһилиэгэр", "type": "lowercase", "fst": "ymv", "root": "нэһилиэк", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 6, "text": "олороммут", "type": "lowercase", "fst": "ymv", "root": "олор", "affixes": ["+V", "+CONV#1", "+1PL"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 278,
+      "chapter": "3.5 Person-marked converbs in Sakha",
+      "topic": "3.5.2 The functions of person-marked converbs in Sakha",
+      "section": "117b",
+      "notes": "Nevertheless, there are three clearly discernible trends in the function of person-marked converbs: firstly, they emphasize the main actant of the sentence; as such, one occasionally finds strings of person-marked converbs and one or even several instances of free pronouns in the same sentence, i.e. an ‘overload’ of subject reference (114). Secondly, they facilitate reference tracking in discourse, being used after (and occasionally before) a switch in discourse referent (115). This contrasts with the use of unmarked converbs in sequences of sentences where no switch in discourse referent has taken place (116). And lastly, there is a discernible, though low-frequency tendency for person-marked Perfective Converbs to take the place of finite verbs, suggesting grammaticalization of a new TAM form (117a, b).",
+      "sah": "Ол иһин биһиги көмөлөһөммүт бастакы үөрэҕин саҕалаан.",
+      "en": "So therefore we helped her when she first began her studies. [that for 1PL help–PF.CVB–1PL first studies–ACC.3SG begin–PF.CVB] ",
+      "id": 10,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин", "affixes": ["+POST"]},
+         {"pos": 3, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "көмөлөһөммүт", "type": "lowercase", "fst": "ymv", "root": "көм", "affixes": ["+V", "+FREC#4", "+RECP", "+CONV#1", "+1PL"]},
+         {"pos": 5, "text": "бастакы", "type": "lowercase", "fst": "ymv", "root": "бастакы", "affixes": ["+Adj"]},
+         {"pos": 6, "text": "үөрэҕин", "type": "lowercase", "fst": "ymv", "root": "үөрэх", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 7, "text": "саҕалаан", "type": "lowercase", "fst": "ymv", "root": "саҕа", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

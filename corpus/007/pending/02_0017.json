@@ -1,0 +1,62 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 92,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Бэл.",
+      "section": 17,
+      "notes": "Модальное слово бэл широко употребляется. Оно выражает усилительно-выделительное отношение говорящего к высказываемой мысли.",
+      "sah": "Бу дойдуга бэл быстар дьадаҥылар, хамначчыттар күүстээх санаалаахтар.",
+      "ru": "В этой стране даже беднейшие, хамначиты, сильны духом.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "дойдуга", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+DAT"]},
+         {"pos": 3, "text": "бэл", "type": "lowercase", "fst": "fst", "root": "бэл", "affixes": ["+IMIT"]},
+         {"pos": 3, "text": "бэл", "type": "lowercase", "fst": "fst", "root": "бэл", "affixes": ["+MOD"]},
+         {"pos": 4, "text": "быстар", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+CAUS"]},
+         {"pos": 4, "text": "быстар", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 4, "text": "быстар", "type": "lowercase", "fst": "fst", "root": "быс", "affixes": ["+V", "+REFL", "+PART_PRES"]},
+         {"pos": 4, "text": "быстар", "type": "lowercase", "fst": "fst", "root": "быһын", "affixes": ["+V", "+CSTV"]},
+         {"pos": 4, "text": "быстар", "type": "lowercase", "fst": "fst", "root": "быһын", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 5, "text": "дьадаҥылар", "type": "lowercase", "fst": "fst", "root": "дьадай", "affixes": ["+V", "+ADJZ#4", "+PL"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "хамначчыттар", "type": "lowercase", "fst": "fst", "root": "хамнас", "affixes": ["+N", "+NMLZ#1", "+PL"]},
+         {"pos": 8, "text": "күүстээх", "type": "lowercase", "fst": "fst", "root": "күүс", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 9, "text": "санаалаахтар", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["+N", "+ADJZ#1", "+PL"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 92,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Бэл.",
+      "section": 17,
+      "notes": "Модальное слово бэл широко употребляется. Оно выражает усилительно-выделительное отношение говорящего к высказываемой мысли.",
+      "sah": "Ити барыта тыыннаах буолаары, бэл, ити үөнтэн бастыы.",
+      "ru": "Все это для того, чтобы жить, даже начиная с этого насекомого.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Ити", "type": "title", "fst": "fst", "root": "ити", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "барый", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 2, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+POSS.3SG"]},
+         {"pos": 2, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+PRTV"]},
+         {"pos": 2, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#2", "+ADVZ#8"]},
+         {"pos": 3, "text": "тыыннаах", "type": "lowercase", "fst": "fst", "root": "тыын", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 4, "text": "буолаары", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "бэл", "type": "lowercase", "fst": "fst", "root": "бэл", "affixes": ["+IMIT"]},
+         {"pos": 6, "text": "бэл", "type": "lowercase", "fst": "fst", "root": "бэл", "affixes": ["+MOD"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити", "affixes": ["+Pron"]},
+         {"pos": 9, "text": "үөнтэн", "type": "lowercase", "fst": "fst", "root": "үөн", "affixes": ["+N", "+ABL"]},
+         {"pos": 10, "text": "бастыы", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 10, "text": "бастыы", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 10, "text": "бастыы", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 10, "text": "бастыы", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+V", "+REFL", "+NMLZ#2"]},
+         {"pos": 10, "text": "бастыы", "type": "lowercase", "fst": "fst", "root": "бас", "affixes": ["+V", "+REFL", "+CONV#2"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

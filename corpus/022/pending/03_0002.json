@@ -1,0 +1,50 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 212,
+      "chapter": "3.3 The Sakha Distant Future Imperative",
+      "topic": "3.3.1.2 The Future Imperative",
+      "section": "67a",
+      "notes": "The Sakha Future Imperative, which is marked by the suffix –A:r, is restricted to the second persons. As in the Present Imperative mood, agreement with second person singular is unmarked (67a), and agreement with the second person plural is marked with the suffix –(I). The Future Imperative, too, is regularly negated with the negative suffix –(I)mA, with the final vowel of the negative suffix merging with the initial vowel of the Future Imperative suffix (67b). It conveys a command that is to be fulfilled at a later point in time (67c), or after some other action (67d), and is also used for weaker commands or polite requests (67e).",
+      "sah": "Дьэ, нохоо торбостоох ынахпытын иллиһээр эрэ диэн.",
+      "en": "Saying “Hey, boy, just take our cow with calf (there) with me”. [well boy calf–PROP cow–ACC.1PL take.away–REC–DSTIMP–2SG PTL say–PF.CVB]",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Дьэ", "type": "title", "fst": "ymv", "root": "дьэ", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 3, "text": "нохоо", "type": "lowercase", "fst": "ymv", "root": "нохоо", "affixes": ["+MOD"]},
+         {"pos": 4, "text": "торбостоох", "type": "lowercase", "fst": "ymv", "root": "торбос", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 5, "text": "ынахпытын", "type": "lowercase", "fst": "ymv", "root": "ынах", "affixes": ["+N", "+POSS.1PL", "+ACC"]},
+         {"pos": 5, "text": "ынахпытын", "type": "lowercase", "fst": "ymv", "root": "ынай", "affixes": ["+V", "+ADJZ#16", "+POSS.1PL", "+ACC"]},
+         {"pos": 5, "text": "ынахпытын", "type": "lowercase", "fst": "ymv", "root": "ынай", "affixes": ["+V", "+SUDD#2", "+PART_PAST", "+POSS.3SG", "+ACC"]},
+         {"pos": 5, "text": "ынахпытын", "type": "lowercase", "fst": "ymv", "root": "ын", "affixes": ["+V", "+NMLZ#6", "+POSS.1PL", "+ACC"]},
+         {"pos": 6, "text": "иллиһээр", "type": "lowercase", "fst": "yma", "root": "иллис", "affixes": ["+N", "+VRBLZ#3", "+IMP#2.2SG"]},
+         {"pos": 6, "text": "иллиһээр", "type": "lowercase", "fst": "yma", "root": "иллиһээ", "affixes": ["+Adv", "+VRBLZ#4"]},
+         {"pos": 6, "text": "иллиһээр", "type": "lowercase", "fst": "yma", "root": "иллиһэ", "affixes": ["+N", "+VRBLZ#4a"]},
+         {"pos": 6, "text": "иллиһээр", "type": "lowercase", "fst": "yma", "root": "иллий", "affixes": ["+V", "+RECP", "+IMP#2.2SG"]},
+         {"pos": 7, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 7, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 7, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 8, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 212,
+      "chapter": "3.3 The Sakha Distant Future Imperative",
+      "topic": "3.3.1.2 The Future Imperative",
+      "section": "67e",
+      "notes": "The Sakha Future Imperative, which is marked by the suffix –A:r, is restricted to the second persons. As in the Present Imperative mood, agreement with second person singular is unmarked (67a), and agreement with the second person plural is marked with the suffix –(I). The Future Imperative, too, is regularly negated with the negative suffix –(I)mA, with the final vowel of the negative suffix merging with the initial vowel of the Future Imperative suffix (67b). It conveys a command that is to be fulfilled at a later point in time (67c), or after some other action (67d), and is also used for weaker commands or polite requests (67e).",
+      "sah": "Сибээс туһунан кэпсээриий.",
+      "en": "Tell about the (phone) connection. [communications side–INS.3SG tell–DSTIMP[2SG]–EMPH]",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Сибээс", "type": "title", "fst": "ymv", "root": "сибээс", "affixes": ["+N"]},
+         {"pos": 2, "text": "туһунан", "type": "lowercase", "fst": "ymv", "root": "тус", "affixes": ["+N", "+INST"]},
+         {"pos": 2, "text": "туһунан", "type": "lowercase", "fst": "ymv", "root": "тус", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 3, "text": "кэпсээриий", "type": "lowercase", "fst": "ymv", "root": "кэпсээ", "affixes": ["+V", "+INT#1"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

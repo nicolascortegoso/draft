@@ -1,0 +1,46 @@
+[
+   {
+      "source": "Харитонов, Лука Никифорович. Современный якутский язык = Саха билигиҥҥи тыла / Науч.-исслед. ин-т яз., лит. и истории ЯАССР ; под ред. проф. Н. К. Дмитриева. - Якутск : Госиздат ЯАССР, 1947.",
+      "page": 117,
+      "chapter": "Имя существительное",
+      "topic": "Притяжательное склонение. Винительный падеж",
+      "section": 77,
+      "notes": "Частица 'курдук' (как) и 'иһин' (ради) в третьем лице также требуют аффикса '-ын'.",
+      "sah": "бу оҕо аҕатын курдук",
+      "ru": "этот ребёнок как свой отец",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "оҕо", "type": "lowercase", "fst": "fst", "root": "ох", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 2, "text": "оҕо", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["^N"]},
+         {"pos": 2, "text": "оҕо", "type": "lowercase", "fst": "fst", "root": "ой", "affixes": ["^V", "^NMLZ#6", "+POSS.3SG"]},
+         {"pos": 3, "text": "аҕатын", "type": "lowercase", "fst": "fst", "root": "ах", "affixes": ["^N", "^VRBLZ#3", "+CAUS", "+REFL"]},
+         {"pos": 3, "text": "аҕатын", "type": "lowercase", "fst": "fst", "root": "аҕаа", "affixes": ["^V", "+CAUS", "+REFL"]},
+         {"pos": 3, "text": "аҕатын", "type": "lowercase", "fst": "fst", "root": "аҕаа", "affixes": ["^V", "+CSTV", "+REFL"]},
+         {"pos": 3, "text": "аҕатын", "type": "lowercase", "fst": "fst", "root": "аҕа", "affixes": ["^N", "^VRBLZ#2", "+CSTV", "+REFL"]},
+         {"pos": 3, "text": "аҕатын", "type": "lowercase", "fst": "fst", "root": "аҕа", "affixes": ["^N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["^POST"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["^Part"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["^Adj", "^ADVZ#5"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["^N", "^ADVZ#5"]},
+         {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["^V", "+CSTV", "^ADJZ#16"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Современный якутский язык = Саха билигиҥҥи тыла / Науч.-исслед. ин-т яз., лит. и истории ЯАССР ; под ред. проф. Н. К. Дмитриева. - Якутск : Госиздат ЯАССР, 1947.",
+      "page": 117,
+      "chapter": "Имя существительное",
+      "topic": "Притяжательное склонение. Винительный падеж",
+      "section": 77,
+      "notes": "Частица 'курдук' (как) и 'иһин' (ради) в третьем лице также требуют аффикса '-ын'.",
+      "sah": "барарын иһин",
+      "ru": "ради его ухода; за то, что он уходит",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "барарын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["^V", "+PART_PRES", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["^N", "+POSS.3SG", "+ACC"]},
+         {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["^V", "+REFL"]},
+         {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "иһин", "affixes": ["^POST"]}
+      ]
+   }
+]

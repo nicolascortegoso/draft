@@ -1,0 +1,63 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 435,
+      "chapter": "Частицы",
+      "topic": "Морфологические признаки частиц",
+      "section": 865,
+      "notes": "Некоторые частицы, примыкающие к сказуемому (напрпмер, модально-вопросительные и др.), не принимают на себя никаких аффиксов. Они образуют окончательную грамматическую форму слова, за которой обычно не следуют другие аффиксы.",
+      "sah": "Арамаан эйиэхэ уон сүүһү биэрбитэ дуо?",
+      "ru": "Роман давал тебе десять рублей?",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Арамаан", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "эйиэхэ", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 3, "text": "уон", "type": "lowercase", "fst": "fst", "root": "уон", "affixes": ["+Num"]},
+         {"pos": 4, "text": "сүүһү", "type": "lowercase", "fst": "fst", "root": "сүүс", "affixes": ["+N", "+ACC"]},
+         {"pos": 4, "text": "сүүһү", "type": "lowercase", "fst": "fst", "root": "сүүс", "affixes": ["+Num", "+ACC"]},
+         {"pos": 5, "text": "биэрбитэ", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 5, "text": "биэрбитэ", "type": "lowercase", "fst": "fst", "root": "биэ", "affixes": ["+N", "+VRBLZ#4", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 6, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо", "affixes": ["+Part"]},
+         {"pos": 7, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 435,
+      "chapter": "Частицы",
+      "topic": "Морфологические признаки частиц",
+      "section": 865,
+      "notes": "Некоторые частицы, примыкающие к сказуемому (напрпмер, модально-вопросительные и др.), не принимают на себя никаких аффиксов. Они образуют окончательную грамматическую форму слова, за которой обычно не следуют другие аффиксы.",
+      "sah": "Хаһан биһиги атыттары сирбэккэ эрэ кими хайҕаабыппыт баарай!",
+      "ru": "Когда мы кого, бывало, хвалили, не осуждая тут же других!",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Хаһан", "type": "title", "fst": "fst", "root": "хас", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 1, "text": "Хаһан", "type": "title", "fst": "fst", "root": "хаһан", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Хаһан", "type": "title", "fst": "fst", "root": "хай", "affixes": ["+V", "+RECP", "+CONV#1"]},
+         {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "бис", "affixes": ["+V", "+ADJZ#16", "+ACC"]},
+         {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "бис", "affixes": ["+V", "+NMLZ#5", "+ACC"]},
+         {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "биһик", "affixes": ["+N", "+ACC"]},
+         {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "биһиги", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "атыы", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CAUS", "+ADVZ#1"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "атыы", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV_COND#1", "+ACC"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "атыы", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+PL", "+ACC"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CAUS", "+ADVZ#1"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV_COND#1", "+ACC"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+PL", "+ACC"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+V", "+CSTV", "+CAUS", "+ADVZ#1"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+V", "+CSTV", "+CONV_COND#1", "+ACC"]},
+         {"pos": 3, "text": "атыттары", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+V", "+CSTV", "+PL", "+ACC"]},
+         {"pos": 4, "text": "сирбэккэ", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["+V", "+NEG", "+CONV#4"]},
+         {"pos": 4, "text": "сирбэккэ", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["+V", "+NEG", "+PART_PRES", "+DAT"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 6, "text": "кими", "type": "lowercase", "fst": "fst", "root": "ким", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 7, "text": "хайҕаабыппыт", "type": "lowercase", "fst": "fst", "root": "хайҕаа", "affixes": ["+V", "+PART_PAST", "+POSS.1PL"]},
+         {"pos": 7, "text": "хайҕаабыппыт", "type": "lowercase", "fst": "fst", "root": "хайҕаа", "affixes": ["+V", "+PART_PAST", "+1PL"]},
+         {"pos": 8, "text": "баарай", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+N", "+POSS.3SG", "+INT"]},
+         {"pos": 9, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   }
+]

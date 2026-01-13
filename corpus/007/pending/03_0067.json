@@ -1,0 +1,38 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 177,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "Билиннэхэ — форма дательного падежа причастия билиннэх от глагола билин 'признаться'. Оно употребляется редко как буквальный перевод русского вводного слова признаться и выражает достоверность высказывания на основе субъективной оговорки, признания говорящего.",
+      "sah": "Да, Владимир Ильич, билиннэххэ, хайата да мелтех.",
+      "ru": "Да, Владимир Ильич, признаться, то и другое неважно.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Да", "type": "title", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 1, "text": "Да", "type": "title", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "Владимир", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": "Ильич", "type": "title", "fst": "fst"},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "билиннэххэ", "type": "lowercase", "fst": "fst", "root": "билин", "affixes": ["+V", "+CONV_COND#2", "+DAT"]},
+         {"pos": 6, "text": "билиннэххэ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+REFL", "+CONV_COND#2", "+DAT"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайаа", "affixes": ["+V", "+CAUS", "+CONV#2"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+ADVZ#8"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+POSS.3SG"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+PRTV"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+PRTV"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron", "+POSS.3SG"]},
+         {"pos": 8, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron", "+PRTV"]},
+         {"pos": 9, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 9, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 10, "text": "мелтех", "type": "lowercase", "fst": "fst"},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

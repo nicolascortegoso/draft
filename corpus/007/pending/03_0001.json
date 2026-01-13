@@ -1,0 +1,82 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 141,
+      "chapter": "Глава III",
+      "topic": "1. Именные модальные слова.",
+      "section": 1,
+      "notes": "Подобные сочетания могут выступать в качестве вопросительного предложения.",
+      "sah": "Ол колхоз тэрилиннэгинэ, онно киириэхпит.",
+      "ru": "Если этот колхоз организуют, мы туда вступим.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "колхоз", "type": "lowercase", "fst": "fst", "root": "колхоз", "affixes": ["+N"]},
+         {"pos": 3, "text": "тэрилиннэгинэ", "type": "lowercase", "fst": "fst"},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "онно", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 5, "text": "онно", "type": "lowercase", "fst": "fst", "root": "орун", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 6, "text": "киириэхпит", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+PART_FUT", "+POSS.1PL"]},
+         {"pos": 6, "text": "киириэхпит", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V", "+PART_FUT", "+1PL"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 141,
+      "chapter": "Глава III",
+      "topic": "1. Именные модальные слова.",
+      "section": 1,
+      "notes": "По этой же причине при наличии местоименного определения вовсе уничтожается то значение санаабар и его вариантов, по которому выражается тщетное желание, хотя притяжательный аффикс тоже выражает лицо. Так, в предложении нельзя поставить кини 'ее' (досл.: она) перед модальным словом (кини санаатыгар в ее мыслях + ее).",
+      "sah": "Ийэ барахсан, санаатыгар, араҥаччылыы кэлэрэ буолуо дуо?",
+      "ru": "Неужели бедная мама, в своем тщетном желании, едет оберегать меня?",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Ийэ", "type": "title", "fst": "fst", "root": "ийэ", "affixes": ["+N"]},
+         {"pos": 2, "text": "барахсан", "type": "lowercase", "fst": "fst", "root": "барахсан", "affixes": ["+N"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "санаатыгар", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 4, "text": "санаатыгар", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 4, "text": "санаатыгар", "type": "lowercase", "fst": "fst", "root": "сан", "affixes": ["+N", "+VRBLZ#3", "+SUDD#1", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "араҥаччылыы", "type": "lowercase", "fst": "fst", "root": "араҥаччы", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 6, "text": "араҥаччылыы", "type": "lowercase", "fst": "fst", "root": "араҥаччы", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 6, "text": "араҥаччылыы", "type": "lowercase", "fst": "fst", "root": "араҥаччы", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 7, "text": "кэлэрэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 7, "text": "кэлэрэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 8, "text": "буолуо", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 9, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо", "affixes": ["+Part"]},
+         {"pos": 10, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 141,
+      "chapter": "Глава III",
+      "topic": "1. Именные модальные слова.",
+      "section": 1,
+      "notes": "Здесь слово дьолбутугар сохраняет свое вещественное значение 'счастье благодаря притяжательному аффиксу 1-го лица множественного числа (ср. дьолго к счастью и дьолбутугар на на- ше счастье)",
+      "sah": "Дьолбутугар, бомба поезка таба түспэтэх буолан, алдьаммакка, айаммытын салҕаатыбыт.",
+      "ru": "На наше счастье бомба не упала на поезд, аварии не получилось, и мы продолжили путь.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Дьолбутугар", "type": "title", "fst": "fst", "root": "дьол", "affixes": ["+N", "+POSS.1PL", "+DAT"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "бомба", "type": "lowercase", "fst": "fst", "root": "бомба", "affixes": ["+N"]},
+         {"pos": 4, "text": "поезка", "type": "lowercase", "fst": "fst"},
+         {"pos": 5, "text": "таба", "type": "lowercase", "fst": "fst", "root": "тап", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 5, "text": "таба", "type": "lowercase", "fst": "fst", "root": "тап", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "таба", "type": "lowercase", "fst": "fst", "root": "таба", "affixes": ["+N"]},
+         {"pos": 6, "text": "түспэтэх", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+NEG", "+CONV_COND#2"]},
+         {"pos": 6, "text": "түспэтэх", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+NEG", "+PART_PAST"]},
+         {"pos": 7, "text": "буолан", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 9, "text": "алдьаммакка", "type": "lowercase", "fst": "fst", "root": "алдьан", "affixes": ["+V", "+NEG", "+PART_PRES", "+DAT"]},
+         {"pos": 10, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 11, "text": "айаммытын", "type": "lowercase", "fst": "fst", "root": "айан", "affixes": ["+N", "+POSS.1PL", "+ACC"]},
+         {"pos": 11, "text": "айаммытын", "type": "lowercase", "fst": "fst", "root": "ай", "affixes": ["+V", "+CONV#1", "+PART_PAST", "+POSS.3SG", "+ACC"]},
+         {"pos": 12, "text": "салҕаатыбыт", "type": "lowercase", "fst": "fst", "root": "салҕаа", "affixes": ["+V", "+PST.1PL"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

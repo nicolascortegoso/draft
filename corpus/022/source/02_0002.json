@@ -1,0 +1,72 @@
+[
+    {
+		"source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 120,
+		"chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+		"topic": "3.2.2.1 The Dative case in Sakha",
+		"section": "17a",
+		"notes": "In Sakha, the Dative expresses various functions, among others recipients (17a) and benefactives (17b).",
+		"sah": "Ол киһи миэхэ үчүгэйдик үлэлээбитим иһин пахвалнай грамота биэрбитэ.",
+		"en": "That man gave me a certificate of merit because I had worked well [that person 1SG.DAT good–ADVR work–VR–PSTPT–POSS.1SG for certificate.of.merit give–PSTPT–POSS.3SG]"
+	},
+    {
+		"source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 120,
+		"chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+		"topic": "3.2.2.1 The Dative case in Sakha",
+		"section": "17b",
+		"notes": "In Sakha, the Dative expresses various functions, among others recipients (17a) and benefactives (17b).",
+		"sah": "Оччоҕо биһиги эһиэхэ итинник кэпсээн биэрэбит дуо?",
+		"en": "So shall we tell you (our story) in this way? [in.that.case 1PL 2SG.DAT this.OBL–ADVR tell–PF.CVB BEN–IPF.CVB–1PL Q]"
+	},       
+    {
+		"source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+		"chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+		"topic": "3.2.2.1 The Dative case in Sakha",
+		"section": "18a",
+		"notes": "It furthermore fulfills locative functions, both spatially (18a, b) and temporally (18c).",
+		"sah": "Ол сиргэ сытаммын оттуубун.",
+		"en": "I live in that place and make hay. [that place–DAT lie–PF.CVB–PRED.1SG hay–VR–IPF.CVB–PRED.1SG]"
+	},  
+    {
+		"source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+		"chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+		"topic": "3.2.2.1 The Dative case in Sakha",
+		"section": "18b",
+		"notes": "It furthermore fulfills locative functions, both spatially (18a, b) and temporally (18c).",
+		"sah": "Ол алааска төрөөбүтүм.",
+		"en": "In that alaas (circular meadow in the forest) I was born. [that ala:s–DAT be.born–PSTPT–POSS.1SG]"
+	},   
+    {
+		"source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+		"chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+		"topic": "3.2.2.1 The Dative case in Sakha",
+		"section": "18c",
+		"notes": "It furthermore fulfills locative functions, both spatially (18a, b) and temporally (18c).",
+		"sah": "Күҥҥэ түөрт уон тиийэ өлөрөр этим.",
+		"en": "I used to kill up to forty (ducks) in a day [day–DAT four ten–DAT reach–IPF.CVB die–CAUS–PRSPT AUX–PST–POSS.1SG]"
+	},   
+    {
+		"source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+		"chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+		"topic": "3.2.2.1 The Dative case in Sakha",
+		"section": "19a",
+		"notes": "Finally, it covers allative and illative functions too, expressing motion towards (19a) and into a place (19b).",
+		"sah": "Иллэрээ сыл буоллаҕына куоракка бара сылдьыбытым.",
+		"en": "The year before last I went to town (Yakutsk). [before.last year however town–DAT go–IPF.CVB IPFV–PSTPT–POSS.1SG]"
+	},  
+    {
+		"source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+		"chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+		"topic": "3.2.2.1 The Dative case in Sakha",
+		"section": "19b",
+		"notes": "Finally, it covers allative and illative functions too, expressing motion towards (19a) and into a place (19b).",
+		"sah": "Умуһахха киирэннэр арыыны илдьэ бардылар.",
+		"en": "They entered the milk-cellar and took away the butter. [milk.cellar–DAT enter–PF.CVB–PL butter–ACC carry–IPF.CVB go–PST–PL]"
+	}
+]

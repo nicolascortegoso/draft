@@ -1,0 +1,38 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 208,
+      "chapter": "Глава IV. Долженствовательное наклонение",
+      "topic": "1. Настояще-будущее время долженствовательного наклонения",
+      "section": 3,
+      "notes": "Отрицательная форма настояще-будущего времени долженствовательного наклонения образуется от отрицательной формы причастия на -ардаах, присоединившего к себе аффиксы сказуемости (барбаттаахпын, барбаттааххын, барбаттаах и т. д.), но она в современном языке почти неупотребительна, находит применение только в особых оборотах речи.",
+      "sah": "Эн өссө барардааххын-барбаттааххын, мин эйигин мосуораҕын көннөрүөм, хара ыты.",
+      "ru": "Ты еще должен/не должен идти, я тебя собаку (букв.: черную собаку) проучу как следует.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["+V", "+PASS"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["+V", "+REFL"]},
+         {"pos": 2, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өссө", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "өссө", "type": "lowercase", "fst": "fst", "root": "өс", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 3, "text": "барардааххын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_PRES", "+ADJZ#1", "+POSS.2SG", "+ACC"]},
+         {"pos": 3, "text": "барардааххын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_PRES", "+ADJZ#1", "+2SG"]},
+         {"pos": 3, "text": "барардааххын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_PRES", "+DEB", "+2SG"]},
+         {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 5, "text": "барбаттааххын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+NEG", "+PART_PRES", "+DEB", "+2SG"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+N"]},
+         {"pos": 7, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 8, "text": "эйигин", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 9, "text": "мосуораҕын", "type": "lowercase", "fst": "fst"},
+         {"pos": 10, "text": "көннөрүөм", "type": "lowercase", "fst": "fst", "root": "көн", "affixes": ["+V", "+CSTV", "+PART_FUT", "+POSS.1SG"]},
+         {"pos": 10, "text": "көннөрүөм", "type": "lowercase", "fst": "fst", "root": "көй", "affixes": ["+V", "+REFL", "+CAUS", "+PART_FUT", "+POSS.1SG"]},
+         {"pos": 11, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 12, "text": "хара", "type": "lowercase", "fst": "fst", "root": "хара", "affixes": ["+Adj"]},
+         {"pos": 12, "text": "хара", "type": "lowercase", "fst": "fst", "root": "хар", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 13, "text": "ыты", "type": "lowercase", "fst": "fst", "root": "ыт", "affixes": ["+N", "+ACC"]},
+         {"pos": 14, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

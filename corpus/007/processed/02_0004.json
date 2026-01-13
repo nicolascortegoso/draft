@@ -1,0 +1,73 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 74,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Apaaһa.",
+      "section": 4,
+      "notes": "Арааһа употребляется довольно активно и выражает допущение, предположение с оттенком неуверенности, сомнения.",
+      "sah": "Кини, арааһа, эйэнэн төннөр этэ.",
+      "ru": "Он, пожалуй, с миром вернулся бы домой.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "арааһа", "type": "lowercase", "fst": "fst", "root": "арааһа", "affixes": ["+MOD"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "эйэнэн", "type": "lowercase", "fst": "fst", "root": "эйэ", "affixes": ["+N", "+INST"]},
+         {"pos": 6, "text": "төннөр", "type": "lowercase", "fst": "fst", "root": "төнүн", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },    
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 74,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Apaaһa.",
+      "section": 4,
+      "notes": "Арааһа употребляется довольно активно и выражает допущение, предположение с оттенком неуверенности, сомнения.",
+      "sah": "Үөрэннэхпинэ даҕаны, арааһа, син биир манна кэлэрим буолуоҕа.",
+      "ru": "И после учебы, вероятно, я все равно приеду сюда работать.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Үөрэннэхпинэ", "type": "title", "fst": "fst", "root": "үөрэн", "affixes": ["+V", "+CONV_COND#2", "+POSS.1SG", "+PRTV"]},
+         {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны", "affixes": ["+Part"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "арааһа", "type": "lowercase", "fst": "fst", "root": "арааһа", "affixes": ["+MOD"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "син", "type": "lowercase", "fst": "fst", "root": "син", "affixes": ["+Adv"]},
+         {"pos": 7, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+         {"pos": 8, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+LOC"]},
+         {"pos": 9, "text": "кэлэрим", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PART_PRES", "+POSS.1SG"]},
+         {"pos": 10, "text": "буолуоҕа", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+POSS.3SG"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 74,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Apaaһa.",
+      "section": 4,
+      "notes": "Модальное слово арааһа имеет редко употребляемые варианты арааһата (арааһа+аффикс принадлежности 3-го лица), арааската (от арааска+аффикс принадлежности -та).",
+      "sah": "Ити таас да аҥара, арааската, миигин эмиэ моһуоктуур буолла быһыылаах.",
+      "ru": "И эта половина камня, видимо, будет мне в тягость.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Ити", "type": "title", "fst": "fst", "root": "ити", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "таас", "type": "lowercase", "fst": "fst", "root": "таас", "affixes": ["+N"]},
+         {"pos": 3, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 4, "text": "аҥара", "type": "lowercase", "fst": "fst", "root": "аҥар", "affixes": ["+Num", "+POSS.3SG"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "арааската", "type": "lowercase", "fst": "fst", "root": "арааската", "affixes": ["+MOD"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "миигин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 9, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ", "affixes": ["+Adv"]},
+         {"pos": 10, "text": "моһуоктуур", "type": "lowercase", "fst": "fst", "root": "моһуок", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES"]},
+         {"pos": 11, "text": "буолла", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 12, "text": "быһыылаах", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

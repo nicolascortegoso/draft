@@ -1,0 +1,24 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 164,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 16. Туох.",
+      "section": 16,
+      "notes": "Туох 'что' редко выражает эмоциональное усиление признака предмета речи.",
+      "sah": "Бу туох элбэх сибэккитиҥ үргээтиҥ?",
+      "ru": "Что это так много цветов нарвал?",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "туох", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "туох", "type": "lowercase", "fst": "fst", "root": "туой", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 3, "text": "элбэх", "type": "lowercase", "fst": "fst", "root": "элбээ", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 3, "text": "элбэх", "type": "lowercase", "fst": "fst", "root": "элбээ", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 4, "text": "сибэккитиҥ", "type": "lowercase", "fst": "fst", "root": "сибэкки", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADVZ#1", "+POSS.2SG"]},
+         {"pos": 4, "text": "сибэккитиҥ", "type": "lowercase", "fst": "fst", "root": "сибэкки", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+IMP#1.2PL"]},
+         {"pos": 5, "text": "үргээтиҥ", "type": "lowercase", "fst": "fst", "root": "үргээ", "affixes": ["+V", "+PST.2SG"]},
+         {"pos": 6, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   }
+]

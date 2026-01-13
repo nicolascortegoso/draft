@@ -1,0 +1,99 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 177,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "Данное значение слабо отдифференцировано от его глагольной семантики иди отсюда. Здесь все зависит от интонации, а на письме бар не отделяется запятой от усиливаемого им глагола, т.е. оно перестает быть полнозначным, следовательно, однородным членом предложения.",
+      "sah": "Бар киир, мин туруум.",
+      "ru": "Ну заходи, я постою.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бар", "type": "title", "fst": "fst", "root": "бар", "affixes": ["+IMIT"]},
+         {"pos": 1, "text": "Бар", "type": "title", "fst": "fst", "root": "бар", "affixes": ["+V"]},
+         {"pos": 2, "text": "киир", "type": "lowercase", "fst": "fst", "root": "киир", "affixes": ["+V"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+N"]},
+         {"pos": 4, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 5, "text": "туруум", "type": "lowercase", "fst": "fst", "root": "туруу", "affixes": ["+Adj", "+POSS.1SG"]},
+         {"pos": 5, "text": "туруум", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+IMP#1.1SG"]},
+         {"pos": 5, "text": "туруум", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+NMLZ#2", "+POSS.1SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 177,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "Во-вторых, в модальное значение предложения, выражающее согласие, бар вносит эмоционально-волевое отношение говорящего с оттенком решительности, окончательности.",
+      "sah": "Бар, оннук да буоллун!",
+      "ru": "Идет, пусть так и будет!",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Бар", "type": "title", "fst": "fst", "root": "бар", "affixes": ["+IMIT"]},
+         {"pos": 1, "text": "Бар", "type": "title", "fst": "fst", "root": "бар", "affixes": ["+V"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "оннук", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DEF"]},
+         {"pos": 4, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 4, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 5, "text": "буоллун", "type": "lowercase", "fst": "fst", "root": "буоллун", "affixes": ["+Part"]},
+         {"pos": 5, "text": "буоллун", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+IMP#1.3SG"]},
+         {"pos": 5, "text": "буоллун", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PASS"]},
+         {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 177,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "На основе этого значения бар иногда выражает иронию говорящего.",
+      "sah": "Чэ барыҥ, бэрэбинэтэ сүктэриҥ!",
+      "ru": "Ну пожалуйста, заставьте нас (девушек) таскать брегна!",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Чэ", "type": "title", "fst": "fst", "root": "чэ", "affixes": ["+MOD"]},
+         {"pos": 2, "text": "барыҥ", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+POSS.2SG"]},
+         {"pos": 2, "text": "барыҥ", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+IMP#1.2PL"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "бэрэбинэтэ", "type": "lowercase", "fst": "fst", "root": "бэрэбинэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 4, "text": "бэрэбинэтэ", "type": "lowercase", "fst": "fst", "root": "бэрэбинэ", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 4, "text": "бэрэбинэтэ", "type": "lowercase", "fst": "fst", "root": "бэрэбинэ", "affixes": ["+N", "+PRTV"]},
+         {"pos": 5, "text": "сүктэриҥ", "type": "lowercase", "fst": "fst", "root": "сүк", "affixes": ["+V", "+CAUS", "+ADVZ#1", "+POSS.2SG"]},
+         {"pos": 5, "text": "сүктэриҥ", "type": "lowercase", "fst": "fst", "root": "сүк", "affixes": ["+V", "+CAUS", "+IMP#1.2PL"]},
+         {"pos": 5, "text": "сүктэриҥ", "type": "lowercase", "fst": "fst", "root": "сүк", "affixes": ["+V", "+CONV_COND#1", "+POSS.2SG"]},
+         {"pos": 5, "text": "сүктэриҥ", "type": "lowercase", "fst": "fst", "root": "сүк", "affixes": ["+V", "+REFL", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 5, "text": "сүктэриҥ", "type": "lowercase", "fst": "fst", "root": "сүгүн", "affixes": ["+V", "+CSTV", "+ADVZ#1", "+POSS.2SG"]},
+         {"pos": 5, "text": "сүктэриҥ", "type": "lowercase", "fst": "fst", "root": "сүгүн", "affixes": ["+V", "+CSTV", "+IMP#1.2PL"]},
+         {"pos": 5, "text": "сүктэриҥ", "type": "lowercase", "fst": "fst", "root": "сүгүн", "affixes": ["+V", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 177,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "В-третьих, бар выражает эмоционально-экспрессивный запрет, отказ, отрицание, возражение говорящего.",
+      "sah": "Ээ бар, бэйэҕит быһаарсыҥ!",
+      "ru": "Ну тебя, сами разберитесь!",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Ээ", "type": "title", "fst": "fst", "root": "ээ", "affixes": ["+MOD"]},
+         {"pos": 1, "text": "Ээ", "type": "title", "fst": "fst", "root": "ээ", "affixes": ["+Part"]},
+         {"pos": 2, "text": "бар", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+IMIT"]},
+         {"pos": 2, "text": "бар", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "бэйэҕит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.2PL"]},
+         {"pos": 4, "text": "бэйэҕит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+2PL"]},
+         {"pos": 4, "text": "бэйэҕит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Pron", "+POSS.2PL"]},
+         {"pos": 5, "text": "быһаарсыҥ", "type": "lowercase", "fst": "fst"},
+         {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,42 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 108,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Ньомуос.",
+      "section": 29,
+      "notes": "Оно выражает уверенность говорящего в быстром, безоговорочном осуществлении действия при наличии какого-то условия.",
+      "sah": "Дьиҥэ, киһи барыта булт инспекторыныын, кинилэри уоруйах курдук көрөллере буоллар, ньомуос, тохтуо, этилэр.",
+      "ru": "В самом деле, если бы все люди и охотинспектор относились бы к ним как к ворам, то они, как миленькие, прекратили бы браконьерство.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Дьиҥэ", "type": "title", "fst": "fst", "root": "дьиҥ", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+         {"pos": 4, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "барый", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 4, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+POSS.3SG"]},
+         {"pos": 4, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+PRTV"]},
+         {"pos": 4, "text": "барыта", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#2", "+ADVZ#8"]},
+         {"pos": 5, "text": "булт", "type": "lowercase", "fst": "fst", "root": "булт", "affixes": ["+N"]},
+         {"pos": 6, "text": "инспекторыныын", "type": "lowercase", "fst": "fst"},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "кинилэри", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+PL", "+ACC"]},
+         {"pos": 9, "text": "уоруйах", "type": "lowercase", "fst": "fst", "root": "уоруйах", "affixes": ["+Adj"]},
+         {"pos": 10, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+POST"]},
+         {"pos": 10, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "курдук", "affixes": ["+Part"]},
+         {"pos": 10, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+Adj", "+ADVZ#5"]},
+         {"pos": 10, "text": "курдук", "type": "lowercase", "fst": "fst", "root": "кур", "affixes": ["+N", "+ADVZ#5"]},
+         {"pos": 11, "text": "көрөллере", "type": "lowercase", "fst": "fst"},
+         {"pos": 12, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 12, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PL"]},
+         {"pos": 13, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 14, "text": "ньомуос", "type": "lowercase", "fst": "fst", "root": "ньомуос", "affixes": ["+MOD"]},
+         {"pos": 15, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 16, "text": "тохтуо", "type": "lowercase", "fst": "fst", "root": "тохтоо", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 16, "text": "тохтуо", "type": "lowercase", "fst": "fst", "root": "той", "affixes": ["+V", "+NMLZ#6", "+VRBLZ#1", "+PART_FUT"]},
+         {"pos": 17, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 18, "text": "этилэр", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3PL"]},
+         {"pos": 19, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,39 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 80,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "Значение преждепрошедшего повествовательного времени в якутском языке",
+      "section": 18,
+      "notes": "Причастие на -быт, принявшее аффикс принадлежности, так же, как и любая причастная форма, может субстантивироваться, обозначая при этом объект действия, результат действия и само действие, мыслимое отвлеченно. В синтаксическом отношении в этих случаях оно выполняет, как правило, роль подлежащего и дополнения.",
+      "sah": "Ыал хамначчыта күтүөттээх диэн дьон күлүүтэ буолуом кэриэтэ өлбүтүм ордук.",
+      "ru": "Мне лучше умереть (букв., смерть моя лучше), чем стать посмешищем для людей, имея зятем чужого батрака.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ыал", "type": "title", "fst": "fst", "root": "ыал", "affixes": ["+N"]},
+         {"pos": 1, "text": "Ыал", "type": "title", "fst": "fst", "root": "ыа", "affixes": ["+V", "+NMLZ#9"]},
+         {"pos": 2, "text": "хамначчыта", "type": "lowercase", "fst": "fst", "root": "хамнаа", "affixes": ["+V", "+ADVZ#2", "+POSS.3SG"]},
+         {"pos": 2, "text": "хамначчыта", "type": "lowercase", "fst": "fst", "root": "хамнас", "affixes": ["+N", "+NMLZ#1", "+POSS.3SG"]},
+         {"pos": 2, "text": "хамначчыта", "type": "lowercase", "fst": "fst", "root": "хам", "affixes": ["+Adv", "+VRBLZ#1", "+ADVZ#2", "+POSS.3SG"]},
+         {"pos": 3, "text": "күтүөттээх", "type": "lowercase", "fst": "fst", "root": "күтүөт", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "дьон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N"]},
+         {"pos": 6, "text": "күлүүтэ", "type": "lowercase", "fst": "fst", "root": "күл", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2", "+POSS.3SG"]},
+         {"pos": 6, "text": "күлүүтэ", "type": "lowercase", "fst": "fst", "root": "күл", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2", "+PRTV"]},
+         {"pos": 6, "text": "күлүүтэ", "type": "lowercase", "fst": "fst", "root": "күл", "affixes": ["+N", "+VRBLZ#3", "+CONV#2", "+ADVZ#8"]},
+         {"pos": 6, "text": "күлүүтэ", "type": "lowercase", "fst": "fst", "root": "күл", "affixes": ["+V", "+NMLZ#2", "+POSS.3SG"]},
+         {"pos": 6, "text": "күлүүтэ", "type": "lowercase", "fst": "fst", "root": "күл", "affixes": ["+V", "+NMLZ#2", "+PRTV"]},
+         {"pos": 7, "text": "буолуом", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT", "+POSS.1SG"]},
+         {"pos": 8, "text": "кэриэтэ", "type": "lowercase", "fst": "fst", "root": "кэриэтэ", "affixes": ["+POST"]},
+         {"pos": 8, "text": "кэриэтэ", "type": "lowercase", "fst": "fst", "root": "кэриэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 8, "text": "кэриэтэ", "type": "lowercase", "fst": "fst", "root": "кэриэ", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 8, "text": "кэриэтэ", "type": "lowercase", "fst": "fst", "root": "кэриэ", "affixes": ["+N", "+PRTV"]},
+         {"pos": 8, "text": "кэриэтэ", "type": "lowercase", "fst": "fst", "root": "кэриэ", "affixes": ["+Part", "+POSS.3SG"]},
+         {"pos": 8, "text": "кэриэтэ", "type": "lowercase", "fst": "fst", "root": "кэриэ", "affixes": ["+Part", "+PRTV"]},
+         {"pos": 9, "text": "өлбүтүм", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 10, "text": "ордук", "type": "lowercase", "fst": "fst", "root": "орт", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 10, "text": "ордук", "type": "lowercase", "fst": "fst", "root": "орт", "affixes": ["+V", "+NMLZ#5"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

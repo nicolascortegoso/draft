@@ -1,0 +1,76 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 182,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "В модальном значении сатаммат выражает: а) недопустимость, невозможность предшествующей мысли, устанавливаемые говорящим.",
+      "sah": "Нарыл, сатаммат, тутуу управлениетыгар массыына тиийбэт.",
+      "ru": "Нарыл, нельзя, машин хватает в стройуправлении.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Нарыл", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "сатаммат", "type": "lowercase", "fst": "fst", "root": "сатаа", "affixes": ["+V", "+REFL/PASS", "+NEG", "+PART_PRES"]},
+         {"pos": 3, "text": "сатаммат", "type": "lowercase", "fst": "fst", "root": "сатай", "affixes": ["+V", "+REFL", "+NEG", "+PART_PRES"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "тутуу", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["+V", "+NMLZ#2"]},
+         {"pos": 6, "text": "управлениетыгар", "type": "lowercase", "fst": "fst", "root": "управление", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 6, "text": "управлениетыгар", "type": "lowercase", "fst": "fst", "root": "управление", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 7, "text": "массыына", "type": "lowercase", "fst": "fst", "root": "массыына", "affixes": ["+N"]},
+         {"pos": 8, "text": "тиийбэт", "type": "lowercase", "fst": "fst", "root": "тиий", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 182,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "В модальном значении сатаммат выражает: а) недопустимость, невозможность предшествующей мысли, устанавливаемые говорящим.",
+      "sah": "Оччоҕо дьон көрүө, арыгы иһэр эбит диэхтэрэ.",
+      "ru": "Тогда люди увидят, скажут, что он, оказывается, пьет.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Оччоҕо", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+DEF#2", "+DAT"]},
+         {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N"]},
+         {"pos": 3, "text": "көрүө", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#3", "+PART_FUT"]},
+         {"pos": 3, "text": "көрүө", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "арыгы", "type": "lowercase", "fst": "fst", "root": "арыгы", "affixes": ["+N"]},
+         {"pos": 5, "text": "арыгы", "type": "lowercase", "fst": "fst", "root": "арый", "affixes": ["+V", "+NMLZ#5", "+ACC"]},
+         {"pos": 6, "text": "иһэр", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+V", "+CSTV"]},
+         {"pos": 6, "text": "иһэр", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": "эбит", "type": "lowercase", "fst": "fst", "root": "эбит", "affixes": ["+Part"]},
+         {"pos": 7, "text": "эбит", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 7, "text": "эбит", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+1PL"]},
+         {"pos": 8, "text": "диэхтэрэ", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+ADJZ#16", "+PL", "+POSS.3SG"]},
+         {"pos": 8, "text": "диэхтэрэ", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+NMLZ#6", "+PL", "+POSS.3SG"]},
+         {"pos": 8, "text": "диэхтэрэ", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+PART_FUT", "+PL", "+POSS.3SG"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 182,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "3. Глагольные модальные слова.",
+      "section": 3,
+      "notes": "В модальном значении сатаммат выражает: в) возражение говорящего мыслям собеседника.",
+      "sah": "Сатаммат ээ, Дьөгүөр Уйбаанабыс.",
+      "ru": "Нельзя же, Егор Иванович.",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "Сатаммат", "type": "title", "fst": "fst", "root": "сатаа", "affixes": ["+V", "+REFL/PASS", "+NEG", "+PART_PRES"]},
+         {"pos": 1, "text": "Сатаммат", "type": "title", "fst": "fst", "root": "сатай", "affixes": ["+V", "+REFL", "+NEG", "+PART_PRES"]},
+         {"pos": 2, "text": "ээ", "type": "lowercase", "fst": "fst", "root": "ээ", "affixes": ["+MOD"]},
+         {"pos": 2, "text": "ээ", "type": "lowercase", "fst": "fst", "root": "ээ", "affixes": ["+Part"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "Дьөгүөр", "type": "title", "fst": "fst"},
+         {"pos": 5, "text": "Уйбаанабыс", "type": "title", "fst": "fst"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

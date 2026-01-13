@@ -1,0 +1,33 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 123,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Значение прошедшего незаконченного времени",
+      "section": 60,
+      "notes": "Полная форма прошедшего незаконченного времени в составе условного периода может употребляться в значении сослагательного наклонения, т. е. выражать действие, которое может осуществиться при наличии определенных условий. В данном случае эта форма переводится на русский язык частицей «бы».",
+      "sah": "Оо, Сэдьук ону билэрэ буоллар, Уйбаанчаны төһө эрэ мөҕөр этэ?",
+      "ru": "О, если бы это узнал Седюк, как бы он наругал Иванчу?",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Оо", "type": "title", "fst": "fst", "root": "оо", "affixes": ["+INJ"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "Сэдьук", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": "ону", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 5, "text": "билэрэ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 6, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 6, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PL"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "Уйбаанчаны", "type": "title", "fst": "fst"},
+         {"pos": 9, "text": "төһө", "type": "lowercase", "fst": "fst", "root": "төһө", "affixes": ["+Pron"]},
+         {"pos": 10, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 10, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 10, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 11, "text": "мөҕөр", "type": "lowercase", "fst": "fst", "root": "мөх", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 12, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 12, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 12, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 13, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,114 @@
+[
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 7,
+      "chapter": "Посвящение",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Леон Вертигэ",
+      "ru": "Леону Верту",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Леон", "type": "title", "fst": "fst", "root": "леон", "affixes": ["^PN"]},
+         {"pos": 2, "text": "Вертигэ", "type": "title", "fst": "fst", "root": "верти", "affixes": ["^PN", "+DAT"]}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 7,
+      "chapter": "Посвящение",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Бу кинигэни улахан киһиэхэ анаабытым, онон оҕолортон бырастыы гыныҥ диэн көрдөһөбүн.",
+      "ru": "Прошу детей простить меня за то, что я посвятил эту книжку взрослому.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "кинигэни", "type": "lowercase", "fst": "fst", "root": "кинигэ", "affixes": ["^N", "+ACC"]},
+         {"pos": 3, "text": "улахан", "type": "lowercase", "fst": "fst", "root": "улахан", "affixes": ["^Adj"]},
+         {"pos": 4, "text": "киһиэхэ", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["^N", "+DAT"]},
+         {"pos": 5, "text": "анаабытым", "type": "lowercase", "fst": "fst", "root": "анаа", "affixes": ["^V", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "онон", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["^Pron", "+INST"]},
+         {"pos": 8, "text": "оҕолортон", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["^N", "+PL", "+ABL"]},
+         {"pos": 9, "text": "бырастыы", "type": "lowercase", "fst": "fst", "root": "бырастыы", "affixes": ["^N"]},
+         {"pos": 10, "text": "гыныҥ", "type": "lowercase", "fst": "fst", "root": "гын", "affixes": ["^V", "+IMP#1.2PL"]},
+         {"pos": 11, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 12, "text": "көрдөһөбүн", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["^V", "+RECP", "+PART_PRES", "+1SG"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 7,
+      "chapter": "Посвящение",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Өссө: кини күн сиригэр өйдөөбөтө диэн суох, бэл оҕо кинигэлэрин кытта өйдүүр.",
+      "ru": "И еще: он понимает все на свете, даже детские книжки.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Өссө", "type": "title", "fst": "fst", "root": "өссө", "affixes": ["+Adv"]},
+         {"pos": 2, "text": ":", "type": "colon", "fst": "fst"},
+         {"pos": 3, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "күн", "type": "lowercase", "fst": "fst", "root": "күн", "affixes": ["+N"]},
+         {"pos": 5, "text": "сиригэр", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 6, "text": "өйдөөбөтө", "type": "lowercase", "fst": "fst", "root": "өй", "affixes": ["+N", "+VRBLZ#1", "+NEG", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 7, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 8, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 10, "text": "бэл", "type": "lowercase", "fst": "fst", "root": "бэл", "affixes": ["+MOD"]},
+         {"pos": 11, "text": "оҕо", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N"]},
+         {"pos": 12, "text": "кинигэлэрин", "type": "lowercase", "fst": "fst", "root": "кинигэ", "affixes": ["+N", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 13, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 14, "text": "өйдүүр", "type": "lowercase", "fst": "fst", "root": "өй", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES"]},
+         {"pos": 15, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 7,
+      "chapter": "Посвящение",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Улахан дьон төһө да умунналлар, бары оҕо буола сырыттахтара дии.",
+      "ru": "Ведь все взрослые сначала были детьми, только мало кто из них об этом помнит.",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Улахан", "type": "title", "fst": "fst", "root": "улахан", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N"]},
+         {"pos": 3, "text": "төһө", "type": "lowercase", "fst": "fst", "root": "төһө", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 5, "text": "умунналлар", "type": "lowercase", "fst": "fst", "root": "умун", "affixes": ["+V", "+CONV_COND#1", "+PL"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 7, "text": "бары", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron"]},
+         {"pos": 8, "text": "оҕо", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N"]},
+         {"pos": 9, "text": "буола", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 10, "text": "сырыттахтара", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+CONV_COND#2", "+PL", "+POSS.3SG"]},
+         {"pos": 11, "text": "дии", "type": "lowercase", "fst": "fst", "root": "дии", "affixes": ["+Part"]},
+         {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Кыра Тыгын",
+      "authors": "Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна",
+      "page": 7,
+      "chapter": "Посвящение",
+      "topic": "Литература",
+      "section": "",
+      "sah": "Итиччэтигэр, анабылбын көннөрөбүн:",
+      "ru": "Итак, я исправляю посвящение:",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Итиччэтигэр", "type": "title", "fst": "fst", "root": "ити", "affixes": ["^Pron", "+DEF#2", "+POSS.3SG", "+DAT"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "анабылбын", "type": "lowercase", "fst": "fst", "root": "анаа", "affixes": ["^V", "^NMLZ#4", "+POSS.1SG", "+ACC"]},
+         {"pos": 4, "text": "көннөрөбүн", "type": "lowercase", "fst": "fst", "root": "көн", "affixes": ["^V", "+CSTV", "+PART_PRES", "+1SG"]},
+         {"pos": 5, "text": ":", "type": "colon", "fst": "fst"}
+      ]
+   }
+]

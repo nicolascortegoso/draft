@@ -1,0 +1,25 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 246,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица кулу",
+      "section": 22,
+      "notes": "Частица кулу может сочетаться с другими частицами просьбы и повеления.",
+      "sah": "Оонньуурдарбын була охсон кулу даа.",
+      "ru": "Найди быстрее мои игрушки ради бога.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Оонньуурдарбын", "type": "title", "fst": "fst", "root": "оонньуу", "affixes": ["+N", "+VRBLZ#4", "+CONV_COND#1", "+POSS.1SG", "+ACC"]},
+         {"pos": 1, "text": "Оонньуурдарбын", "type": "title", "fst": "fst", "root": "оонньуу", "affixes": ["+N", "+VRBLZ#4", "+CONV_COND#1", "+1SG"]},
+         {"pos": 1, "text": "Оонньуурдарбын", "type": "title", "fst": "fst", "root": "оонньуу", "affixes": ["+N", "+VRBLZ#4", "+CSTV", "+PART_PRES", "+POSS.1SG", "+ACC"]},
+         {"pos": 2, "text": "була", "type": "lowercase", "fst": "fst", "root": "бул", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "охсон", "type": "lowercase", "fst": "fst", "root": "оҕус", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 4, "text": "кулу", "type": "lowercase", "fst": "fst", "root": "кулу", "affixes": ["+V"]},
+         {"pos": 5, "text": "даа", "type": "lowercase", "fst": "fst", "root": "даа", "affixes": ["+IMIT"]},
+         {"pos": 5, "text": "даа", "type": "lowercase", "fst": "fst", "root": "даа", "affixes": ["+MOD"]},
+         {"pos": 5, "text": "даа", "type": "lowercase", "fst": "fst", "root": "даа", "affixes": ["+Part"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,28 @@
+[
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 174,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "2. Наречные модальные слова.",
+      "section": 2,
+      "notes": "Кроме того, чыыста выражает или усиливает ограничение, выделение предмета речи или высказываемой мысли в целом. В этом значении чыыста употребляется совместно с ограничительной частицей эрэ в одном предложении.",
+      "sah": "Чыыста бэйэтигэр эрэ чып кистэлэҥинэн.",
+      "ru": "Только лишь одной (сказано) абсолютно секретно.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Чыыста", "type": "title", "fst": "fst", "root": "чыыста", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "бэйэтигэр", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+ADJZ#16", "+VRBLZ#4a"]},
+         {"pos": 2, "text": "бэйэтигэр", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 2, "text": "бэйэтигэр", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Pron", "+POSS.3SG", "+DAT"]},
+         {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ", "affixes": ["+Part"]},
+         {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "чып", "type": "lowercase", "fst": "fst", "root": "чып", "affixes": ["+IMIT"]},
+         {"pos": 4, "text": "чып", "type": "lowercase", "fst": "fst", "root": "чып", "affixes": ["+Part"]},
+         {"pos": 5, "text": "кистэлэҥинэн", "type": "lowercase", "fst": "fst", "root": "кистээ", "affixes": ["+V", "+NMLZ#7", "+INST"]},
+         {"pos": 5, "text": "кистэлэҥинэн", "type": "lowercase", "fst": "fst", "root": "кистээ", "affixes": ["+V", "+NMLZ#7", "+POSS.3SG", "+INST"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

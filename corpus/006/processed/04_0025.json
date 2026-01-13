@@ -1,0 +1,25 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 247,
+        "chapter": "Глава 4. Отглагольные частицы",
+        "topic": "Частицы муҥутаан, муҥнаан",
+        "section": 25,
+        "notes": "Частица муҥутаан, употребляясь с прилагательными, именами и причастием, выражает высокую степень признака в плане субъективной оценки говорящего.",
+        "sah": "Сымыйалыырын айыыргыыр муҥутаан, ону эппэтэх күтүр буолуо ээ.",
+        "ru": "Этот дурак, считающий вранье за грех, наверно, не сказал этого.",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Сымыйалыырын", "type": "title", "fst": "fst", "root": "сымыйа", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES", "+POSS.3SG", "+ACC"]},
+           {"pos": 2, "text": "айыыргыыр", "type": "lowercase", "fst": "fst", "root": "айыы", "affixes": ["+N", "+VRBLZ#7", "+PART_PRES"]},
+           {"pos": 3, "text": "муҥутаан", "type": "lowercase", "fst": "fst", "root": "муҥутаа", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 5, "text": "ону", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 6, "text": "эппэтэх", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+NEG", "+PART_PAST"]},
+           {"pos": 7, "text": "күтүр", "type": "lowercase", "fst": "fst", "root": "күтүр", "affixes": ["+Adj"]},
+           {"pos": 8, "text": "буолуо", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_FUT"]},
+           {"pos": 9, "text": "ээ", "type": "lowercase", "fst": "fst", "root": "ээ", "affixes": ["+Part"]},
+           {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }
+]

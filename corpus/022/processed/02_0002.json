@@ -1,0 +1,140 @@
+[
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 120,
+        "chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+        "topic": "3.2.2.1 The Dative case in Sakha",
+        "section": "17a",
+        "notes": "In Sakha, the Dative expresses various functions, among others recipients (17a) and benefactives (17b).",
+        "sah": "Ол киһи миэхэ үчүгэйдик үлэлээбитим иһин пахвалнай грамота биэрбитэ.",
+        "en": "That man gave me a certificate of merit because I had worked well [that person 1SG.DAT good–ADVR work–VR–PSTPT–POSS.1SG for certificate.of.merit give–PSTPT–POSS.3SG]",
+        "id": 1,
+        "parses": [
+            {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи", "affixes": ["+N"]},
+            {"pos": 3, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин", "affixes": ["+Pron", "+DAT"]},
+            {"pos": 4, "text": "үчүгэйдик", "type": "lowercase", "fst": "ymv", "root": "үчүгэй", "affixes": ["+Adj", "+ADVZ#5"]},
+            {"pos": 5, "text": "үлэлээбитим", "type": "lowercase", "fst": "ymv", "root": "үлэ", "affixes": ["+N", "+VRBLZ#1", "+PART_PAST", "+POSS.1SG"]},
+            {"pos": 6, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин", "affixes": ["+POST"]},
+            {"pos": 7, "text": "пахвалнай", "type": "lowercase", "fst": "yma", "root": "пахвалнай", "affixes": ["+Adj"]},
+            {"pos": 8, "text": "грамота", "type": "lowercase", "fst": "ymv", "root": "грамота", "affixes": ["+N"]},
+            {"pos": 9, "text": "биэрбитэ", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+            {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },   
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 120,
+        "chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+        "topic": "3.2.2.1 The Dative case in Sakha",
+        "section": "17b",
+        "notes": "In Sakha, the Dative expresses various functions, among others recipients (17a) and benefactives (17b).",
+        "sah": "Оччоҕо биһиги эһиэхэ итинник кэпсээн биэрэбит дуо?",
+        "en": "So shall we tell you (our story) in this way? [in.that.case 1PL 2SG.DAT this.OBL–ADVR tell–PF.CVB BEN–IPF.CVB–1PL Q]",
+        "id": 2,
+        "parses": [
+            {"pos": 1, "text": "Оччоҕо", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+DEF#2", "+DAT"]},
+            {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron"]},
+            {"pos": 3, "text": "эһиэхэ", "type": "lowercase", "fst": "ymv", "root": "эһиги", "affixes": ["+Pron", "+DAT"]},
+            {"pos": 4, "text": "итинник", "type": "lowercase", "fst": "ymv", "root": "ити", "affixes": ["+Pron", "+DEF"]},
+            {"pos": 5, "text": "кэпсээн", "type": "lowercase", "fst": "ymv", "root": "кэпсээ", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 6, "text": "биэрэбит", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V", "+PART_PRES", "+1PL"]},
+            {"pos": 7, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо", "affixes": ["+Part"]},
+            {"pos": 8, "text": "?", "type": "question", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+        "chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+        "topic": "3.2.2.1 The Dative case in Sakha",
+        "section": "18a",
+        "notes": "It furthermore fulfills locative functions, both spatially (18a, b) and temporally (18c).",
+        "sah": "Ол сиргэ сытаммын оттуубун.",
+        "en": "I live in that place and make hay. [that place–DAT lie–PF.CVB–PRED.1SG hay–VR–IPF.CVB–PRED.1SG]",
+        "id": 3,
+        "parses": [
+            {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "сиргэ", "type": "lowercase", "fst": "ymv", "root": "сир", "affixes": ["+N", "+DAT"]},
+            {"pos": 3, "text": "сытаммын", "type": "lowercase", "fst": "ymv", "root": "сыт", "affixes": ["+V", "+CONV#1", "+1SG"]},
+            {"pos": 4, "text": "оттуубун", "type": "lowercase", "fst": "ymv", "root": "от", "affixes": ["+N", "+VRBLZ#1", "+PART_PRES", "+1SG"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+    },    
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+        "chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+        "topic": "3.2.2.1 The Dative case in Sakha",
+        "section": "18b",
+        "notes": "It furthermore fulfills locative functions, both spatially (18a, b) and temporally (18c).",
+        "sah": "Ол алааска төрөөбүтүм.",
+        "en": "In that alaas (circular meadow in the forest) I was born. [that ala:s–DAT be.born–PSTPT–POSS.1SG]",
+        "id": 4,
+        "parses": [
+            {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "алааска", "type": "lowercase", "fst": "ymv", "root": "алаас", "affixes": ["+N", "+DAT"]},
+            {"pos": 3, "text": "төрөөбүтүм", "type": "lowercase", "fst": "ymv", "root": "төрөө", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+            {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+        "chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+        "topic": "3.2.2.1 The Dative case in Sakha",
+        "section": "18c",
+        "notes": "It furthermore fulfills locative functions, both spatially (18a, b) and temporally (18c).",
+        "sah": "Күҥҥэ түөрт уон тиийэ өлөрөр этим.",
+        "en": "I used to kill up to forty (ducks) in a day [day–DAT four ten–DAT reach–IPF.CVB die–CAUS–PRSPT AUX–PST–POSS.1SG]",
+        "id": 5,
+        "parses": [
+            {"pos": 1, "text": "Күҥҥэ", "type": "title", "fst": "ymv", "root": "күн", "affixes": ["+N", "+DAT"]},
+            {"pos": 2, "text": "түөрт", "type": "lowercase", "fst": "ymv", "root": "түөрт", "affixes": ["+Num"]},
+            {"pos": 3, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон", "affixes": ["+Num"]},
+            {"pos": 4, "text": "тиийэ", "type": "lowercase", "fst": "ymv", "root": "тиий", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 5, "text": "өлөрөр", "type": "lowercase", "fst": "ymv", "root": "өл", "affixes": ["+V", "+CSTV", "+PART_PRES"]},
+            {"pos": 6, "text": "этим", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PST.1SG"]},
+            {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+        "chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+        "topic": "3.2.2.1 The Dative case in Sakha",
+        "section": "19a",
+        "notes": "Finally, it covers allative and illative functions too, expressing motion towards (19a) and into a place (19b).",
+        "sah": "Иллэрээ сыл буоллаҕына куоракка бара сылдьыбытым.",
+        "en": "The year before last I went to town (Yakutsk). [before.last year however town–DAT go–IPF.CVB IPFV–PSTPT–POSS.1SG]",
+        "id": 6,
+        "parses": [
+            {"pos": 1, "text": "Иллэрээ", "type": "title", "fst": "ymv", "root": "иллэрээ", "affixes": ["+Adv"]},
+            {"pos": 2, "text": "сыл", "type": "lowercase", "fst": "ymv", "root": "сыл", "affixes": ["+N"]},
+            {"pos": 3, "text": "буоллаҕына", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV_COND#2", "+POSS.3SG", "+PRTV"]},
+            {"pos": 4, "text": "куоракка", "type": "lowercase", "fst": "ymv", "root": "куорат", "affixes": ["+N", "+DAT"]},
+            {"pos": 5, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 6, "text": "сылдьыбытым", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+            {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 121,
+        "chapter": "3.2.2 Extension of the Sakha Dative to include locative and allative functions",
+        "topic": "3.2.2.1 The Dative case in Sakha",
+        "section": "19b",
+        "notes": "Finally, it covers allative and illative functions too, expressing motion towards (19a) and into a place (19b).",
+        "sah": "Умуһахха киирэннэр арыыны илдьэ бардылар.",
+        "en": "They entered the milk-cellar and took away the butter. [milk.cellar–DAT enter–PF.CVB–PL butter–ACC carry–IPF.CVB go–PST–PL]",
+        "id": 7,
+        "parses": [
+            {"pos": 1, "text": "Умуһахха", "type": "title", "fst": "ymv", "root": "умуһах", "affixes": ["+N", "+DAT"]},
+            {"pos": 2, "text": "киирэннэр", "type": "lowercase", "fst": "ymv", "root": "киир", "affixes": ["+V", "+CONV#1", "+PL"]},
+            {"pos": 3, "text": "арыыны", "type": "lowercase", "fst": "ymv", "root": "арыы", "affixes": ["+N", "+ACC"]},
+            {"pos": 4, "text": "илдьэ", "type": "lowercase", "fst": "ymv", "root": "илт", "affixes": ["+V", "+CONV#2"]},
+            {"pos": 5, "text": "бардылар", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PST.3PL"]},
+            {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }
+]

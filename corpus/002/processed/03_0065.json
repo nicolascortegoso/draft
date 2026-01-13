@@ -1,0 +1,51 @@
+[
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 128,
+        "chapter": "Глава III. Прошедшее время",
+        "topic": "7. Другие случаи образования и употребления Давнопрошедшего (предпрошедшего) времени",
+        "section": 65,
+        "notes": "1. Сочетание с формой этэ формы недавнопрошедшего категорического времени от любого самостоятельного глагола.",
+        "sah": "Биирдии киһи сүүрбэлии паараны атаҕар кээмэйдээтэ быһыылаах этэ.",
+        "ru": "Каждый человек, кажется, по двадцать пар перемерил было на своих ногах.",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Биирдии", "type": "title", "fst": "fst", "root": "биир", "affixes": ["+Num", "+DISTR"]},
+           {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+           {"pos": 3, "text": "сүүрбэлии", "type": "lowercase", "fst": "fst", "root": "сүүрбэ", "affixes": ["+Num", "+DISTR"]},
+           {"pos": 4, "text": "паараны", "type": "lowercase", "fst": "fst", "root": "паара", "affixes": ["+N", "+ACC"]},
+           {"pos": 5, "text": "атаҕар", "type": "lowercase", "fst": "fst", "root": "атах", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+           {"pos": 6, "text": "кээмэйдээтэ", "type": "lowercase", "fst": "fst", "root": "кээмэй", "affixes": ["+N", "+VRBLZ#1", "+PST.3SG"]},
+           {"pos": 7, "text": "быһыылаах", "type": "lowercase", "fst": "fst", "root": "быһыы", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 8, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+           {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 130,
+        "chapter": "Глава III. Прошедшее время",
+        "topic": "7. Другие случаи образования и употребления Давнопрошедшего (предпрошедшего) времени",
+        "section": 65,
+        "notes": "3. Сочетание формы прошедшего результативного времени второго с формой этэ.",
+        "sah": "Кини миэхэ сүүрбэ биэс солкуобайы иэс биэрэн турар этэ — ону төннөрүөх баар.",
+        "ru": "Он мне одолжил было, двадцать пять рублей, — надо бы их вернуть.",
+        "id": 15,
+        "parses": [
+           {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron"]},
+           {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron", "+DAT"]},
+           {"pos": 3, "text": "сүүрбэ", "type": "lowercase", "fst": "fst", "root": "сүүрбэ", "affixes": ["+Num"]},
+           {"pos": 4, "text": "биэс", "type": "lowercase", "fst": "fst", "root": "биэс", "affixes": ["+Num"]},
+           {"pos": 5, "text": "солкуобайы", "type": "lowercase", "fst": "fst", "root": "солкуобай", "affixes": ["+N", "+ACC"]},
+           {"pos": 6, "text": "иэс", "type": "lowercase", "fst": "fst", "root": "иэс", "affixes": ["+N"]},
+           {"pos": 7, "text": "биэрэн", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 8, "text": "турар", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 9, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.3SG"]},
+           {"pos": 10, "text": "—", "type": "dash", "fst": "fst"},
+           {"pos": 11, "text": "ону", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 12, "text": "төннөрүөх", "type": "lowercase", "fst": "fst", "root": "төннөр", "affixes": ["+V", "+PART_FUT"]},
+           {"pos": 13, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар", "affixes": ["+V"]},
+           {"pos": 14, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }
+]

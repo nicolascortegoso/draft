@@ -1,0 +1,98 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 97,
+      "chapter": "Глава 2. Собственно частицы",
+      "topic": "Частицы бэйэлээхтик, бэйэкэлээхтик (бэйэккэлээхтик), бэйэкээннээхтик",
+      "section": 22,
+      "notes": "Частица бэйэлээхтик восходит к бэйэ аффикс обладания -лаах и аффикс -тык, образующий наречия. Она употребляется только в значении частицы и относится к группе собственно словообразующих частиц. Бэйэлээхтик образует наречия от прилагательных.",
+      "sah": "Мэхээчэ холку бэйэлээхтик утуйа сытар.",
+      "ru": "Михача спит очень спокойно",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мэхээчэ", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "холку", "type": "lowercase", "fst": "fst", "root": "холку", "affixes": ["+Adj"]},
+         {"pos": 3, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 3, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Part", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 4, "text": "утуйа", "type": "lowercase", "fst": "fst", "root": "утуй", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "сытар", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+V", "+CSTV"]},
+         {"pos": 5, "text": "сытар", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 97,
+      "chapter": "Глава 2. Собственно частицы",
+      "topic": "Частицы бэйэлээхтик, бэйэкэлээхтик (бэйэккэлээхтик), бэйэкээннээхтик",
+      "section": 22,
+      "notes": "Частица бэйэлээхтик восходит к бэйэ аффикс обладания -лаах и аффикс -тык, образующий наречия. Она употребляется только в значении частицы и относится к группе собственно словообразующих частиц. Бэйэлээхтик образует наречия от прилагательных.",
+      "sah": "Сүрдээх суон да буоллар, чэпчэки бэйэлээхтик хаамар.",
+      "ru": "Хотя он такой тучный, но ходит очень легко.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Сүрдээх", "type": "title", "fst": "fst", "root": "сүр", "affixes": ["+N", "+ADJZ#1"]},
+         {"pos": 2, "text": "суон", "type": "lowercase", "fst": "fst", "root": "суон", "affixes": ["+Adj"]},
+         {"pos": 3, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 4, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 4, "text": "буоллар", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PL"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "чэпчэки", "type": "lowercase", "fst": "fst", "root": "чэпчэки", "affixes": ["+Adj"]},
+         {"pos": 7, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 7, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Part", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 8, "text": "хаамар", "type": "lowercase", "fst": "fst", "root": "хаамп", "affixes": ["+V", "+CSTV"]},
+         {"pos": 8, "text": "хаамар", "type": "lowercase", "fst": "fst", "root": "хаамп", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 97,
+      "chapter": "Глава 2. Собственно частицы",
+      "topic": "Частицы бэйэлээхтик, бэйэкэлээхтик (бэйэккэлээхтик), бэйэкээннээхтик",
+      "section": 22,
+      "notes": "Частица бэйэлээхтик восходит к бэйэ аффикс обладания -лаах и аффикс -тык, образующий наречия. Она употребляется только в значении частицы и относится к группе собственно словообразующих частиц. Бэйэлээхтик образует наречия от прилагательных.",
+      "sah": "Дьахтар сытыы бэйэлээхтик часкыйда.",
+      "ru": "Женщина пронзительно вскрикнула от испуга.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Дьахтар", "type": "title", "fst": "fst", "root": "дьахтар", "affixes": ["+N"]},
+         {"pos": 2, "text": "сытыы", "type": "lowercase", "fst": "fst", "root": "сытыы", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "сытыы", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2"]},
+         {"pos": 2, "text": "сытыы", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+N", "+VRBLZ#3", "+CONV#2"]},
+         {"pos": 2, "text": "сытыы", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+V", "+NMLZ#2"]},
+         {"pos": 3, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 3, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Part", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 4, "text": "часкыйда", "type": "lowercase", "fst": "fst", "root": "часкый", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 97,
+      "chapter": "Глава 2. Собственно частицы",
+      "topic": "Частицы бэйэлээхтик, бэйэкэлээхтик (бэйэккэлээхтик), бэйэкээннээхтик",
+      "section": 22,
+      "notes": "Частица бэйэлээхтик восходит к бэйэ аффикс обладания -лаах и аффикс -тык, образующий наречия. Она употребляется только в значении частицы и относится к группе собственно словообразующих частиц. Бэйэлээхтик образует наречия от прилагательных.",
+      "sah": "Долгуйбута биллибэт, хата, дьоһун бэйэлээхтик туттар.",
+      "ru": "Не видно его волнения, наоборот, держится очень важно.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Долгуйбута", "type": "title", "fst": "fst", "root": "долгуй", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 2, "text": "биллибэт", "type": "lowercase", "fst": "fst", "root": "билин", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "хата", "type": "lowercase", "fst": "fst", "root": "хата", "affixes": ["+MOD"]},
+         {"pos": 4, "text": "хата", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["+Adj", "+POSS.3SG"]},
+         {"pos": 4, "text": "хата", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "дьоһун", "type": "lowercase", "fst": "fst", "root": "дьоһун", "affixes": ["+Adj"]},
+         {"pos": 7, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 7, "text": "бэйэлээхтик", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+Part", "+ADJZ#1", "+ADVZ#5"]},
+         {"pos": 8, "text": "туттар", "type": "lowercase", "fst": "fst", "root": "тутун", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 8, "text": "туттар", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["+V", "+CAUS"]},
+         {"pos": 8, "text": "туттар", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 8, "text": "туттар", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["+V", "+REFL", "+PART_PRES"]},
+         {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

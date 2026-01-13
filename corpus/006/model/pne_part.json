@@ -1,0 +1,1279 @@
+[
+  {
+  "sentence": "Кини билигин хараҕын астар эрэ сылбах хаарыгар халыйбыт кыа хааны, сэймэктэммит курупааскылары көрүөххэ айылаах.",
+  "translation": "Now, his eyes are only on the snow-covered branches, and he is eager to see the frozen droplets.",
+  "words": [
+    {
+      "word": "Кини",
+      "root": "кини",
+      "morphology": "Pronoun, 3rd person singular, nominative case ('he/she')."
+    },
+    {
+      "word": "билигин",
+      "root": "билигин",
+      "morphology": "Adverb ('now')."
+    },
+    {
+      "word": "хараҕын",
+      "root": "хараҕы",
+      "suffixes": ["-н (possessive suffix, 3rd person singular: 'his')"],
+      "morphology": "Noun, singular, accusative case with possessive suffix ('his eyes')."
+    },
+    {
+      "word": "астар",
+      "root": "астар",
+      "morphology": "Noun, plural, nominative case ('branches')."
+    },
+    {
+      "word": "эрэ",
+      "root": "эрэ",
+      "morphology": "Particle ('only')."
+    },
+    {
+      "word": "сылбах",
+      "root": "сылбах",
+      "morphology": "Noun, singular, nominative case ('snow')."
+    },
+    {
+      "word": "хаарыгар",
+      "root": "хаар",
+      "suffixes": ["-ы (possessive suffix, 3rd person singular: 'its')", "-гар (dative case marker: 'to/for')"],
+      "morphology": "Noun, singular, dative case with possessive suffix ('to its snow')."
+    },
+    {
+      "word": "халыйбыт",
+      "root": "халый",
+      "suffixes": ["-быт (past participle marker: 'covered')"],
+      "morphology": "Verb, past participle ('covered')."
+    },
+    {
+      "word": "кыа",
+      "root": "кыа",
+      "morphology": "Noun, singular, nominative case ('branch')."
+    },
+    {
+      "word": "хааны",
+      "root": "хаан",
+      "suffixes": ["-ы (accusative case marker)"],
+      "morphology": "Noun, singular, accusative case ('blood')."
+    },
+    {
+      "word": "сэймэктэммит",
+      "root": "сэймэктэ",
+      "suffixes": ["-ммит (past participle marker: 'frozen')"],
+      "morphology": "Verb, past participle ('frozen')."
+    },
+    {
+      "word": "курупааскылары",
+      "root": "курупааскы",
+      "suffixes": ["-лар (plural marker)", "-ы (accusative case marker)"],
+      "morphology": "Noun, plural, accusative case ('droplets')."
+    },
+    {
+      "word": "көрүөххэ",
+      "root": "көр",
+      "suffixes": ["-үөх (future tense marker)", "-хэ (dative case marker: 'to/for')"],
+      "morphology": "Verb, future tense, dative case ('to see')."
+    },
+    {
+      "word": "айылаах",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')"],
+      "morphology": "Adjective ('interesting, having a melody')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Кини билигин хараҕын астар эрэ сылбах хаарыгар халыйбыт кыа хааны",
+    "subordinate_clause": "сэймэктэммит курупааскылары көрүөххэ айылаах",
+    "description": "The sentence describes someone focusing on snow-covered branches and being eager to see frozen droplets."
+  }
+},
+{
+  "sentence": "Сибилигин кини ханнык да тыллары эттэҕинэ, чэпчэкитик, халы-мааргытык иһиллиэх айылаахтар.",
+  "translation": "Whenever he speaks any words, they are heard softly and gently, with a pleasant tone.",
+  "words": [
+    {
+      "word": "Сибилигин",
+      "root": "сибилигин",
+      "morphology": "Adverb ('whenever')."
+    },
+    {
+      "word": "кини",
+      "root": "кини",
+      "morphology": "Pronoun, 3rd person singular, nominative case ('he/she')."
+    },
+    {
+      "word": "ханнык",
+      "root": "ханнык",
+      "morphology": "Pronoun, interrogative ('what kind of')."
+    },
+    {
+      "word": "да",
+      "root": "да",
+      "morphology": "Particle ('even, any')."
+    },
+    {
+      "word": "тыллары",
+      "root": "тыл",
+      "suffixes": ["-лар (plural marker)", "-ы (accusative case marker)"],
+      "morphology": "Noun, plural, accusative case ('words')."
+    },
+    {
+      "word": "эттэҕинэ",
+      "root": "эт",
+      "suffixes": [
+        "-тэ (causative marker)",
+        "-ҕинэ (conditional marker: 'if/when')"
+      ],
+      "morphology": "Verb, conditional mood, 3rd person singular ('if/when he speaks')."
+    },
+    {
+      "word": "чэпчэкитик",
+      "root": "чэпчэки",
+      "suffixes": ["-тик (adverbial suffix: 'softly')"],
+      "morphology": "Adverb ('softly')."
+    },
+    {
+      "word": "халы-мааргытык",
+      "root": "халы-мааргы",
+      "suffixes": ["-тык (adverbial suffix: 'gently')"],
+      "morphology": "Adverb ('gently')."
+    },
+    {
+      "word": "иһиллиэх",
+      "root": "иһил",
+      "suffixes": ["-лиэх (optative mood marker: 'let it be heard')"],
+      "morphology": "Verb, optative mood ('let it be heard')."
+    },
+    {
+      "word": "айылаахтар",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')", "-тар (plural marker)"],
+      "morphology": "Adjective, plural ('pleasant, having a melody')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Сибилигин кини ханнык да тыллары эттэҕинэ",
+    "subordinate_clause": "чэпчэкитик, халы-мааргытык иһиллиэх айылаахтар",
+    "description": "The sentence describes how, whenever he speaks any words, they are heard softly and gently, with a pleasant tone."
+  }
+},
+{
+  "sentence": "Истиэнэҕэ турар телефон субу өрө тырылыы түһүөххэ айылааҕа.",
+  "translation": "The phone standing on the table might fall if it is tilted too much.",
+  "words": [
+    {
+      "word": "Истиэнэҕэ",
+      "root": "истиэнэ",
+      "suffixes": ["-ҕэ (locative case marker: 'on')"],
+      "morphology": "Noun, singular, locative case ('on the table')."
+    },
+    {
+      "word": "турар",
+      "root": "тур",
+      "suffixes": ["-ар (present participle marker: 'standing')"],
+      "morphology": "Verb, present participle ('standing')."
+    },
+    {
+      "word": "телефон",
+      "root": "телефон",
+      "morphology": "Noun, singular, nominative case ('phone')."
+    },
+    {
+      "word": "субу",
+      "root": "субу",
+      "morphology": "Adverb ('there, in that place')."
+    },
+    {
+      "word": "өрө",
+      "root": "өрө",
+      "morphology": "Adverb ('too much, excessively')."
+    },
+    {
+      "word": "тырылыы",
+      "root": "тырыл",
+      "suffixes": ["-ыы (verbal noun marker: 'tilting')"],
+      "morphology": "Verb, verbal noun ('tilting')."
+    },
+    {
+      "word": "түһүөххэ",
+      "root": "түһ",
+      "suffixes": ["-үөх (potential mood marker: 'might')", "-хэ (dative case marker: 'to/for')"],
+      "morphology": "Verb, potential mood, dative case ('might fall')."
+    },
+    {
+      "word": "айылааҕа",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')", "-а (3rd person singular possessive marker)"],
+      "morphology": "Adjective, 3rd person singular ('having a melody, pleasant')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Истиэнэҕэ турар телефон",
+    "subordinate_clause": "субу өрө тырылыы түһүөххэ айылааҕа",
+    "description": "The sentence describes a phone standing on the table that might fall if it is tilted too much."
+  }
+},
+{
+  "sentence": "Кыырт ити айылаах илистибит хабдьыны ыраах ыыппатаҕа биллэр.",
+  "translation": "It is clear that Kyrt did not take that interesting stolen item far away.",
+  "words": [
+    {
+      "word": "Кыырт",
+      "root": "Кыырт",
+      "morphology": "Proper noun, singular, nominative case ('Kyrt')."
+    },
+    {
+      "word": "ити",
+      "root": "ити",
+      "morphology": "Pronoun, demonstrative ('that')."
+    },
+    {
+      "word": "айылаах",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')"],
+      "morphology": "Adjective ('interesting, having a melody')."
+    },
+    {
+      "word": "илистибит",
+      "root": "илист",
+      "suffixes": ["-ибит (past tense marker, 3rd person singular: 'stole')"],
+      "morphology": "Verb, past tense, 3rd person singular ('stole')."
+    },
+    {
+      "word": "хабдьыны",
+      "root": "хабдьы",
+      "suffixes": ["-ны (accusative case marker)"],
+      "morphology": "Noun, singular, accusative case ('item')."
+    },
+    {
+      "word": "ыраах",
+      "root": "ыраах",
+      "morphology": "Adverb ('far away')."
+    },
+    {
+      "word": "ыыппатаҕа",
+      "root": "ыып",
+      "suffixes": [
+        "-па (negative marker: 'did not')",
+        "-таҕа (past tense marker, 3rd person singular: 'take')"
+      ],
+      "morphology": "Verb, negative past tense, 3rd person singular ('did not take')."
+    },
+    {
+      "word": "биллэр",
+      "root": "бил",
+      "suffixes": ["-лэр (present tense marker, 3rd person singular: 'is clear')"],
+      "morphology": "Verb, present tense, 3rd person singular ('is clear')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Кыырт ити айылаах илистибит хабдьыны ыраах ыыппатаҕа",
+    "subordinate_clause": "биллэр",
+    "description": "The sentence states that it is clear Kyrt did not take the interesting stolen item far away."
+  }
+},
+{
+  "sentence": "Туох айылаах бачча сүтэр бэйэтэй.",
+  "translation": "What a pleasant thing is lost with itself.",
+  "words": [
+    {
+      "word": "Туох",
+      "root": "туох",
+      "morphology": "Pronoun, interrogative ('what')."
+    },
+    {
+      "word": "айылаах",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')"],
+      "morphology": "Adjective ('pleasant, having a melody')."
+    },
+    {
+      "word": "бачча",
+      "root": "бачча",
+      "morphology": "Adverb ('so, this much')."
+    },
+    {
+      "word": "сүтэр",
+      "root": "сүт",
+      "suffixes": ["-эр (present tense marker: 'is lost')"],
+      "morphology": "Verb, present tense ('is lost')."
+    },
+    {
+      "word": "бэйэтэй",
+      "root": "бэйэ",
+      "suffixes": ["-тэй (comitative case marker: 'with')"],
+      "morphology": "Pronoun, comitative case ('with itself')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Туох айылаах бачча сүтэр",
+    "subordinate_clause": "бэйэтэй",
+    "description": "The sentence expresses that something pleasant is lost along with itself."
+  }
+},
+{
+  "sentence": "Туох айылаах буоллуҥ?",
+  "translation": "What could you be that is pleasant?",
+  "words": [
+    {
+      "word": "Туох",
+      "root": "туох",
+      "morphology": "Pronoun, interrogative ('what')."
+    },
+    {
+      "word": "айылаах",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')"],
+      "morphology": "Adjective ('pleasant, having a melody')."
+    },
+    {
+      "word": "буоллуҥ",
+      "root": "буол",
+      "suffixes": ["-луҥ (optative mood marker, 2nd person singular: 'could you be')"],
+      "morphology": "Verb, optative mood, 2nd person singular ('could you be')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Туох айылаах буоллуҥ",
+    "description": "The sentence is a question asking what you could be that is pleasant."
+  }
+},
+{
+  "sentence": "Хайдах айылаах маннык сылайдахпыный?",
+  "translation": "How did I become so pleasantly like this?",
+  "words": [
+    {
+      "word": "Хайдах",
+      "root": "хайдах",
+      "morphology": "Adverb, interrogative ('how')."
+    },
+    {
+      "word": "айылаах",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')"],
+      "morphology": "Adjective ('pleasant, having a melody')."
+    },
+    {
+      "word": "маннык",
+      "root": "маннык",
+      "morphology": "Adverb ('like this, in this way')."
+    },
+    {
+      "word": "сылайдахпыный",
+      "root": "сылай",
+      "suffixes": [
+        "-дах (past tense marker)",
+        "-пын (1st person singular marker: 'I')",
+        "-ый (interrogative marker: 'did I')"
+      ],
+      "morphology": "Verb, past tense, 1st person singular, interrogative ('did I become')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Хайдах айылаах маннык сылайдахпыный",
+    "description": "The sentence is a question asking how the speaker became so pleasantly like this."
+  }
+},
+{
+  "sentence": "Үтүө айылаах ат куоракка күнүнэн тиийиэ этэ.",
+  "translation": "The good, pleasant horse would have reached the city by day.",
+  "words": [
+    {
+      "word": "Үтүө",
+      "root": "үтүө",
+      "morphology": "Adjective ('good')."
+    },
+    {
+      "word": "айылаах",
+      "root": "айыл",
+      "suffixes": ["-аах (possessive suffix: 'having')"],
+      "morphology": "Adjective ('pleasant, having a melody')."
+    },
+    {
+      "word": "ат",
+      "root": "ат",
+      "morphology": "Noun, singular, nominative case ('horse')."
+    },
+    {
+      "word": "куоракка",
+      "root": "куорат",
+      "suffixes": ["-кка (dative case marker: 'to')"],
+      "morphology": "Noun, singular, dative case ('to the city')."
+    },
+    {
+      "word": "күнүнэн",
+      "root": "күн",
+      "suffixes": ["-үн (possessive suffix, 3rd person singular: 'its')", "-эн (instrumental case marker: 'by')"],
+      "morphology": "Noun, singular, instrumental case with possessive suffix ('by its day')."
+    },
+    {
+      "word": "тиийиэ",
+      "root": "тиий",
+      "suffixes": ["-иэ (potential mood marker: 'would have reached')"],
+      "morphology": "Verb, potential mood ('would have reached')."
+    },
+    {
+      "word": "этэ",
+      "root": "эт",
+      "suffixes": ["-э (past tense marker, 3rd person singular: 'was')"],
+      "morphology": "Verb, past tense, 3rd person singular ('was')."
+    }
+  ],
+  "structure": {
+    "main_clause": "Үтүө айылаах ат куоракка күнүнэн тиийиэ этэ",
+    "description": "The sentence describes a good, pleasant horse that would have reached the city by day."
+  }
+},
+{
+  "sentence": "Куһаҕан аххан тыас харк гынарын кытта: «Сиэтэ!» — диэн часкыйда.",
+  "words": [
+    {
+      "word": "Куһаҕан",
+      "analysis": {
+        "root": "куһаҕан",
+        "part_of_speech": "adjective",
+        "meaning": "bad, evil"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "to flow, to pour"
+      }
+    },
+    {
+      "word": "тыас",
+      "analysis": {
+        "root": "тыас",
+        "part_of_speech": "noun",
+        "meaning": "wind"
+      }
+    },
+    {
+      "word": "харк",
+      "analysis": {
+        "root": "харк",
+        "part_of_speech": "noun",
+        "meaning": "sound, noise"
+      }
+    },
+    {
+      "word": "гынарын",
+      "analysis": {
+        "root": "гынар",
+        "part_of_speech": "verb",
+        "form": "gerund",
+        "meaning": "to make, to do"
+      }
+    },
+    {
+      "word": "кытта",
+      "analysis": {
+        "root": "кытта",
+        "part_of_speech": "postposition",
+        "meaning": "with"
+      }
+    },
+    {
+      "word": "Сиэтэ",
+      "analysis": {
+        "root": "сиэ",
+        "part_of_speech": "verb",
+        "form": "imperative",
+        "meaning": "eat!"
+      }
+    },
+    {
+      "word": "диэн",
+      "analysis": {
+        "root": "диэн",
+        "part_of_speech": "particle",
+        "meaning": "saying, called"
+      }
+    },
+    {
+      "word": "часкыйда",
+      "analysis": {
+        "root": "часкый",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "to shout, to yell"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Тыытыллыбакка сытар чөл хаарынан Баардаах аххан дойдубут.",
+  "words": [
+    {
+      "word": "Тыытыллыбакка",
+      "analysis": {
+        "root": "тыытыл",
+        "part_of_speech": "verb",
+        "form": "negative participle",
+        "tense": "present",
+        "meaning": "not being filled"
+      }
+    },
+    {
+      "word": "сытар",
+      "analysis": {
+        "root": "сыт",
+        "part_of_speech": "verb",
+        "form": "participle",
+        "tense": "present",
+        "meaning": "lying, being"
+      }
+    },
+    {
+      "word": "чөл",
+      "analysis": {
+        "root": "чөл",
+        "part_of_speech": "noun",
+        "meaning": "steppe, plain"
+      }
+    },
+    {
+      "word": "хаарынан",
+      "analysis": {
+        "root": "хаар",
+        "part_of_speech": "noun",
+        "case": "instrumental",
+        "meaning": "with snow"
+      }
+    },
+    {
+      "word": "Баардаах",
+      "analysis": {
+        "root": "Баардаах",
+        "part_of_speech": "proper noun",
+        "meaning": "Baardakh (a place name)"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    },
+    {
+      "word": "дойдубут",
+      "analysis": {
+        "root": "дойду",
+        "part_of_speech": "noun",
+        "possessive": "1st person plural",
+        "meaning": "our land"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Чэбдик кэрэ бараан түүн аргыый аххан араҕас ими саба тутта.",
+  "words": [
+    {
+      "word": "Чэбдик",
+      "analysis": {
+        "root": "чэбдик",
+        "part_of_speech": "adjective",
+        "meaning": "soft, tender"
+      }
+    },
+    {
+      "word": "кэрэ",
+      "analysis": {
+        "root": "кэрэ",
+        "part_of_speech": "adjective",
+        "meaning": "beautiful"
+      }
+    },
+    {
+      "word": "бараан",
+      "analysis": {
+        "root": "бараан",
+        "part_of_speech": "noun",
+        "meaning": "lamb"
+      }
+    },
+    {
+      "word": "түүн",
+      "analysis": {
+        "root": "түүн",
+        "part_of_speech": "noun",
+        "meaning": "night"
+      }
+    },
+    {
+      "word": "аргыый",
+      "analysis": {
+        "root": "аргыый",
+        "part_of_speech": "adjective",
+        "meaning": "quiet, calm"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    },
+    {
+      "word": "араҕас",
+      "analysis": {
+        "root": "араҕас",
+        "part_of_speech": "adjective",
+        "meaning": "green"
+      }
+    },
+    {
+      "word": "ими",
+      "analysis": {
+        "root": "ими",
+        "part_of_speech": "noun",
+        "meaning": "grass"
+      }
+    },
+    {
+      "word": "саба",
+      "analysis": {
+        "root": "саба",
+        "part_of_speech": "noun",
+        "meaning": "field, meadow"
+      }
+    },
+    {
+      "word": "тутта",
+      "analysis": {
+        "root": "тут",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "held, grasped"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Сипсийэр кулгааххар, Сэрэнэн аххан.",
+  "words": [
+    {
+      "word": "Сипсийэр",
+      "analysis": {
+        "root": "сипсий",
+        "part_of_speech": "verb",
+        "form": "participle",
+        "tense": "present",
+        "meaning": "whispering"
+      }
+    },
+    {
+      "word": "кулгааххар",
+      "analysis": {
+        "root": "кулгаах",
+        "part_of_speech": "noun",
+        "case": "dative",
+        "meaning": "to the ear"
+      }
+    },
+    {
+      "word": "Сэрэнэн",
+      "analysis": {
+        "root": "Сэрэн",
+        "part_of_speech": "proper noun",
+        "case": "instrumental",
+        "meaning": "with Sereen (a name)"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Сипсийэр кулгааххар, Сэрэнэн аххан.",
+  "words": [
+    {
+      "word": "Сипсийэр",
+      "analysis": {
+        "root": "сипсий",
+        "part_of_speech": "verb",
+        "form": "participle",
+        "tense": "present",
+        "meaning": "whispering"
+      }
+    },
+    {
+      "word": "кулгааххар",
+      "analysis": {
+        "root": "кулгаах",
+        "part_of_speech": "noun",
+        "case": "dative",
+        "meaning": "to the ear"
+      }
+    },
+    {
+      "word": "Сэрэнэн",
+      "analysis": {
+        "root": "Сэрэн",
+        "part_of_speech": "proper noun",
+        "case": "instrumental",
+        "meaning": "with Sereen (a name)"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Кэтэһиннэрэн аххан, дьэ, кэллиҥ дуу?",
+  "words": [
+    {
+      "word": "Кэтэһиннэрэн",
+      "analysis": {
+        "root": "кэтэһин",
+        "part_of_speech": "verb",
+        "form": "causative",
+        "tense": "past",
+        "meaning": "made to wait"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    },
+    {
+      "word": "дьэ",
+      "analysis": {
+        "root": "дьэ",
+        "part_of_speech": "particle",
+        "meaning": "well, so"
+      }
+    },
+    {
+      "word": "кэллиҥ",
+      "analysis": {
+        "root": "кэл",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "person": "2nd singular",
+        "meaning": "you came"
+      }
+    },
+    {
+      "word": "дуу",
+      "analysis": {
+        "root": "дуу",
+        "part_of_speech": "particle",
+        "meaning": "question marker"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Балбаах эйигин үҥэр дьыалатын суруйтараары хаайан аххан биэрдэ да, аккаастаатым.",
+  "words": [
+    {
+      "word": "Балбаах",
+      "analysis": {
+        "root": "балбаах",
+        "part_of_speech": "noun",
+        "meaning": "request, plea"
+      }
+    },
+    {
+      "word": "эйигин",
+      "analysis": {
+        "root": "эйигин",
+        "part_of_speech": "pronoun",
+        "case": "accusative",
+        "meaning": "you (accusative)"
+      }
+    },
+    {
+      "word": "үҥэр",
+      "analysis": {
+        "root": "үҥ",
+        "part_of_speech": "verb",
+        "form": "participle",
+        "tense": "present",
+        "meaning": "believing, trusting"
+      }
+    },
+    {
+      "word": "дьыалатын",
+      "analysis": {
+        "root": "дьыала",
+        "part_of_speech": "noun",
+        "case": "accusative",
+        "possessive": "3rd person singular",
+        "meaning": "his/her/their matter (accusative)"
+      }
+    },
+    {
+      "word": "суруйтараары",
+      "analysis": {
+        "root": "суруй",
+        "part_of_speech": "verb",
+        "form": "desiderative",
+        "meaning": "wanting to write"
+      }
+    },
+    {
+      "word": "хаайан",
+      "analysis": {
+        "root": "хаай",
+        "part_of_speech": "verb",
+        "form": "participle",
+        "tense": "past",
+        "meaning": "having locked, having confined"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    },
+    {
+      "word": "биэрдэ",
+      "analysis": {
+        "root": "биэр",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "gave"
+      }
+    },
+    {
+      "word": "да",
+      "analysis": {
+        "root": "да",
+        "part_of_speech": "particle",
+        "meaning": "and, also"
+      }
+    },
+    {
+      "word": "аккаастаатым",
+      "analysis": {
+        "root": "аккаастаа",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "person": "1st singular",
+        "meaning": "I regretted"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Бу тэлгэһэҕэ, ити оҕолор курдук, Сергейдээх эмиэ оонньоон да ахан биэрэллэр этэ.",
+  "words": [
+    {
+      "word": "Бу",
+      "analysis": {
+        "root": "бу",
+        "part_of_speech": "pronoun",
+        "meaning": "this"
+      }
+    },
+    {
+      "word": "тэлгэһэҕэ",
+      "analysis": {
+        "root": "тэлгэһэ",
+        "part_of_speech": "noun",
+        "case": "dative",
+        "meaning": "to the meadow"
+      }
+    },
+    {
+      "word": "ити",
+      "analysis": {
+        "root": "ити",
+        "part_of_speech": "pronoun",
+        "meaning": "those"
+      }
+    },
+    {
+      "word": "оҕолор",
+      "analysis": {
+        "root": "оҕо",
+        "part_of_speech": "noun",
+        "number": "plural",
+        "meaning": "children"
+      }
+    },
+    {
+      "word": "курдук",
+      "analysis": {
+        "root": "курдук",
+        "part_of_speech": "postposition",
+        "meaning": "like, as"
+      }
+    },
+    {
+      "word": "Сергейдээх",
+      "analysis": {
+        "root": "Сергей",
+        "part_of_speech": "proper noun",
+        "case": "comitative",
+        "meaning": "with Sergey"
+      }
+    },
+    {
+      "word": "эмиэ",
+      "analysis": {
+        "root": "эмиэ",
+        "part_of_speech": "adverb",
+        "meaning": "also, too"
+      }
+    },
+    {
+      "word": "оонньоон",
+      "analysis": {
+        "root": "оонньоо",
+        "part_of_speech": "verb",
+        "form": "participle",
+        "tense": "past",
+        "meaning": "having played"
+      }
+    },
+    {
+      "word": "да",
+      "analysis": {
+        "root": "да",
+        "part_of_speech": "particle",
+        "meaning": "and, also"
+      }
+    },
+    {
+      "word": "ахан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    },
+    {
+      "word": "биэрэллэр",
+      "analysis": {
+        "root": "биэр",
+        "part_of_speech": "verb",
+        "tense": "present",
+        "person": "3rd plural",
+        "meaning": "they give"
+      }
+    },
+    {
+      "word": "этэ",
+      "analysis": {
+        "root": "эт",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "said"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Нохоо, туох буоллуҥ?",
+  "words": [
+    {
+      "word": "Нохоо",
+      "analysis": {
+        "root": "нохоо",
+        "part_of_speech": "noun",
+        "meaning": "friend (vocative)"
+      }
+    },
+    {
+      "word": "туох",
+      "analysis": {
+        "root": "туох",
+        "part_of_speech": "pronoun",
+        "meaning": "what"
+      }
+    },
+    {
+      "word": "буоллуҥ",
+      "analysis": {
+        "root": "буол",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "person": "2nd singular",
+        "meaning": "did you become?"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Эмээхсиҥҥин таптыыр аххан этиҥ дии!",
+  "words": [
+    {
+      "word": "Эмээхсиҥҥин",
+      "analysis": {
+        "root": "эмээхсин",
+        "part_of_speech": "noun",
+        "possessive": "2nd singular",
+        "meaning": "your mother"
+      }
+    },
+    {
+      "word": "таптыыр",
+      "analysis": {
+        "root": "таптыы",
+        "part_of_speech": "verb",
+        "form": "participle",
+        "tense": "present",
+        "meaning": "loving"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    },
+    {
+      "word": "этиҥ",
+      "analysis": {
+        "root": "эт",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "person": "2nd singular",
+        "meaning": "you said"
+      }
+    },
+    {
+      "word": "дии",
+      "analysis": {
+        "root": "дии",
+        "part_of_speech": "particle",
+        "meaning": "emphasis or exclamation"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Сарсыарда эрдэттэн урукку таҥара дьиэтин диэки аттаах да, сатыы да тиэстибитэ аххан.",
+  "words": [
+    {
+      "word": "Сарсыарда",
+      "analysis": {
+        "root": "сарсыарда",
+        "part_of_speech": "noun",
+        "meaning": "morning"
+      }
+    },
+    {
+      "word": "эрдэттэн",
+      "analysis": {
+        "root": "эрдэ",
+        "part_of_speech": "noun",
+        "case": "ablative",
+        "meaning": "from early"
+      }
+    },
+    {
+      "word": "урукку",
+      "analysis": {
+        "root": "урукку",
+        "part_of_speech": "adjective",
+        "meaning": "old, former"
+      }
+    },
+    {
+      "word": "таҥара",
+      "analysis": {
+        "root": "таҥара",
+        "part_of_speech": "noun",
+        "meaning": "god, deity"
+      }
+    },
+    {
+      "word": "дьиэтин",
+      "analysis": {
+        "root": "дьиэ",
+        "part_of_speech": "noun",
+        "possessive": "3rd singular",
+        "case": "accusative",
+        "meaning": "his/her house"
+      }
+    },
+    {
+      "word": "диэки",
+      "analysis": {
+        "root": "диэки",
+        "part_of_speech": "postposition",
+        "meaning": "toward"
+      }
+    },
+    {
+      "word": "аттаах",
+      "analysis": {
+        "root": "ат",
+        "part_of_speech": "noun",
+        "case": "comitative",
+        "meaning": "with a horse"
+      }
+    },
+    {
+      "word": "да",
+      "analysis": {
+        "root": "да",
+        "part_of_speech": "particle",
+        "meaning": "and, also"
+      }
+    },
+    {
+      "word": "сатыы",
+      "analysis": {
+        "root": "сатыы",
+        "part_of_speech": "adjective",
+        "meaning": "barefoot"
+      }
+    },
+    {
+      "word": "да",
+      "analysis": {
+        "root": "да",
+        "part_of_speech": "particle",
+        "meaning": "and, also"
+      }
+    },
+    {
+      "word": "тиэстибитэ",
+      "analysis": {
+        "root": "тиэстибит",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "person": "3rd singular",
+        "meaning": "he/she ran"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    }
+  ]
+},
+{
+  "sentence": "Кини үлэлээбит сылларыгар кадры да өрө-таҥнары сүүмэрдээбит аххан киһи.",
+  "words": [
+    {
+      "word": "Кини",
+      "analysis": {
+        "root": "кини",
+        "part_of_speech": "pronoun",
+        "meaning": "he/she"
+      }
+    },
+    {
+      "word": "үлэлээбит",
+      "analysis": {
+        "root": "үлэлээ",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "worked"
+      }
+    },
+    {
+      "word": "сылларыгар",
+      "analysis": {
+        "root": "сыл",
+        "part_of_speech": "noun",
+        "case": "dative",
+        "number": "plural",
+        "possessive": "3rd singular",
+        "meaning": "to his/her years"
+      }
+    },
+    {
+      "word": "кадры",
+      "analysis": {
+        "root": "кадр",
+        "part_of_speech": "noun",
+        "meaning": "cadres, personnel"
+      }
+    },
+    {
+      "word": "да",
+      "analysis": {
+        "root": "да",
+        "part_of_speech": "particle",
+        "meaning": "and, also"
+      }
+    },
+    {
+      "word": "өрө-таҥнары",
+      "analysis": {
+        "root": "өрө-таҥнар",
+        "part_of_speech": "noun",
+        "case": "accusative",
+        "meaning": "the poor and the rich"
+      }
+    },
+    {
+      "word": "сүүмэрдээбит",
+      "analysis": {
+        "root": "сүүмэрдээ",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "united, brought together"
+      }
+    },
+    {
+      "word": "аххан",
+      "analysis": {
+        "root": "ах",
+        "part_of_speech": "verb",
+        "tense": "past",
+        "meaning": "flowed, poured"
+      }
+    },
+    {
+      "word": "киһи",
+      "analysis": {
+        "root": "киһи",
+        "part_of_speech": "noun",
+        "meaning": "person"
+      }
+    }
+  ]
+}
+]

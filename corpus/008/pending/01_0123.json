@@ -1,0 +1,287 @@
+[
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 177,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Глаголы страдательного залога выражают действие, совершаемое над действующим лицом помимо его участия.",
+      "sah": "Олбуор аана хатаммыт.",
+      "ru": "Ворота заперты.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Олбуор", "type": "title", "fst": "fst", "root": "олбуор", "affixes": ["^N"]},
+         {"pos": 2, "text": "аана", "type": "lowercase", "fst": "fst", "root": "аан", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хатаа", "affixes": ["^V", "+PASS", "+PART_PAST"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хатаа", "affixes": ["^V", "+PASS", "+1PL"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хатаа", "affixes": ["^V", "+REFL", "+PART_PAST"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хатаа", "affixes": ["^V", "+REFL", "+1PL"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хатан", "affixes": ["^N", "+POSS.1PL"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хатан", "affixes": ["^N", "+1PL"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["^Adj", "^VRBLZ#3", "+PASS", "+PART_PAST"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["^Adj", "^VRBLZ#3", "+PASS", "+1PL"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["^Adj", "^VRBLZ#3", "+REFL", "+PART_PAST"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["^Adj", "^VRBLZ#3", "+REFL", "+1PL"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["^V", "+CONV#1", "+PART_PAST"]},
+         {"pos": 3, "text": "хатаммыт", "type": "lowercase", "fst": "fst", "root": "хат", "affixes": ["^V", "+CONV#1", "+1PL"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Глаголы страдательного залога выражают действие, совершаемое над действующим лицом помимо его участия.",
+      "sah": "Бу оһох оттуллубатах.",
+      "ru": "Эта печка не затоплена.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "оһох", "type": "lowercase", "fst": "fst", "root": "ос", "affixes": ["^V", "^NMLZ#6"]},
+         {"pos": 2, "text": "оһох", "type": "lowercase", "fst": "fst", "root": "оһох", "affixes": ["^N"]},
+         {"pos": 2, "text": "оһох", "type": "lowercase", "fst": "fst", "root": "ой", "affixes": ["^V", "+RECP", "^NMLZ#6"]},
+         {"pos": 3, "text": "оттуллубатах", "type": "lowercase", "fst": "fst"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Глаголы страдательного залога выражают действие, совершаемое над действующим лицом помимо его участия.",
+      "sah": "Ити күөл сыл аайы муҥхаланар.",
+      "ru": "На этом озере неводят ежегодно (это озеро неводится ежегодно).",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Ити", "type": "title", "fst": "fst", "root": "ити", "affixes": ["^Pron"]},
+         {"pos": 2, "text": "күөл", "type": "lowercase", "fst": "fst", "root": "күөл", "affixes": ["^N"]},
+         {"pos": 3, "text": "сыл", "type": "lowercase", "fst": "fst", "root": "сыл", "affixes": ["^N"]},
+         {"pos": 4, "text": "аайы", "type": "lowercase", "fst": "fst", "root": "аайы", "affixes": ["^POST"]},
+         {"pos": 5, "text": "муҥхаланар", "type": "lowercase", "fst": "fst", "root": "муҥха", "affixes": ["^N", "^VRBLZ#1", "+PASS", "+PART_PRES"]},
+         {"pos": 5, "text": "муҥхаланар", "type": "lowercase", "fst": "fst", "root": "муҥха", "affixes": ["^N", "^VRBLZ#1", "+REFL", "+PART_PRES"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Глаголы страдательного залога выражают действие, совершаемое над действующим лицом помимо его участия.",
+      "sah": "Дулҕалаах сир ото массыынанан охсуллубат.",
+      "ru": "Трава на кочковатом месте не косится машиной.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Дулҕалаах", "type": "title", "fst": "fst", "root": "дулҕа", "affixes": ["^N", "^ADJZ#1"]},
+         {"pos": 2, "text": "сир", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["^IMIT"]},
+         {"pos": 2, "text": "сир", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["^N"]},
+         {"pos": 2, "text": "сир", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["^V"]},
+         {"pos": 3, "text": "ото", "type": "lowercase", "fst": "fst", "root": "от", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 3, "text": "ото", "type": "lowercase", "fst": "fst", "root": "ой", "affixes": ["^V", "+CSTV", "+CONV#2"]},
+         {"pos": 4, "text": "массыынанан", "type": "lowercase", "fst": "fst", "root": "массыына", "affixes": ["^N", "+INST"]},
+         {"pos": 5, "text": "охсуллубат", "type": "lowercase", "fst": "fst", "root": "оҕус", "affixes": ["^V", "+PASS", "+NEG", "+PART_PRES"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Глаголы страдательного залога выражают действие, совершаемое над действующим лицом помимо его участия.",
+      "sah": "Эн дьыалаҥ сарсын көрүллүөҕэ.",
+      "ru": "Твоё дело будет рассматриваться завтра.",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "эн", "affixes": ["^Pron"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["^V", "+CONV#1"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["^V", "+PASS"]},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "э", "affixes": ["^V", "+REFL"]},
+         {"pos": 2, "text": "дьыалаҥ", "type": "lowercase", "fst": "fst", "root": "дьыала", "affixes": ["^N", "+POSS.2SG"]},
+         {"pos": 3, "text": "сарсын", "type": "lowercase", "fst": "fst", "root": "сарсын", "affixes": ["^Adv"]},
+         {"pos": 4, "text": "көрүллүөҕэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["^V", "+PASS", "+PART_FUT", "+DAT"]},
+         {"pos": 4, "text": "көрүллүөҕэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["^V", "+PASS", "+PART_FUT", "+POSS.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Логический субъект в страдательном обороте (требующий по-русски творительного падежа) в якутском языке обычно не обозначается.",
+      "sah": "Дьиэ тутуллар.",
+      "ru": "Дом строится.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Дьиэ", "type": "title", "fst": "fst", "root": "дьиэ", "affixes": ["^N"]},
+         {"pos": 2, "text": "тутуллар", "type": "lowercase", "fst": "fst", "root": "тутул", "affixes": ["^N", "+PL"]},
+         {"pos": 2, "text": "тутуллар", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["^V", "+PASS", "+PART_PRES"]},
+         {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Логический субъект в страдательном обороте (требующий по-русски творительного падежа) в якутском языке обычно не обозначается.",
+      "sah": "Кинигэ ааҕылынна.",
+      "ru": "Книга прочитана.",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "fst", "root": "кинигэ", "affixes": ["^N"]},
+         {"pos": 2, "text": "ааҕылынна", "type": "lowercase", "fst": "fst", "root": "аах", "affixes": ["^V", "+PASS", "+PST.3SG"]},
+         {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Логический субъект в страдательном обороте (требующий по-русски творительного падежа) в якутском языке обычно не обозначается. Но не употребительны обороты: дьиэ болуотунньугунан тутуллар - дом строится плотником, кинигэ миигинэн ааҕылынна - книга прочитана мною. В этих случаях обычно употребляется основной залог.",
+      "sah": "Дьиэни болуотунньук тутар.",
+      "ru": "Дом строится плотником.",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Дьиэни", "type": "title", "fst": "fst", "root": "дьиэ", "affixes": ["^N", "+ACC"]},
+         {"pos": 2, "text": "болуотунньук", "type": "lowercase", "fst": "fst", "root": "болуотунньук", "affixes": ["^N"]},
+         {"pos": 3, "text": "тутар", "type": "lowercase", "fst": "fst", "root": "тут", "affixes": ["^V", "+PART_PRES"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 178,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Логический субъект в страдательном обороте (требующий по-русски творительного падежа) в якутском языке обычно не обозначается. Но не употребительны обороты: дьиэ болуотунньугунан тутуллар - дом строится плотником, кинигэ миигинэн ааҕылынна - книга прочитана мною. В этих случаях обычно употребляется основной залог.",
+      "sah": "Кинигэни мин аахтым.",
+      "ru": "Книга прочитана мною.",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Кинигэни", "type": "title", "fst": "fst", "root": "кинигэ", "affixes": ["^N", "+ACC"]},
+         {"pos": 2, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["^N"]},
+         {"pos": 2, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["^Pron"]},
+         {"pos": 3, "text": "аахтым", "type": "lowercase", "fst": "fst", "root": "аах", "affixes": ["^V", "+PST.1SG"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 179,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Страдательный оборот с обозначением логического субъекта в орудном падеже иногда можно встретить в газетном языке.",
+      "sah": "Немецтэринэн уматыллыбыт дэриэбинэлэр.",
+      "ru": "Деревни, сожженные немцами.",
+      "id": 10,
+      "parses": [
+         {"pos": 1, "text": "Немецтэринэн", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "уматыллыбыт", "type": "lowercase", "fst": "fst", "root": "умай", "affixes": ["^V", "+CSTV", "+PASS", "+PART_PAST"]},
+         {"pos": 3, "text": "дэриэбинэлэр", "type": "lowercase", "fst": "fst", "root": "дэриэбинэ", "affixes": ["^N", "+PL"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 179,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Страдательный оборот с обозначением логического субъекта в орудном падеже иногда можно встретить в газетном языке.",
+      "sah": "Үгүс ыскылаат бомбанан үлтүрүтүлүннэ.",
+      "ru": "Многие склады разбиты бомбами.",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "Үгүс", "type": "title", "fst": "fst", "root": "үгүс", "affixes": ["^Adj"]},
+         {"pos": 2, "text": "ыскылаат", "type": "lowercase", "fst": "fst", "root": "ыскылаат", "affixes": ["^N"]},
+         {"pos": 3, "text": "бомбанан", "type": "lowercase", "fst": "fst", "root": "бомба", "affixes": ["^N", "+INST"]},
+         {"pos": 4, "text": "үлтүрүтүлүннэ", "type": "lowercase", "fst": "fst", "root": "үлтү", "affixes": ["^Adv", "^VRBLZ#8", "+CSTV", "+PASS", "+PST.3SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 179,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Страдательная форма в сочетании с косвенными паде жами может выступать в значении безличных глаголов, близких по значению к русским глаголам в сочетаниях типа 'мне не спится', 'ему не сидится' и т.д.",
+      "sah": "Манна табаҕы тардыллыбат.",
+      "ru": "Здесь табак не курят (точнее, не курится).",
+      "id": 12,
+      "parses": [
+         {"pos": 1, "text": "Манна", "type": "title", "fst": "fst", "root": "бу", "affixes": ["^Pron", "+LOC"]},
+         {"pos": 2, "text": "табаҕы", "type": "lowercase", "fst": "fst", "root": "тап", "affixes": ["^V", "^NMLZ#6", "+ACC"]},
+         {"pos": 2, "text": "табаҕы", "type": "lowercase", "fst": "fst", "root": "табах", "affixes": ["^N", "+ACC"]},
+         {"pos": 3, "text": "тардыллыбат", "type": "lowercase", "fst": "fst", "root": "тарт", "affixes": ["^V", "+PASS", "+NEG", "+PART_PRES"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 179,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Страдательная форма в сочетании с косвенными паде жами может выступать в значении безличных глаголов, близких по значению к русским глаголам в сочетаниях типа 'мне не спится', 'ему не сидится' и т.д.",
+      "sah": "Өрөбүл күҥҥэ сынньаныллар.",
+      "ru": "В выходной день отдыхают (отдыхается).",
+      "id": 13,
+      "parses": [
+         {"pos": 1, "text": "Өрөбүл", "type": "title", "fst": "fst", "root": "өрөө", "affixes": ["^V", "^NMLZ#4"]},
+         {"pos": 1, "text": "Өрөбүл", "type": "title", "fst": "fst", "root": "өр", "affixes": ["^Adv", "^VRBLZ#3", "^NMLZ#4"]},
+         {"pos": 2, "text": "күҥҥэ", "type": "lowercase", "fst": "fst", "root": "күн", "affixes": ["^N", "+DAT"]},
+         {"pos": 3, "text": "сынньаныллар", "type": "lowercase", "fst": "fst", "root": "сынньан", "affixes": ["^V", "+PASS", "+PART_PRES"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Современный якутский язык. Часть 1: Фонетика и морфология",
+      "authors": "Харитонов Лука Никифорович",
+      "page": 179,
+      "chapter": "Глагол",
+      "topic": "Глаголы страдательного залога",
+      "section": 123,
+      "notes": "Страдательная форма в сочетании с косвенными паде жами может выступать в значении безличных глаголов, близких по значению к русским глаголам в сочетаниях типа 'мне не спится', 'ему не сидится' и т.д.",
+      "sah": "Үлэҕэ эрдэ туруллар.",
+      "ru": "На работу встают рано (встается).",
+      "id": 14,
+      "parses": [
+         {"pos": 1, "text": "Үлэҕэ", "type": "title", "fst": "fst", "root": "үлэх", "affixes": ["^N", "+POSS.3SG"]},
+         {"pos": 1, "text": "Үлэҕэ", "type": "title", "fst": "fst", "root": "үлэ", "affixes": ["^N", "+DAT"]},
+         {"pos": 2, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эрт", "affixes": ["^V", "+CONV#2"]},
+         {"pos": 2, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эрдэ", "affixes": ["^Adv"]},
+         {"pos": 2, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["^N", "+PRTV"]},
+         {"pos": 2, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эр", "affixes": ["^V", "+PST.3SG"]},
+         {"pos": 3, "text": "туруллар", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["^V", "+PASS", "+PART_PRES"]},
+         {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

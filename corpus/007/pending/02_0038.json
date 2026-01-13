@@ -1,0 +1,38 @@
+[
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 118,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Туота.",
+      "section": 38,
+      "notes": "Туота выражает похвалу, одобрение кого-, чего-либо, высокую оценку поступков собеседника или качества кого-, чего-либо.",
+      "sah": "Туота, иҥиир-ситии мааны: буордары-сыыстары леглу тардан ылбытын.",
+      "ru": "То-то какая сила у меня: выдернул-то со всеми корнями и прочим.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Туота", "type": "title", "fst": "fst", "root": "туота", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "иҥиир", "type": "lowercase", "fst": "fst"},
+         {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 5, "text": "ситии", "type": "lowercase", "fst": "fst", "root": "сит", "affixes": ["+V", "+NMLZ#2"]},
+         {"pos": 6, "text": "мааны", "type": "lowercase", "fst": "fst", "root": "мааны", "affixes": ["+N"]},
+         {"pos": 7, "text": ":", "type": "colon", "fst": "fst"},
+         {"pos": 8, "text": "буордары", "type": "lowercase", "fst": "fst", "root": "буор", "affixes": ["+N", "+ADVZ#7"]},
+         {"pos": 8, "text": "буордары", "type": "lowercase", "fst": "fst", "root": "буор", "affixes": ["+N", "+PL", "+ACC"]},
+         {"pos": 9, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 10, "text": "сыыстары", "type": "lowercase", "fst": "fst", "root": "сыыс", "affixes": ["+N", "+ADVZ#7"]},
+         {"pos": 10, "text": "сыыстары", "type": "lowercase", "fst": "fst", "root": "сыыс", "affixes": ["+N", "+PL", "+ACC"]},
+         {"pos": 10, "text": "сыыстары", "type": "lowercase", "fst": "fst", "root": "сыыс", "affixes": ["+V", "+CONV_COND#1", "+ACC"]},
+         {"pos": 10, "text": "сыыстары", "type": "lowercase", "fst": "fst", "root": "сыыс", "affixes": ["+V", "+CSTV", "+ADVZ#1"]},
+         {"pos": 10, "text": "сыыстары", "type": "lowercase", "fst": "fst", "root": "сыый", "affixes": ["+V", "+RECP", "+CONV_COND#1", "+ACC"]},
+         {"pos": 10, "text": "сыыстары", "type": "lowercase", "fst": "fst", "root": "сыый", "affixes": ["+V", "+RECP", "+PL", "+ACC"]},
+         {"pos": 11, "text": "леглу", "type": "lowercase", "fst": "fst"},
+         {"pos": 12, "text": "тардан", "type": "lowercase", "fst": "fst", "root": "тарт", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 12, "text": "тардан", "type": "lowercase", "fst": "fst", "root": "тар", "affixes": ["+IMIT", "+VRBLZ#1", "+REFL"]},
+         {"pos": 12, "text": "тардан", "type": "lowercase", "fst": "fst", "root": "тар", "affixes": ["+N", "+VRBLZ#1", "+REFL"]},
+         {"pos": 13, "text": "ылбытын", "type": "lowercase", "fst": "fst", "root": "ыл", "affixes": ["+V", "+PART_PAST", "+POSS.3SG", "+ACC"]},
+         {"pos": 14, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 90,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частица баҕастары",
+        "section": 14,
+        "notes": "Это слово состоит из баҕас+тары (аффикс совместно-винительного падежа). Оно ныне представляет собой самостоятельную частицу, выражающую присовокупленное, обобщенное представление о предметах.",
+        "sah": "Хоноһолору баҕастары барыларын тыллаан биэрдэххэ уонна бөһүөлэккэ көһөн хааллахха, тугу да гыныахтара суоҕа.",
+        "ru": "Если донести на всех, на гостя и прочих, и незаметно переехать в поселок, ничего они (бандиты) не сделают.",
+        "id": 2,
+        "parses": [
+           {"pos": 1, "text": "Хоноһолору", "type": "title", "fst": "fst", "root": "хоноһо", "affixes": ["+N", "+PL", "+ACC"]},
+           {"pos": 2, "text": "баҕастары", "type": "lowercase", "fst": "fst", "root": "баҕас", "affixes": ["+Part", "+PL", "+ACC"]},
+           {"pos": 3, "text": "барыларын", "type": "lowercase", "fst": "fst", "root": "бары", "affixes": ["+Pron", "+PL", "+POSS.3SG", "+ACC"]},
+           {"pos": 4, "text": "тыллаан", "type": "lowercase", "fst": "fst", "root": "тыл", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+           {"pos": 5, "text": "биэрдэххэ", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+CONV_COND#2", "+DAT"]},
+           {"pos": 6, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уонна", "affixes": ["+CONJ"]},
+           {"pos": 7, "text": "бөһүөлэккэ", "type": "lowercase", "fst": "fst", "root": "бөһүөлэк", "affixes": ["+N", "+DAT"]},
+           {"pos": 8, "text": "көһөн", "type": "lowercase", "fst": "fst", "root": "көс", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 9, "text": "хааллахха", "type": "lowercase", "fst": "fst", "root": "хаал", "affixes": ["+V", "+CONV_COND#2", "+DAT"]},
+           {"pos": 10, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 11, "text": "тугу", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 12, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 13, "text": "гыныахтара", "type": "lowercase", "fst": "fst", "root": "гын", "affixes": ["+V", "+PART_FUT", "+PL", "+POSS.3SG"]},
+           {"pos": 14, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 15, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },    
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 90,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частица баҕастары",
+        "section": 14,
+        "notes": "Это слово состоит из баҕас+тары (аффикс совместно-винительного падежа). Оно ныне представляет собой самостоятельную частицу, выражающую присовокупленное, обобщенное представление о предметах.",
+        "sah": "Ыалдьыттар даҕаны кымыһы арыылары баҕастары иһэн кэбистилэр.",
+        "ru": "И гости выпили весь кумыс с маслом и всей прочей приправой.",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Ыалдьыттар", "type": "title", "fst": "fst", "root": "ыал", "affixes": ["+N", "+NMLZ#1", "+PL"]},
+           {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны", "affixes": ["+Part"]},
+           {"pos": 3, "text": "кымыһы", "type": "lowercase", "fst": "fst", "root": "кымыс", "affixes": ["+N", "+ACC"]},
+           {"pos": 4, "text": "арыылары", "type": "lowercase", "fst": "fst", "root": "арыы", "affixes": ["+N", "+PL", "+ACC"]},
+           {"pos": 5, "text": "баҕастары", "type": "lowercase", "fst": "fst", "root": "баҕас", "affixes": ["+Part", "+PL", "+ACC"]},
+           {"pos": 6, "text": "иһэн", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 7, "text": "кэбистилэр", "type": "lowercase", "fst": "fst", "root": "кэбис", "affixes": ["+V", "+PST.3PL"]},
+           {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 230,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаарай",
+      "section": 4,
+      "notes": "Форма буолаарай часто выступает в качестве модальной частицы, выражающей предположение в форме вопроса возможности высказываемого факта. Это ее главное значение. На него могут наслаиваться следующие оттенки: 1. Оттенки надежды.",
+      "sah": "Хайа, эн бэйэккэлээх, тугу эмэни билэриҥ буолаарай?",
+      "ru": "Ну, ты-то, уж, видимо, что-нибудь знаешь?",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+MOD"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+N"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хай", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PASS"]},
+         {"pos": 3, "text": "эн", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+REFL"]},
+         {"pos": 4, "text": "бэйэккэлээх", "type": "lowercase", "fst": "fst", "root": "бэйэккэ", "affixes": ["+Part", "+ADJZ#1"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "тугу", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 7, "text": "эмэни", "type": "lowercase", "fst": "fst", "root": "эмэ", "affixes": ["+Part", "+ACC"]},
+         {"pos": 8, "text": "билэриҥ", "type": "lowercase", "fst": "fst", "root": "бил", "affixes": ["+V", "+PART_PRES", "+POSS.2SG"]},
+         {"pos": 9, "text": "буолаарай", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+POT"]},
+         {"pos": 10, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 230,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица буолаарай",
+      "section": 4,
+      "notes": "Форма буолаарай часто выступает в качестве модальной частицы, выражающей предположение в форме вопроса возможности высказываемого факта. Это ее главное значение. На него могут наслаиваться следующие оттенки: 5. Различные модально-эмоциональные оттенки.",
+      "sah": "Хайа аны уолгут оҕуһу кыайан сиэппэтэ буолаарай?",
+      "ru": "Может, и сынок твой не может водить вола по пашне, а? (ирония).",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+MOD"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+N"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хай", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "аны", "type": "lowercase", "fst": "fst", "root": "аны", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "уолгут", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+N", "+POSS.2PL"]},
+         {"pos": 3, "text": "уолгут", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+N", "+2PL"]},
+         {"pos": 4, "text": "оҕуһу", "type": "lowercase", "fst": "fst", "root": "оҕус", "affixes": ["+N", "+ACC"]},
+         {"pos": 5, "text": "кыайан", "type": "lowercase", "fst": "fst", "root": "кыай", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "кыайан", "type": "lowercase", "fst": "fst", "root": "кыа", "affixes": ["+N", "+VRBLZ#2", "+CONV#1"]},
+         {"pos": 6, "text": "сиэппэтэ", "type": "lowercase", "fst": "fst", "root": "сиэт", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.3SG"]},
+         {"pos": 6, "text": "сиэппэтэ", "type": "lowercase", "fst": "fst", "root": "сиэт", "affixes": ["+V", "+NEG", "+PST.3SG"]},
+         {"pos": 6, "text": "сиэппэтэ", "type": "lowercase", "fst": "fst", "root": "сиэ", "affixes": ["+V", "+CAUS", "+NEG", "+PST.3SG"]},
+         {"pos": 7, "text": "буолаарай", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+POT"]},
+         {"pos": 8, "text": "?", "type": "question", "fst": "fst"}
+      ]
+   }
+]

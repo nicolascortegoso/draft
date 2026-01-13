@@ -1,0 +1,61 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 465,
+      "chapter": "Модальные слова",
+      "topic": "Значения модальных слов и словосочетаний и их семантические группы",
+      "section": 969,
+      "notes": "Порядок следования мыслей при перечислении выражают модальные слова и словосочетания биириһинэн, иккиһинэн, үсүһүнэн, маҥнайгытынан, бастакытынан и др.",
+      "sah": "Бастакытынан, үтүө үлэҕит иһин хаһыакка бэчээттэммиккитинэн, иккиһинэн, бириэмийэ ылбыккытынан.",
+      "ru": "Во-первых, с тем, что о вашей хорошей работе напечатали в газете, во-вторых, с получением премни.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Бастакытынан", "type": "title", "fst": "fst", "root": "бастакы", "affixes": ["+Adj", "+VRBLZ#2", "+CSTV", "+ADVZ#1", "+INST"]},
+         {"pos": 1, "text": "Бастакытынан", "type": "title", "fst": "fst", "root": "бастакы", "affixes": ["+Adj", "+VRBLZ#2", "+CSTV", "+REFL", "+CONV#1"]},
+         {"pos": 1, "text": "Бастакытынан", "type": "title", "fst": "fst", "root": "бастакы", "affixes": ["+Adj", "+POSS.3SG", "+INST"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "үтүө", "type": "lowercase", "fst": "fst", "root": "үтүө", "affixes": ["+Adj"]},
+         {"pos": 3, "text": "үтүө", "type": "lowercase", "fst": "fst", "root": "үт", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 4, "text": "үлэҕит", "type": "lowercase", "fst": "fst", "root": "үлэх", "affixes": ["+N", "+VRBLZ#2", "+CSTV"]},
+         {"pos": 4, "text": "үлэҕит", "type": "lowercase", "fst": "fst", "root": "үлэ", "affixes": ["+N", "+POSS.2PL"]},
+         {"pos": 4, "text": "үлэҕит", "type": "lowercase", "fst": "fst", "root": "үлэ", "affixes": ["+N", "+2PL"]},
+         {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+V", "+REFL"]},
+         {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "иһин", "affixes": ["+POST"]},
+         {"pos": 6, "text": "хаһыакка", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+DAT"]},
+         {"pos": 6, "text": "хаһыакка", "type": "lowercase", "fst": "fst", "root": "хаһыат", "affixes": ["+N", "+DIM#3"]},
+         {"pos": 7, "text": "бэчээттэммиккитинэн", "type": "lowercase", "fst": "fst", "root": "бэчээт", "affixes": ["+N", "+VRBLZ#1", "+REFL", "+PART_PAST", "+POSS.2PL", "+INST"]},
+         {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 9, "text": "иккиһинэн", "type": "lowercase", "fst": "fst", "root": "икки", "affixes": ["+Num", "+ORD", "+POSS.3SG", "+INST"]},
+         {"pos": 10, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 11, "text": "бириэмийэ", "type": "lowercase", "fst": "fst", "root": "бириэмийэ", "affixes": ["+N"]},
+         {"pos": 12, "text": "ылбыккытынан", "type": "lowercase", "fst": "fst", "root": "ыл", "affixes": ["+V", "+PART_PAST", "+POSS.2PL", "+INST"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 465,
+      "chapter": "Модальные слова",
+      "topic": "Значения модальных слов и словосочетаний и их семантические группы",
+      "section": 969,
+      "notes": "Порядок следования мыслей при перечислении выражают модальные слова и словосочетания биириһинэн, иккиһинэн, үсүһүнэн, маҥнайгытынан, бастакытынан и др.",
+      "sah": "Маҥнайгытынан, Мальцев адьас тиэрбэккэ ыһар буолбатах.",
+      "ru": "Во-первых, не значит, что Мальцев сеет без всякой вспашки.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Маҥнайгытынан", "type": "title", "fst": "fst", "root": "маҥнай", "affixes": ["+Adv", "+ADJZ#4", "+POSS.3SG", "+INST"]},
+         {"pos": 1, "text": "Маҥнайгытынан", "type": "title", "fst": "fst", "root": "маҥнай", "affixes": ["+Adv", "+POSS.2PL", "+INST"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "Мальцев", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": "адьас", "type": "lowercase", "fst": "fst", "root": "адьас", "affixes": ["+Adv"]},
+         {"pos": 5, "text": "тиэрбэккэ", "type": "lowercase", "fst": "fst", "root": "тиэр", "affixes": ["+V", "+NEG", "+CONV#4"]},
+         {"pos": 5, "text": "тиэрбэккэ", "type": "lowercase", "fst": "fst", "root": "тиэр", "affixes": ["+V", "+NEG", "+PART_PRES", "+DAT"]},
+         {"pos": 6, "text": "ыһар", "type": "lowercase", "fst": "fst", "root": "ыс", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 6, "text": "ыһар", "type": "lowercase", "fst": "fst", "root": "ый", "affixes": ["+V", "+RECP", "+PART_PRES"]},
+         {"pos": 7, "text": "буолбатах", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+NEG", "+CONV_COND#2"]},
+         {"pos": 7, "text": "буолбатах", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+NEG", "+PART_PAST"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

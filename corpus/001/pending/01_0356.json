@@ -1,0 +1,32 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 207,
+      "chapter": "Местоимения",
+      "topic": "Обобщительные местоимения",
+      "section": 356,
+      "notes": "Обобщительное местоимение хас 'каждый' представляет омоним вопросительного местоимения хас? 'сколько?' и употребляется также в роли определения.",
+      "sah": "Мин дойдум хас ыырын, дьиэлэрин, тыаларын таарыйтаар.",
+      "ru": "Ты, пожалуйста, побывай в каждой местности, доме, горе, лесу моей родины.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["+N"]},
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "дойдум", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 3, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хас", "affixes": ["+V"]},
+         {"pos": 3, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хас", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хай", "affixes": ["+V", "+RECP"]},
+         {"pos": 4, "text": "ыырын", "type": "lowercase", "fst": "fst", "root": "ыа", "affixes": ["+V", "+PART_PRES", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "ыырын", "type": "lowercase", "fst": "fst", "root": "ыыр", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "ыырын", "type": "lowercase", "fst": "fst", "root": "ыыр", "affixes": ["+V", "+REFL"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "дьиэлэрин", "type": "lowercase", "fst": "fst", "root": "дьиэ", "affixes": ["+N", "+POSS.3PL", "+ACC"]},
+         {"pos": 6, "text": "дьиэлэрин", "type": "lowercase", "fst": "fst", "root": "дьиэ", "affixes": ["+N", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "тыаларын", "type": "lowercase", "fst": "fst", "root": "тыа", "affixes": ["+N", "+POSS.3PL", "+ACC"]},
+         {"pos": 8, "text": "тыаларын", "type": "lowercase", "fst": "fst", "root": "тыа", "affixes": ["+N", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "таарыйтаар", "type": "lowercase", "fst": "fst"},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

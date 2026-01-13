@@ -1,0 +1,38 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 23,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 1. Деепричастие на -ан.",
+      "section": 11,
+      "notes": "Эти сочетания могут использоваться и в роли конечного сказуемого, если они сопровождаются служебными глаголами, например ис- продолжать, бар- идти и т.п.",
+      "sah": "Кинилэр Василий Иванович иннигэр түһэн, түргэн хаамыынан атыллаан ыллаҥнатан, тэйдэр-тэйэн истилэр.",
+      "ru": "Они, обогнав Василия Ивановича, шагая широким скорым шагом, стали удаляться все дальше и дальше.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини", "affixes": ["+Pron", "+PL"]},
+         {"pos": 2, "text": "Василий", "type": "title", "fst": "yma", "root": "васили", "affixes": ["+N", "+VRBLZ#2"]},
+         {"pos": 3, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович", "affixes": ["+N"]},
+         {"pos": 4, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "инни", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 4, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "илин", "affixes": ["+N", "+POSS.2SG", "+DAT"]},
+         {"pos": 4, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "илин", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 5, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 5, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түс", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түһээ", "affixes": ["+V", "+REFL"]},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 7, "text": "түргэн", "type": "lowercase", "fst": "ymv", "root": "түрк", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 7, "text": "түргэн", "type": "lowercase", "fst": "ymv", "root": "түргэн", "affixes": ["+Adj"]},
+         {"pos": 8, "text": "хаамыынан", "type": "lowercase", "fst": "ymv", "root": "хаамп", "affixes": ["+V", "+NMLZ#2", "+INST"]},
+         {"pos": 9, "text": "атыллаан", "type": "lowercase", "fst": "ymv", "root": "атыл", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 10, "text": "ыллаҥнатан", "type": "lowercase", "fst": "ymv", "root": "ыллаа", "affixes": ["+V", "+NMLZ#7", "+VRBLZ#1", "+CAUS", "+CONV#1"]},
+         {"pos": 10, "text": "ыллаҥнатан", "type": "lowercase", "fst": "ymv", "root": "ыллаҥнаа", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+         {"pos": 10, "text": "ыллаҥнатан", "type": "lowercase", "fst": "ymv", "root": "ыллай", "affixes": ["+V", "+FREC#7", "+CAUS", "+CONV#1"]},
+         {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 12, "text": "тэйдэр", "type": "lowercase", "fst": "ymv", "root": "тэй", "affixes": ["+V", "+CONV_COND#1"]},
+         {"pos": 13, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 14, "text": "тэйэн", "type": "lowercase", "fst": "ymv", "root": "тэй", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 15, "text": "истилэр", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+PST.3PL"]},
+         {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

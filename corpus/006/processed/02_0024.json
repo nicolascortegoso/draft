@@ -1,0 +1,35 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 98,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частица бэрдэй",
+        "section": 24,
+        "notes": "Частица бэрдэй образуется от притяжательной формы имени бэрт замечательный при помощи вопросительного аффикса (бэрдэ+й). Форма бэрдэй отдельно не употребляется, а высту пает как собственно частица, выражающая изумление с оттен ком восхищения (иногда с некоторой примесью сомнения) при положительной реакции и с оттенком укора, осуждения, сетования и т. п. при отрицательной реакции говорящего.",
+        "sah": "Оо, дьон, санааҕыт тоҕо бачча харата, хараҥата сүрэй, сүрэххит тоҕо бачча дьэбирэ, тымныыта бэрдэй!",
+        "ru": "О, люди, почему же у вас мысли такие мрачные, темные, почему у вас сердца такие жестокие, холодные!",
+        "id": 3,
+        "parses": [
+           {"pos": 1, "text": "Оо", "type": "title", "fst": "fst", "root": "оо", "affixes": ["+INJ"]},
+           {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 3, "text": "дьон", "type": "lowercase", "fst": "fst", "root": "дьон", "affixes": ["+N"]},
+           {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 5, "text": "санааҕыт", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["+N", "+POSS.2PL"]},
+           {"pos": 6, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "тоҕо", "affixes": ["+Adv"]},
+           {"pos": 7, "text": "бачча", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+DEF#2"]},
+           {"pos": 8, "text": "харата", "type": "lowercase", "fst": "fst", "root": "хара", "affixes": ["+Adj", "+POSS.3SG"]},
+           {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 10, "text": "хараҥата", "type": "lowercase", "fst": "fst", "root": "хараҥа", "affixes": ["+Adj", "+POSS.3SG"]},
+           {"pos": 11, "text": "сүрэй", "type": "lowercase", "fst": "fst", "root": "сүрэй", "affixes": ["+Part"]},
+           {"pos": 12, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 13, "text": "сүрэххит", "type": "lowercase", "fst": "fst", "root": "сүрэх", "affixes": ["+N", "+POSS.2PL"]},
+           {"pos": 14, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "тоҕо", "affixes": ["+Adv"]},
+           {"pos": 15, "text": "бачча", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron", "+DEF#2"]},
+           {"pos": 16, "text": "дьэбирэ", "type": "lowercase", "fst": "fst", "root": "дьэбир", "affixes": ["+Adj", "+POSS.3SG"]},
+           {"pos": 17, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 18, "text": "тымныыта", "type": "lowercase", "fst": "fst", "root": "тымныы", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 19, "text": "бэрдэй", "type": "lowercase", "fst": "fst", "root": "бэрдэй", "affixes": ["+Part"]},
+           {"pos": 20, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    }    
+]

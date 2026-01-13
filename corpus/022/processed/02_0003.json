@@ -1,0 +1,345 @@
+[
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 143,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "28a",
+        "notes": "In Sakha direct objects in the Indicative and Conditional mood are marked with either the Accusative case or the (suffixless) Nominative case. Based on a brief and preliminary examination of the data, it appears that the Accusative is used to mark definite direct objects (28a), objects modified by a quantifier or a possessor (28b, c), as well as specific indefinite direct objects1 (28d), while the Nominative case marks generic indefinite direct objects (28e). However, this rule is not hard and fast, with the case-marking being different than expected in a number of instances.",
+        "sah": "Государственнай интэриэһи көрбөт буолбуттар.",
+        "en": "They don’t look to the state’s interests anymore. [state interest–ACC see–PRSPT.NEG AUX–PSTPT–PL]",
+        "id": 1,
+        "parses": [
+            {"pos": 1, "text": "Государственнай", "type": "title", "fst": "yma", "root": "государственнай", "affixes": ["+Adj"]},
+            {"pos": 2, "text": "интэриэһи", "type": "lowercase", "fst": "ymv", "root": "интэриэс", "affixes": ["+N", "+ACC"]},
+            {"pos": 3, "text": "көрбөт", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+            {"pos": 4, "text": "буолбуттар", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+PART_PAST", "+PL"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },    
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 143,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "28b",
+        "notes": "In Sakha direct objects in the Indicative and Conditional mood are marked with either the Accusative case or the (suffixless) Nominative case. Based on a brief and preliminary examination of the data, it appears that the Accusative is used to mark definite direct objects (28a), objects modified by a quantifier or a possessor (28b, c), as well as specific indefinite direct objects1 (28d), while the Nominative case marks generic indefinite direct objects (28e). However, this rule is not hard and fast, with the case-marking being different than expected in a number of instances.",
+        "sah": "Биир куул саахары ыллаххына балтараа тыһыынчаҥ барар.",
+        "en": "If you take (i.e. buy) one sack of sugar, your one and a half thousand go (i.e. you have to pay 1,500 rubles). [one sack sugar–ACC take–MDL–COND.2SG one.and.half thousand–POSS.2SG go–PRSPT]",
+        "id": 2,
+        "parses": [
+            {"pos": 1, "text": "Биир", "type": "title", "fst": "ymv", "root": "биир", "affixes": ["+Num"]},
+            {"pos": 2, "text": "куул", "type": "lowercase", "fst": "ymv", "root": "куул", "affixes": ["+N"]},
+            {"pos": 3, "text": "саахары", "type": "lowercase", "fst": "ymv", "root": "саахар", "affixes": ["+N", "+ACC"]},
+            {"pos": 4, "text": "ыллаххына", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+CONV_COND#2", "+POSS.2SG", "+PRTV"]},
+            {"pos": 5, "text": "балтараа", "type": "lowercase", "fst": "ymv", "root": "балтараа", "affixes": ["+Num"]},
+            {"pos": 6, "text": "тыһыынчаҥ", "type": "lowercase", "fst": "ymv", "root": "тыһыынча", "affixes": ["+Num", "+POSS.2SG"]},
+            {"pos": 7, "text": "барар", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 143,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "28c",
+        "notes": "In Sakha direct objects in the Indicative and Conditional mood are marked with either the Accusative case or the (suffixless) Nominative case. Based on a brief and preliminary examination of the data, it appears that the Accusative is used to mark definite direct objects (28a), objects modified by a quantifier or a possessor (28b, c), as well as specific indefinite direct objects1 (28d), while the Nominative case marks generic indefinite direct objects (28e). However, this rule is not hard and fast, with the case-marking being different than expected in a number of instances.",
+        "sah": "Ити соҕотуопкаҕа тутар буолбуттара куобах этин тириитин.",
+        "en": "They have started to take rabbit meat and leather for stockpiling. [this stockpile–DAT hold–PRSPT AUX–PSTPT–POSS.3PL rabbit meat–ACC.3SG leather–ACC.3SG]",
+        "id": 3,
+        "parses": [
+            {"pos": 1, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "соҕотуопкаҕа", "type": "lowercase", "fst": "ymv", "root": "соҕотуопка", "affixes": ["+N", "+DAT"]},
+            {"pos": 3, "text": "тутар", "type": "lowercase", "fst": "ymv", "root": "тут", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 4, "text": "буолбуттара", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+PART_PAST", "+PL", "+POSS.3SG"]},
+            {"pos": 5, "text": "куобах", "type": "lowercase", "fst": "ymv", "root": "куобах", "affixes": ["+N"]},
+            {"pos": 6, "text": "этин", "type": "lowercase", "fst": "ymv", "root": "эт", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+            {"pos": 7, "text": "тириитин", "type": "lowercase", "fst": "ymv", "root": "тирии", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+            {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 143,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "28d",
+        "notes": "In Sakha direct objects in the Indicative and Conditional mood are marked with either the Accusative case or the (suffixless) Nominative case. Based on a brief and preliminary examination of the data, it appears that the Accusative is used to mark definite direct objects (28a), objects modified by a quantifier or a possessor (28b, c), as well as specific indefinite direct objects1 (28d), while the Nominative case marks generic indefinite direct objects (28e). However, this rule is not hard and fast, with the case-marking being different than expected in a number of instances.",
+        "sah": "Аҕа дойдуну көмүскээри сэрии сылларыгар килбиэннээх үлэтин иһин диэн мэдээли ылбытым.",
+        "en": "I received a medal for my outstanding work during the war for the defense of the fatherland. [father country–ACC defend–PRSPT war year–DAT.3PL glow–PROP work–GEN for say–PF.CVB medal–ACC take–PSTPT–POSS.1SG]",
+        "id": 4,
+        "parses": [
+            {"pos": 1, "text": "Аҕа", "type": "title", "fst": "ymv", "root": "аҕа", "affixes": ["+N"]},
+            {"pos": 2, "text": "дойдуну", "type": "lowercase", "fst": "ymv", "root": "дойду", "affixes": ["+N", "+ACC"]},
+            {"pos": 3, "text": "көмүскээри", "type": "lowercase", "fst": "ymv", "root": "көмүскээ", "affixes": ["+V", "+CONV#5"]},
+            {"pos": 4, "text": "сэрии", "type": "lowercase", "fst": "ymv", "root": "сэрии", "affixes": ["+N"]},
+            {"pos": 5, "text": "сылларыгар", "type": "lowercase", "fst": "ymv", "root": "сыл", "affixes": ["+N", "+POSS.3PL", "+DAT"]},
+            {"pos": 6, "text": "килбиэннээх", "type": "lowercase", "fst": "ymv", "root": "килбиэн", "affixes": ["+N", "+ADJZ#1"]},
+            {"pos": 7, "text": "үлэтин", "type": "lowercase", "fst": "ymv", "root": "үлэ", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+            {"pos": 8, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин", "affixes": ["+POST"]},
+            {"pos": 9, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 10, "text": "мэдээли", "type": "lowercase", "fst": "yma", "root": "мэдээл", "affixes": ["+N", "+ACC"]},
+            {"pos": 11, "text": "ылбытым", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+            {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 144,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "28e",
+        "notes": "In Sakha direct objects in the Indicative and Conditional mood are marked with either the Accusative case or the (suffixless) Nominative case. Based on a brief and preliminary examination of the data, it appears that the Accusative is used to mark definite direct objects (28a), objects modified by a quantifier or a possessor (28b, c), as well as specific indefinite direct objects1 (28d), while the Nominative case marks generic indefinite direct objects (28e). However, this rule is not hard and fast, with the case-marking being different than expected in a number of instances.",
+        "sah": "Ону мээккэлээн лэппиэскэ оҥорон сиир этибит.",
+        "en": "We ground that and made flatbread and ate that [that.OBL–ACC grind–PF.CVB flatbread make–PF.CVB eat–PRSPT AUX–PST–1PL]",
+        "id": 5,
+        "parses": [
+            {"pos": 1, "text": "Ону", "type": "title", "fst": "ymv", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+            {"pos": 2, "text": "мээккэлээн", "type": "lowercase", "fst": "ymv", "root": "мээккэ", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+            {"pos": 3, "text": "лэппиэскэ", "type": "lowercase", "fst": "ymv", "root": "лэппиэскэ", "affixes": ["+N"]},
+            {"pos": 4, "text": "оҥорон", "type": "lowercase", "fst": "ymv", "root": "оҥор", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 5, "text": "сиир", "type": "lowercase", "fst": "ymv", "root": "сиэ", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 6, "text": "этибит", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PST.1PL"]},
+            {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 144,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "29a",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "Эмиэ эдьиий К. харчыта ыыттын диэн Дьокуускайтан суруйар.",
+        "en": "She also wrote from Yakutsk 'Let Aunt K. send (some) money'. [also older.sister K. money–PART send–IMP.3SG say–PF.CVB ]",
+        "id": 6,
+        "parses": [
+            {"pos": 1, "text": "Эмиэ", "type": "title", "fst": "ymv", "root": "эмиэ", "affixes": ["+Adv"]},
+            {"pos": 2, "text": "эдьиий", "type": "lowercase", "fst": "ymv", "root": "эдьиий", "affixes": ["+N"]},
+            {"pos": 3, "text": "К", "type": "uppercase", "fst": "ymv"},
+            {"pos": 4, "text": ".", "type": "period", "fst": "ymv"},
+            {"pos": 5, "text": "харчыта", "type": "lowercase", "fst": "ymv", "root": "харчы", "affixes": ["+N", "+PRTV"]},
+            {"pos": 6, "text": "ыыттын", "type": "lowercase", "fst": "ymv", "root": "ыыт", "affixes": ["+V", "+IMP#1.3SG"]},
+            {"pos": 7, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 8, "text": "Дьокуускайтан", "type": "title", "fst": "ymv", "root": "дьокуускай", "affixes": ["+Adj", "+ABL"]},
+            {"pos": 9, "text": "суруйар", "type": "lowercase", "fst": "ymv", "root": "суруй", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 144,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "29b",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "Саламаатта, суоратта амсайыҥ.",
+        "en": "Try some salamat (Yakut dish), some yoghurt. [salamat–PART yoghurt–PART taste[PRXIMP]–2PL]",
+        "id": 7,
+        "parses": [
+            {"pos": 1, "text": "Саламаатта", "type": "title", "fst": "ymv", "root": "саламаат", "affixes": ["+N", "+PRTV"]},
+            {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 3, "text": "суоратта", "type": "lowercase", "fst": "ymv", "root": "суорат", "affixes": ["+N", "+PRTV"]},
+            {"pos": 4, "text": "амсайыҥ", "type": "lowercase", "fst": "ymv", "root": "амсай", "affixes": ["+V", "+IMP#1.2PL"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 145,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "30a",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "Киһи эрэ буолларгын, үтүөтэ оҥор.",
+        "en": "If you are a man do good. [person PTL AUX–COND–PRED.2SG good–PART make[PRXIMP.2SG]]",
+        "id": 8,
+        "parses": [
+            {"pos": 1, "text": "Киһи", "type": "title", "fst": "ymv", "root": "киһи", "affixes": ["+N"]},
+            {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ", "affixes": ["+Part"]},
+            {"pos": 3, "text": "буолларгын", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV_COND#1", "+2SG"]},
+            {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 5, "text": "үтүөтэ", "type": "lowercase", "fst": "ymv", "root": "үтүө", "affixes": ["+Adj", "+PRTV"]},
+            {"pos": 6, "text": "оҥор", "type": "lowercase", "fst": "ymv", "root": "оҥор", "affixes": ["+V"]},
+            {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 145,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "28d",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "Миэхэ атта тутан биэр.",
+        "en": "Catch me a horse. [1SG.DAT horse–PART hold–PF.CVB BEN[PRXIMP.2SG]]",
+        "id": 9,
+        "parses": [
+            {"pos": 1, "text": "Миэхэ", "type": "title", "fst": "ymv", "root": "мин", "affixes": ["+Pron", "+DAT"]},
+            {"pos": 2, "text": "атта", "type": "lowercase", "fst": "ymv", "root": "ат", "affixes": ["+N", "+PRTV"]},
+            {"pos": 3, "text": "тутан", "type": "lowercase", "fst": "ymv", "root": "тут", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 4, "text": "биэр", "type": "lowercase", "fst": "ymv", "root": "биэр", "affixes": ["+V"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 145,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "30c",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "Икки буохука уута бэлэмнээриҥ.",
+        "en": "Prepare two barrels of water! [two barrel water–PART ready–VR–DSTIMP–2PL]",
+        "id": 10,
+        "parses": [
+            {"pos": 1, "text": "Икки", "type": "title", "fst": "ymv", "root": "икки", "affixes": ["+Num"]},
+            {"pos": 2, "text": "буохука", "type": "lowercase", "fst": "yma", "root": "буохука", "affixes": ["+N"]},
+            {"pos": 3, "text": "уута", "type": "lowercase", "fst": "ymv", "root": "уу", "affixes": ["+N", "+PRTV"]},
+            {"pos": 4, "text": "бэлэмнээриҥ", "type": "lowercase", "fst": "ymv", "root": "бэлэм", "affixes": ["+Adj", "+VRBLZ#1", "+IMP#2.2PL"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 145,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "30d",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "Машаҕа үчүгэй кинигэтэ ыл.",
+        "en": "Buy a good book for Masha. [M.–DAT good book–PART take[PRXIMP.2SG]]",
+        "id": 11,
+        "parses": [
+            {"pos": 1, "text": "Машаҕа", "type": "title", "fst": "yma", "root": "маша", "affixes": ["+N", "+DAT"]},
+            {"pos": 2, "text": "үчүгэй", "type": "lowercase", "fst": "ymv", "root": "үчүгэй", "affixes": ["+Adj"]},
+            {"pos": 3, "text": "кинигэтэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ", "affixes": ["+N", "+PRTV"]},
+            {"pos": 4, "text": "ыл", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 145,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "31a",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "«Бырааккын оскуолаҕа аҕал эрэ», — дииллэр.",
+        "en": "Bring your nephew to school”, they said. [younger.brother–ACC.2SG school–DAT bring[PRXIMP.2SG] PTL say–PRSPT–PL]",
+        "id": 12,
+        "parses": [
+            {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+            {"pos": 2, "text": "Бырааккын", "type": "title", "fst": "ymv", "root": "быраат", "affixes": ["+N", "+POSS.2SG", "+ACC"]},
+            {"pos": 3, "text": "оскуолаҕа", "type": "lowercase", "fst": "ymv", "root": "оскуола", "affixes": ["+N", "+DAT"]},
+            {"pos": 4, "text": "аҕал", "type": "lowercase", "fst": "ymv", "root": "аҕал", "affixes": ["+V"]},
+            {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ", "affixes": ["+Part"]},
+            {"pos": 6, "text": "»", "type": "quotation", "fst": "ymv"},
+            {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 8, "text": "—", "type": "dash", "fst": "ymv"},
+            {"pos": 9, "text": "дииллэр", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+PART_PRES", "+PL"]},
+            {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 145,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "31b",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "«Отпускаҕа барааччыны эҥин солбуй», — диэбитим.",
+        "en": "“Replace someone who left on holiday”, I said. [leave–DAT go–HAB–ACC etc. replace[PRXIMP.2SG] say–PSTPT–POSS.1SG]",
+        "id": 13,
+        "parses": [
+            {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+            {"pos": 2, "text": "Отпускаҕа", "type": "title", "fst": "yma", "root": "отпуска", "affixes": ["+N", "+DAT"]},
+            {"pos": 3, "text": "барааччыны", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+HAB#1", "+ACC"]},
+            {"pos": 4, "text": "эҥин", "type": "lowercase", "fst": "ymv", "root": "эҥин", "affixes": ["+Adj"]},
+            {"pos": 5, "text": "солбуй", "type": "lowercase", "fst": "ymv", "root": "солбуй", "affixes": ["+V"]},
+            {"pos": 6, "text": "»", "type": "quotation", "fst": "ymv"},
+            {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 8, "text": "—", "type": "dash", "fst": "ymv"},
+            {"pos": 9, "text": "диэбитим", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+PART_PAST", "+POSS.1SG"]},
+            {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 146,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "32a",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "«Оҕолору хаайан сылдьыма», — диир.",
+        "en": " “Don’t leave (your) children alone!”, he said. [child–PL–ACC lock.up–PF.CVB go[PRXIMP.2SG]–NEG say–PRSPT]",
+        "id": 14,
+        "parses": [
+            {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+            {"pos": 2, "text": "Оҕолору", "type": "title", "fst": "ymv", "root": "оҕо", "affixes": ["+N", "+PL", "+ACC"]},
+            {"pos": 3, "text": "хаайан", "type": "lowercase", "fst": "ymv", "root": "хаай", "affixes": ["+V", "+CONV#1"]},
+            {"pos": 4, "text": "сылдьыма", "type": "lowercase", "fst": "ymv", "root": "сырыт", "affixes": ["+V", "+NEG"]},
+            {"pos": 5, "text": "»", "type": "quotation", "fst": "ymv"},
+            {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+            {"pos": 7, "text": "—", "type": "dash", "fst": "ymv"},
+            {"pos": 8, "text": "диир", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+PART_PRES"]},
+            {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 146,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.1 Sakha case-marking on direct objects",
+        "section": "32b",
+        "notes": "In the affirmative Imperative mood, however, partially affected mass nouns in direct object position take the Partitive case (29a, b), so called precisely because of this function. Furthermore, the Partitive is also used to mark generic indefinite and non-referential direct objects (30a-d), even when they are modified by a quantifying noun (30c) or an adjective (30d), while definite and specific indefinite direct objects take Accusative case marking (31a, b). Because of this function, Böhtlingk (Btl: 256, 320) initially named this the ‘Indefinite Accusative’ case. In the negative Imperative mood, direct objects generally take Accusative case marking (32a, b).",
+        "sah": "Паркаҕа сибэккини үүргээмэ.",
+        "en": "Don’t pick flowers in the park! [park–DAT flower(s)–ACC tear.out[PRXIMP.2SG]–NEG]",
+        "id": 15,
+        "parses": [
+            {"pos": 1, "text": "Паркаҕа", "type": "title", "fst": "yma", "root": "парка", "affixes": ["+N", "+DAT"]},
+            {"pos": 2, "text": "сибэккини", "type": "lowercase", "fst": "ymv", "root": "сибэкки", "affixes": ["+N", "+ACC"]},
+            {"pos": 3, "text": "үүргээмэ", "type": "lowercase", "fst": "yma", "root": "үүргээ", "affixes": ["+V", "+NEG"]},
+            {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 169,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.9 The origins of the indefinite accusative function of the Sakha Partitive case",
+        "section": "43a",
+        "notes": "A factor that may have played a role in facilitating the copying of the indefinite accusative meaning between Sakha and Evenki (irrespective of the direction of influence) is that for nouns ending in vowels, the Sakha Privative construction appears to consist of a Partitive case-marked noun followed by the negative noun suo (43a), i.e. it appears to be identical to the Evenki Privative construction. For nouns ending in a consonant it is clear that this is not the case (43b), and that the Sakha Privative is formed by the object of privation carrying the 3SG possessive suffix. Nevertheless, the surface similarity in a number of privative expressions may have been enough for speakers of Sakha or Evenki to equate the Sakha way of expressing partially affected mass nouns with their means of expressing lack of an object, and to identify these constructions with the Evenki way of expressing these. This could have led to the extension of the functions of the case identified as being involved in such constructions by copying the indefinite accusative function from the other language.",
+        "sah": "Биһиэхэ улахан суолтата суох.",
+        "en": "(It has) no meaning for us. [1PL.DAT big meaning–POSS.3SG non.existence]",
+        "id": 17,
+        "parses": [
+            {"pos": 1, "text": "Биһиэхэ", "type": "title", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron", "+DAT"]},
+            {"pos": 2, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан", "affixes": ["+Adj"]},
+            {"pos": 3, "text": "суолтата", "type": "lowercase", "fst": "ymv", "root": "суолта", "affixes": ["+N", "+POSS.3SG"]},
+            {"pos": 4, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох", "affixes": ["+N"]},
+            {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 170,
+        "chapter": "3.2.3 The development of the Partitive case in Sakha",
+        "topic": "3.2.3.9 The origins of the indefinite accusative function of the Sakha Partitive case",
+        "section": "43b",
+        "notes": "A factor that may have played a role in facilitating the copying of the indefinite accusative meaning between Sakha and Evenki (irrespective of the direction of influence) is that for nouns ending in vowels, the Sakha Privative construction appears to consist of a Partitive case-marked noun followed by the negative noun suo (43a), i.e. it appears to be identical to the Evenki Privative construction. For nouns ending in a consonant it is clear that this is not the case (43b), and that the Sakha Privative is formed by the object of privation carrying the 3SG possessive suffix. Nevertheless, the surface similarity in a number of privative expressions may have been enough for speakers of Sakha or Evenki to equate the Sakha way of expressing partially affected mass nouns with their means of expressing lack of an object, and to identify these constructions with the Evenki way of expressing these. This could have led to the extension of the functions of the case identified as being involved in such constructions by copying the indefinite accusative function from the other language.",
+        "sah": "Кини төрүт үөрэҕэ суох киһи эбит.",
+        "en": "He was a person without any education, it seems. [3SG completely studies–POSS.3SG non.existence person AUX–PSTPT]",
+        "id": 18,
+        "parses": [
+            {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "төрүт", "type": "lowercase", "fst": "ymv", "root": "төрүт", "affixes": ["+Adv"]},
+            {"pos": 3, "text": "үөрэҕэ", "type": "lowercase", "fst": "ymv", "root": "үөрэх", "affixes": ["+N", "+POSS.3SG"]},
+            {"pos": 4, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох", "affixes": ["+N"]},
+            {"pos": 5, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи", "affixes": ["+N"]},
+            {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PART_PAST"]},
+            {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }
+]

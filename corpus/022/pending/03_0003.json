@@ -1,0 +1,54 @@
+[
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 233,
+      "chapter": "3.3 The Sakha Distant Future Imperative",
+      "topic": "3.3.6.1 Possible copy from Mongolic",
+      "section": "83",
+      "notes": "As to the formal similarity between the Sakha Future Imperative suffix –A:r and the Mongolic Prescriptive –A:rAy, this is not so great as it would seem. There exists an emphatic form of the Future Imperative in Sakha (cf. example 67e, repeated here as 82) which ends in an (optionally long) high vowel; it is this form that is compared to the Mongolic Prescriptive (Btl: 304; Poppe 1959). However, this emphatic form is (currently) not very widespread, but is found predominantly in the Suntar dialect10 (own observation); Ubrjatova states that this is a dialectalism that has entered the standard language, without giving precise information about which dialect it may have come from (Ubr: 180). Furthermore, this emphatic form exists for the Present Imperative as well.",
+      "sah": "Ааккын этиий.",
+      "en": "Say your name. [name–ACC.2SG say[PRXIMP.2SG]–EMPH]",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Ааккын", "type": "title", "fst": "ymv", "root": "аат", "affixes": ["+N", "+POSS.2SG", "+ACC"]},
+         {"pos": 1, "text": "Ааккын", "type": "title", "fst": "ymv", "root": "аат", "affixes": ["+N", "+2SG"]},
+         {"pos": 1, "text": "Ааккын", "type": "title", "fst": "ymv", "root": "аак", "affixes": ["+N", "+POSS.2SG", "+ACC"]},
+         {"pos": 1, "text": "Ааккын", "type": "title", "fst": "ymv", "root": "аак", "affixes": ["+N", "+2SG"]},
+         {"pos": 1, "text": "Ааккын", "type": "title", "fst": "ymv", "root": "ыа", "affixes": ["+V", "+CONV#6", "+2SG"]},
+         {"pos": 2, "text": "этиий", "type": "lowercase", "fst": "ymv", "root": "эт", "affixes": ["+V", "+INT#1"]},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+      "page": 234,
+      "chapter": "3.3 The Sakha Distant Future Imperative",
+      "topic": "3.3.6.1 Possible copy from Mongolic",
+      "section": "84",
+      "notes": "It might possibly go back to the content-question marking Interrogative Clitic =(I)y (cf. Btl: 302), and it is interesting to note that one speaker in the Suntar district used this clitic in discourse as an emphatic marker as well.",
+      "sah": "Итинниктэрий ити үлүгэр тыраанспар үлүгэр билигин бу кэтэх хаалбит.",
+      "en": "All of these, so much of the transport now became private possession. [such.a–PL=Q this INTS transport INTS now this private RES–PSTPT]",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Итинниктэрий", "type": "title", "fst": "ymv", "root": "ити", "affixes": ["+Pron", "+DEF", "+PL", "+ACC", "+INT"]},
+         {"pos": 1, "text": "Итинниктэрий", "type": "title", "fst": "ymv", "root": "ити", "affixes": ["+Pron", "+DEF", "+PL", "+INT"]},
+         {"pos": 2, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "үлүгэр", "type": "lowercase", "fst": "ymv", "root": "үлүк", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 3, "text": "үлүгэр", "type": "lowercase", "fst": "ymv", "root": "үлүгэр", "affixes": ["+N"]},
+         {"pos": 4, "text": "тыраанспар", "type": "lowercase", "fst": "yma", "root": "тыраанспар", "affixes": ["+N"]},
+         {"pos": 4, "text": "тыраанспар", "type": "lowercase", "fst": "yma", "root": "тыраанспа", "affixes": ["+N", "+VRBLZ#4"]},
+         {"pos": 4, "text": "тыраанспар", "type": "lowercase", "fst": "yma", "root": "тыраанс", "affixes": ["+N", "+POSS.1SG", "+DAT"]},
+         {"pos": 5, "text": "үлүгэр", "type": "lowercase", "fst": "ymv", "root": "үлүк", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+         {"pos": 5, "text": "үлүгэр", "type": "lowercase", "fst": "ymv", "root": "үлүгэр", "affixes": ["+N"]},
+         {"pos": 6, "text": "билигин", "type": "lowercase", "fst": "ymv", "root": "билигин", "affixes": ["+Adv"]},
+         {"pos": 6, "text": "билигин", "type": "lowercase", "fst": "ymv", "root": "бил", "affixes": ["+V", "+NMLZ#5", "+POSS.3SG", "+ACC"]},
+         {"pos": 7, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 8, "text": "кэтэх", "type": "lowercase", "fst": "ymv", "root": "кэтээ", "affixes": ["+V", "+ADJZ#16"]},
+         {"pos": 8, "text": "кэтэх", "type": "lowercase", "fst": "ymv", "root": "кэтээ", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 8, "text": "кэтэх", "type": "lowercase", "fst": "ymv", "root": "кэтэх", "affixes": ["+N"]},
+         {"pos": 8, "text": "кэтэх", "type": "lowercase", "fst": "ymv", "root": "кэт", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 9, "text": "хаалбит", "type": "lowercase", "fst": "yma", "root": "хаалбит", "affixes": ["+N"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,29 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 48,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 3. Деепричастие на -ымына",
+      "section": 32,
+      "notes": "В якутском языке форму на -ымына в качестве отрицательной формы деепричастия на -ан первым отметил акад. Бетлингк, показав два ее варианта: 1) -ымыйа.",
+      "sah": "Бу киниэхэ таарыйымыйа, алгыһын ылымыйа ким даҕаны ааспат баара.",
+      "ru": "Никто обычно не проезжал мимо, не заехав к ней, не получив ее благословения.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "киниэхэ", "type": "lowercase", "fst": "ymv", "root": "кини", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 3, "text": "таарыйымыйа", "type": "lowercase", "fst": "yma", "root": "таарыйымыйа", "affixes": ["+N"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 5, "text": "алгыһын", "type": "lowercase", "fst": "ymv", "root": "алгыс", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 6, "text": "ылымыйа", "type": "lowercase", "fst": "yma", "root": "ылымыйа", "affixes": ["+N"]},
+         {"pos": 7, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким", "affixes": ["+V"]},
+         {"pos": 7, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким", "affixes": ["+Pron"]},
+         {"pos": 8, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны", "affixes": ["+CONJ"]},
+         {"pos": 8, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны", "affixes": ["+Part"]},
+         {"pos": 9, "text": "ааспат", "type": "lowercase", "fst": "ymv", "root": "аас", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+         {"pos": 10, "text": "баара", "type": "lowercase", "fst": "ymv", "root": "баар", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 10, "text": "баара", "type": "lowercase", "fst": "ymv", "root": "баар", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

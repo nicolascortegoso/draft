@@ -1,0 +1,82 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 154,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 17. Суох.",
+      "section": 17,
+      "notes": "Имя суох отсутствие также выступает в качестве модального слова, выражая отрицание, возражение, несогласие, отказ говорящего по поводу ранее высказанных или высказываемых мыслей.",
+      "sah": "Суох, Нартаахап биир бөөхүллэ фашист иһин өлүө суоҕа.",
+      "ru": "Нет, Нартахов не погибнет за одного захуда лого фашиста.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Суох", "type": "title", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "Нартаахап", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+         {"pos": 4, "text": "биир", "type": "lowercase", "fst": "fst", "root": "бии", "affixes": ["+N", "+VRBLZ#4"]},
+         {"pos": 5, "text": "бөөхүллэ", "type": "lowercase", "fst": "fst"},
+         {"pos": 6, "text": "фашист", "type": "lowercase", "fst": "fst", "root": "фашист", "affixes": ["+N"]},
+         {"pos": 7, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 7, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис", "affixes": ["+V", "+REFL"]},
+         {"pos": 7, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "иһин", "affixes": ["+POST"]},
+         {"pos": 8, "text": "өлүө", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+N", "+VRBLZ#3", "+PART_FUT"]},
+         {"pos": 8, "text": "өлүө", "type": "lowercase", "fst": "fst", "root": "өл", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суо", "affixes": ["+N", "+DAT"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 154,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 17. Суох.",
+      "section": 17,
+      "notes": "Имя суох отсутствие также выступает в качестве модального слова, выражая отрицание, возражение, несогласие, отказ говорящего по поводу ранее высказанных или высказываемых мыслей.",
+      "sah": "Суох, Микиитээ, сатыы бараҕын.",
+      "ru": "ҥҕөһү Нет, Никита, ты пешком пойдешь.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Суох", "type": "title", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "Микиитээ", "type": "title", "fst": "fst"},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "сатыы", "type": "lowercase", "fst": "fst", "root": "сатаа", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "сатыы", "type": "lowercase", "fst": "fst", "root": "сатыы", "affixes": ["+Adv"]},
+         {"pos": 5, "text": "сатыы", "type": "lowercase", "fst": "fst", "root": "сай", "affixes": ["+V", "+CSTV", "+NMLZ#2"]},
+         {"pos": 5, "text": "сатыы", "type": "lowercase", "fst": "fst", "root": "сай", "affixes": ["+V", "+CSTV", "+CONV#2"]},
+         {"pos": 6, "text": "бараҕын", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+ADJZ#16", "+POSS.3SG", "+ACC"]},
+         {"pos": 6, "text": "бараҕын", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG", "+ACC"]},
+         {"pos": 6, "text": "бараҕын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG", "+ACC"]},
+         {"pos": 6, "text": "бараҕын", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_PRES", "+2SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 154,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 17. Суох.",
+      "section": 17,
+      "notes": "В модальном значении суох всегда выступает в позиции вводного члена. Оно обособляется запятыми даже от таких модальных слов, как дьэ, чэ.",
+      "sah": "Дьэ, суох, мин оҕуспун биэрбэппин!",
+      "ru": "Ну, нет, я своего вола не дам!",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Дьэ", "type": "title", "fst": "fst", "root": "дьэ", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+N"]},
+         {"pos": 5, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 6, "text": "оҕуспун", "type": "lowercase", "fst": "fst", "root": "ох", "affixes": ["+N", "+VRBLZ#2", "+RECP", "+1SG"]},
+         {"pos": 6, "text": "оҕуспун", "type": "lowercase", "fst": "fst", "root": "оҕус", "affixes": ["+N", "+1SG"]},
+         {"pos": 7, "text": "биэрбэппин", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+NEG", "+PART_PRES", "+POSS.1SG", "+ACC"]},
+         {"pos": 7, "text": "биэрбэппин", "type": "lowercase", "fst": "fst", "root": "биэр", "affixes": ["+V", "+NEG", "+PART_PRES", "+1SG"]},
+         {"pos": 7, "text": "биэрбэппин", "type": "lowercase", "fst": "fst", "root": "биэ", "affixes": ["+N", "+VRBLZ#4", "+NEG", "+PART_PRES", "+POSS.1SG", "+ACC"]},
+         {"pos": 7, "text": "биэрбэппин", "type": "lowercase", "fst": "fst", "root": "биэ", "affixes": ["+N", "+VRBLZ#4", "+NEG", "+PART_PRES", "+1SG"]},
+         {"pos": 8, "text": "!", "type": "exclamation", "fst": "fst"}
+      ]
+   }
+]

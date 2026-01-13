@@ -1,0 +1,50 @@
+[
+   {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 112,
+      "chapter": "Страдательные глаголы",
+      "topic": "Употребление глаголов страдательного залога",
+      "section": 217,
+      "notes": "Личные формы страдательных глаголов имеют полное спряжение и все временные формы. Например: (от оҥоһулун- быть делаемым).",
+      "sah": "Кининэн миинньик эмиэ оҥоһуллар.",
+      "ru": "Из него веник тоже делается.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кининэн", "type": "title", "fst": "ymv", "root": "кини", "affixes": ["+Pron", "+INST"]},
+         {"pos": 2, "text": "миинньик", "type": "lowercase", "fst": "ymv", "root": "миинньик", "affixes": ["+N"]},
+         {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмп", "affixes": ["+N", "+VRBLZ#3", "+PART_FUT"]},
+         {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эм", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+NEG", "+PART_FUT"]},
+         {"pos": 4, "text": "оҥоһуллар", "type": "lowercase", "fst": "ymv", "root": "оҥой", "affixes": ["+V", "+RECP", "+PASS", "+PART_PRES"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 112,
+      "chapter": "Страдательные глаголы",
+      "topic": "Употребление глаголов страдательного залога",
+      "section": 217,
+      "notes": "Личные формы страдательных глаголов имеют полное спряжение и все временные формы. Например: (от атакастан- быть обиженным).",
+      "sah": "Атаҕастанным дии-дии колхозтан тахсар куһаҕан.",
+      "ru": "Плохо уходить из колхоза, считая (говоря), что я обижен.",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Атаҕастанным", "type": "title", "fst": "ymv", "root": "атах", "affixes": ["+N", "+VRBLZ#3", "+ADJZ#14", "+VRBLZ#1", "+REFL", "+PST.1SG"]},
+         {"pos": 1, "text": "Атаҕастанным", "type": "title", "fst": "ymv", "root": "атаҕастаа", "affixes": ["+V", "+REFL", "+PST.1SG"]},
+         {"pos": 1, "text": "Атаҕастанным", "type": "title", "fst": "ymv", "root": "ат", "affixes": ["+N", "+VRBLZ#3", "+ADJZ#6", "+VRBLZ#1", "+REFL", "+PST.1SG"]},
+         {"pos": 1, "text": "Атаҕастанным", "type": "title", "fst": "ymv", "root": "ат", "affixes": ["+V", "+ADJZ#6", "+VRBLZ#1", "+REFL", "+PST.1SG"]},
+         {"pos": 2, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии", "affixes": ["+Part"]},
+         {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 4, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "диэ", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии", "affixes": ["+Part"]},
+         {"pos": 5, "text": "колхозтан", "type": "lowercase", "fst": "yma", "root": "колхозтан", "affixes": ["+N"]},
+         {"pos": 6, "text": "тахсар", "type": "lowercase", "fst": "ymv", "root": "таҕыс", "affixes": ["+V", "+CSTV"]},
+         {"pos": 6, "text": "тахсар", "type": "lowercase", "fst": "ymv", "root": "таҕыс", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 7, "text": "куһаҕан", "type": "lowercase", "fst": "ymv", "root": "куһаҕан", "affixes": ["+Adj"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

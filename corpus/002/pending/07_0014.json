@@ -1,0 +1,39 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 219,
+      "chapter": "Глава IV. Долженствовательное наклонение",
+      "topic": "2. Будущее время долженствовательного наклонения",
+      "section": 14,
+      "notes": "Прошедшее время долженствовательного наклонения в своем значении содержит синтез двух понятий: 1) необходимость, предрешенность действия (т. е. значение долженствовательного наклонения); 2) отнесенность действия к прошлому (значение прошедшего времени), т. е. оно передает действия, долженствовавшие или долженствовавшие быть совершенными в прошлом.",
+      "sah": "Татьяна Петровна, мин эһигиттэн биири көрдөһөрдөөх этим, ону сатаан эппэтэҕим.",
+      "ru": "Татьяна Петровна, я имел от Вас просить об одном деле, но не сумел это высказать.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Татьяна", "type": "title", "fst": "fst"},
+         {"pos": 2, "text": "Петровна", "type": "title", "fst": "fst"},
+         {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 4, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+N"]},
+         {"pos": 4, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 5, "text": "эһигиттэн", "type": "lowercase", "fst": "fst", "root": "эс", "affixes": ["+V", "+ADJZ#16", "+POSS.3SG", "+ABL"]},
+         {"pos": 5, "text": "эһигиттэн", "type": "lowercase", "fst": "fst", "root": "эс", "affixes": ["+V", "+NMLZ#5", "+POSS.3SG", "+ABL"]},
+         {"pos": 5, "text": "эһигиттэн", "type": "lowercase", "fst": "fst", "root": "эһиги", "affixes": ["+Pron", "+ABL"]},
+         {"pos": 6, "text": "биири", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num", "+ACC"]},
+         {"pos": 7, "text": "көрдөһөрдөөх", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+RECP", "+PART_PRES", "+ADJZ#1"]},
+         {"pos": 7, "text": "көрдөһөрдөөх", "type": "lowercase", "fst": "fst", "root": "көрдөө", "affixes": ["+V", "+RECP", "+PART_PRES", "+DEB"]},
+         {"pos": 7, "text": "көрдөһөрдөөх", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#1", "+RECP", "+PART_PRES", "+ADJZ#1"]},
+         {"pos": 7, "text": "көрдөһөрдөөх", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#1", "+RECP", "+PART_PRES", "+DEB"]},
+         {"pos": 8, "text": "этим", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 8, "text": "этим", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.1SG"]},
+         {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 10, "text": "ону", "type": "lowercase", "fst": "fst", "root": "ол", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 11, "text": "сатаан", "type": "lowercase", "fst": "fst", "root": "сатаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 11, "text": "сатаан", "type": "lowercase", "fst": "fst", "root": "сай", "affixes": ["+V", "+CSTV", "+CONV#1"]},
+         {"pos": 12, "text": "эппэтэҕим", "type": "lowercase", "fst": "fst", "root": "эп", "affixes": ["+V", "+NEG", "+CONV_COND#2", "+POSS.1SG"]},
+         {"pos": 12, "text": "эппэтэҕим", "type": "lowercase", "fst": "fst", "root": "эп", "affixes": ["+V", "+NEG", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 12, "text": "эппэтэҕим", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+NEG", "+CONV_COND#2", "+POSS.1SG"]},
+         {"pos": 12, "text": "эппэтэҕим", "type": "lowercase", "fst": "fst", "root": "эт", "affixes": ["+V", "+NEG", "+PART_PAST", "+POSS.1SG"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

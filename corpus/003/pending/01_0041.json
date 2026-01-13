@@ -1,0 +1,60 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 56,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 4. Деепричастие на -аары",
+      "section": 41,
+      "notes": "Деепричастная форма на -аары, может употребляться в позиции сказуемого для обозначения возражения, несогласия или предупреждения говорящего о нежелательности совершения того или иного действия, как неспособного дать возможный или ожидаемый результат.",
+      "sah": "Саҥарба, кинини кытта хаһан кыайан аахсаарыгын.",
+      "ru": "Молчи, когда же ты с ним посчитаешься.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Саҥарба", "type": "title", "fst": "yma", "root": "саҥарба", "affixes": ["+N"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 3, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 4, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хас", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хаһан", "affixes": ["+Pron"]},
+         {"pos": 5, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хай", "affixes": ["+V", "+RECP", "+CONV#1"]},
+         {"pos": 6, "text": "кыайан", "type": "lowercase", "fst": "ymv", "root": "кыай", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 6, "text": "кыайан", "type": "lowercase", "fst": "ymv", "root": "кыа", "affixes": ["+N", "+VRBLZ#2", "+CONV#1"]},
+         {"pos": 7, "text": "аахсаарыгын", "type": "lowercase", "fst": "ymv", "root": "ааҕыс", "affixes": ["+V", "+CONV#5", "+2SG"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+      "page": 56,
+      "chapter": "Глава I. Морфологическое описание деепричастий якутского языка",
+      "topic": "Первичные деепричастия. 4. Деепричастие на -аары",
+      "section": 41,
+      "notes": "Деепричастная форма на -аары, может употребляться в позиции сказуемого для обозначения возражения, несогласия или предупреждения говорящего о нежелательности совершения того или иного действия, как неспособного дать возможный или ожидаемый результат.",
+      "sah": "Кэбис, ол түөһэйбит оҕонньор түҥ-таҥ эрдэрин истэн тугу туһанаары.",
+      "ru": "Не надо, какая польза от болтовни выжившего из ума старика;",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Кэбис", "type": "title", "fst": "ymv", "root": "кэбис", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 3, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "түөһэйбит", "type": "lowercase", "fst": "ymv", "root": "түөһэй", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 5, "text": "оҕонньор", "type": "lowercase", "fst": "ymv", "root": "оҕонньор", "affixes": ["+N"]},
+         {"pos": 6, "text": "түҥ", "type": "lowercase", "fst": "ymv", "root": "түҥ", "affixes": ["+IMIT"]},
+         {"pos": 7, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 8, "text": "таҥ", "type": "lowercase", "fst": "ymv", "root": "таҥ", "affixes": ["+IMIT"]},
+         {"pos": 9, "text": "эрдэрин", "type": "lowercase", "fst": "ymv", "root": "эрт", "affixes": ["+V", "+CSTV", "+REFL"]},
+         {"pos": 9, "text": "эрдэрин", "type": "lowercase", "fst": "ymv", "root": "эрт", "affixes": ["+V", "+PART_PRES", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "эрдэрин", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+N", "+POSS.3PL", "+ACC"]},
+         {"pos": 9, "text": "эрдэрин", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+N", "+PL", "+POSS.3SG", "+ACC"]},
+         {"pos": 9, "text": "эрдэрин", "type": "lowercase", "fst": "ymv", "root": "эр", "affixes": ["+V", "+CONV_COND#1", "+POSS.3SG", "+ACC"]},
+         {"pos": 10, "text": "истэн", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+N", "+ABL"]},
+         {"pos": 10, "text": "истэн", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+N", "+VRBLZ#1", "+REFL"]},
+         {"pos": 10, "text": "истэн", "type": "lowercase", "fst": "ymv", "root": "ис", "affixes": ["+V", "+REFL", "+CONV#1"]},
+         {"pos": 10, "text": "истэн", "type": "lowercase", "fst": "ymv", "root": "иһит", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 11, "text": "тугу", "type": "lowercase", "fst": "ymv", "root": "туох", "affixes": ["+Pron", "+ACC"]},
+         {"pos": 12, "text": "туһанаары", "type": "lowercase", "fst": "ymv", "root": "тус", "affixes": ["+N", "+VRBLZ#3", "+REFL", "+CONV#5"]},
+         {"pos": 12, "text": "туһанаары", "type": "lowercase", "fst": "ymv", "root": "туһан", "affixes": ["+V", "+CONV#5"]},
+         {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

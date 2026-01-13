@@ -1,0 +1,230 @@
+[
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 80,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "С прилагательными ахан выражает высокую, превосходную степень признака.",
+        "sah": "Куһаҕан аххан тыас харк гынарын кытта: «Сиэтэ!» — диэн часкыйда.",
+        "ru": "Как только прескверно треснуло что-то, она закричала: «Погубил!».",
+        "id": 1,
+        "parses": [
+           {"pos": 1, "text": "Куһаҕан", "type": "title", "fst": "fst", "root": "куһаҕан", "affixes": ["+Adj"]},
+           {"pos": 2, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 3, "text": "тыас", "type": "lowercase", "fst": "fst", "root": "тыас", "affixes": ["+N"]},
+           {"pos": 4, "text": "харк", "type": "lowercase", "fst": "fst", "root": "харк", "affixes": ["+IMIT"]},
+           {"pos": 5, "text": "гынарын", "type": "lowercase", "fst": "fst", "root": "гын", "affixes": ["+V", "+PART_PRES", "+POSS.3SG", "+ACC"]},
+           {"pos": 6, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын", "affixes": ["+V", "+CONV#2"]},
+           {"pos": 7, "text": ":", "type": "colon", "fst": "fst"},
+           {"pos": 8, "text": "«", "type": "quotation", "fst": "fst"},
+           {"pos": 9, "text": "Сиэтэ", "type": "title", "fst": "fst", "root": "сиэ", "affixes": ["+V", "+PST.3SG"]},
+           {"pos": 10, "text": "!", "type": "exclamation", "fst": "fst"},
+           {"pos": 11, "text": "»", "type": "quotation", "fst": "fst"},
+           {"pos": 12, "text": "—", "type": "dash", "fst": "fst"},
+           {"pos": 13, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 14, "text": "часкыйда", "type": "lowercase", "fst": "fst", "root": "часкый", "affixes": ["+V", "+PST.3SG"]},
+           {"pos": 15, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },    
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 80,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "С прилагательными ахан выражает высокую, превосходную степень признака.",
+        "sah": "Тыытыллыбакка сытар чөл хаарынан баардаах аххан дойдубут.",
+        "ru": "Как обильно богат нетронутым девственным снегом наш край!",
+        "id": 2,
+        "parses": [
+           {"pos": 1, "text": "Тыытыллыбакка", "type": "title", "fst": "fst", "root": "тыыт", "affixes": ["+V", "+PASS", "+NEG", "+PART_PRES", "+DAT"]},
+           {"pos": 2, "text": "сытар", "type": "lowercase", "fst": "fst", "root": "сыт", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 3, "text": "чөл", "type": "lowercase", "fst": "fst", "root": "чөл", "affixes": ["+Adj"]},
+           {"pos": 4, "text": "хаарынан", "type": "lowercase", "fst": "fst", "root": "хаар", "affixes": ["+N", "+INST"]},
+           {"pos": 5, "text": "баардаах", "type": "title", "fst": "fst", "root": "баар", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 6, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 7, "text": "дойдубут", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+POSS.1PL"]},
+           {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 80,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "Частица ахан особо активно употребляется с глагольными формами, особенно с деепричастиями. При этом она выражает эмоциональное усиление в том плане, что действие совершается с особой силой, тщательностью и долго.",
+        "sah": "Дьэ, кэпсэтээри аххан турабын.",
+        "ru": "Ну, я намерен весьма серьезно поговорить с ним.",
+        "id": 5,
+        "parses": [
+           {"pos": 1, "text": "Дьэ", "type": "title", "fst": "fst", "root": "дьэ", "affixes": ["+MOD"]},
+           {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 3, "text": "кэпсэтээри", "type": "lowercase", "fst": "fst", "root": "кэпсээ", "affixes": ["+V", "+CAUS", "+CONV#5"]},
+           {"pos": 4, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 5, "text": "турабын", "type": "lowercase", "fst": "fst", "root": "тур", "affixes": ["+V", "+PART_PRES", "+1SG"]},
+           {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 80,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "Частица ахан особо активно употребляется с глагольными формами, особенно с деепричастиями. При этом она выражает эмоциональное усиление в том плане, что действие совершается с особой силой, тщательностью и долго.",
+        "sah": "Кэтэһиннэрэн аххан, дьэ, кэллиҥ дуу?",
+        "ru": "Заставив нас так долго ждать, наконец-то, приехал?",
+        "id": 6,
+        "parses": [
+           {"pos": 1, "text": "Кэтэһиннэрэн", "type": "title", "fst": "fst", "root": "кэтээ", "affixes": ["+V", "+RECP", "+REFL", "+CAUS", "+CONV#1"]},
+           {"pos": 2, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 4, "text": "дьэ", "type": "lowercase", "fst": "fst", "root": "дьэ", "affixes": ["+MOD"]},
+           {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 6, "text": "кэллиҥ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PST.2SG"]},
+           {"pos": 7, "text": "дуу", "type": "lowercase", "fst": "fst", "root": "дуу", "affixes": ["+Part"]},
+           {"pos": 8, "text": "?", "type": "question", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 80,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "С личными формами глагола и причастиями ахан также выражает эмоциональное усиление, дающее впечатление об особой силе, длительности или многократности действия.",
+        "sah": "Нохоо, туох буоллуҥ?",
+        "ru": "Мальчик, что с тобой!",
+        "id": 9,
+        "parses": [
+           {"pos": 1, "text": "Нохоо", "type": "title", "fst": "fst", "root": "нохоо", "affixes": ["+MOD"]},
+           {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 3, "text": "туох", "type": "lowercase", "fst": "fst", "root": "туох", "affixes": ["+Pron"]},
+           {"pos": 4, "text": "буоллуҥ", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PST.2SG"]},
+           {"pos": 5, "text": "?", "type": "question", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 80,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "С личными формами глагола и причастиями ахан также выражает эмоциональное усиление, дающее впечатление об особой силе, длительности или многократности действия.",
+        "sah": "Эмээхсиҥҥин таптыыр аххан этиҥ дии!",
+        "ru": "Ты ведь так любил бабушку!",
+        "id": 10,
+        "parses": [
+           {"pos": 1, "text": "Эмээхсиҥҥин", "type": "title", "fst": "fst", "root": "эмээхсин", "affixes": ["+N", "+POSS.2SG", "+ACC"]},
+           {"pos": 2, "text": "таптыыр", "type": "lowercase", "fst": "fst", "root": "таптаа", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 3, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 4, "text": "этиҥ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+PST.2SG"]},
+           {"pos": 5, "text": "дии", "type": "lowercase", "fst": "fst", "root": "дии", "affixes": ["+Part"]},
+           {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 81,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "С личными формами глагола и причастиями ахан также выражает эмоциональное усиление, дающее впечатление об особой силе, длительности или многократности действия.",
+        "sah": "Сарсыарда эрдэттэн урукку таҥара дьиэтин диэки аттаах да, сатыы да тиэстибитэ аххан.",
+        "ru": "С раннего утра к старой церкви бесконечно тянулись и конные, и пешие.",
+        "id": 11,
+        "parses": [
+           {"pos": 1, "text": "Сарсыарда", "type": "title", "fst": "fst", "root": "сарсыарда", "affixes": ["+Adv"]},
+           {"pos": 2, "text": "эрдэттэн", "type": "lowercase", "fst": "fst", "root": "эрдэ", "affixes": ["+Adv", "+ABL"]},
+           {"pos": 3, "text": "урукку", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+Adv", "+ADJZ#4"]},
+           {"pos": 4, "text": "таҥара", "type": "lowercase", "fst": "fst", "root": "таҥара", "affixes": ["+N"]},
+           {"pos": 5, "text": "дьиэтин", "type": "lowercase", "fst": "fst", "root": "дьиэ", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+           {"pos": 6, "text": "диэки", "type": "lowercase", "fst": "fst", "root": "диэки", "affixes": ["+POST"]},
+           {"pos": 7, "text": "аттаах", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+N", "+ADJZ#1"]},
+           {"pos": 8, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 10, "text": "сатыы", "type": "lowercase", "fst": "fst", "root": "сатыы", "affixes": ["+Adv"]},
+           {"pos": 11, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 12, "text": "тиэстибитэ", "type": "lowercase", "fst": "fst", "root": "тиэһин", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+           {"pos": 13, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 14, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 81,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "Частица ахан с именами выражает разного рода модально-эмоциональные отношения говорящего, преимущественно восхищение, восторженную оценку о предмете речи.",
+        "sah": "Күн аххан оҕото буолбут.",
+        "ru": "Ну и славный выдался денек!",
+        "id": 13,
+        "parses": [
+           {"pos": 1, "text": "Күн", "type": "title", "fst": "fst", "root": "күн", "affixes": ["+N"]},
+           {"pos": 2, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 3, "text": "оҕото", "type": "lowercase", "fst": "fst", "root": "оҕо", "affixes": ["+N", "+POSS.3SG"]},
+           {"pos": 4, "text": "буолбут", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_PAST"]},
+           {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 81,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "Частица ахан с именами выражает разного рода модально-эмоциональные отношения говорящего, преимущественно восхищение, восторженную оценку о предмете речи.",
+        "sah": "Сырылаан куйаас да аххан!",
+        "ru": "Ну и жарища, здорово!",
+        "id": 14,
+        "parses": [
+           {"pos": 1, "text": "Сырылаан", "type": "title", "fst": "fst", "root": "сырылаа", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 2, "text": "куйаас", "type": "lowercase", "fst": "fst", "root": "куйаас", "affixes": ["+Adj"]},
+           {"pos": 3, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 4, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 81,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "С именами существительными ахан иногда выражает множество, являясь синонимом частицы бөҕө.",
+        "sah": "Күөл ортотугар кус аххан мустубут.",
+        "ru": "На середине озера собралось очень много уток.",
+        "id": 16,
+        "parses": [
+           {"pos": 1, "text": "Күөл", "type": "title", "fst": "fst", "root": "күөл", "affixes": ["+N"]},
+           {"pos": 2, "text": "ортотугар", "type": "lowercase", "fst": "fst", "root": "орто", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+           {"pos": 3, "text": "кус", "type": "lowercase", "fst": "fst", "root": "кус", "affixes": ["+N"]},
+           {"pos": 4, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 5, "text": "мустубут", "type": "lowercase", "fst": "fst", "root": "муһун", "affixes": ["+V", "+PART_PAST"]},
+           {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    },
+    {
+        "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+        "page": 81,
+        "chapter": "Глава 2. Собственно частицы",
+        "topic": "Частицы ахан (аххан), аханнык",
+        "section": 5,
+        "notes": "С именами существительными ахан иногда выражает множество, являясь синонимом частицы бөҕө.",
+        "sah": "Киһи аххан сылдьар да, кыһаммат.",
+        "ru": "Так много народу ходит, но она ни на кого не обращает внимания (собака).",
+        "id": 17,
+        "parses": [
+           {"pos": 1, "text": "Киһи", "type": "title", "fst": "fst", "root": "киһи", "affixes": ["+N"]},
+           {"pos": 2, "text": "аххан", "type": "lowercase", "fst": "fst", "root": "аххан", "affixes": ["+Part"]},
+           {"pos": 3, "text": "сылдьар", "type": "lowercase", "fst": "fst", "root": "сырыт", "affixes": ["+V", "+PART_PRES"]},
+           {"pos": 4, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+           {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 6, "text": "кыһаммат", "type": "lowercase", "fst": "fst", "root": "кыһан", "affixes": ["+V", "+NEG", "+PART_PRES"]},
+           {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }
+]

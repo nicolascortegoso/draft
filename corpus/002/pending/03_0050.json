@@ -1,0 +1,33 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 113,
+      "chapter": "Глава III. Прошедшее время",
+      "topic": "6. Прошедшее незаконченное время (имперфект)",
+      "section": 50,
+      "notes": "Сохранилась также отрицательная форма 3-го лица единственного числа глагола э в условном наклонении (эбэтэр), которая, полностью утратив свое прямое значение, в современном языке употребляется в качестве разделительного союза «или». Других образований от глагола э-в якутском языке мы не обнаружили.",
+      "sah": "Эбэтэр Уйбаан барыа, эбэтэр ким да барыа суоҕа.",
+      "ru": "Или Иван поедет, или никто не поедет.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Эбэтэр", "type": "title", "fst": "fst", "root": "эбэтэр", "affixes": ["+CONJ"]},
+         {"pos": 1, "text": "Эбэтэр", "type": "title", "fst": "fst", "root": "эбэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+PART_PRES"]},
+         {"pos": 1, "text": "Эбэтэр", "type": "title", "fst": "fst", "root": "э", "affixes": ["+V", "+NEG", "+CONV_COND#1"]},
+         {"pos": 2, "text": "Уйбаан", "type": "title", "fst": "fst"},
+         {"pos": 3, "text": "барыа", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 3, "text": "барыа", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "эбэтэр", "type": "lowercase", "fst": "fst", "root": "эбэтэр", "affixes": ["+CONJ"]},
+         {"pos": 5, "text": "эбэтэр", "type": "lowercase", "fst": "fst", "root": "эбэ", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+PART_PRES"]},
+         {"pos": 5, "text": "эбэтэр", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+NEG", "+CONV_COND#1"]},
+         {"pos": 6, "text": "ким", "type": "lowercase", "fst": "fst", "root": "ким", "affixes": ["+V"]},
+         {"pos": 6, "text": "ким", "type": "lowercase", "fst": "fst", "root": "ким", "affixes": ["+Pron"]},
+         {"pos": 7, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 8, "text": "барыа", "type": "lowercase", "fst": "fst", "root": "бараа", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 8, "text": "барыа", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суо", "affixes": ["+N", "+DAT"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

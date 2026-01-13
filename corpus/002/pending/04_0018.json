@@ -1,0 +1,31 @@
+[
+   {
+      "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+      "page": 155,
+      "chapter": "Глава I. Повелительное наклонение",
+      "topic": "2. Блиское будущее время повелительного наклонения. Значение близкого будущего времени",
+      "section": 18,
+      "notes": "Форма 2-го лица единственного числа близкого будущего времени повелительного наклонения в якутском языке в стилистических целях употребляется в значении прошедшего категорического времени.",
+      "sah": "Бүгүн Миша көрсө түстэ да миэхэ күүлэйдээ диэн хаайда.",
+      "ru": "Сегодня встретился Миша и сразу пристал ко мне с просьбой погулять у него.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "fst", "root": "бүк", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "fst", "root": "бүк", "affixes": ["+V", "+REFL"]},
+         {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "fst", "root": "бүгүн", "affixes": ["+Adv"]},
+         {"pos": 2, "text": "Миша", "type": "title", "fst": "fst"},
+         {"pos": 3, "text": "көрсө", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+RECP", "+CONV#2"]},
+         {"pos": 4, "text": "түстэ", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+N", "+PRTV"]},
+         {"pos": 4, "text": "түстэ", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 4, "text": "түстэ", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+REFL", "+CONV#2"]},
+         {"pos": 4, "text": "түстэ", "type": "lowercase", "fst": "fst", "root": "түһүн", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 5, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 6, "text": "миэхэ", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron", "+DAT"]},
+         {"pos": 7, "text": "күүлэйдээ", "type": "lowercase", "fst": "fst", "root": "күүлэй", "affixes": ["+N", "+VRBLZ#1"]},
+         {"pos": 8, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": "хаайда", "type": "lowercase", "fst": "fst", "root": "хаай", "affixes": ["+V", "+PST.3SG"]},
+         {"pos": 9, "text": "хаайда", "type": "lowercase", "fst": "fst", "root": "хаа", "affixes": ["+N", "+VRBLZ#2", "+PST.3SG"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

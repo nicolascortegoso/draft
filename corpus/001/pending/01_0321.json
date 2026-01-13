@@ -1,0 +1,62 @@
+[
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 194,
+      "chapter": "Местоимения",
+      "topic": "Указательные местоимения",
+      "section": 321,
+      "notes": "Удвоенная форма указательного местоимения субу в современном языке может употребляться в роли наречия и выполнять синтаксическую функцию обстоятельства образа дейсвия.",
+      "sah": "Сирэйбин сиэркилэҕэ субу-субу көрүнэбин.",
+      "ru": "Я то и дело гляжусь в зеркало.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Сирэйбин", "type": "title", "fst": "fst", "root": "сирэй", "affixes": ["+N", "+POSS.1SG", "+ACC"]},
+         {"pos": 1, "text": "Сирэйбин", "type": "title", "fst": "fst", "root": "сирэй", "affixes": ["+N", "+1SG"]},
+         {"pos": 2, "text": "сиэркилэҕэ", "type": "lowercase", "fst": "fst", "root": "сиэркилэ", "affixes": ["+N", "+DAT"]},
+         {"pos": 3, "text": "субу", "type": "lowercase", "fst": "fst", "root": "субу", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 5, "text": "субу", "type": "lowercase", "fst": "fst", "root": "субу", "affixes": ["+Pron"]},
+         {"pos": 6, "text": "көрүнэбин", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+REFL", "+PART_PRES", "+1SG"]},
+         {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+      "page": 194,
+      "chapter": "Местоимения",
+      "topic": "Указательные местоимения",
+      "section": 321,
+      "notes": "Удвоенная форма указательного местоимения субу в современном языке может употребляться в роли наречия и выполнять синтаксическую функцию обстоятельства образа дейсвия.",
+      "sah": "Хайаан да көрөөрүҥ мин үөскээбит дойдубун, бэйэҕит көрөн сөҕүөххүт — диэмэхтиир субу-субу.",
+      "ru": "Обязательно посмотрите мои родные места, сами поразитесь, — говорит он то и дело.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Хайаан", "type": "title", "fst": "fst", "root": "хайаа", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 1, "text": "Хайаан", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+Pron", "+INST"]},
+         {"pos": 1, "text": "Хайаан", "type": "title", "fst": "fst", "root": "хай", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+CONJ"]},
+         {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 3, "text": "көрөөрүҥ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#3", "+IMP#2.2PL"]},
+         {"pos": 3, "text": "көрөөрүҥ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+IMP#2.2PL"]},
+         {"pos": 4, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+N"]},
+         {"pos": 4, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин", "affixes": ["+Pron"]},
+         {"pos": 5, "text": "үөскээбит", "type": "lowercase", "fst": "fst", "root": "үөскээ", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 6, "text": "дойдубун", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+POSS.1SG", "+ACC"]},
+         {"pos": 6, "text": "дойдубун", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+1SG"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "бэйэҕит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+POSS.2PL"]},
+         {"pos": 8, "text": "бэйэҕит", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+2PL"]},
+         {"pos": 9, "text": "көрөн", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 9, "text": "көрөн", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 10, "text": "сөҕүөххүт", "type": "lowercase", "fst": "fst", "root": "сөх", "affixes": ["+V", "+PART_FUT", "+POSS.2PL"]},
+         {"pos": 10, "text": "сөҕүөххүт", "type": "lowercase", "fst": "fst", "root": "сөх", "affixes": ["+V", "+PART_FUT", "+2PL"]},
+         {"pos": 11, "text": "—", "type": "dash", "fst": "fst"},
+         {"pos": 12, "text": "диэмэхтиир", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+ACCE#1", "+PART_PRES"]},
+         {"pos": 12, "text": "диэмэхтиир", "type": "lowercase", "fst": "fst", "root": "диэ", "affixes": ["+V", "+NEG", "+NMLZ#6", "+VRBLZ#1", "+PART_PRES"]},
+         {"pos": 13, "text": "субу", "type": "lowercase", "fst": "fst", "root": "субу", "affixes": ["+Pron"]},
+         {"pos": 14, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 15, "text": "субу", "type": "lowercase", "fst": "fst", "root": "субу", "affixes": ["+Pron"]},
+         {"pos": 16, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

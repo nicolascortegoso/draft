@@ -1,0 +1,43 @@
+[
+
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 163,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "1. Именные модальные слова: 13. Сүнньүнэн.",
+      "section": 13,
+      "notes": "Форма орудного падежа притяжательного склонения, оно в модальном значении выражает общую, несколько обобщенную оценку, не касаясь подробностей и незначительных моментов.",
+      "sah": "Ол гынан баран, саха литературатын уруккутун-билиннитин уонна инники кэскилин ырыҥалаан көрүүгэ, сүнньүнэн, биир санаалаахпыт.",
+      "ru": "Тем не менее, в оценке прошлого, настоящего и будущей перспективы якутской литературы мы в основном являемся единомышленниками.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол", "affixes": ["+Pron"]},
+         {"pos": 2, "text": "гынан", "type": "lowercase", "fst": "fst", "root": "гын", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 3, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бар", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 5, "text": "саха", "type": "lowercase", "fst": "fst", "root": "саха", "affixes": ["+N"]},
+         {"pos": 6, "text": "литературатын", "type": "lowercase", "fst": "fst", "root": "литература", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL"]},
+         {"pos": 6, "text": "литературатын", "type": "lowercase", "fst": "fst", "root": "литература", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 7, "text": "уруккутун", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+Adv", "+ADJZ#4", "+POSS.3SG", "+ACC"]},
+         {"pos": 7, "text": "уруккутун", "type": "lowercase", "fst": "fst", "root": "урут", "affixes": ["+Adv", "+POSS.2PL", "+ACC"]},
+         {"pos": 8, "text": "-", "type": "hyphen", "fst": "fst"},
+         {"pos": 9, "text": "билиннитин", "type": "lowercase", "fst": "fst"},
+         {"pos": 10, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уонна", "affixes": ["+CONJ"]},
+         {"pos": 10, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уон", "affixes": ["+Num", "+ADVZ#8"]},
+         {"pos": 10, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уон", "affixes": ["+Num", "+PRTV"]},
+         {"pos": 11, "text": "инники", "type": "lowercase", "fst": "fst", "root": "инни", "affixes": ["+N", "+ADJZ#4"]},
+         {"pos": 12, "text": "кэскилин", "type": "lowercase", "fst": "fst", "root": "кэскил", "affixes": ["+N", "+POSS.3SG", "+ACC"]},
+         {"pos": 13, "text": "ырыҥалаан", "type": "lowercase", "fst": "fst", "root": "ырыҥа", "affixes": ["+N", "+VRBLZ#1", "+CONV#1"]},
+         {"pos": 14, "text": "көрүүгэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+N", "+VRBLZ#3", "+NMLZ#2", "+DAT"]},
+         {"pos": 14, "text": "көрүүгэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+ADJZ#13", "+POSS.3SG"]},
+         {"pos": 14, "text": "көрүүгэ", "type": "lowercase", "fst": "fst", "root": "көр", "affixes": ["+V", "+NMLZ#2", "+DAT"]},
+         {"pos": 15, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 16, "text": "сүнньүнэн", "type": "lowercase", "fst": "fst", "root": "сүрүн", "affixes": ["+N", "+POSS.3SG", "+INST"]},
+         {"pos": 17, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 18, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир", "affixes": ["+Num"]},
+         {"pos": 19, "text": "санаалаахпыт", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["+N", "+ADJZ#1", "+POSS.1PL"]},
+         {"pos": 19, "text": "санаалаахпыт", "type": "lowercase", "fst": "fst", "root": "санаа", "affixes": ["+N", "+ADJZ#1", "+1PL"]},
+         {"pos": 20, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

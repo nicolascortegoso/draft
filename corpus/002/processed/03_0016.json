@@ -1,0 +1,29 @@
+[
+    {
+        "source": "Коркина, Евдокия Иннокентьевна. Наклонения глагола в якутском языке / Е. И. Коркина ; Акад. наук СССР, Якут. фил. Сиб. отд- ния, Ин-т яз., лит. и истории ; [отв. ред. проф. Л. Н. Харитонов]. - Москва : Наука, 1970. - 306 с.",
+        "page": 80,
+        "chapter": "Глава III. Прошедшее время",
+        "topic": "Значение преждепрошедшего повествовательного времени в якутском языке",
+        "section": 16,
+        "notes": "В якутском языке глагол в данной форме времени одновременно с временным значением нередко выражает условие для обнаружения других действий, других фактов как прошлого, так и настоящего.",
+        "sah": "Кинини ыраахтааҕы көскө ыыппыта, — кэлэн, Саха сиригэр үс сыл олорбута.",
+        "ru": "Когда царь отправил его в ссылку, он, прибыв, в Якутию, прожил три года.",
+        "id": 2,
+        "parses": [
+           {"pos": 1, "text": "Кинини", "type": "title", "fst": "fst", "root": "кини", "affixes": ["+Pron", "+ACC"]},
+           {"pos": 2, "text": "ыраахтааҕы", "type": "lowercase", "fst": "fst", "root": "ыраахтааҕы", "affixes": ["+N"]},
+           {"pos": 3, "text": "көскө", "type": "lowercase", "fst": "fst", "root": "көс", "affixes": ["+N", "+DAT"]},
+           {"pos": 4, "text": "ыыппыта", "type": "lowercase", "fst": "fst", "root": "ыыт", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+           {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 6, "text": "—", "type": "dash", "fst": "fst"},
+           {"pos": 7, "text": "кэлэн", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1"]},
+           {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
+           {"pos": 9, "text": "Саха", "type": "title", "fst": "fst", "root": "саха", "affixes": ["+N"]},
+           {"pos": 10, "text": "сиригэр", "type": "lowercase", "fst": "fst", "root": "сир", "affixes": ["+N", "+POSS.3SG", "+DAT"]},
+           {"pos": 11, "text": "үс", "type": "lowercase", "fst": "fst", "root": "үс", "affixes": ["+Num"]},
+           {"pos": 12, "text": "сыл", "type": "lowercase", "fst": "fst", "root": "сыл", "affixes": ["+N"]},
+           {"pos": 13, "text": "олорбута", "type": "lowercase", "fst": "fst", "root": "олор", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+           {"pos": 14, "text": ".", "type": "period", "fst": "fst"}
+        ]
+    }    
+]

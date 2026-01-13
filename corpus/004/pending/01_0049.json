@@ -1,0 +1,38 @@
+[
+   {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 35,
+      "chapter": "Совместно-взаимные глаголы",
+      "topic": "Залоговое значение совместно-взаимных глаголов",
+      "section": 49,
+      "notes": "Во многих случаях наличие значения взаимности действия достаточно четко выявляется из общего синтаксического окружения.",
+      "sah": "Ылдьаа уонна Лиза кыыһырсан арахсыахтарыттан ыла хам-түм ыраахтан көрсүһэн ааһар этилэр.",
+      "ru": "Илья и Лиза, после того как они расстались поссорившись, изредка проходили мимо, видя друг друга издали.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Ылдьаа", "type": "title", "fst": "yma", "root": "ылдьаа", "affixes": ["+N"]},
+         {"pos": 1, "text": "Ылдьаа", "type": "title", "fst": "yma", "root": "ылдьаа", "affixes": ["+V"]},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна", "affixes": ["+CONJ"]},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон", "affixes": ["+Num", "+ADVZ#8"]},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон", "affixes": ["+Num", "+PRTV"]},
+         {"pos": 3, "text": "Лиза", "type": "title", "fst": "yma", "root": "лиза", "affixes": ["+N"]},
+         {"pos": 4, "text": "кыыһырсан", "type": "lowercase", "fst": "ymv", "root": "кыыс", "affixes": ["+N", "+VRBLZ#4", "+RECP", "+CONV#1"]},
+         {"pos": 4, "text": "кыыһырсан", "type": "lowercase", "fst": "ymv", "root": "кыыһыр", "affixes": ["+V", "+RECP", "+CONV#1"]},
+         {"pos": 5, "text": "арахсыахтарыттан", "type": "lowercase", "fst": "ymv", "root": "арах", "affixes": ["+V", "+RECP", "+PART_FUT", "+POSS.3PL", "+ABL"]},
+         {"pos": 5, "text": "арахсыахтарыттан", "type": "lowercase", "fst": "ymv", "root": "арах", "affixes": ["+V", "+RECP", "+PART_FUT", "+PL", "+POSS.3SG", "+ABL"]},
+         {"pos": 6, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 7, "text": "хам", "type": "lowercase", "fst": "ymv", "root": "хам", "affixes": ["+Adv"]},
+         {"pos": 7, "text": "хам", "type": "lowercase", "fst": "ymv", "root": "хам", "affixes": ["+IMIT"]},
+         {"pos": 8, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 9, "text": "түм", "type": "lowercase", "fst": "ymv", "root": "түм", "affixes": ["+V"]},
+         {"pos": 10, "text": "ыраахтан", "type": "lowercase", "fst": "ymv", "root": "ыраах", "affixes": ["+Adj", "+ABL"]},
+         {"pos": 10, "text": "ыраахтан", "type": "lowercase", "fst": "ymv", "root": "ыраах", "affixes": ["+Adj", "+VRBLZ#1", "+REFL"]},
+         {"pos": 10, "text": "ыраахтан", "type": "lowercase", "fst": "ymv", "root": "ыр", "affixes": ["+V", "+DIM", "+REFL"]},
+         {"pos": 11, "text": "көрсүһэн", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+N", "+VRBLZ#5", "+RECP", "+CONV#1"]},
+         {"pos": 11, "text": "көрсүһэн", "type": "lowercase", "fst": "ymv", "root": "көр", "affixes": ["+V", "+RECP", "+RECP", "+CONV#1"]},
+         {"pos": 12, "text": "ааһар", "type": "lowercase", "fst": "ymv", "root": "аас", "affixes": ["+V", "+PART_PRES"]},
+         {"pos": 13, "text": "этилэр", "type": "lowercase", "fst": "ymv", "root": "э", "affixes": ["+V", "+PST.3PL"]},
+         {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

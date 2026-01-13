@@ -1,0 +1,30 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 132,
+      "chapter": "Глава II",
+      "topic": "Собственно модальные слова: Эй.",
+      "section": 48,
+      "notes": "Кроме того, эй, употребляясь с частицей добор или сочетаясь с ней (ср. киэр доҕор 'брось ты'), выражает резкое возражение, требование прекратить что-либо.",
+      "sah": "Эй, эстибитэ үйэ буолбут ыраахтааҕыны эмиэ үөтүмэҥ доҕор.",
+      "ru": "Да ну, не вспоминайте давным-давно свергнутого царя.",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Эй", "type": "title", "fst": "fst", "root": "эй", "affixes": ["+MOD"]},
+         {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 3, "text": "эстибитэ", "type": "lowercase", "fst": "fst", "root": "эс", "affixes": ["+V", "+REFL", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 3, "text": "эстибитэ", "type": "lowercase", "fst": "fst", "root": "эһин", "affixes": ["+V", "+PART_PAST", "+POSS.3SG"]},
+         {"pos": 4, "text": "үйэ", "type": "lowercase", "fst": "fst", "root": "үйэ", "affixes": ["+N"]},
+         {"pos": 5, "text": "буолбут", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+PART_PAST"]},
+         {"pos": 5, "text": "буолбут", "type": "lowercase", "fst": "fst", "root": "буол", "affixes": ["+V", "+1PL"]},
+         {"pos": 6, "text": "ыраахтааҕыны", "type": "lowercase", "fst": "fst", "root": "ыраахтааҕы", "affixes": ["+N", "+ACC"]},
+         {"pos": 7, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ", "affixes": ["+Adv"]},
+         {"pos": 7, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмп", "affixes": ["+N", "+VRBLZ#3", "+PART_FUT"]},
+         {"pos": 7, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эм", "affixes": ["+V", "+PART_FUT"]},
+         {"pos": 7, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "э", "affixes": ["+V", "+NEG", "+PART_FUT"]},
+         {"pos": 8, "text": "үөтүмэҥ", "type": "lowercase", "fst": "fst"},
+         {"pos": 9, "text": "доҕор", "type": "lowercase", "fst": "fst", "root": "доҕор", "affixes": ["+N"]},
+         {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

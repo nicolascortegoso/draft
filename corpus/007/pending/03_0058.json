@@ -1,0 +1,76 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 173,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "2. Наречные модальные слова.",
+      "section": 2,
+      "notes": "Таах 'зря, просто так' редко может выступать как модальное слово, выражая сожаление говорящего.",
+      "sah": "Бэһим үөрэтин таах тоҕо ыһаммын.",
+      "ru": "Ох, зря я вылила свою похлебку из сосновой заболони.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Бэһим", "type": "title", "fst": "fst", "root": "бэс", "affixes": ["+N", "+POSS.1SG"]},
+         {"pos": 2, "text": "үөрэтин", "type": "lowercase", "fst": "fst", "root": "үөрэт", "affixes": ["+V", "+REFL"]},
+         {"pos": 2, "text": "үөрэтин", "type": "lowercase", "fst": "fst", "root": "үөр", "affixes": ["+N", "+VRBLZ#3", "+CAUS", "+REFL"]},
+         {"pos": 3, "text": "таах", "type": "lowercase", "fst": "fst", "root": "таах", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "таах", "type": "lowercase", "fst": "fst", "root": "таах", "affixes": ["+N"]},
+         {"pos": 3, "text": "таах", "type": "lowercase", "fst": "fst", "root": "таай", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 4, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "тох", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "тоҕо", "affixes": ["+Adv"]},
+         {"pos": 4, "text": "тоҕо", "type": "lowercase", "fst": "fst", "root": "той", "affixes": ["+V", "+NMLZ#6", "+POSS.3SG"]},
+         {"pos": 5, "text": "ыһаммын", "type": "lowercase", "fst": "fst", "root": "ыс", "affixes": ["+V", "+CONV#1", "+1SG"]},
+         {"pos": 5, "text": "ыһаммын", "type": "lowercase", "fst": "fst", "root": "ый", "affixes": ["+V", "+RECP", "+CONV#1", "+1SG"]},
+         {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 173,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "2. Наречные модальные слова.",
+      "section": 2,
+      "notes": "Таах 'зря, просто так' редко может выступать как модальное слово, выражая сожаление говорящего.",
+      "sah": "Таах бу дойдуга кэлэммит.",
+      "ru": "Зря-то мы приехали эти края.",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Таах", "type": "title", "fst": "fst", "root": "таах", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "Таах", "type": "title", "fst": "fst", "root": "таах", "affixes": ["+N"]},
+         {"pos": 1, "text": "Таах", "type": "title", "fst": "fst", "root": "таай", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 2, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу", "affixes": ["+Pron"]},
+         {"pos": 3, "text": "дойдуга", "type": "lowercase", "fst": "fst", "root": "дойду", "affixes": ["+N", "+DAT"]},
+         {"pos": 4, "text": "кэлэммит", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1", "+PART_PAST"]},
+         {"pos": 4, "text": "кэлэммит", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+CONV#1", "+1PL"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+      "page": 173,
+      "chapter": "Глава III Функционально-модальные слова",
+      "topic": "2. Наречные модальные слова.",
+      "section": 2,
+      "notes": "В этом значении оно является синонимом модального слова бостуой. Кроме того, таах часто употребляется для выражения субъективного ограничения.",
+      "sah": "Таах мастары бүөлүү уурдум.",
+      "ru": "Просто лишь загородил я (это место) всякими деревяшками.",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Таах", "type": "title", "fst": "fst", "root": "таах", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "Таах", "type": "title", "fst": "fst", "root": "таах", "affixes": ["+N"]},
+         {"pos": 1, "text": "Таах", "type": "title", "fst": "fst", "root": "таай", "affixes": ["+V", "+NMLZ#6"]},
+         {"pos": 2, "text": "мастары", "type": "lowercase", "fst": "fst", "root": "мас", "affixes": ["+N", "+ADVZ#7"]},
+         {"pos": 2, "text": "мастары", "type": "lowercase", "fst": "fst", "root": "мас", "affixes": ["+N", "+PL", "+ACC"]},
+         {"pos": 3, "text": "бүөлүү", "type": "lowercase", "fst": "fst", "root": "бүөлээ", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 3, "text": "бүөлүү", "type": "lowercase", "fst": "fst", "root": "бүө", "affixes": ["+N", "+ADVZ#6"]},
+         {"pos": 3, "text": "бүөлүү", "type": "lowercase", "fst": "fst", "root": "бүө", "affixes": ["+N", "+VRBLZ#1", "+NMLZ#2"]},
+         {"pos": 3, "text": "бүөлүү", "type": "lowercase", "fst": "fst", "root": "бүө", "affixes": ["+N", "+VRBLZ#1", "+CONV#2"]},
+         {"pos": 4, "text": "уурдум", "type": "lowercase", "fst": "fst", "root": "уур", "affixes": ["+V", "+PST.1SG"]},
+         {"pos": 4, "text": "уурдум", "type": "lowercase", "fst": "fst", "root": "уу", "affixes": ["+Adj", "+VRBLZ#4", "+CSTV", "+ADVZ#1", "+POSS.1SG"]},
+         {"pos": 4, "text": "уурдум", "type": "lowercase", "fst": "fst", "root": "уу", "affixes": ["+Adj", "+VRBLZ#4", "+PST.1SG"]},
+         {"pos": 4, "text": "уурдум", "type": "lowercase", "fst": "fst", "root": "уу", "affixes": ["+N", "+VRBLZ#4", "+CSTV", "+ADVZ#1", "+POSS.1SG"]},
+         {"pos": 4, "text": "уурдум", "type": "lowercase", "fst": "fst", "root": "уу", "affixes": ["+N", "+VRBLZ#4", "+PST.1SG"]},
+         {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

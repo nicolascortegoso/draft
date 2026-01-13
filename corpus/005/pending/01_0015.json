@@ -1,0 +1,48 @@
+[
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 52,
+      "chapter": "Глава V. Адвербиальные функции различных частей речи",
+      "topic": "1. Адвербиальные функции имен. д) Совместный падеж",
+      "section": 7,
+      "notes": "Образ действия.",
+      "sah": "адьарай бөҕө уола тибиилиин, муустуун, будараанныын түһэн кэллэ",
+      "ru": "демонских чудищ сын, с метелью, градом и вихрем ниспустившись, прибыл",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "адьарай", "type": "lowercase", "fst": "fst", "root": "адьарай", "affixes": ["+N"]},
+         {"pos": 2, "text": "бөҕө", "type": "lowercase", "fst": "fst", "root": "бөх", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 2, "text": "бөҕө", "type": "lowercase", "fst": "fst", "root": "бөҕө", "affixes": ["+Adj"]},
+         {"pos": 2, "text": "бөҕө", "type": "lowercase", "fst": "fst", "root": "бөҕө", "affixes": ["+Part"]},
+         {"pos": 3, "text": "уола", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 3, "text": "уола", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 4, "text": "тибиилиин", "type": "lowercase", "fst": "fst", "root": "тип", "affixes": ["+V", "+NMLZ#2", "+COMIT"]},
+         {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 6, "text": "муустуун", "type": "lowercase", "fst": "fst", "root": "муус", "affixes": ["+N", "+COMIT"]},
+         {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
+         {"pos": 8, "text": "будараанныын", "type": "lowercase", "fst": "fst"},
+         {"pos": 9, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+N", "+VRBLZ#3", "+REFL"]},
+         {"pos": 9, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 9, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түһээ", "affixes": ["+V", "+REFL"]},
+         {"pos": 10, "text": "кэллэ", "type": "lowercase", "fst": "fst", "root": "кэл", "affixes": ["+V", "+PST.3SG"]}
+      ]
+   },
+   {
+      "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+      "page": 52,
+      "chapter": "Глава V. Адвербиальные функции различных частей речи",
+      "topic": "1. Адвербиальные функции имен. д) Совместный падеж",
+      "section": 7,
+      "notes": "Образ действия.",
+      "sah": "аттыын бэйэлиин ууга түһэн хаалла",
+      "ru": "он с конем и сам собою утонул в воде",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "аттыын", "type": "lowercase", "fst": "fst", "root": "ат", "affixes": ["+N", "+COMIT"]},
+         {"pos": 2, "text": "бэйэлиин", "type": "lowercase", "fst": "fst", "root": "бэйэ", "affixes": ["+N", "+COMIT"]},
+         {"pos": 3, "text": "ууга", "type": "lowercase", "fst": "fst", "root": "уу", "affixes": ["+N", "+DAT"]},
+         {"pos": 4, "text": "түһэн", "type": "lowercase", "fst": "fst", "root": "түс", "affixes": ["+V", "+CONV#1"]},
+         {"pos": 5, "text": "хаалла", "type": "lowercase", "fst": "fst", "root": "хаал", "affixes": ["+V", "+PST.3SG"]}
+      ]
+   }
+]

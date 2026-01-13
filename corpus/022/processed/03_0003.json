@@ -1,0 +1,35 @@
+[
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 235,
+        "chapter": "3.3 The Sakha Distant Future Imperative",
+        "topic": "3.3.6.1 Possible copy from Mongolic",
+        "section": "85a",
+        "notes": "Lastly, it should be pointed out that among the Sakha verbal forms the Mongolic Prescriptive is in fact identical to the Sakha third person singular Voluntative-Potential (85a). This 3SG form is a portmanteau morpheme expressing both person and mood; it differs from the Voluntative-Potential paradigm as a whole, which is marked by a suffix –A:yA and takes predicative person markers (85b). It is unclear whether this 3SG Voluntative-Potential has anything to do with the Mongolic Prescriptive (probably not); nevertheless, the existence of this form in the Sakha verbal inflectional paradigm further weakens the case for copying of the emphatic Future Imperative suffix –A:rI:y from Mongolic.",
+        "sah": "Маша Сунтартан кэлээрэй.",
+        "en": "Perhaps (hopefully) Masha will come from Suntar. [M. S.–ABL come–VPOT.3SG]",
+        "id": 3,
+        "parses": [
+            {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша", "affixes": ["+N"]},
+            {"pos": 2, "text": "Сунтартан", "type": "title", "fst": "yma", "root": "сунтар", "affixes": ["+N", "+ABL"]},
+            {"pos": 3, "text": "кэлээрэй", "type": "lowercase", "fst": "ymv", "root": "кэл", "affixes": ["+V", "+POT"]},
+            {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    },
+    {
+        "source": "Pakendorf B. Contact in the prehistory of the Sakha (Yakuts): Linguistic and genetic perspectives, 2007.",
+        "page": 235,
+        "chapter": "3.3 The Sakha Distant Future Imperative",
+        "topic": "3.3.6.1 Possible copy from Mongolic",
+        "section": "85b",
+        "notes": "Lastly, it should be pointed out that among the Sakha verbal forms the Mongolic Prescriptive is in fact identical to the Sakha third person singular Voluntative-Potential (85a). This 3SG form is a portmanteau morpheme expressing both person and mood; it differs from the Voluntative-Potential paradigm as a whole, which is marked by a suffix –A:yA and takes predicative person markers (85b). It is unclear whether this 3SG Voluntative-Potential has anything to do with the Mongolic Prescriptive (probably not); nevertheless, the existence of this form in the Sakha verbal inflectional paradigm further weakens the case for copying of the emphatic Future Imperative suffix –A:rI:y from Mongolic.",
+        "sah": "Биһиги тэллэйдээйэбит.",
+        "en": "Perhaps (hopefully) we could look for mushrooms. [1PL mushroom–VR–VPOT–1PL]",
+        "id": 4,
+        "parses": [
+            {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги", "affixes": ["+Pron"]},
+            {"pos": 2, "text": "тэллэйдээйэбит", "type": "lowercase", "fst": "ymv", "root": "тэллэй", "affixes": ["+N", "+VRBLZ#1", "+POT", "+1PL"]},
+            {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+        ]
+    }        
+]

@@ -1,0 +1,55 @@
+[
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 228,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица баҕарар",
+      "section": 2,
+      "notes": "Путем постепенного редуцирования таких предложений сочетание ким баҕарар кто хочет (или кто желающий) переосмыслено как «кто угодно», «любой», «каждый». В результате появилась частица баҕарар, которая образует от вопросительных местоимений обобщительные.",
+      "sah": "хайата баҕарар",
+      "ru": "любой (из них)",
+      "id": 11,
+      "parses": [
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайаа", "affixes": ["+V", "+CAUS", "+CONV#2"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+ADVZ#8"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+POSS.3SG"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Adv", "+PRTV"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+CONV#2"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+POSS.3SG"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+N", "+PRTV"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron", "+POSS.3SG"]},
+         {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "fst", "root": "хайа", "affixes": ["+Pron", "+PRTV"]},
+         {"pos": 2, "text": "баҕарар", "type": "lowercase", "fst": "fst", "root": "баҕа", "affixes": ["+N", "+VRBLZ#4", "+PART_PRES"]},
+         {"pos": 2, "text": "баҕарар", "type": "lowercase", "fst": "fst", "root": "бай", "affixes": ["+V", "+ADJZ#8", "+VRBLZ#4a"]}
+      ]
+   },
+   {
+      "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+      "page": 229,
+      "chapter": "Глава 4. Отглагольные частицы",
+      "topic": "Частица баҕарар",
+      "section": 2,
+      "notes": "Местоименные наречия, примыкающие к этой группе местоимений, выражают всеобъемлющий характер обстоятельственного, временного, пространственного признаков.",
+      "sah": "Хайа да уолу хайдах баҕарар хамаандалыахпын сөп.",
+      "ru": "Могу как угодно командовать над любым парнем.",
+      "id": 32,
+      "parses": [
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+MOD"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+N"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хайа", "affixes": ["+Pron"]},
+         {"pos": 1, "text": "Хайа", "type": "title", "fst": "fst", "root": "хай", "affixes": ["+V", "+CONV#2"]},
+         {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да", "affixes": ["+Part"]},
+         {"pos": 3, "text": "уолу", "type": "lowercase", "fst": "fst", "root": "уол", "affixes": ["+N", "+ACC"]},
+         {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "fst", "root": "хайдах", "affixes": ["+Pron"]},
+         {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "fst", "root": "хай", "affixes": ["+V", "+CONV_COND#2"]},
+         {"pos": 5, "text": "баҕарар", "type": "lowercase", "fst": "fst", "root": "баҕа", "affixes": ["+N", "+VRBLZ#4", "+PART_PRES"]},
+         {"pos": 5, "text": "баҕарар", "type": "lowercase", "fst": "fst", "root": "бай", "affixes": ["+V", "+ADJZ#8", "+VRBLZ#4a"]},
+         {"pos": 6, "text": "хамаандалыахпын", "type": "lowercase", "fst": "fst", "root": "хамаанда", "affixes": ["+N", "+VRBLZ#1", "+PART_FUT", "+POSS.1SG", "+ACC"]},
+         {"pos": 6, "text": "хамаандалыахпын", "type": "lowercase", "fst": "fst", "root": "хамаанда", "affixes": ["+N", "+VRBLZ#1", "+PART_FUT", "+1SG"]},
+         {"pos": 7, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп", "affixes": ["+Adj"]},
+         {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      ]
+   }
+]

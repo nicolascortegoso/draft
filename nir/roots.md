@@ -1,0 +1,1 @@
+киэһээ not as an adjective, but as a noun to form киэһээ + ҥи

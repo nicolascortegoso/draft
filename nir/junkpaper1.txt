@@ -1,0 +1,71 @@
+## JUNK
+
+
+
+
+
+In page 52 is the distinction between modal words and particles.
+Overlap.
+
+Applying these guidelines, is not without debate.
+Specialist might have different opinions.
+
+Look particles 204 for distinction between particles.
+In particles, page 141 is an example of a particle in transition.
+
+This capacity is rather limited, since the meaning of a lexical unit, depends ultimately on the context. 
+
+
+[[idem:84]](#references).
+
+In modern Yakut, the word *бааҕыы* has come to mean “seine.” Meanwhile, байыы, traditionally listed by E.K. Pekarsky, is also used today as a particle. These two forms are considered homonyms in current usage. Their common historical origin can be assumed.
+
+
+Analyze a word form as a series of productive affixes following the lexical root. The affixes must retain certain degree of productivity in the modern language.
+
+
+Represent the works on Yakut morphology in a way that can be useful for computer linguistics.
+to more structured data representation.
+
+Hints to for example:
+
+
+Here the particle *аах* has taken on the dative-accusative case affix and stands in front of the particle *баҕас* with a modal meaning [Петров Николай Егорович: 74].
+
+
+have been studied [SOURCES] by specialist to a point that makes possible to use all that research knowledge to build a rule-based morphological transducer for the language.
+
+
+There are many situations where this distinction does not hold.
+One of them, is when the word fulfils a different syntactic function in the sentence, take the affix of the elided previous word and so on.
+
+Morphological analysis was a part of the classical NLP pipeline.
+This was particularly important when working with agglutinative languages in order to reduce the vocabulary size.
+
+The use of end-to-end models reduced the need of performing morphological analysis to complete the intended tasks.
+Subword tokenization techniques are sort of identifying meaningful chunks that approximate linguistically identified morphemes.
+
+Large language models have been proven capable of parsing sentences in many languages.
+Since they probably have seen this kind of data during training.
+This was not the case for low-resource languages, that typically lack large treebanks with morphological/syntactical labels, such as Yakut.
+
+However, new released large language models such as DeepSeek is capable of performing ... 
+
+
+It renders far less useful a specialized morphological transducer to perform this task.
+
+
+Even when the utility of the tool is put into question, the generated data is still important, since it can be used to fine-tuning or to compile benchmarks.
+
+However, in some cases it can be desirable to mantain multiple classifications for a lexical root. For example, the root *бэрт* is an adjective with the meaning of "excellent", but also function as an adverb of quantity with the sense of "very", that can precede other adverbs.
+
+With the help of the affix *-т*, a new verbal base can be formed from it, expressing the same basic lexical meaning, but with a noticeable modification: *балыктат-* "to make someone to fish" (a verb of the causative voice).
+This new verbal base can also take on a number of different affixes.
+
+For instance, the verb root сал- ('paint') combines with the future tense suffix -аах, resulting in салаах ('he/she will paint'). The suffix remains productive, as it can attach to various other verb roots, forming new inflections consistently.
+
+Inflectional groups were introduced to address the complex interactions between morphology and syntax in the language and to alleviate the problem of data sparsity in machine learning methods arising from the large (theoretically infinite) number of word forms resulting from the numerous affixes a word can receive.
+
+The motivation for inflectional groups often lies in ensuring compatibility with commonly used triplet structures — (lemma, POS tag, features) — as in Universal Dependency treebanks, but different guidelines may apply.
+
+Example of discussions: deeprichastee, page 20.

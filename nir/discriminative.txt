@@ -1,0 +1,41 @@
+How to do it:
+Encode the input once.
+
+Run your encoder on the input sequence (context, ambiguous word, etc.).
+
+Get the hidden representation 
+𝐻
+H.
+
+Score each candidate.
+
+For each candidate output sequence:
+
+Run the decoder conditioned on 
+𝐻
+H, but feed the candidate tokens instead of generating.
+
+Compute the log-likelihood of that candidate sequence.
+
+This gives you a score for each candidate.
+
+Pick the best.
+
+Rank candidates by their score.
+
+Optionally normalize if you need proper probabilities.
+
+Pseudo-code:
+python
+Копировать
+Редактировать
+encoder_output = encoder(input_sequence)
+
+scores = []
+for candidate in candidates:
+    # teacher forcing: feed candidate tokens to decoder
+    log_prob = decoder.score_sequence(candidate, encoder_output)
+    scores.append(log_prob)
+
+best_idx = torch.argmax(scores)
+best_candidate = candidates[best_idx]

@@ -1,0 +1,17 @@
+§447 implements conjunction эрэ as conv2. Maybe it is possible to delete as particle.
+
+must check simple past after causative хааллар+да
+another case -> чуумпурта (hint: чуумпурт)
+
+CONV6 is not working
+
+weird
+"алаар", "type": "lowercase", "fst": "voc", "root": "ыал
+
+Allow this?
+
+{"pos": 1, "text": "куттаммычча", "type": "lowercase", "fst": "voc", "root": "кут", "affixes": ["^V", "^REFL", "+CONV1", "+PART_PAST", "^ADVZ4"]},
+
+{"pos": 1, "text": "эмтэтэбин", "type": "lowercase", "fst": "voc", "root": "эмп", "affixes": ["^N", "^VRBLZ1", "^CAUS", "+POSS.3", "+1SG"]},
+
+{"pos": 3, "text": "суунабын", "type": "lowercase", "fst": "voc", "root": "сууй", "affixes": ["^V", "^REFL", "+POSS.3", "+1SG"]},

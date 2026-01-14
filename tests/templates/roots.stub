@@ -1,0 +1,107 @@
+# Lexical Roots
+
+## Valid Entries
+
+To be an entry in the lexicon, a root must comply with two main principles:
+1. It should not contain productive affixes.
+2. It is required to function as an independent word in modern Yakut.
+
+For example, the dead affix *-ын* can be identified in the word *кыһын* (winter). This affix has been preserved only in a few words, and since the root *кыс* has already become an archaism [[1:34]](#bibliography), the lexicon should contain *кысын* instead.
+
+Exceptions to the first rule may include lexicalized words, such as modals and conjunctions, among others, when this condition is indicated in the source grammar or supported by other research.
+Some lexical roots might include fossilized productive affixes.
+
+Lexical roots are added one by one to the lexicon manually. The entries in the testing sets or the annotated sentences should provide the evidence for their inclusion. Although this procedure is slower, it helps maintain a clean lexicon by filtering out decomposable forms that would increase ambiguity in the analyses.
+
+
+## Ambiguity
+
+FOSSILIZED ROOTS: check for work in voices.
+
+
+Segmentation homonymy is very common, as word forms can often be segmented in several different ways. This phenomenon is widespread in Yakut for disyllabic verbal roots that have a fossilized productive affix in the last syllable. For example, the form *кэбис* can be analyzed as a lexical root meaning 'to throw' or as *кэп* (to hit, to strike a counter-blow) + reflexive affix *-ис*.
+
+There is a small number of words that simultaneously express both verbal and nominal meanings, for example *санаа* (to think; thought), *тыын* (to breath; breath), *тот* (to get satiated; satiated), *тоҥ* (to freeze; frozen),  *аас* (to starve; hunger),  *саат* (to be ashamed, shame), [Kharitonov, 1947:168-169].
+
+
+Homonyms can occur in the lexicon when a lexical root is associated with more than one stem. For example, the root *санаа* can be interpreted as a verbal root (the second person imperative form of the verb "to think") or as a nominal (the nominative singular form of the noun "thought"). Affixation often helps resolve this type of lexical homonymy, since stem types impose restrictions on the affixes that can be attached to them.
+
+## Grammatical Categories
+
+When isolating categories of words , they try to take into account the entire set of semantic, syntactic and morphological features inherent in words in a given language. Such a detailed classification of words, revealing their lexical and grammatical features,
+
+In the Yakut language words can be grouped according to their relation to inflection forms. In this regard, Ubryatova et. [REFERENCE] propose to classify all words of the Yakut language into the following three large groups:
+1. Words of the nominal type (take declensions);
+2. Words of the verbal type (can be conjugated);
+3. Unchangeable words (with some exceptions they are not inflected)
+
+Ubryatova et al. note that, although that division is approximate, inflection forms in the Yakut language, seem to be a fairly stable and characteristic grammatical feature.
+
+Nominal type: nouns, adjectives, numerals and pronouns.
+Verbal type: verbs, participles and converbs.
+Unchangeable words: adverbs, interjections, imitatives, figuratives, postpositions, modals, conjunctions, auxiliars and particles.
+
+The role of a word in a sentence, its connection with certain grammatical categories or concepts, as well as the nature of its grammatical changes, largely depend on the nature of its basic lexical meaning. For example, the category and forms of tense are inherent only to those words that express the concept of an action or state, and case to words expressing the concept of an object [[1:36]](#bibliography).
+
+According to Ubryatova et al., proper names should not be considered a special grammatical category but rather a special semantic class of nouns [1:107-108]. The authors argue that proper nouns do not have a distinct grammatical form of expression (they can only take individual diminutive forms and are written with a capital letter). Therefore, proper names should be listed in the lexicon as nouns. However, since their theoretical number is infinite—particularly given the presence of many proper nouns in the Russian language within Yakut texts—the task of their analysis can be delegated to the subsequent transducers in the morphological pipeline (see Morphological Pipeline).
+
+
+EXPLAIN
+Substantivation, adjectivation
+
+Duplicate or not?
+
+
+арыт
+
+
+### Yakut root types:
+
+
+При выделении разрядов слов (частей речи) стараются учитывать всю совокупность семантических, синтаксических и морфологических призна- ков, присущих словам в данном языке. Такая развернутая классификация слов, раскрывающая их лексические и грамматические особенности, полезна для изучения языка, для понимания его грамматического строя. выделения и классификации пастой реши OTHOCTETË C
+Вопрос о принципах.
+Ubryatova, 36.
+
+
+{TABLE1}
+
+
+
+In the Yakut language, adverbs are morphologically derived by a whole series of productive affixes, which form mainly adverbs of manner. There are comparatively few adverbs that do not have living affixes [[2:6]](#bibliography), and therefore, listed in the lexicon.
+
+Personal and possessive pronouns can be considered a closed class. However, the classification of some roots as pronouns, adverbs, or even other types is less clear, as with certain interrogative pronouns. When multiple classifications are possible, the approach taken is to preferably include them in the lexicon as pronouns.
+
+Particles, modals, conjunctions, and postpositions formed from nominal and verbal roots are not part of the lexicon, except for lexicalized forms. Their inclusion in the lexicon should ideally be supported by research from a specialist. The testing data contains examples of what specialists consider to be derived and lexicalized forms.
+
+Some grammatical categories such as participles and converbs are not in the lexicon, since they are formed through derivation.
+
+Собственные имена не имеют особой грамматической формы выражения (только могут иметь отдельные уменьшительные формы и на письме обозначаются с большой буквы). Поэтому их следует считать не особой граммати- ческой категорией, а лишь особым семантическим разрядом существительных. [108-109]
+
+### Yakut roots in the lexicon:
+
+NUmber of syllables. UBRYATOVA.
+
+Fossilized affixes.
+
+More than two syllabic roots, depending on the ending and the class, they are worth checking if they the result of a derivational affix.
+
+
+For example, in the word кырбаа- the affixal element -баа, has been preserved in the composition of some other modern root verbs: тарбаа- to scratch, to scratch, харбаа- "to grab, to rake", кэрбээ- to gnaw, etc.
+This can be observed in the disyllabic verbs in the table below.
+
+{TABLE2}
+
+
+The theoretical number of monosyllabic, disyllabic words.
+
+
+
+
+
+## References
+
+[1] Ubryatova E.I. et al. Grammar of Modern Yakut Literary Language. Vol. 1: Phonology and Morphology. Moscow, Nauka Print, 1982.
+
+[2] Kharitonov L.N. Immutable words in the Yakut language.
+
+[3] Ivanov C.A. K grammaticheskoy kharakteristike odnoslozhnykh prilagatel'nykh v yakutskom yazyke. In: Issledovaniya po grammatike yakutskogo yazyka: sbornik nauchnykh trudov. Yakutsk: YaF SB SB AN USSR, 1983.

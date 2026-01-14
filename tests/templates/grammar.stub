@@ -1,0 +1,135 @@
+# Reference
+
+## Grammar
+
+`yakutmorph` seeks to implement the guidelines on Yakut grammar in [1].
+
+Provide an syntetical analysis of the Yakut word form.
+
+Derivational and inflectional affixes, but does not cover compounding and analytic forms of word formation.
+
+
+## Morphology
+
+
+
+described as concatenative.
+
+There are no prefixes in the language, therefore all affixes are attached to the right of the stems (suffixes).
+
+
+## Stems
+
+The stem is the main structural part of a word to which an affix is attached. It expresses the lexical meaning of the word, which is modified through affixation [1:33].
+Stems can be either primary (non-derived) or derived:
+- Primary stems are those in which no active, commonly used affixes in the modern language can be identified.
+
+- Derived bases are those formed from primary stem using active affixes. A derived stem can have a sequence of affixes. The meaning of such a multi-morphemic word is synthesized from the meaning of the primary stem and all of its affixes.
+
+
+## Lexical roots
+
+Primary stems represent the root of the word in the modern language. They are regarded by the morphological analyzer as irreducible and not subject to further analysis.
+
+Although some lexical roots may be decomposable through comparative or historical analysis, their constituent elements have lost their independent meaning and usage in the modern language and are considered no longer productive [1:33-34].
+
+Lexical roots are listed in the lexicon with a label indicating the type of primary stem, such as nominal, verbal, and other features. The type of stem with affixes can be attached and can trigger phonographemic changes.
+
+A lexical root to be included in the lexicon must follow these two main principles:
+- It must not contain productive affixes.
+- It must be used as an independent word in modern Yakut.
+
+In the word *кыһын* (winter), the dead affix *-ын* can be identified, which has been preserved only in a few words. The root кыс has already become an archaism [1:34].
+
+Exceptions to the first rule may include lexicalized modals and conjunctions, when this status is indicated in the source grammar.
+
+ZERO DERIVATION
+
+
+
+## Affixes
+
+An affix is called the simplest morphological element (morpheme) attached to the stemp. Affixes are not used separately from the word stem.
+Yakut affixes can be monosyllabic or disyllabic. They can also consist of a single vowel or a single consonant [1:34].
+
+Affixes are conventionally divided into derivational and inflectional. In Ubryatova the following principle is given [1:35]:
+
+- derivational: affixes that complement or change the lexical meaning of the stem and form a derived stem from it, which acts as a new independent word capable of taking various affixes.
+
+- inflectional affixes: do not change the lexical meaning of the stem. They are used only to express the relationship or connection of a given word to other words within a sentence.
+
+THERE IS NO EXTENDED CRITERIA
+
+
+## Part-of-speech
+
+The question of the principles of identifying and classifying parts of speech is one of the complex and difficult questions of grammar, causing disputes and disagreements among linguists [1:36].
+However, in practice, different languages continue to use mainly the traditional scheme of parts of speech, which has taken root in Indo-European languages since the times of Ancient Greece and Rome. Thus, disputes relate mainly to the area of theoretical interpretation and some individual details of classification. In the Turkic languages, they also mainly use the traditional scheme with partial changes and additions in relation to the features of individual languages. The same was observed in the history of the study of the Yakut language.
+
+In the classification of parts of speech, it is customary to compare and combine words and their categories into separate groups according to their most common features [1:37].
+In this regard, words in a language are primarily divided into full-fledged and functional words [1:37].
+
+- The first type includes those words that have a specific real meaning reflecting reality.
+- The type of function words includes those words that do not have an independent material meaning reflecting reality, but express only relationships and connections between full-meaning words.
+
+In speech, they cannot play the role of a separate independent unit and are used only together with some full-meaning word, complementing or clarifying its meaning
+
+In the Yakut language, words and lexical and grammatical categories of words (parts of speech) can also be compared and grouped according to their relation to inflection forms. In this regard, all words of the Yakut language can be conditionally divided into the following three large groups: 1) words of the nominal type (declension), 2) words of the verb type (conjugated), and 3) unchangeable words. Such a division (like any other grouping of linguistic phenomena of a similar type) is, of course, only conditional and very approximate. However, inflection forms in the Yakut language, especially for significant words, seem to be a fairly stable and characteristic grammatical feature that can have a preferential meaning in the classification of parts of speech.
+
+The role of a word in a sentence, its connection with certain grammatical categories or concepts, as well as the nature of its grammatical changes, largely depend on the nature of its basic lexical meaning. For example, the category and forms of tense are inherent only to those words that express the concept of an action or state, and case to words expressing the concept of an object [1:36].
+
+
+
+In grammars of agglutinative languages, postpositions are usually called function words that correspond to prepositions of Indo-European languages. These words are usually treated as a special part of speech. However, in grammars of Turkic languages, it has not yet been possible to clearly and convincingly implement such an understanding of these words [2:73].
+
+
+
+
+
+## Primary roots
+
+The basis for classifying words into a special groups.
+
+
+## Invariant types
+
+### Adverbs
+
+The only adverbs that cannot be combined with verbs are those that are essentially adjectives, acquiring the meaning of an adverb only as a definition of another adjective [23:5].
+
+
+### Onomatopoeic words
+
+Represent an imitation of various sounds and voices [2:56].
+
+
+### Particles
+
+Particles are unchangeable words that do not have a completely independent lexical meaning and serve to supplement or modify the meaning of other words or entire groups of words [2:73].
+
+One should distinguish particles from service words and auxiliary verbs, which are similar in function. They differ from particles in the following ways [2:79]:
+
+1. Particles are immutable words, while service words can be declined, and auxiliary verbs can be conjugated.
+2. Particles do not have an independent lexical meaning and cannot be used separately, whereas service words and auxiliary verbs, in addition to their service function, can also function as independent words.
+
+### Conjunctions
+
+Conjunctions: unchangeable words expressing connections and relationships between words, phrases and sentences.
+There are very few proper conjunctions in the Yakut language. Subordinating conjunctions are not developed at all and their functions are served by participial and adverbial participial phrases [2].
+Words used in the meaning of conjunctions can be divided into three groups [2]:
+- proper conjunctions;
+- simple words used as conjunctions;
+- compound words and word combinations in the function of conjunctions.
+
+The first group include unchangeable words that are mainly used as conjunctions. These words are listed in the lexicon.
+The second group includes, first of all, a number of particles that appear in the meaning of conjunctions, but also some adverbs, pronouns and numerals. These words are listed as their respective types.
+
+### Affix list
+
+{TABLE}
+
+
+### References
+
+[1] Ubryatova et al. Grammar of Modern Yakut Literary Language. Vol. 1: Phonology and Morphology. Moscow, Nauka Print, 1982.
+[2] Kharitonov L.N. Unchangeable words in the Yakut language: a teacher's guide.

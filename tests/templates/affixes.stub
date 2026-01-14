@@ -1,0 +1,44 @@
+# Implemented Affixes
+
+Non-implemented affix [224-225]
+
+An affix is the simplest morphological element (morpheme) added to a base, giving it additional meaning.
+An affix is not used separately from the base of a word in the language.
+Affixes can be:
+- monosyllabic (*таба-лар* reindeer, *таба-лаах* adjective from reindeer", *таба-та* his reindeer, *таба-лыы* adverb from reindeer)
+- disyllabic (*суруйааччы* writer, *таба-таабар* the comparative form of reindeer, *бар-ыыһы* the affirmative form of *бар*).
+
+They can also consist of one vowel (*ат-а* his horse, *бар-ыы* name of action from *бар*) or just one consonant (*таба-м* my reindeer, *куур-т* to be dried).
+
+Affixes may change its sound composition depending on the composition of the base.
+
+Ubryatova, 34
+
+According to their meaning, affixes are usually divided into word-forming and word-modifying.
+Word-forming affixes include those affixes that supplement or change the lexical meaning of the base and form a derivative base from it, which acts as a new independent word that can take on various affixes.
+For example, from the base of the nominal word *балык* (fish), the affix *-лаа (-таа)* forms the derivative verb *балыктаа-* (to catch fish, to fish).
+This derivative verbal base acts as a new independent word that can take on various affixes characteristic of the verb. With the help of the affix *-т*, a new verbal base can be formed from it, expressing the same basic lexical meaning, but with a noticeable modification: *балыктат*- to make someone to fish (a verb of the causative voice).
+This new verbal base can also take on a number of different affixes.
+
+Inflectional affixes include those that do not change the lexical meaning of the stem, but serve only to express the connection or relationship of the given word to other words included in the sentence.
+They form the final form of the word, after which it can no longer take other affixes.
+This includes declension and conjugation affixes, as well as the predicate form of nominal stems. For example, in the sentence *оскуолаҕа бардым* (I went to school) in the word *оскуола-ҕа* the affix *-ҕа* does not change the lexical meaning of the stem.
+It only shows the connection or relationship to the word *бардым*. Likewise, in the last word *бардым* the affix *-дым* does not change the lexical meaning of the stem. It only clarifies the word from the formal side (indicates the tense and the actor).
+The words *оскуолаҕа* and *бардым* can no longer take any affixes.
+Inflectional affixes can be attached to both primary and derived stems. In the example above (*оскуолаҕа бардым*) they are attached to primary stems (*оскуолаа* and *бар*).
+Derived stems: *оскуолалаахтар-га* (having a school), *үереммиттер-гэ* obuchavshimsya, *барсыс-тым* I went together, *басыһыахтаах-пин* I must go together.
+
+Ubryatova, 34-35
+
+List of affixes implemented in the transducer and documented in yakutmorph's reference.
+
+The table below shows the affixes and their corresponding mappings:
+
+{TABLE}
+
+
+Грамматической формой называют способ обозначения или внешнего вы- ражения грамматических категорий или понятий, заключенных в значении слова или предложения: формы словообразования, формы спряжения, формы склонения, форма придаточного предложения.
+Форма слова является внешним признаком, выражающим его формаль- ное, грамматическое значение. Последнее является значением дополнитель- ным, сопровождающим основное лексическое значение слова. Однако оно тесно связано со всем смысловым содержанием слова и представляет неотде лимую часть его смысловой структуры.
+Всякое слово существует в известной грамматической форме, так как даже его лексическое значение подводится под ту или иную грамматическую категорию, и само слово в речи всегда выполняет известные грамматические функции, даже не изменяя своего внешнего облика.
+Форма корня или первичной основы слова является нулевой формой того ряда форм, которые образуются от него.
+Ubryatova, 35

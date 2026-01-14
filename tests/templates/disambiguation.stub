@@ -1,0 +1,139 @@
+## Morphological disambiguation
+
+Masked token prediction is an unsupervised learning task in the sense that it doesn’t require labeled data.
+Instead, it relies on the inherent structure of the text itself.
+Masked token prediction provides a powerful way for models to learn language representations directly from raw text.
+
+- The tokens to be predicted (those that are masked) are taken from the input sequence itself. The model sees the sentence with the masked tokens and uses the surrounding context to infer what these missing tokens should be.
+- Since no external labels are needed, this setup is often referred to as self-supervised learning. In self-supervised tasks, the data provides its own supervision signals. Here, the original tokens in the sequence act as the "ground truth" labels for the masked tokens, enabling the model to learn from the data without human annotation.
+
+
+Using a simpler architecture like an RNN (or specifically a GRU or LSTM) for cross-lingual masked token prediction is feasible and might actually work well given your data constraints. Here's how and why this approach can be effective:
+
+1. Lower Data Requirements
+RNN-based models, particularly GRUs and LSTMs, are less data-hungry than transformers since they rely on fewer parameters. This can help you get meaningful results with a smaller dataset
+They can still effectively capture the sequential dependencies needed for masked token prediction.
+
+2. Handling Limited Context with RNNs
+Since RNNs process input sequentially, they can make good use of the context around the masked word in your English sequences.
+
+3. Faster Training and Lower Resource Use
+RNNs are computationally lighter than transformers, which means faster training times. Given your dataset size and potentially limited resources, this can be a big advantage.
+
+4. Regularization Techniques for Small Datasets
+With small datasets, overfitting can be a concern, even with simpler models. Using regularization techniques like dropout on the RNN layers and weight decay can help prevent this. Additionally, small-batch training with a learning rate scheduler can help the RNN learn more effectively from limited data.
+
+Single Layer:
+
+Pros: It’s less prone to overfitting, which is especially important with only 4,000 examples. This setup also makes it easier to train, reducing the risk of gradient vanishing or exploding.
+Cons: A single layer may struggle with longer sequences or complex sentence structures, but with attention, it can still capture cross-lingual mappings fairly well.
+Two Layers:
+
+Pros: This adds a bit more capacity, which could improve the model's ability to learn patterns in the English-German context. It can be particularly beneficial when combined with attention since the additional layer helps the model focus on the context more effectively.
+Cons: While two layers can improve performance, there’s a risk of overfitting given the limited data. This can be mitigated with dropout and regularization.
+
+
+
+
+
+
+
+Implementation of disambiguation mechanisms to choose between the analyses output by the rule-based transducer.
+
+The main condition is that they should work on the output produced by the rule-based transducer.
+
+
+# Morphological disambiguation as masked token prediction
+
+Masked token prediction is typically a unsupervised learning task.
+
+
+
+
+
+The task of solving morphological ambiguity is modeled here as masked token prediction.
+For example, given the input sequence:
+provided that the rule-based morphological transducer produced more than one interpretation for the third word form in the sequence:
+the third word in the input sequence is masked:
+the model is given the task of predicting the masked token:
+the model returns a probability distribution for the masked analysis:
+the predictions that are not present in the morphological transducer output are simply discarded:
+the most probable analysis is picked from the remainder of the probability distribution.
+
+This procedure is carried out for each of the ambiguous word forms in the input sequence. Factically, it occurs in
+parallel where the masked word forms are passed to the model in batches.
+
+
+
+
+ in the context of a sequence.
+For stand-alone word forms the most frequent analysis is provided.
+
+Models are trained on annotated data.
+The creation of dataset with morphological annotations consist in this case of two-stage semi-automatic process, where:
+1. the rule-based transducer produces the analyses for a given sequence of +1 word forms;
+2. a human supervisor manually deletes the spurious analysis.
+
+Annotated datasets for this task are currently under current development.
+
+
+Featured models:
+
+## Masked token prediction
+
+
+Since morphological analysis can be considered as mapping a word form to its morphological representation, the encoding for the input (word form) and output (morphological representation) is different.
+
+The encoder for the model input (word forms) implements the BPE subword tokenization algorithm.
+The tokenizer was trained on a corpus compiled from the online news portals:
+- Sakha sire
+- ??
+The encoder for the model output (morphological representation) employs a simple lookup table.
+
+Implement an encoder-decoder model. For the decoder, two attention mechanism are provided:
+- the dot-product attention;
+- Bahdanau attention.
+
+
+
+
+
+Encoder: a sequence of word forms.
+
+The input sequence is passed to the rule-based transducer for analysis.
+The word forms in the input sequence that produced ambiguous analyses are masked.
+The model is given the task of predicting the masked word forms.
+
+
+# Data sparsity
+
+Lexical and syntactical disambiguation.
+
+Take into account the lexical root and the last inflectional group.
+
+Although this contributes greatly to reduce the combinations, the scarcity of annotated data forces us to try a even more radical reduction.
+
+Instead of taking the whole lexican root, just the last 3 syllables.
+
+
+Input encoder:
+
+Syllables
+
+Label encoder
+
+Last bigrams of a syllable and the last affix.
+
+
+# Real ambiguity
+
+
+Сотору ол сибэкки **туһунан** мин үчүгэйдик билбитим.
+"тус", "affixes": ["^N", "+INST"]},
+"тус", "affixes": ["^N", "+POSS.3SG", "+INST"]},
+
+"мин", "affixes": ["^N"]},
+"мин", "affixes": ["^Pron"]},
+
+Morph(кини), Morph(^N), Morph(+PL)
+Morph(кини), Morph(^Pron), Morph(+PL)

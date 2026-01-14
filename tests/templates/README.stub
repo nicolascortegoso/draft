@@ -1,0 +1,51 @@
+# Testing
+
+The development of yakutmorph follows a test-drive approach.
+Part of the documentation is generated and updated as result of running the tests.
+This concerns mainly information about implemented lexical roots and affixes.
+
+## Coverage
+
+The *data* folder contains a collection of files used to test the desired mapping between surface forms and their corresponding analysis forms.
+
+The testing sets within the *data* folder must be listed in the *testing_data_index.csv* file (located in this folder) in order to run the coverage test (*test_coverage.py*). The testing sets are listed in three columns:
+
+- filename: The reference to the file containing the testing set within the data folder;
+- content: A brief description of the testing set, e.g., noun derivation affixes;
+- sources: The reference material from which the testing samples were compiled.
+
+The text coverage produces a table that is displayed at the bottom of this section.
+
+Each test file contains mappings, optional glosses, and notes with references to the section and page of the source material.
+
+The test data is also formatted using the 'csv' extension, with columns separated by tabulation.
+The 'csv' file must contain the following columns: *surface*, *stem*, *surface_gloss*, *stem_gloss*, *analysis*, *page*, *section*, *notes* and *source*:
+
+- surface: the surface form (required);
+- stem: the stem to which the affix is attached (optional);
+- surface_gloss: the meaning of the surface form (optional);
+- stem_gloss: the meaning of the stem (optional);
+- analysis: the analysis from (required);
+- page: reference to the page where the surface form was found, if any (optional);
+- section: reference to the section where the surface form was found, if any (optional);
+- notes: remarks, commentaries, explanations about the morphological process (optional);
+- source: reference material for consultation (optional).
+
+Although many fields are optional, it is recommended to fill them in with detailed information whenever possible. This aids in the testing and development process.
+
+Testing sets are a valuable resource for the development of the morphological analyzer. Please, let us know if you want to contribute with testing sets or you discover a faulty analysis in them.
+
+The table below shows a list of testing sets and the achieved coverage:
+
+
+{COVERAGE}
+
+{AFFIXES}
+
+{LEXICON}
+
+{GRAMMAR}
+
+
+
+
